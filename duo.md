@@ -1,4 +1,2 @@
-## A New Post
-
-[[README]]
-[README](README)
+# duo
+[[howdy]]
