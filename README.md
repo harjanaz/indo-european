@@ -1,6 +1,6 @@
 # README
 
-Howdy! Welcome to The Indo-European Wiki. It was started by [dodge](dodge) and contains over 5000 pages as of Sep 23rd 2021. If you would like to contribute:
+Howdy! Welcome to The Indo-European Wiki. It was started by [dodge](dodge.md) and contains over 5000 pages as of Sep 23rd 2021. If you would like to contribute:
 
 1. Make a Github account. I will then add you as a contributor to the repository.
 2. Once I've added you, you can go to the repo page <https://github.com/harjanaz/indo-european-wiki> and press the "." key on your keyboard. It will open up a cloud editor (VS Code).
