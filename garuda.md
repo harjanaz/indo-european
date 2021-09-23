@@ -1,0 +1,3 @@
+# Skt. *Garuḍa*
+## Scripture
+[[suparnakhyana]]

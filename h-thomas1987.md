@@ -1,0 +1,1 @@
+> [[h-thomas]]. "The Indo-Europeans—Some Historical and Theoretical Considerations". in [[skomal-polome1987]].

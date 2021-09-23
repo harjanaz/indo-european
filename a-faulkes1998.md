@@ -1,0 +1,1 @@
+> [[a-faulkes]]. *Snorri Sturluson: Edda: *Skáldskaparmál*. Viking Society for Northern Research, 1998. [vol1.pdf](a-faulkes1998-1.pdf) [vol2.pdf](a-faulkes1998-2.pdf)

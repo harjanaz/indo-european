@@ -1,0 +1,1 @@
+> [[g-murphy]]. *Tree of Salvation: Yggdrasil and the Cross in the North*. Oxford University Press, 2013. [pdf](a/g-murphy2013.pdf)

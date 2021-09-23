@@ -1,0 +1,1 @@
+> [[f-kuiper]]. "The Basic Concept of Vedic Religion". *History of Religions* 15 (1975):107-20.

@@ -1,0 +1,3 @@
+# Asya Pereltsvaig
+
+Asya Pereltsvaig is a lecturer in the Department of Linguistics at Stanford University, where she teaches courses in syntax, general and historical linguistics, and languages of the world. Her main area of specialization is the syntax of Indo-European, Semitic, and Turkic languages. She is the author of Copular Sentences in Russian: A Theory of Intra-Clausal Relations (2007) and Languages of the World: An Introduction (2012).

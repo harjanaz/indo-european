@@ -1,0 +1,1 @@
+> [[z-jixu]]. *Old Chinese “*tees” and Proto-Indo-European “*deus”: Similarity in Religious Ideas and a Common Source in Linguistics*. [pdf](a/z-jixu2005.pdf)

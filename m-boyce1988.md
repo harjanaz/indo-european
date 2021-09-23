@@ -1,0 +1,1 @@
+> [[m-boyce]]. “The Religion of Cyrus the Great” in [[a-kuhrt-h-sancisi1988eds]]. [pdf](https://archive.org/details/BoyceMaryTheReligionOfCyrusTheGreata), [pdf](a/m-boyce1988.pdf)

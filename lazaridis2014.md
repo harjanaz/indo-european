@@ -1,0 +1,1 @@
+Lazaridis, I., Patterson, N., Mittnik, A. _et al._ Ancient human genomes suggest three ancestral populations for present-day Europeans. _Nature_ **513,** 409–413 (2014). https://doi.org/10.1038/nature13673

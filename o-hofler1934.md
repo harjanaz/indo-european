@@ -1,0 +1,1 @@
+> [[o-hofler]]. *Kultische Geheimbünde der Germanen*. [pdf](https://assets.thalia.media/images-adb/4a/09/4a09f08d-bd4f-4a3e-b01e-e6f106b3082d.pdf), [pdf](a/o-hofler1934.pdf)

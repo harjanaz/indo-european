@@ -1,0 +1,2 @@
+[[solar-eclipse]]
+[[lunar-eclipse]]

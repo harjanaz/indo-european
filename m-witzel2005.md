@@ -1,0 +1,1 @@
+> [[witzel-m]]. "Vala and Iwato: The Myth of the Hidden Sun in India, Japan, and beyond". Electronic Journal of Vedic Studies (EJVS) 12-1, March 2005, 1-69. [pdf](a/m-witzel2005.pdf)

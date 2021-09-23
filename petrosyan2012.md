@@ -1,0 +1,1 @@
+> [[petrosyan]]. "Armenia and Ireland: Myths of Prehistory". in [[fomin-a-jivanyan-s-mathuna2012eds]]. [academia](https://www.academia.edu/2940334/Armenia-and-Ireland-Myths-of-Prehistory), [pdf](a/a-petrosyan2012.pdf)

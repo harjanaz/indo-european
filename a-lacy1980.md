@@ -1,0 +1,1 @@
+> [[a-lacy]]. "Some Additional Celtic and Germanic Traces of the Tri-Functional Sacrifice". *The Journal of American Folklore*, Vol. 93, No. 369 (Jul. - Sep., 1980), pp. 337-341. [jstor](https://www.jstor.org/stable/540581) [pdf](a/a-lacy1980.pdf)

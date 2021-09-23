@@ -1,0 +1,1 @@
+english trans of french zalmoxis [[m-eliade1970]]

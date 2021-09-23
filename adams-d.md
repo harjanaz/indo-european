@@ -1,0 +1,5 @@
+[[scholars]]
+
+---
+
+# Douglas Q. Adams

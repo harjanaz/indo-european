@@ -1,0 +1,1 @@
+> [[m-dexter]]. *Whence the Goddesses: A Source Book*. Teachers College Press, 1990. [pdf](a/m-dexter1990.pdf)

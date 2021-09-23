@@ -1,0 +1,1 @@
+> [[w-sundermann]]. "Zoroastrian motifs in Non-Zoroastrian Traditions". *Journal of the Royal Asiatic Society*, Third Series, Vol. 18, No. 2 (Apr., 2008), pp. 155-165. [jstor](https://www.jstor.org/stable/27755929), [pdf](a/w-sundermann2008.pdf)

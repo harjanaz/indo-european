@@ -1,0 +1,1 @@
+> [[z-jixu]]. *Correspondences of Cultural Words between Old Chinese and Proto-lndo-European*. [pdf](a/z-jixu2003.pdf)

@@ -1,0 +1,1 @@
+> [[rolinson]]. "Ahimsa And The Non-Counterpoint Of Contextually Mandated Violence". [blog](https://aryaakasha.com/2019/12/13/ahimsa-and-the-non-counterpoint-of-contextually-mandated-violence/)

@@ -1,0 +1,1 @@
+> [[s-torjussen]]. "The "Orphic-Pythagorean" Eschatology of the Gold Tablets from Thurii and the Sixth Book of Virgil's Aeneid". in Symbolae Osloenses, Symbolae Osloenses, 83:1, 68-83, 2008. [pdf](https://www.researchgate.net/publication/230816837), [doi](https://doi.org/10.1080/00397670902906982), [pdf](a/s-torjussen2008c.pdf)

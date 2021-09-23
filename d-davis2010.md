@@ -1,0 +1,1 @@
+> [[d-davis]]. *The Spirit of Hindu Law*. Cambridge University Press, 2010. [pdf](a/d-davis2010.pdf)

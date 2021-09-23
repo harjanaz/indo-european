@@ -1,0 +1,1 @@
+> [[a-faulkes]]. "The Genealogies and Regnal Lists in a Manuscript in Resen's Library". Reykjavík, 1977. [pdf](a-faulkes1977a.pdf)

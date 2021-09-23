@@ -1,0 +1,1 @@
+> [[j-bremmer]]. "An Enigmatic Indo-European Rite: Paederasty". [pdf](a/j-bremmer1980.pdf), [alt](a/j-bremmer1980-alt.pdf)

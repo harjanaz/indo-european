@@ -1,0 +1,1 @@
+> [[burkert]]. Structure and History in Greek Mythology and Ritual. University of California Press, 1979. [pdf](burkert1979.pdf)

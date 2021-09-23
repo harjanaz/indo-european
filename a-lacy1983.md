@@ -1,0 +1,1 @@
+> [[a-lacy]]. Review of [[g-dumezil1980]]. *The Journal of American Folklore*, Vol. 96, No. 379 (Jan. - Mar., 1983), pp. 91-93. [jstor](https://www.jstor.org/stable/539848) [pdf](a/a-lacy1983.pdf)

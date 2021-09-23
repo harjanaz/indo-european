@@ -1,0 +1,1 @@
+> [[a-jacob]]. "Cosmology and Ethics in the Religions of the Peoples of the Ancient Near East". *The Mankind Quarterly*, Volume XL Number 1, Fall 1999. [questia](https://www.questia.com/library/journal/1P3-46950671/cosmology-and-ethics-in-the-religions-of-the-peoples) [pdf](a/a-jacob1999.pdf)

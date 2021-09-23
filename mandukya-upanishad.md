@@ -1,0 +1,5 @@
+[[upanishads]]
+
+----
+
+# Māṇḍūkya Upaniṣad

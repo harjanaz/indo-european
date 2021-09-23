@@ -1,0 +1,1 @@
+> (G) [And] as regards [the bird] Karshipt one says, "It knew how to articulate words, and [it] carried and propagated the Revelation into the enclosure prepared by Jam {Jamshed}; and there **they utter the Avesta in the language of birds**." 

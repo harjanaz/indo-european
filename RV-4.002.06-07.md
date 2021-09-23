@@ -1,0 +1,1 @@
+> The man who, sweating, brings for thee the fuel, and makes his head to ache, thy faithful servant,—Agni, to him be a self-strong Protector guard him from all who seek to do him mischief. Who brings thee food, though thou hast food in plenty, welcomes his cheerful guest and speeds him onward. Who kindles thee devoutly in his dwelling, to him be wealth secure and freely giving.

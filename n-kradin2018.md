@@ -1,0 +1,1 @@
+> [[n-kradin]]. "Ancient Steppe Nomad Societies." *Oxford Research Encyclopedia of Asian History*. [doi](https://doi-org.ezproxy.lib.utexas.edu/10.1093/acrefore/9780190277727.013.3), [pdf](a/n-kradin2018.pdf)

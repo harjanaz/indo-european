@@ -1,0 +1,1 @@
+> [[powers-j]]. *A Bull Of A Man: Images of Masculinity, Sex, and the Body in Indian Buddhism*. Harvard University Press, 2009.

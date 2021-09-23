@@ -1,0 +1,1 @@
+> Preble, George Henry (1980). _The Symbols, Standards, Flags, and Banners of Ancient and Modern Nations_. Flag Research Center. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)") [978-0-8161-8476-7](https://en.wikipedia.org/wiki/Special:BookSources/978-0-8161-8476-7 "Special:BookSources/978-0-8161-8476-7").

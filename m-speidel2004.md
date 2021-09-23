@@ -1,0 +1,1 @@
+> [[m-speidel]]. *Ancient Germanic Warriors: Warrior Styles From Trajan's Column to Icelandic Sagas*. [pdf](a/m-speidel2004.pdf)

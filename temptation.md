@@ -1,0 +1,1 @@
+The Temptation of Jesus, in Chowdhuri’s view, was also not a unique event; Zoroaster, too, was tempted when he was thirty. He drew atten- tion to the parallel temptation story in the Katha Upanishad that goes back to the Vedic period, involving Nachiketa, son of the sage Vājashravasa, and Yama, the God of death.

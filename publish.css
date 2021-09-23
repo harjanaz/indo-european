@@ -1,0 +1,67 @@
+/* remove "Interactive Graph" and "Table of Contents" titles on sidebar*/
+.list-item.published-section-header {
+  display: none !important;
+}
+
+/* HEADERS */
+.page-header,
+.site-body-left-column-site-name,
+.list-item.published-section-header,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Times New Roman';
+}
+
+<img class="site-body-left-column-site-logo" style="" 
+src="https://publish-01.obsidian.md/access/35d05cd1bf5cc500e11cc8ba57daaf88/favicon-64.png">
+
+
+.site-footer {
+  display: none;
+}
+
+
+
+p, ul li {
+  -webkit-font-smoothing: antialiased;
+}
+
+
+.tree-item-inner {
+  font-family: 'Helvetica Neue';
+}
+
+
+/* SAME AS personal_tweeks.css */
+
+
+/* CODE */
+code,
+.CodeMirror-code span.cm-inline-code,
+.markdown-preview-view code,
+.markdown-preview-view pre {
+  font-family: 'Helvetica Neue';
+  color: black;
+  background-color: #FFFFFF;
+  font-size: 18px;
+}
+
+/* INTERNAL LINKS */
+.cm-s-obsidian span.cm-hmd-internal-link,
+.internal-link:hover,
+.internal-link {
+    color: #f58a2d !important;
+    text-decoration: none !important;
+}
+
+/* EXTERNAL LINKS */
+span.cm-string.cm-url,
+.external-link:hover,
+.external-link {
+    color: #057cfc !important;
+}

@@ -1,0 +1,1 @@
+> [[t-viitso]]. "Early Metallurgy in Language: The History of Metal Names in Finnic". in [[grunthal-kallio2012]]. [pdf](https://www.sgr.fi/sust/sust266/sust266-viitso.pdf), [pdf](a/t-viitso2012.pdf)

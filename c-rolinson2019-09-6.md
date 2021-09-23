@@ -1,0 +1,1 @@
+> [[rolinson]]. "“What’s The Magic Word?” – A Brief Primer On Practical Indo-European Prayer". [blog](https://aryaakasha.com/2019/09/06/whats-the-magic-word-a-brief-primer-on-practical-indo-european-prayer/)

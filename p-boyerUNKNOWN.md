@@ -1,0 +1,1 @@
+> [[p-boyer]]. "Cognitive Aspects of Religious Ontologies: How Brain Processes Constrain Religious Concepts". [pdf](a/p-boyerUNKNOWN.pdf)

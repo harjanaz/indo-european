@@ -1,0 +1,1 @@
+> [[f-dillmann]]. "Katla and Her Distaff--An Episode of Tri-Functional Magic in the Eyrbyggja Saga?". in [[e-polome1982]].

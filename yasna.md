@@ -1,0 +1,2 @@
+yasna ritual
+Gāthic Avesta

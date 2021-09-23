@@ -1,0 +1,2 @@
+# The Gutians
+Nomads who lived in the Caucases. The Akkadians called them barbarians: "mountain dragons, enemies of the gods, uncontrollable people, they are not afarid of the gods and do not know how to follow the cult norms". 

@@ -1,0 +1,1 @@
+> [[p-friedrich]]. *Proto-Indo-European Trees: The Arboreal System of a Prehistoric People*. Chicago: University of Chicago Press, 1970. [pdf](a/p-friedrich1970.pdf)

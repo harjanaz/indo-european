@@ -1,0 +1,1 @@
+> [[p-barros]]. "137 ancient human genomes from across the Eurasian steppes". *Nature* volume 557, pages369–374(2018). [doi](https://doi.org/10.1038/s41586-018-0094-2), [pdf](a/p-barros-et-al2018.pdf)

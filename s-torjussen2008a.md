@@ -1,0 +1,1 @@
+> [[s-torjussen]].  *Metamorphoses of Myth: A Study of the ”Orphic” Gold Tablets and the Derveni Papyrus*. [pdf](s-torjussen2008a.pdf)

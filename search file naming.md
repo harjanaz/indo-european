@@ -1,0 +1,1 @@
+Ex. John Doe published an article on May 4th 2020 = j-doe2020-5-4

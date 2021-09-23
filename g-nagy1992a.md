@@ -1,0 +1,1 @@
+> [[nagy-g]]. "Homeric Questions" in *Transactions of the American Philological Association* 122:17-60. 1992a.

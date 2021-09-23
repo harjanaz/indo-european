@@ -1,0 +1,2 @@
+# UT Masks
+> The Texas government universities’ mask mandates are already voided by an April 27 executive order by Abbott. That order states, “Individuals are encouraged to wear appropriate face coverings, but no jurisdiction can impose a civil or criminal penalty for failure to wear a face covering.”

@@ -1,0 +1,1 @@
+> [[h-hardacre]]. [pdf](a/h-hardacre2017.pdf)

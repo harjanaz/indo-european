@@ -1,0 +1,1 @@
+> [[lincoln]]. *Death, war, and sacrifice: studies in ideology and practice*. Chicago, University of Chicago Press, 1991.

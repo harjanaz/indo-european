@@ -1,0 +1,1 @@
+> [[allen-m]]; [[d-calder]]. *Sources & Analogies of Old English Poetry: The major Latin sources in translation*. D. S. Brewer Ltd, 1976. 

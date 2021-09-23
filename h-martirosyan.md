@@ -1,0 +1,1 @@
+> Martirosyan, Hrach (2010) *Etymological Dictionary of the Armenian Inherited Lexicon*. (Leiden Indo-European Etymological Dictionary Series; 8), Leiden, Boston: Brill, page 196

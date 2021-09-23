@@ -1,0 +1,1 @@
+> [[garmonsway]]. *Beowulf and its Analogues*. Littlehampton Book Services Ltd; First Edition (1 Sept. 1968) 

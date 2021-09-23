@@ -1,0 +1,1 @@
+> *The Varieties of Religious Experience* [pdf](a/w-james1902.pdf)

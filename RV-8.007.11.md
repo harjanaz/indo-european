@@ -1,0 +1,1 @@
+> "The old fire has been born first, like the glitter of the splendour of the sun, and the Maruts have spread far and wide their lights."

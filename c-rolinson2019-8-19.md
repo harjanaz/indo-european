@@ -1,0 +1,1 @@
+> [[rolinson]]. "'To Speak Is To Uphold The Weight Of The Universe' – Supernal, Scientific, Sunyata, Sanatana Theories of Language". [blog](https://aryaakasha.com/2019/08/19/to-speak-is-to-uphold-the-weight-of-the-universe-supernal-scientific-sunyata-sanatana-theories-of-language/).

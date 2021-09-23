@@ -1,0 +1,1 @@
+> [[u-jager]]. *The New Old Mummies from Eastern Central Asia: Ancestors of the Tocharian Knights Depicted on the Buddhist Wallpaintings of Kucha and Turfan? Some Circumstantial Evidence*. Sino-Platonic Papers, Number 84, October, 1998. [pdf](a/u-jager1998.pdf)

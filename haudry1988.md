@@ -1,0 +1,1 @@
+> [[haudry]]. "The cosmic religion of the Indo-Europeans" in [[jazayery-winter-w1988eds]]. [pdf](haudry1988.pdf)

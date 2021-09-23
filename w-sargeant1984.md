@@ -1,0 +1,1 @@
+> Sargeant, Winthrop (trans). The Bhagavad Gita. [pdf](a/w-sargeant1984.pdf).

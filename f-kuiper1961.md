@@ -1,0 +1,1 @@
+> Kuiper, F. B. J. "The Ancient Aryan Verbal Contests". *Indo-Iranian Journal* 4 (1960):217-81.

@@ -1,0 +1,1 @@
+> [[a-dundes]] "The Motif-Index and the Tale Type Index: A Critique". in *Journal of Folklore Research*, Vol. 34, No. 3 (Sep. - Dec., 1997), pp. 195-202. [pdf](a-dundes1997c.pdf) [jstor](https://www.jstor.org/stable/3814885)

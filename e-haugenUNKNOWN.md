@@ -1,0 +1,1 @@
+> [[e-haugen]]. "The *Edda* as Ritual: Odin and His Masks". [pdf](a/e-haugenUNKNOWN.pdf)

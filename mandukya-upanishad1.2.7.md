@@ -1,0 +1,4 @@
+[[mandukya-upanishad]]
+
+---
+

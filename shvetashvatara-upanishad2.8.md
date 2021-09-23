@@ -1,0 +1,4 @@
+[[shvetashvatara-upanishad]]
+
+---
+

@@ -1,0 +1,1 @@
+https://www.bulgari-istoria-2010.com/Rechnici/Dolgopolsky%20-%20Nostratic%20Dictionary%20(2012).pdf

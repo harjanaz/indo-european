@@ -1,0 +1,1 @@
+> [[o-symonenko]]. "Warfare and Arms of the Early Iron Age Steppe Nomads". *Oxford Research Encyclopedia of Asian History*. [doi](https://doi-org.ezproxy.lib.utexas.edu/10.1093/acrefore/9780190277727.013.2370), [pdf](a/o-symonenko2017.pdf)

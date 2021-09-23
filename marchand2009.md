@@ -1,0 +1,1 @@
+> [[marchand]]. *German Orientalism in the Age of Empire: Religion, Race, and Scholarship*. [pdf](a/s-marchand2009.pdf)

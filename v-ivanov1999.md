@@ -1,0 +1,1 @@
+> [[v-ivanov]]. (1999). "Comparative Notes on Hurro-Urartian, Northern Caucasian and Indo-European" (PDF). UCLA Indo-European Studies. 1: 147–264. [pdf](https://pies.ucla.edu/IESV/1/VVI-Horse.pdf), [pdf](a/v-ivanov1999.pdf)

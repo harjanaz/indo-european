@@ -1,0 +1,1 @@
+> [[woodard]] (ed). *The Ancient Languages of Asia and the Americas*. Cambridge, 2008. [pdf](a/r-woodard2008edc.pdf)

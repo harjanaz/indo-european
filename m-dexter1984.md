@@ -1,0 +1,1 @@
+> Dexter, Miriam Robbins. Proto-Indo-European Sun Maidens and Gods of the Moon. Mankind Quarterly 25:1 & 2 (Fall/Winter,1984), 137-144.

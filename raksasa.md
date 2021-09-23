@@ -1,0 +1,4 @@
+# Rākṣasa
+- Indic
+- [Demon](demons.md)
+- Fight the [Pitaraḥ](pitrs.md) at night. It seems that the gods have made a bargain with the Raksases, persuading them to stand down from the battle in order to give the gods a chance in fighting the Asuras, in return for splitting the spoils of battle with them. This strategy does indeed work out for the gods, but the gods do not make good on the agreed deal: "*Then indeed did the gods conquer the Asuras, and having conquered the Asuras, they drove away the Raksases.*” [TS-4.2.1.1-2](TS-4.2.1.1-2.md) It seems that the gods have divided their opponents in order to successively vanquish them. The story ends with the gods seeking the help of [Agni](agni.md) who enables them to overcome the Raksases.

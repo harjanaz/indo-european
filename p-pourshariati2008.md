@@ -1,0 +1,1 @@
+> [[p-pourshariati]]. Decline and Fall of the Sasanian Empire: The Sasanian-Parthian Confederacy and the Arab Conquest of Iran. London and New York: I.B. Tauris, 2008. [pdf](a/p-pourshariati2008.pdf)

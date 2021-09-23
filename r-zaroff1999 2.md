@@ -1,0 +1,1 @@
+> Zaroff, Roman. Organized Pagan Cult in Kieven Rus’. The Invention of Foreign Elite or Evolution of Local Tradition? Studia Mythologica Slavica 2 (1999), 47-76.

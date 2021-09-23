@@ -1,0 +1,1 @@
+> "Holding lightning in their hands, they hasten heavenwards, golden helmets are on their heads."

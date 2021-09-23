@@ -1,0 +1,1 @@
+> [[k-thomson]]. "The Plight of the *Rigveda* in the Twenty-First Century: Response to N. A. Kazanas". The Journal of Indo-European Studies. [pdf](a/k-thomson2010.pdf)

@@ -1,0 +1,1 @@
+> [[calin]]. "Hittite *dāsnata*- and the Proto-Indo-European 'Reed Bed' of the Afterlife". [academia](https://www.academia.edu/49056528) Wékwos nr. 4, 2019 [[journal-wekwos]]. [[calin2021.pdf]]

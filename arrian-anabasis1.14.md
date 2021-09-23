@@ -1,0 +1,1 @@
+> ...then [Alexander] himself...with trumpets blaring and the shout going up to the God of Battle, moved forward into the river.  ([[arrian-anabasis]])

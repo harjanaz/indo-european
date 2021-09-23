@@ -1,0 +1,1 @@
+> [[rolinson]]. "On The Devaluation Of Relics And The Past". [blog](https://aryaakasha.com/2019/11/18/on-the-devaluation-of-relics-and-the-past/)

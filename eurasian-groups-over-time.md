@@ -1,0 +1,1 @@
+Which [[turkic-tribes]] and [[central-asian-peoples]] existed at the same time in the same areas? Possibility of interaction.

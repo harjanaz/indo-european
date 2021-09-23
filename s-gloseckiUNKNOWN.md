@@ -1,0 +1,1 @@
+> [[s-glosecki]]. "Men Among Monsters: Germanic Animal Art As Evidence Of Oral Literature". [pdf](a/s-gloseckiUNKNOWN.pdf)

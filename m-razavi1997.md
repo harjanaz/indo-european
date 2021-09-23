@@ -1,0 +1,1 @@
+Amin Razavi, M. (1997) Suhrawardi and the School of Illumination, Richmond: Curzon Press.

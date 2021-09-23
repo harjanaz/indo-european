@@ -1,0 +1,1 @@
+> [[a-faulkes]] (ed). *Rauðúlfs þáttr*. Viking Society For Northern Research, 2011. [pdf](a-faulkes2011.pdf)

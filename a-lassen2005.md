@@ -1,0 +1,1 @@
+> [[a-lassen]]. "Óðinn in Old Norse Texts other than "The Elder Edda, Snorra Edda", and "Ynglinga saga"". *Viking and Medieval Scandinavia*, Vol. 1 (2005), pp. 91-108. [jstor](https://www.jstor.org/stable/45020157) [pdf](a/a-lassen2005.pdf)

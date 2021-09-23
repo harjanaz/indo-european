@@ -1,0 +1,1 @@
+> [[a-mockler]]. "Easter Day". *Folklore*, Vol. 7, No. 3 (Sep., 1896), p. 295. [jstor](https://www.jstor.org/stable/1253235) [pdf](a/a-mockler1896.pdf)

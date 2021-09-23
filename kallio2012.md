@@ -1,0 +1,1 @@
+> [[kallio]]. "The Prehistoric Germanic Loanword Strata in Finnic". in [[grunthal-kallio2012]]. [pdf](https://www.sgr.fi/sust/sust266/sust266-kallio.pdf), [pdf](a/p-kallio2012.pdf)

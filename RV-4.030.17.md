@@ -1,0 +1,1 @@
+> Indra is glorified as the "Master of the Powers" who led the Turvasá and Yadu--the ancestors of two Indo-Aryan migration tribes--safley over the rivers. See also [RV-2.015.05] & [RV-1.174.09]

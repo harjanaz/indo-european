@@ -1,0 +1,1 @@
+> [[l-motz]]. "The Northern Heritage of Germanic Religion". [pdf](a/l-motzUNKNOWN.pdf)

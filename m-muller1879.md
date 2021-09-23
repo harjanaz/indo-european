@@ -1,0 +1,1 @@
+> [[m-muller]]. *Lectures on the Origin and Growth of Religion, As Illustrated by the Religions of India*. [hathitrust](https://catalog.hathitrust.org/Record/001394636), [archive.org](https://archive.org/details/afy4500.0001.001.umich.edu/mode/2up), [onlinebooks](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp83341), [pdf](a/m-muller1879.pdf).

@@ -1,0 +1,1 @@
+> [[o-sadovszky]]. "The Reconstruction of IE `*pisko` and the Extension of Its Semantic Sphere" in [[jies-1-1973]].

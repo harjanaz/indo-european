@@ -1,0 +1,1 @@
+> [[a-macdonald]]. "Midsummer Bonfires". *Folklore*, Vol. 15, No. 1 (Mar. 25, 1904), pp. 105-106. [jstor](https://www.jstor.org/stable/1254564) [pdf](a/a-macdonald1904.pdf)

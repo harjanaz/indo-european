@@ -1,0 +1,1 @@
+> [[a-danielou]] *Yoga: The Method of Re-integration*. Johnson Publications, 1949. Reprinted as: *Yoga: Mastering the Secrets of Matter and the Universe*. Inner Traditions, 1991. [pdf](a-danielou1949.pdf)

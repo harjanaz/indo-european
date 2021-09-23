@@ -1,0 +1,1 @@
+> [[rolinson]]. "On the Mytholinguistics of War [Part 2] – In The Divine War, The Squirrel Is (Also) The Role Of Man". [blog](https://aryaakasha.com/2019/12/03/on-the-mytholinguistics-of-war-part-2-in-the-divine-war-the-squirrel-is-also-the-role-of-man/). Part of [[rolinson-mythlingwar]].

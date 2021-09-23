@@ -1,0 +1,1 @@
+> [[nagy-g]]. "The IE Heritage of Tribal Organization—Evidence from the Greek polis". in [[skomal-polome1987]].

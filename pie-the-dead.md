@@ -1,0 +1,1 @@
+- **Question:** Were all dead people considered ["ancestors"](pie-ancestors.md)? Or, were "the dead" only those who were pie ancestors?

@@ -1,0 +1,25 @@
+[[indic-goddesses]]
+
+---
+
+## Navadurgā
+1. [Śailaputrī](shailaputri.md)
+2. [Brahmacāriṇī](brahmacharini.md)
+3. [Candraghaṇṭā](chandraghanta.md)
+4. [Kuṣmāṇḍa](kushmanda.md)
+5. [Skandamātā](skandamata.md)
+6. [Kātyāyanī](katyayani.md)
+7. [Kāḷarātri](kalaratri.md)
+8. [Mahāgaurī](mahagauri.md)
+9. [Siddhidātrī](siddhidhatri.md)
+
+## External Links
+[Wikipedia: Navadurga](https://en.wikipedia.org/wiki/Navadurga)
+[[c-rolinson2018-2019navratri]]
+[[c-rolinson2019-9-19a]]
+[[c-rolinson2019-8-23b]]
+[[c-rolinson2019-9-13b]]
+[[rolinson-mythlingwar]]
+[[c-rolinson2019-12-08]]
+[[c-rolinson2019-07-12]]
+[[c-rolinson2019-07-29]]

@@ -1,0 +1,1 @@
+> [[rolinson]]. "AN INDO-EUROPEAN GUIDE-BOOK OF THE DEAD – Part Two: Paramevyoman to Patalaloka – ‘Outer Heaven’ to ‘Under World’". [blog](https://aryaakasha.com/2019/12/26/an-indo-european-guide-book-of-the-dead-part-two-paramevyoman-to-patalaloka-outer-heaven-to-under-world/). Part of [[c-rolinson-dead]].

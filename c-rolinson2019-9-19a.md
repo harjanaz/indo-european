@@ -1,0 +1,1 @@
+> [[rolinson]]. "“Einu nafni hétumk aldregi / síz ek með folkum fór” – “By one name I have never been known / since I went among the people”". [blog](https://aryaakasha.com/2019/09/19/eino-nafni-hetomk-aldregi-six-ek-medfolkomfor-by-one-name-i-have-never-been-known-since-i-went-among-the-people/)

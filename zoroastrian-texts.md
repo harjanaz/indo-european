@@ -1,0 +1,5 @@
+[[zoroastrianism]], [[texts]]
+
+---
+
+[[yasht]]

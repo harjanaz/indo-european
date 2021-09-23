@@ -1,0 +1,1 @@
+> [[r-wescott]]. "Toward a more concise inventory of Proto-Indo-European roots". *Word*, 44:3 (1993), 459-472. [doi](https://doi.org/10.1080/00437956.1993.11435913), [pdf](a/r-wescott1993.pdf)

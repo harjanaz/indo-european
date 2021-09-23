@@ -1,0 +1,1 @@
+> [[w-doniger]]. "Dionysus and Siva: Parallel Patterns in Two Pairs of Myths". [jstor](https://www.jstor.org/stable/1062337), [pdf](a/w-doniger1980b.pdf)

@@ -1,0 +1,1 @@
+> [[j-lindow]]. "Thor's "hamarr"". [pdf](a/j-lindow1994.pdf)

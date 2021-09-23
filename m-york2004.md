@@ -1,0 +1,4 @@
+> [[m-york]]. Paganism as Root-Religion. *The Pomegranate* 6.1 (2004) 11-18. [pdf](a/m-york2004.pdf)
+
+## Abstract
+Paganism, defined as a sacred religion with the tangible or sentient, might also be viewed as a spontaneous response to the world, the source of future religious expressions that are here divided into five main streams of devel- oped religion: gnostic, dharmic, Abrahamic and pagan. The essentially pagan response to the natural world is unconditioned by theology, is experi- ential and is concerned with an individual’s transitions through life, as well as with the individual and communal encounter with the natural environ- ment.

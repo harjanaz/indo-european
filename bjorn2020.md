@@ -1,0 +1,2 @@
+> [[bjorn]]
+> Bjørn, Rasmus G. (2020) “Nouns and foreign numerals – Anatolian ‘four’ and the development of the PIE decimal system”. In Olander & Serangeli (eds.): Dispersals and Diversification, 54-76. Leiden: Brill

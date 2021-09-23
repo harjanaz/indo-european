@@ -1,0 +1,1 @@
+> [[m-walter]]. *Tokharian Buddhism in Kucha: Buddhism of Indo-European Centum Speakers in Chinese Turkestan before the 10th Century C.E.* [pdf](a/m-walter1998.pdf)

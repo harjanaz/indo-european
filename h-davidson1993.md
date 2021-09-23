@@ -1,0 +1,5 @@
+> [[h-davidson]]. *The Lost Beliefs of Northern Europe*. Routledge, 1993. [pdf](a/h-davidson1993.pdf)
+
+
+## Abstract
+Fragments of ancient belief have been incorporated into folklore and Christian tradition with the result that the original beliefs have been obscured by the thought patterns and ideologies of later times. Centuries of cultural and religious influences come between us and pagan believers. The Lost Beliefs of Northern Europe brings the complex nature of the evidence to our attention. It stresses the possibilities and difficulties of investigating pre-Christian faiths, and emphasizes the need to separate speculation from sound evidence. This book will be a useful tool for students of archaeology, early religion and folklore, as well as for the general reader who wants to know more about the true nature of northern European pagan belief.

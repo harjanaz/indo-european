@@ -1,0 +1,1 @@
+> [[nagy-g]]. "The Epic Hero". [pdf](a/g-nagy2005.pdf)

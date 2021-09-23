@@ -1,0 +1,1 @@
+> [[n-kazanas]]. "Indo-European Deities and the *Ṛgveda*". *The Journal of Indo-European Studies* Volume 29, Number 3 & 4, Fall/Winter 2001. [pdf](a/n-kazanas2001.pdf)

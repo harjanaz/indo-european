@@ -1,0 +1,1 @@
+> [[k-tanabe]]. "Why Is the Buddha Śākyamuni Accompanied by Hercules/Vajrapāṇi? Farewell to Yakṣa-theory". [jstor](https://www.jstor.org/stable/29757654)

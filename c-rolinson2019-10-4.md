@@ -1,0 +1,1 @@
+> [[rolinson]]. "The DeviSukta & (A)Art(I)". [blog](https://aryaakasha.com/2019/10/04/the-devisukta-aarti/).

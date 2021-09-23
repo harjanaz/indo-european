@@ -1,0 +1,1 @@
+> *Pragmatism* [pdf](a/w-james1907.pdf)

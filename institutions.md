@@ -1,0 +1,5 @@
+# Institutions
+
+Kingship
+Priesthood
+Warriorbands

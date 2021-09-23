@@ -1,0 +1,1 @@
+> [[s-kak]]. "Vedic Elements in the Ancient Iranian Religion of Zarathushtra". [pdf](a/s-kakUNKNOWN.pdf)

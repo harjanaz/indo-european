@@ -1,0 +1,1 @@
+> [[e-hamp]]. "The Pig in Ancient Northern Europe". in [[skomal-polome1987]].

@@ -1,0 +1,1 @@
+> [[n-frye]]. *Anatomy of Criticism*. [pdf](a/n-frye1957.pdf)

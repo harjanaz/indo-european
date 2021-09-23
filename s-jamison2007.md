@@ -1,0 +1,1 @@
+> [[jamison]]. *The Rig Veda between Two Worlds: Four Lectures at the Collège de France, May 2004*. Collège de France, Publications de l’Institut de Civilisation Indienne, fasc. 74. 2007.

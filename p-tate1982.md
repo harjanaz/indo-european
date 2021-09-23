@@ -1,0 +1,1 @@
+> [[p-tate]]. "Comparative Hermeneutics: Heidegger, the Pre-Socratics, and the "Rgveda"". *Philosophy East and West*, Vol. 32, No. 1 (Jan., 1982), pp. 47-59. [jstor](https://www.jstor.org/stable/1398751), [pdf](a/p-tate1982.pdf)

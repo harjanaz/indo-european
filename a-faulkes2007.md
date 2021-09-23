@@ -1,0 +1,1 @@
+> [[a-faulkes]]. *Snorri Sturluson: Edda: *Háttatal*. Viking Society for Northern Research, 2007. [pdf](a-faulkes2007.pdf)

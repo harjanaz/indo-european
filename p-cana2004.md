@@ -1,0 +1,4 @@
+> [[p-cana]]. "Praise Poetry in Ireland before the Normans". [jstor](https://www.jstor.org/stable/30007361), [pdf](a/p-cana2004.pdf)
+
+## Abstract
+In contrast with the impressive corpus of panegyric verse that survives from the period between the early thirteenth and the mid-seventeenth centuries, there is a notable dearth of free-standing praise poems from the pre-Norman period. Circumstantial and comparative evidence indicates that the genre of formal eulogy did in fact flourish during those earlier centuries, and this is confirmed by the many verse passages, evidently excerpted from complete praise poems, quoted in metrical and other didactic tracts to illustrate features of prosody and language. It would appear that the scribes and redactors who were active in this early period did not regard formal panegyric as coming directly within their own professional ambit. Analogies are drawn with certain aspects of medieval Welsh literary transmission.

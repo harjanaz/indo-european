@@ -1,0 +1,1 @@
+> [[e-richards]]. "Ancient Custom at Sea". *Folklore*, Vol. 8, No. 3 (Sep., 1897), pp. 281-284. [jstor](https://www.jstor.org/stable/1253788), [pdf](e-richards1897.pdf)

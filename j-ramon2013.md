@@ -1,0 +1,1 @@
+> [[j-ramon]]. "Religious Onomastics in Ancient Greece and Italy: Lexique, Phraseology and Indo-European Poetic Language". in [[j-garcia-a-ruiz2013eds]]. [pdf](a/j-ramon2013.pdf)

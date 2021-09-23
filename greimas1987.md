@@ -1,0 +1,1 @@
+> [[greimas]]. *On Meaning: Selected Writing in Semiotic Theory*. University of Minnesota Press, 2987. [pdf](greimas1987.pdf)

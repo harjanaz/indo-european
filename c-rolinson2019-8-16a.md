@@ -1,0 +1,1 @@
+> [[rolinson]]. "On the Gates of Somnath Temple – An Essay of Raksha(pala) for Both Swaraj and Bandhan". [blog](https://aryaakasha.com/2019/08/16/on-the-gates-of-somnath-temple-an-essay-of-rakshapala-for-both-swaraj-and-bandhan/)

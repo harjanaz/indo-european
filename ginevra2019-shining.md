@@ -1,0 +1,3 @@
+> [[ginevra]]. "Shining through the Millennia: Old Norse Baldr, Celtic Belinos, Slovenian Belin, Old Irish Balar, and PIE bhelH- ‘be white, shine’". Indogermanische Gesellschaft / Society for Indo-European Studies / Société des études indo-européennes Arbeitstagung “100 Years of Comparative IE Linguistics at the University of Ljubljana – A Ljubilee” University of Ljubljana (4-7/6/2019)
+
+> [pdf](ginevra2019-shining.pdf)

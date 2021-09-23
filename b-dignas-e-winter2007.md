@@ -1,0 +1,1 @@
+> [[b-dignas]]; [[winter-e]]. *Rome and Persia in Late Antiquity: Neighbors and Rivals*. Cambridge University Press, 2007. [pdf](a/b-dignas-e-winter2007.pdf)

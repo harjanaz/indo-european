@@ -1,0 +1,1 @@
+> [[s-torjussen]]. "Milk as a symbol of immortality in the “Orphic” gold tablets from Thurii and Pelinna". Nordlit, 2014. [pdf](https://www.researchgate.net/publication/269278904), [pdf](a/s-torjussen2014.pdf)

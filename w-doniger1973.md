@@ -1,0 +1,1 @@
+> [[w-doniger]]. *Śiva: The Erotic Ascetic*. Oxford University Press, 1973. [pdf](a/w-doniger1973.pdf)

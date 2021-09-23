@@ -1,0 +1,1 @@
+> [[kroonen]]. *Etymological Dictionary of Proto-Germanic*. [pdf](kroonen2013.pdf)

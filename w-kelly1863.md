@@ -1,0 +1,1 @@
+> [[w-kelly]]. *Curiosities of Indo-European tradition and folk-lore*. [hathitrust1](https://catalog.hathitrust.org/Record/001286915), [hathitrust2](https://catalog.hathitrust.org/Record/006931610), [pdf](a/w-kelly1863.pdf)

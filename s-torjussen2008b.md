@@ -1,0 +1,1 @@
+> [[s-torjussen]]. "Rezension zu: Fritz Graf – Sarah Iles Johnston, Ritual Texts for the Afterlife. Orpheus and the Bacchic Gold Tablets". Frankfurter elektronische Rundschau zur Altertumskunde 7 (2008). [pdf](a/s-torjussen2008b.pdf)

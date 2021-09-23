@@ -1,0 +1,1 @@
+> [[a-finlay]]; [[a-faulkes]] (trans). *Snorri Sturluson: Heimskringla*. Viking Society For Northern Research, 2015. [1.pdf](a-finlay-a-faulkes2014-1.pdf) [2.pdf](a-finlay-a-faulkes2014-2.pdf) [3.pdf](a-finlay-a-faulkes2014-3.pdf)

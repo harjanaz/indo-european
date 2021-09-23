@@ -1,0 +1,2 @@
+# (e-antonsen1988)
+> Antonsen, Elmer H. "On the mythological interpretation of the oldest runic inscriptions". *Languages and Cultures: Studies in Honor of Edgar C. Polomé*. Eds: Jazayery, Mohammad Ali; Winter, Werner. Mounton de Gruyter, 1988.

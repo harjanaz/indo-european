@@ -1,0 +1,2 @@
+
+Often cosmic deities don’t make much impact in personal worship.

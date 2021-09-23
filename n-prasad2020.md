@@ -1,0 +1,3 @@
+> [[n-prasad]]. "Manjhan's Madhumalati and the construction of Indo-Islam". *Asian Philosophies and Religions* Volume 25:1 (Spring 2020). [[AAS]]. [html](https://www.asianstudies.org/publications/eaa/archives/religion-in-history-manjhans-madhumalati-and-the-construction-of-indo-islam/), [pdf](a/n-prasad2020.pdf)
+
+> Prasad, Nita Verma."Manjhan's Madhumalati and the construction of Indo-Islam". *Asian Philosophies and Religions* Volume 25:1 (Spring 2020). Association for Asian Studies.

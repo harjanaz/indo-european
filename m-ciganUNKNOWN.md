@@ -1,0 +1,4 @@
+> [[m-cigan]]. "Indra, Béowulf a netvorova matka vo vodnej jaskyni: Problém genetického pôvodu textových podobností archaických indoeurópskych narácií". [pdf](a/m-ciganUNKNOWN.pdf)
+
+## Abstract
+The paper deals with some theoretical and methodological problems in the field of comparative Indo- European mythology. These are demostrated [sic] on the case of practical textual comparison (RV 1.32 – Beowulf). Author evaluates relevance of genetic linguistic connections on one hand and general or universal proceses [sic] on the other within the framework of context-focused approach to narrataives [sic] of archaic Indo-European elites.

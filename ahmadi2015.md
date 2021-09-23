@@ -1,0 +1,1 @@
+> [[ahmadi]]. *The Daēva Cult in the Gāthās: An ideological archaeology of Zoroastrianism*. Routledge, 2015. [pdf](a-ahmadi2015.pdf)

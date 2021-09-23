@@ -1,0 +1,1 @@
+> [[polome]]. Germanic Religion and the Indo-European Heritage. Mankind Quarterly 26:1 & 2 (Fall/Winter, 1985), 28-55.

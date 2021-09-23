@@ -1,0 +1,1 @@
+> [[v-mejia]]. *The Tripartite Ideology: Functions, Methods and Applications*. [pdf](a/v-mejia2009.pdf)

@@ -1,0 +1,1 @@
+> [[j-stone]]. The Routledge Dictionary of Latin Quotations: The Illiterati's Guide to Latin Maxims, Mottoes, Proverbs, and Sayings. [pdf](a/j-stone2005.pdf)

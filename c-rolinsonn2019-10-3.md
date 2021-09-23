@@ -1,0 +1,1 @@
+> [[rolinson]]. "Tabiti – Fire-Pillar of the Universe; Excerpt from Kushmanda Commentary". [blog](https://aryaakasha.com/2019/10/03/tabiti-fire-pillar-of-the-universe-excerpt-from-kushmanda-commentary/). Excerpt from [[c-rolinson2018-10-14a]].

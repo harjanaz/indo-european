@@ -1,0 +1,1 @@
+> [[j-rood]]. *Ascending the Steps to Hliðskjálf: The Cult of Óðinn in Early Scandinavian Aristocracy*. [pdf](a/j-rood2017.pdf)

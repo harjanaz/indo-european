@@ -1,0 +1,1 @@
+> [[d-irani]]. The Gathas: The Hymns of Zarathustra. [pdf](a/d-iraniUNKNOWN.pdf)

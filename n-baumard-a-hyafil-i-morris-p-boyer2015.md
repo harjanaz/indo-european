@@ -1,0 +1,1 @@
+> [[n-baumard]]; [[a-hyafil]]; [[i-morris]]; [[p-boyer]]. "Increased Affluence Explains the Emergence of Ascetic Wisdoms and Moralizing Religions". *Current Biology* 25, 10–15, January 5, 2015. [doi](http://dx.doi.org/10.1016/j.cub.2014.10.063), [pdf](a/n-baumard-a-hyafil-i-morris-p-boyer2015.pdf)

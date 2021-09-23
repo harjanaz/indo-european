@@ -1,0 +1,1 @@
+- Has parallels with [[kunala]] ([[skjaervo1998-traditions1]]).

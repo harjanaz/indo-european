@@ -1,0 +1,1 @@
+> [[a-danielou]] *The Myths and Gods of India*. Inner Traditions, 1991. [pdf](a-danielou1991.pdf)

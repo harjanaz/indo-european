@@ -1,0 +1,1 @@
+> [[rolinson]]. "“Here be Indo-Aryans?” On the Vedic Gods of the Mitanni". [blog](https://aryaakasha.com/2019/09/16/here-be-indo-aryans-on-the-vedic-gods-of-the-mitanni/)

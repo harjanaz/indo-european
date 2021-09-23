@@ -1,0 +1,1 @@
+> [[grunthal]]. "Baltic loanwords in Mordvin". in [[grunthal-kallio2012]]. [pdf](https://www.sgr.fi/sust/sust266/sust266-grunthal.pdf), [pdf](a/r-grunthal2012.pdf)

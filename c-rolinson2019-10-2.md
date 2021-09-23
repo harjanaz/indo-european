@@ -1,0 +1,1 @@
+> [[rolinson]]. "To Navigate The Seas Of The Sun – What Kepler’s Letter To Galileo Can Tell Us About Reading The Past". [blog](https://aryaakasha.com/2019/10/02/to-navigate-the-seas-of-the-sun-what-keplers-letter-to-galileo-can-tell-us-about-reading-the-past/). 

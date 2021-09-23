@@ -1,0 +1,1 @@
+> [[r-boyer]]. "Sur la construction d’Ásgarðr". in [[pearson1992ed]].

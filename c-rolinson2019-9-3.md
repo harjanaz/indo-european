@@ -1,0 +1,1 @@
+> [[rolinson]]. "Aum Gananam Tva Ganapatim...". [blog](https://aryaakasha.com/2019/09/03/aum-gananam-tva-ganapatim/). 

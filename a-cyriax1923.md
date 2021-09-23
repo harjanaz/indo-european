@@ -1,0 +1,1 @@
+> [[a-cyriax]] "Swedish Christmas Customs". *Folklore*, Vol. 34, No. 4 (Dec. 31, 1923), pp. 314-321. [pdf](a-cyriax1923.pdf) [jstor](https://www.jstor.org/stable/1256552)

@@ -1,0 +1,1 @@
+> [[s-berio]]. *The Celestial River: Identifying the Ancient Egyptian Constellations*. Sino-Platonic Papers Number 253, 2014. [.pdf](a-berio2014.pdf)

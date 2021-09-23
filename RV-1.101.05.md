@@ -1,0 +1,1 @@
+> Indra "who is called upon by the brave and by the fainthearted; by the fleeing and by teh victors, Indra on whom all cretaures eyes are fastened -- who is followed by the Maruts, we call to Thee to be our friend."

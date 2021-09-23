@@ -1,0 +1,1 @@
+[[quiles]] Quiles, Carlos. 2019. A Game of Clans, Independently Published, ISBN 1072003228 

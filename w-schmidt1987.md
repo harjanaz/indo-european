@@ -1,0 +1,1 @@
+> [[w-schmidt]]. "‘Indo-European’—’Old European’". in [[skomal-polome1987]].

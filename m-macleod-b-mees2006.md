@@ -1,0 +1,1 @@
+> [[m-macleod]]; [[b-mees]]. *Runic Amulets and Magic Objects*. [pdf](a/m-macleod-b-mees2006.pdf)

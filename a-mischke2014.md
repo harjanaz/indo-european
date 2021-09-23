@@ -1,0 +1,1 @@
+>   [[a-mischke]]. "The Proto-Indo-European Creation Myth" Blog post on *The Bhlog*, 2014. [web](https://blog.as.uky.edu/thebhlog/?p=89) [waybackmachine](https://web.archive.org/web/20171223090327/https://blog.as.uky.edu/thebhlog/?p=89)

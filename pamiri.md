@@ -1,0 +1,5 @@
+/pamiri
+
+
+
+Isma’ilism

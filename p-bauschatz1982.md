@@ -1,0 +1,1 @@
+> [[p-bauschatz]]. *The Well and the Tree: World and Time in Early Germanic Culture*. [pdf](a/p-bauschatz1982.pdf), [pdf-alt](a/p-bauschatz1982-alt.pdf)

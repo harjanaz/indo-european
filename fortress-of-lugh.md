@@ -1,0 +1,5 @@
+# Fortress of Lugh (Kevin)
+[Website](https://www.fortressoflugh.com/)
+[Youtube](https://www.youtube.com/channel/UCOKfTeI3E2VVOqqV-KPm8Hg)
+[Twitter](https://twitter.com/fortressoflugh)
+[Patreon](https://www.patreon.com/fortressoflugh)

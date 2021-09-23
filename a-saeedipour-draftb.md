@@ -1,0 +1,1 @@
+> [[a-saeedipour]]. "Abstract of the Thesis *Indo-Iranian Mythologies: A Comparative Research on Origin and Meaning*". [academia](https://www.academia.edu/40775568/Indo-Iranian-Mythologies-A-Comparative-Research-on-Origin-and-Meaning-Indo-Iranian-Mythologies-A-Comparative-Research-on-Origin-and-Meaning), [pdf](a/a-saeedipour-draftb.pdf)

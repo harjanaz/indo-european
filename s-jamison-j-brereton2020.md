@@ -1,0 +1,1 @@
+> [[jamison]]; [[brereton]]. *The Rigveda: A Guide*. Oxford University Press, 2020. [pdf](a/s-jamison-j-brereton2020.pdf)

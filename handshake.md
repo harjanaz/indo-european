@@ -1,0 +1,7 @@
+[[hand]] [[contracts-treaty]]
+# Handshake
+
+Arnaldo Momigliano tells us that the ancient Roman handshake, dexterarum iunctio, was an old sym- bol of faith, fides, that is, faith as trust or confidence, and that from very early times Fides was a Roman goddess. He says that there are good reasons for thinking that handshaking in Greece was an expression of pistis, the Greek equivalent of fides. Though normally the handshake simply confirmed the trustworthiness of an agreement, with perhaps an aura of divine protec- tion, Attic grave reliefs suggest a further extension of the idea for they “show handshaking as a symbol of Faith at the parting between the dead and the living. Thus handshaking was not only a sign of agreement among the living, but the gesture of trust and faith in the supreme departure.” With us the handshake is hardly a conscious gesture, but nonetheless one does not expect to be attacked by someone with whom one has just shaken hands. A refusal of a proffered handshake, however, would make the ritual gesture conscious indeed: breaking the ritual raises ominous questions that would require an explanation.
+
+
+35. Arnaldo Momigliano, “Religion in Athens, Rome, and Jerusalem in the First Century b.c.,” in On Pagans, Jews, and Christians (Middletown, Conn.: Wesleyan University Press, 1987), 76–77. How far back the handshake goes, we do not know, though Momigliano re- ports it for the Persians and the Celts as well as the Greeks and Romans.

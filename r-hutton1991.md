@@ -1,0 +1,1 @@
+> [[r-hutton]]. *The Pagan Religions of the Ancient British Isles: Their Nature and Legacy*. [pdf](a/r-hutton1991.pdf)

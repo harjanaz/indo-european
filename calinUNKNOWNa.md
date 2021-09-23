@@ -1,0 +1,1 @@
+> [[calin]]. "L'importance de l'anatolien en poétique indo-européenne" "Afin d'atteindre le niveau le plus lointain [de la reconstruction de la poésie indo-européenne], celui du PIE, il est indispensable que la comparaison comprenne l'anatolien". [academia](https://www.academia.edu/30075128)

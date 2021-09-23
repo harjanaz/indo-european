@@ -1,0 +1,1 @@
+The philosophical, medical and astronomical knowledge that we find in European peoples like the Celts and the Greeks also mirrors that of India such as we find in the Upanishads, Ayurvedic medicine and Vedic astrology.

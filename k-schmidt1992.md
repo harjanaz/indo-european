@@ -1,0 +1,1 @@
+> [[k-schmidt]]. "Zur Vorgeschichte des Keltischen und Germanischen". in [[pearson1992ed]].

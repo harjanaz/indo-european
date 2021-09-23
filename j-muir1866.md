@@ -1,0 +1,1 @@
+> [[j-muir]] "On the Relations of the Priests to the other Classes of Indian Society in the Vedic Age". The Journal of the Royal Asiatic Society of Great Britain and Ireland , 1 New Series, Vol. 2, No. 2 (1866), pp. 257-302. [jstor](https://www.jstor.org/stable/44012075)

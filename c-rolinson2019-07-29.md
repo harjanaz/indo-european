@@ -1,0 +1,1 @@
+> [[rolinson]].  "Hades as Gaurivara, Persephone as Gauri". [blog](https://aryaakasha.com/2019/07/29/hades-as-gaurivara-persephone-as-gauri/)

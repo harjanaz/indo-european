@@ -1,0 +1,5 @@
+> [[forte]]. "Speech from Tree and Rock: Recovery of a Bronze Age Metaphor". *American Journal of Philology* 136 (2015) 1–35. Johns Hopkins University Press, 2015. [pdf](forte2015.pdf)
+
+
+## Abstract
+Interpreters of archaic Greek epic poetry have long labored to explain the meaning of the semantically ambiguous phrase involving “tree (δρῦς) and/or rock (πέτρη).” The idiom appears three times in archaic epic: in the proem of Hesiod’s Theogony, during Hector’s deliberation about negotiating a truce in Iliad 22, and in Penelope’s speech to a disguised Odysseus in Odyssey 19. A tantalizingly similar, and equally unsolved idiom, rgm ‘s≥ w lh°št ’abn, appears in the thirteenth-century Ugaritic Ba’al Cycle found at Ras Shamra. Current scholarship agrees that this phrase connotes ideas of prophecy. This article argues that the phrase’s history can be traced further back to a metaphor describing the audio-visual phenomenon of lightning and thunder as the storm-god’s oracular speech. Crucial evidence for this account is found in Bronze Age material culture.

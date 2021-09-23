@@ -1,0 +1,3 @@
+> [[a-cook-a]]. "The European Sky-God. VI. The Celts (Continued)". *Folklore*, Vol. 17, No. 3 (Sep. 30, 1906), pp. 308-348. A part of [[a-cook1904-1907]].
+
+[.pdf](a-cook1904-7f.pdf) [jstor](https://www.jstor.org/stable/1254425)

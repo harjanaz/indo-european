@@ -1,0 +1,1 @@
+> "...the Irish ritual of corrguinecht, a form of “magical wounding” which involved adopting a crane-like posture while chanting satirical verse." [[p-gasiorowksiIDK.pdf]]

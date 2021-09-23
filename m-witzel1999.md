@@ -1,0 +1,1 @@
+> [[witzel-m]]. "Substrate Languages in Old Indo-Aryan (R ̊gvedic, Middle and Late Vedic)". *Electronic Journal of Vedic Studies* (*EJVS*) 5-1 (1999) pp.1–67. [pdf](a/m-witzel1999.pdf)

@@ -1,0 +1,1 @@
+> [[jazayery]]; [[winter-w]] (eds). *Languages and Cultures: Studies in Honor of Edgar C. Polomé*. Mouton de Gruter, 1988.

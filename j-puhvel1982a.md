@@ -1,0 +1,1 @@
+> [[puhvel]]. "The Warrior at Stake" in [[e-polome1982]].

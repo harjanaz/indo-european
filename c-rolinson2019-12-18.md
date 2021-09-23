@@ -1,0 +1,1 @@
+> [[rolinson]]. "Aesir-Vanir, Asura-Deva, but also A’Sura, Daeva". [blog](https://aryaakasha.com/2019/12/18/aesir-vanir-asura-deva-but-also-asura-daeva/)

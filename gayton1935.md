@@ -1,0 +1,1 @@
+> [[gayton]]. "The Orpheus Myth in North America". [[journal-af]] Jul. - Sep., 1935, Vol. 48, No. 189, pp. 263-293.

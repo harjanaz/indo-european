@@ -1,0 +1,2 @@
+- Alexander kindly provided burials for Greek mercenaries who died fighting for the Persians, but sent the ones left alive to hard labor.
+> As an offering to the goddess Athena, he sent to Athens 300 full suits of Persian armour, with the following inscription: Alexander, son of Philip, and the Greek (except the Lacedaemonians) dedicate these spoils, taken from the Persians who dwell in Asia.

@@ -1,0 +1,1 @@
+> [[jasanoff]] (ed). *Mir curad: Studies in Honor of Calvert Watkins* (Innsbruck, 1998),

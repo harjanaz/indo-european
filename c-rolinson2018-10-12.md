@@ -1,0 +1,1 @@
+> [[rolinson]]. "Brahmacharini – The Second of the NavaDurgas, The Second Night of NavRatri". [blog](https://aryaakasha.com/2018/10/12/brahmacharini-the-second-of-the-navadurgas-the-second-night-of-navratri/). Part of [[c-rolinson2018-2019navratri]].

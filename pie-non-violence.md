@@ -1,0 +1,5 @@
+[[violence]]
+
+---
+
+Indic [[ahimsa]]

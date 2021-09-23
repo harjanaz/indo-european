@@ -1,0 +1,1 @@
+> [[j-jochens]]. "Vǫluspá: Matric of Norse Womanhood". [pdf](a/j-jochensUNKNOWN.pdf)

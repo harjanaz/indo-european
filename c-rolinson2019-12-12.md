@@ -1,0 +1,1 @@
+> [[rolinson]]. "OF BHAIRAVA AND BALANCE, Vedic, Eddic, and Homeric perspectives upon Lore and Order [Part 4C] Bhikshatana – The Path Of The Divine Exile". [blog](https://aryaakasha.com/2019/12/12/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-upon-lore-and-order-part-4c-bhikshatana-the-path-of-the-divine-exile/). Part of [[c-rolinson-cosmicorder]].

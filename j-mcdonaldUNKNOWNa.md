@@ -1,0 +1,1 @@
+> [[j-mcdonald]]. "Water, Milk , Eviscerated Eyes and Severed Heads: An Iconographic Pattern in Indo - European and Near-Eastern Mythology". [pdf](j-mcdonaldUNKNOWNa.pdf)

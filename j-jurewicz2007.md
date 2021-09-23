@@ -1,0 +1,1 @@
+> [[j-jurewicz]]. "The Fiery Self. The Ṛgvedic Roots of the Upaniṣadic Concept of Ātman". [pdf](a/j-jurewicz2007.pdf)

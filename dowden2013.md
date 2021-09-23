@@ -1,0 +1,1 @@
+Dowden, Ken (2013). _European Paganism_. Routledge. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier) "ISBN (identifier)") [978-1-134-81022-2](https://en.wikipedia.org/wiki/Special:BookSources/978-1-134-81022-2 "Special:BookSources/978-1-134-81022-2").

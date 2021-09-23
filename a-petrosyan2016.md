@@ -1,0 +1,4 @@
+> [[petrosyan]]. "Biblical Mt. Ararat: Two Identifications". [pdf](a/a-petrosyan2016.pdf)
+
+## Abstract
+The biblical Ararat, mountain of landing of Noah’s Ark has two general identifications in the Armenian Highland: Mountain of Corduena (modern Cudi dağı) and Masis (Ararat, Ağrı dağı), situated respectively in the extreme south-east and extreme north- east of modern Turkey). The ancient sources actualized the first localization. Since the 12th century the second became more and more popular. The paper deals with the myths and legends associated with those mountains and the history of identification of the biblical Ararat.

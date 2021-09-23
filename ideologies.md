@@ -1,0 +1,5 @@
+[[violence]]
+
+---
+
+[[functions-tripartite-ideology]]

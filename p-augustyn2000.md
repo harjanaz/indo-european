@@ -1,0 +1,1 @@
+> [[p-augustyn]]. *The Semiotics of Fate, Death, and the Soul, in Germanic Culture: The Christianization of Old Saxon*. PhD Dissertation at the University of California, Berkeley, Spring 2000. [pdf](p-augustyn2000.pdf)

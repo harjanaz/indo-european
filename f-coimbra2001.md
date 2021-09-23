@@ -1,0 +1,1 @@
+> [[f-coimbra]]. "The Cup-Marks in Rock Art in Western Europe. A Contribute to its Study and Interpretation". [pdf](https://www.researchgate.net/publication/237804560-THE-CUP-MARKS-IN-ROCK-ART-IN-WESTERN-EUROPE-A-CONTRIBUTE-TO-ITS-STUDY-AND-INTERPRETATION), [pdf](a/f-coimbra2001.pdf)

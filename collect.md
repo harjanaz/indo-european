@@ -1,0 +1,3 @@
+[Kings and Captains: Variations on a Heroic Theme by Charles Moorman](https://www.amazon.com/Kings-Captains-Variations-Heroic-Theme-ebook/dp/B08XN3TRZT/ref=sr-1-2?dchild=1&keywords=beowulf+oral&qid=1617764026&s=digital-text&sr=1-2)
+
+- [Defenders and Enemies of the True Cross (Veroffentlichungen zur Iranistik) by Stoyoanov Yuri (Editor)](https://www.amazon.com/gp/product/3700169574/ref=dbs-a-def-rwt-bibl-vppi-i1)

@@ -1,0 +1,1 @@
+> [[m-cigan]]. *Priest-King of the Warriors and Witch-Queen of the Others*. Michal Cigán, 2019. Masaryk University Press, 2019. [pdf](a/m-cigan2019.pdf)

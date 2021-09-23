@@ -1,0 +1,1 @@
+> [[c-lopez]]. "Cosmogonies and Theogonies". Oxford Classical Dictionary. [doi](https://doi-org.ezproxy.lib.utexas.edu/10.1093/acrefore/9780199381135.013.8031), [pdf](a/c-lopez2016.pdf).

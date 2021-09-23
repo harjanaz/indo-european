@@ -1,0 +1,1 @@
+> World distribution of zoomorphic protagonists of the trickster tales

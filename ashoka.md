@@ -1,0 +1,1 @@
+According to the Buddhist Aśoka legend, [[kunala]] is his son.

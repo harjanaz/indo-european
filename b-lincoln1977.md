@@ -1,0 +1,1 @@
+> [[lincoln]]. "Treatment of Hair and Fingernails among the Indo-Europeans". [jstor](http://www.jstor.org/stable/1062635?origin=JSTOR-pdf), [pdf](a/b-lincoln1977.pdf)

@@ -1,0 +1,1 @@
+> [[a-yoshida]]. "The God Okuninushi and the Trifunctional System of the Indo-Europeans". [pdf](a/a-yoshida2015.pdf)

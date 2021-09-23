@@ -1,0 +1,1 @@
+> [[r-kasperski]]. "Two Amali Triads and Georges Dumézil - Can Jordanes’s Getica Reflect the Tripartite Ideology of the Indeo-European Societies?". *Sensus Historiae* Vol. II (2011/1) pp. 51-62. 

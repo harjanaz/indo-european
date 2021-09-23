@@ -1,0 +1,8 @@
+# (e-lyle1990ch13)
+> Lyle, Emily. "The Chinese Trigrams and Archaic Cosmology" in *Archaic Cosmos: Polarity, space and time*. Polygon, 1990: 134-141.
+## See also
+> `(e-lyle1990frontmatter)`
+
+> `(e-lyle1990biblio)`
+
+> `(e-lyle1990notes)`

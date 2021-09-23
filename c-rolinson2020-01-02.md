@@ -1,0 +1,1 @@
+> [[rolinson]]. "Swear By The Sea, Swear By The Stars, Swear By The Sky – On The Mytholinguistics Of Varuna Neptune Ouranos". [blog](https://aryaakasha.com/2020/01/02/swear-by-the-sea-swear-by-the-stars-swear-by-the-sky-on-the-mytholinguistics-of-varuna-neptune-ouranos/)

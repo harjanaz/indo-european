@@ -1,0 +1,1 @@
+> [[rolinson]]. "The Guardianship of the Gold – The Heroic Tale of the Hiranya-Hoard of Tillya Tepe". [blog](https://aryaakasha.com/2019/09/14/the-guardianship-of-the-gold-the-heroic-tale-of-the-hiranya-hoard-of-tillya-tepe/)

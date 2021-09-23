@@ -1,0 +1,3 @@
+- Either from the Aramaic root פתה, meaning to extend ("The (Territory) Expander")
+- or, from the root [יפה] & adj. [יָפֶה] "fair, beuatiful, pale". The adj. [יְפֵהפֶה • (y'fefé)] "gorgeous"
+- or, a transliteration of the Grk. Ἰαπετός *Iapetos*, the Titan.

@@ -1,0 +1,1 @@
+> [[r-kristensen]]. "Why Was Óðinn Killed by Fenrir? A Structural Analysis of Kinship Structures in Old Norse Myths of Creation and Eschatology". in [[p-hermann-j-schjodt-r-kristensen2007eds]]. [pdf](https://doi.org/10.1484/M.VMSS-EB.3.4381), [pdf](a/r-kristensen2007.pdf)

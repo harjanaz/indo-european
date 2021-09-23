@@ -1,0 +1,1 @@
+> [[rolinson]]. "A Cut Off Horse-Head Delivers The Message". [blog](https://aryaakasha.com/2019/11/14/a-cut-off-horse-head-delivers-the-message/)

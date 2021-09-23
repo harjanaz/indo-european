@@ -1,0 +1,3 @@
+> [[f-coimbra]]. "Protohistoric horse riders beyond the Pillars of Heracles". [academia](https://www.academia.edu/2384402/Protohistoric-horse-riders-beyond-the-Pillars-of-Heracles), [pdf](f-coimbra2012a.pdf)
+
+Accompanying (?) [ppt](https://www.researchgate.net/publication/332254983-Protohistoric-horseriders-beyond-the-Pillars-of-Heracles-Protoistorikoi-ippeis-pera-apo-tis-steles-tou-Erakleous), [ppt](a/f-coimbra2012ppt.pdf)

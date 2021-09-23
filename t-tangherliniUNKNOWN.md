@@ -1,0 +1,1 @@
+> [[t-tangherlini]]. "Some Old Norse Hang-Ups: Ritual Aspects of Hávamál 134". [pdf](a/t-tangherliniUNKNOWN.pdf)

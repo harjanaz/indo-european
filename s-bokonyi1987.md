@@ -1,0 +1,1 @@
+> [[s-bokonyi]]. "Horses and Sheep in the Copper and Bronze Ages". in [[skomal-polome1987]].

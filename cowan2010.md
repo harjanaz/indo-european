@@ -1,0 +1,1 @@
+> [[cowan]]. *The Indo-German Identification: Reconciling South Asian Origins and European Destinies 1765-1885*. Camden House, 2010. [pdf](a/r-cowan2010.pdf)

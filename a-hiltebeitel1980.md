@@ -1,0 +1,1 @@
+> [[a-hiltebeite]]. "Rāma and Gilgamesh: The Sacrifices of the Water Buffalo and the Bull of Heaven". *History of Religions*, Vol. 19, No. 3 (Feb., 1980), pp. 187-223. [jstor](https://www.jstor.org/stable/1062467) [pdf](a/a-hiltebeitel1980.pdf)

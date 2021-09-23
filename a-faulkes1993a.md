@@ -1,0 +1,1 @@
+> [[a-faulkes]]. "What Was Viking Poetry For?". The University of Birmingham, 1993. [pdf](a-faulkes1993a.pdf)

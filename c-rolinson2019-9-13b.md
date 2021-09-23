@@ -1,0 +1,1 @@
+> [[rolinson]]. "For Friday & For Full Moon - MahaGauri Devi". [blog](https://aryaakasha.com/2019/09/13/for-friday-for-full-moon-mahagauri-devi/).

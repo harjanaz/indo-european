@@ -1,0 +1,1 @@
+> [[a-mckay]]. Review of [[baldick2000]]. *Bulletin of the School of Oriental and African Studies*, University of London, Vol. 65, No. 1 (2002), pp. 243-245. [jstor](https://www.jstor.org/stable/4145958) [pdf](a/a-mckay2002.pdf)

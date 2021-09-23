@@ -1,0 +1,1 @@
+> [[burkert]]. *The Orientalizing Revolution: Near Eastern Influence on Greek Culture in the Early Archaic Age*. [pdf](burkert1992.pdf)

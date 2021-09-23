@@ -1,0 +1,1 @@
+> [[rolinson]]. "Why Leadership Means ‘To Be Lead’ – An Indo-European Perspective". [blog](https://aryaakasha.com/2019/07/03/why-leadership-means-to-be-lead-an-indo-european-perspective/).

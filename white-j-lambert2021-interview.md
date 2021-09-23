@@ -1,0 +1,29 @@
+> [[white-j]]; [[lambert]]. "MythVision Interviews Crecganford about the Proto-Indo European Mythologies". 
+> 
+> [YouTube: on crecganford's channel](https://youtu.be/Xdw2qb5Vs2M)
+> [YouTube: on MythVision's channel](https://youtu.be/FTHtqlfSlcg)
+> [mp4](white-j-lambert2021-interview.mp4)
+
+## Description
+
+Myth is a folklore genre consisting of narratives that play a fundamental role in a society, such as foundational tales or origin myths. The main characters in myths are usually gods, demigods, or supernatural humans. Stories of everyday human beings, although often of leaders of some type, are usually contained in legends, as opposed to myths. Myths are often endorsed by rulers and priests or priestesses and are closely linked to religion or spirituality. Many societies group their myths, legends, and history together, considering myths and legends to be true accounts of their remote past. In particular, creation myths take place in a primordial age when the world had not achieved its later form. Other myths explain how a society's customs, institutions, and taboos were established and sanctified. There is a complex relationship between recital of myths and the enactment of rituals. The term mythology may either refer to the study of myths in general, or a body of myths regarding a particular subject. The study of myth began in ancient history. Rival classes of the Greek myths by Euhemerus, Plato, and Sallustius were developed by the Neoplatonists and later revived by Renaissance mythographers. Today, the study of myth continues in a wide variety of academic fields, including folklore studies, philology, psychology, and anthropology. Moreover, the academic comparisons of bodies of myth are known as comparative mythology. Since the term myth is widely used to imply that a story is not objectively true, the identification of a narrative as a myth can be highly political: many adherents of religions view their religion's stories as true and therefore object to the stories being characterised as myths. Nevertheless, scholars now routinely speak of Jewish mythology, Christian mythology, Islamic mythology, Hindu mythology, and so forth. Traditionally, Western scholarship, with its Judeo-Christian heritage, has viewed narratives in the Abrahamic religions as being the province of theology rather than mythology. Meanwhile, identifying religious stories of colonised cultures, such as stories in Hinduism, as myths enabled Western scholars to imply that they were of lower truth-value than the stories of Christianity. Labelling all religious narratives as myths can be thought of as treating different traditions with parity. Proto-Indo European, and Indo European migration, religion and the god dyeus pater is discussed in this video as well as the Oldest Myth & Proto Indo European civilizations. Their Mythologies are discussed. 
+
+[0:00](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=0s) Introduction
+[0:38](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=38s) Who is Jon White and Crecganford
+[1:55](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=115s) When did the Proto-Indo Europeans start?
+[4:10](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=250s) The first known religions from 40,000 years ago
+[9:00](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=540s) The creation myths and their similarity
+[14:00](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=840s) The oldest story in the world
+[19:10](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=1150s) The effect of writing, and the use of poems
+[23:37](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=1417s) The effects of Christianity on me
+[23:47](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=1427s) Comparative Mythology of the Abrahamic Myths
+[29:01](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=1741s) The end of the world
+[38:48](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=2328s) What do I think of the Marvel Movies and Thunder Gods
+[40:10](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=2410s) Any other hypothesis regarding the Proto Indo Europeans 
+[43:10](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=2590s) Euhemerization and was Odin real?
+[47:40](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=2860s) The importance of breath
+[49:55](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=2995s) Werewolves or vampires
+[52:00](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=3120s) Current research, American gods, Storytelling, and Greek
+[54:20](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=3260s) Atheist churches and the evolution of skin color
+[1:00:05](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=3605s) Is Santa Claus related to Odin?
+[1:03:00](https://www.youtube.com/watch?v=Xdw2qb5Vs2M&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=4&t=3780s) Wrapping up

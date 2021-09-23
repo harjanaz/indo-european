@@ -1,0 +1,1 @@
+> [[s-zimmer]]. "On Language Genesis—The Case of Afrikaans". in [[pearson1992ed]].

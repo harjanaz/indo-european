@@ -1,0 +1,1 @@
+> [[j-rose]]. "Near Eastern and Old Iranian myths". *Oxford Classical Dictionary*. [doi](https://doi-org.ezproxy.lib.utexas.edu/10.1093/acrefore/9780199381135.013.8150), [pdf](a/j-rose2019.pdf). 

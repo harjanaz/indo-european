@@ -1,0 +1,1 @@
+> [[arvidsson]]. *Aryan Idols: Indo-European Mythology as Ideology and Science*. The University of Chicago Press, 2006. [pdf](a/s-arvidsson2006.pdf)

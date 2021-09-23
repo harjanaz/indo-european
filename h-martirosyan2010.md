@@ -1,0 +1,1 @@
+> Inherited Armenian Lexicon [pdf](a/h-martirosyan2010.pdf)

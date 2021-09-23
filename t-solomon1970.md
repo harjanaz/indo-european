@@ -1,0 +1,1 @@
+> "Early Vaiṣṇava Bhakti and Its Autochthonous Heritage". [pdf](a/t-solomon1970.pdf)

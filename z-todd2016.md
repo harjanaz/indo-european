@@ -1,0 +1,1 @@
+> An Indigenous Feminist’s Take On The Ontological Turn: ‘Ontology’ Is Just Another Word For Colonialism. [pdf](a/z-todd2016.pdf)

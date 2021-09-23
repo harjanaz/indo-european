@@ -1,0 +1,1 @@
+> [[p-bernhardt]]. "Binding the Wolf, Leashing the Hound: Canid Eschatologies in Irish and Norse Myth". [pdf](a/p-bernhardt2017.pdf)

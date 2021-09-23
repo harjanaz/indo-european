@@ -1,0 +1,1 @@
+> [[p-wells]] *How Ancient Europeans Saw The World: Vision, Patterns, and the Shaping of the Mind in Prehistoric Times*. Princeton University Press, 2012. [pdf](a/p-wells2012.pdf)

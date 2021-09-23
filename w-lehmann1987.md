@@ -1,0 +1,1 @@
+> [[w-lehmann]]. "Linguistic and Archaeological Data for Handbooks of Proto-Languages". in [[skomal-polome1987]].

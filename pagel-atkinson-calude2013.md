@@ -1,0 +1,1 @@
+> [[pagel]]; [[atkinson]]; [[calude]]. "Ultraconserved words point to deep language ancestry across Eurasia". in [[PNAS]], 2013. [pdf](pagel-atkinson-calude2013.pdf) DOI 10.1073/pnas.1218726110

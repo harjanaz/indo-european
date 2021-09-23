@@ -1,0 +1,1 @@
+> [[y-tsuchiyama]]. "*Abhiṣeka* in the Vedic and post-Vedic Rituals". [pdf](a/y-tsuchiyama2005.pdf)

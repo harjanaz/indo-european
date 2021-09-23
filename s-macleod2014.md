@@ -1,0 +1,1 @@
+> [[s-macleod]]. *The Divine Feminine in Ancient Europe: Goddesses, Sacred Women and the Origins of Western Culture*. [pdf](a/s-macleod2014.pdf)
