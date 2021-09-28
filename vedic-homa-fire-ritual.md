@@ -4,7 +4,6 @@
 [[f-staal1983-1]]
 [[g-verardi1994]]
 [[payne-r-witzel-m-2016eds]]
-[[a-parpolaUNKNOWNa]]
 
 
 ## External Links

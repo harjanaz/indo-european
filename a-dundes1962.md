@@ -1,1 +1,0 @@
-> [[a-dundes]] "From Etic to Emic Units in the Structural Study of Folktales". in *The Journal of American Folklore*, Vol. 75, No. 296 (Apr. - Jun., 1962), pp. 95-105. [pdf](a-dundes1962.pdf) [pdf](https://www.jstor.org/stable/538171)

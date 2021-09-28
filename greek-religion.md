@@ -8,4 +8,4 @@
 
 [[greek-beings]]
 
-![](pics/298363.png)
+![](a/298363.png)

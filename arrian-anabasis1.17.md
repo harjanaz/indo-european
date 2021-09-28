@@ -1,1 +1,0 @@
-> It occurred to [Alexander] to build here [Sardis] a temple and altar in honour of Olympian Zeus, and while he was considering the best site a summer storm, breaking suddenly with violent thunder and a fall of rain over the palace of the Lydian kings, persuaded him that Zeus himself had indicated the spot where his temple should be raised; so he gave his orders accordingly.

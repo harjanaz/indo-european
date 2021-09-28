@@ -1,7 +1,7 @@
-> d
+> [[mair]]
 
 html version `23847.htm`
 
-Review of [[c-littleton-l-malcor1994]]
+Review of [[littleton-malcor1994]]
 
 

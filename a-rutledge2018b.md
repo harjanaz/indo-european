@@ -1,1 +1,0 @@
-> [[a-rutledge]]. Review of [[r-green2016]]. *Journal of American Folklore*, Volume 131, Number 519, Winter 2018, pp. 106-107. [jstor](https://www.jstor.org/stable/10.5406/jamerfolk.131.519.0106), [pdf](a/a-rutledge2018b.pdf)

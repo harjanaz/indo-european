@@ -5,29 +5,20 @@
 [[d-gricourt-d-hollard2018]]
 
 
-Illness = Monsters [[a-hall2009]]
-
+Illness = Monsters in Norse & Finnic [[a-hall2009]]
 
 [[b-lincoln1986-themes]]
-
 [[psychadelics-entheogens]]
-
 [[c-watkins1995]]
 [[healing-waters]]
-
 [[r-gordon2016]]
-
 [[c-cusack2014a]]
-
-[[a-hall2006b]]
-
 [[cosmas-damian]]
-
 [[y-berezkin2012b]]
 
 ## "Woe"
 
-An expression of pain and suffering [[c-watkins2013]], [[j-klein-et2017-20]].
+An expression of pain and suffering [[c-watkins2013]], [[klein-et2017-20]].
 - PIE uai / wáy / uwáy / u̯ai [Wiki](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/w%C3%A1y)
 	- Eng. woe
 	- Lat. vae

@@ -8,7 +8,6 @@
 [[grihya-sutras]]
 [[indic-law]]
 [[skt-epics]]
-[[isvara-gita]]
 [[puranas]]
 [[yoga-sutras]]
 [[pancatantra]]

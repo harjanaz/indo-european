@@ -5,13 +5,13 @@
 ---
 [[a-siikala-o-ulyashev2016]]
 [[c-carpelan-a-parpola2001]]
-![](pics/pie-and-uralic-cultures.png)
+![](a/pie-and-uralic-cultures.png)
 
 ---
 ## Relitionship with PIE
 
 [Relation to PIE](http://loanwords.prehistoricmap.com/uralic-consideration/)
-[[a-hyllested2015]]
+[[hyllested2015]]
 
 
 

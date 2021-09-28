@@ -1,2 +1,2 @@
 # Norse Timeline
-![](pics/norse-timeline.jpg)
+![](a/norse-timeline.jpg)

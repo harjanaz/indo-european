@@ -1,4 +1,4 @@
-[[pie-society-community-roles]]
+[[society-community]]
 # Oaths
 [[sword-oath]]
 [[g-agamben2011]]

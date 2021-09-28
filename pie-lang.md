@@ -56,12 +56,12 @@ This page is for the reconstructed PIE language. For how the PIEs would have cul
 
 # IE Linguistics
 [[m-meier2003]]
-[[b-fortson2004]] has exercises
+[[fortson2004]] has exercises
 [[j-mallory-d-adams2006]]
 [[j-clackson2007]]
 [[r-beekes2011]]
 [[c-quiles-f-lopez2017]]
-[[j-klein-et2017]]
+[[klein-et2017]]
 
 [Site](https://compie.org)
 
@@ -78,11 +78,12 @@ This page is for the reconstructed PIE language. For how the PIEs would have cul
 - [[ie-poetics]]
 - [[semiotics]]
 
+## Germanic
+[[d-ringe2006]]
 
 ## Constructed Texts
 [[the-king-and-the-god]]
 [[schleichers-fable]]
-[[abalphabeta2019-speaking]]
 
 
 
@@ -91,6 +92,7 @@ This page is for the reconstructed PIE language. For how the PIEs would have cul
 https://www.youtube.com/watch?v=kCI4Y8VneP0
 
 [indo-european-connection.com](https://www.indo-european-connection.com/words?page=1)
+
 [Wikipedia: Pre-IE Languages](https://en.wikipedia.org/wiki/Pre-Indo-European)
 [Wikipedia: PIE Language](https://en.wikipedia.org/wiki/Proto-Indo-European-language)
 [Wikipedia: IE Languages](https://en.wikipedia.org/wiki/Indo-European-languages)

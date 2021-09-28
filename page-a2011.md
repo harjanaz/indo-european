@@ -1,1 +1,1 @@
-> [[page-a]]. "Stones in the Birth Narratives of Irish Heroes, Kings, and Saints".
+> [[page]]. "Stones in the Birth Narratives of Irish Heroes, Kings, and Saints".

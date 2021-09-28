@@ -1,4 +1,4 @@
-[[ie-and-abrahamic]], [[eschatology]]
+[[ie-abrahamic]], [[eschatology]]
 
 ---
 

@@ -1,1 +1,0 @@
-> [[burkert]]. *Ancient Mystery Cults*. [pdf](burkert1987.pdf)

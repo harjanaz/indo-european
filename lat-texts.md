@@ -14,7 +14,6 @@
 [[caesar]]
 [[seneca]]
 [[virgil]]
-[[ovid]]
 [[livy]]
 [[sallust]]
 

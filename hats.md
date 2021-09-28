@@ -1,3 +1,0 @@
-# Hats
-
-[[a-palsdottir]]

@@ -1,1 +1,1 @@
-> [[adams-d]]. A Dictionary of Tocharian B. [pdf](a/d-adams1999.pdf)
+> [[adams-d]]. A Dictionary of Tocharian B. [pdf](a/d-adams1999.pdf) Leiden Studies in indo-European 10

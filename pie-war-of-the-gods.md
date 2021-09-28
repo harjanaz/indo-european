@@ -1,4 +1,4 @@
-[[narratives]]
+[[pie-narratives]]
 [[divine-family]]
 
 # War of the Gods

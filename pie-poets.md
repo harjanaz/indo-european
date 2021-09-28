@@ -15,4 +15,3 @@
 
 ## By Branch
 Indic. [[rsis]]
-Grk. ex. [[arrian-anabasis1.10]]

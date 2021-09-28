@@ -1,5 +1,5 @@
 # Salvation
-[[b-lincoln1982b]]
+[[lincoln1982-mithra]]
 
 
 [[j-alvar2008]]

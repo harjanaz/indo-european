@@ -3,7 +3,7 @@
 ---
 
 ## Motif: *a woman marrying an aquatic animal*
-[[b-sergent1999]]
+[[sergent1999]]
 
 ## Dogs and Wolves in Death, Healing, Ritual, and War
 [[m-speidel2002]]

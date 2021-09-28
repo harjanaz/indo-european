@@ -6,5 +6,8 @@
 
 Indic [[parjanya]]
 
+Hittite [[b-collins2007]]
+
 ## Influence on Uralic
 [[u-saloUNKNOWN]]
+

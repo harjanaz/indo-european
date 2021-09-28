@@ -3,5 +3,5 @@
 [[m-detienne1989]]
 [[m-detienne1977]]
 [[s-torjussen2006]]
-[[b-sergent2018]]
+[[sergent2018]]
 [[w-doniger1980b]]

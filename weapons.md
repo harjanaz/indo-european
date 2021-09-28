@@ -4,7 +4,6 @@
 
 [[m-huld1993]]
 [[swords]]
-[[arrian-anabasis1.11]]
 
 ## Kinds
 [[spears]]

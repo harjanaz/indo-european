@@ -1,6 +1,6 @@
 The chaoskampft is a widspread [[creation-cosmogony]] in which [[chaos]] is conquered in order to create the cosmos. 
 
-Often this narrative utilizes monster-slaying narratives. For example, in the IE tradition, it became linked with the [[hero-slays-monster]] narrative.
+Often this narrative utilizes monster-slaying narratives. For example, in the IE tradition, it became linked with the [[narrative-pie-hero-slays-monster]] narrative.
 
 ## Non-IE
 ### Near Eastern

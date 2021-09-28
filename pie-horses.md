@@ -30,7 +30,7 @@ China said that the nomads had "heavenly horses that sweat blood"
 [[merceron2018]]
 [[c-sterckx2013]]
 [[o-wikander2017b]]
-[[a-hyllested2014]]p91-
+[[hyllested2014]]p91-
 [[f-coimbra2012a]]
 [[m-merisante2014]]
 

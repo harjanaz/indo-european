@@ -34,7 +34,7 @@ A 24 hour period was known as a *sólarhringr* 'sun-ring' or 'sun-course' and co
     
     - 3am        *ótta* 'the last part of the night' (NE)
 
-![attir.jpg](pics/attir.jpg)
+![attir.jpg](a/attir.jpg)
 
 So what you have is a flat static horizontal (cardinal directions), and a rotating verticle circle, which have social (meal time) conotations and together compose the cosmos. Time, Space, and Society converge. We can see this in place names originating in locations called *eyktarmörk* hich were buildings or piles or rocks (anything really) which indicated a time of day when the sun was a above it.
 
@@ -66,7 +66,7 @@ Weeks were defined in relation to the year and not to the lunar month.
 
 The solar year was called *sólargangr* 'the course of the sun'.  1y = 52w = 364d = 2 half years.  Actually the primary unit was the half year (*misseri*), not the year (*ar* 'harvest').  They were *sumar* 'summer' & *vetr* 'winter', each 26w.  Similar bitpartitions of the year are known from a variety of societies Nilsson1920p86 among them the Celts Rees1976p84.  The period around the first summer (*Sumarmál* 'summer-meal') & winter day (*vetr-nætr*) were festive occasions. Summers started on Thursdays (between the 9th and 15th or April; except when *rímspillir* occured it fell on the 8th of April) and winters on Saturdays (between the 11th and 18th or October).  Winter = 6m;  Summer = 6m + additional days *auknætr*.  It was the duty of the *lögsögumaðr* 'lawspeaker' at the Althing, and the *goði* 'chiefs' for the upcoming *leið* 'autumn thing', to fiigured it all out and announced it each year.
 
-![icelandic-summer.jpeg](/Users/erickdodge/OneDrive/Documents/main/mimir/mimiswiki/pics/icelandic-summer.jpeg)
+![icelandic-summer.jpeg](a/icelandic-summer.jpeg)
 
 #### Months
 
@@ -104,7 +104,7 @@ Most of their names have economic or agricultural meanings:
 
 The last three months of winter, called *útmánaðir* are dervived from *þorrablót* and *góiblót*. Hence connected with sacrifice.
 
-![icelandic-months.jpeg](/Users/erickdodge/OneDrive/Documents/main/mimir/mimiswiki/pics/icelandic-months.jpeg)
+![icelandic-months.jpeg](a/icelandic-months.jpeg)
 
 ## Cosmology
 

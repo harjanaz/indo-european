@@ -5,7 +5,7 @@
 
 
 ## Sub-branches
-[[proto-ger-lang]]
+[[PG-proto-germanic-lang]]
 [[ON-old-norse-lang]]
 [[NHG-modern-german-lang]]
 

@@ -13,4 +13,4 @@ Lat. *lupus*, Eng. *wolf*, etc. The PIE root literally means the "Dangerous One"
 [[b-lincoln1975]]
 
 
-[[c-abram2017]] beowulf
+[[abram2017]] beowulf

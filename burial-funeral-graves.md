@@ -1,11 +1,10 @@
 [[pie-death]]
 See also: [[lament-cry-tears-sadness-grief]]
 # Burial/Funeral/Graves
-[[a-kaliff2005]]
+[[kaliff2005]]
 [[a-kaliff2007]]
 [[a-koptev2010]]
 [[y-vassilkov2011]]
-[[a-zugaiar2012]] Norse grave orientation
 [[b-lincoln1987b]] Scythian
 [[p-bauschatz1982]]
 

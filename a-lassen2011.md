@@ -1,1 +1,0 @@
-> [[a-lassen]]. *Hrafnagaldur Óðins (Forspjallsljóð)*. Viking Society For Northern Research, 2011. [academia](https://www.academia.edu/8798777/HRAFNAGALDUR-%C3%93%C3%90INS-FORSPJALLSLJ%C3%93%C3%90-) [pdf](a/a-lassen2011.pdf)

@@ -5,7 +5,6 @@
 voluspa god/jesus in last lines
 
 
-hindu-islamic (sufi) [[madhumalati]]
 buddhist kali-yuga? buddhist-islamic?
 
 # Syncretic Eschatology

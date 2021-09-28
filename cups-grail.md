@@ -13,6 +13,3 @@ Connected with [[sacred-drink]]
 
 ### PIE Grail
 [[c-littleton-a-thomas1978]]
-
-### Other
-[[arrian-anabasis1.11]]

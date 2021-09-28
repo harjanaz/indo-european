@@ -1,8 +1,5 @@
 [[indic-deities]]
 
-## Texts
-[[isvara-gita]]
-
 ## Scholarship
 [[w-doniger1973]]
 [[w-doniger1980b]]

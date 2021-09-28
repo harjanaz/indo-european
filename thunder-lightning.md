@@ -22,7 +22,7 @@ Vedic [Indra](indra)
 [[Thunder Weapon]]
 	  
 ## Scholarship
-[[a-hyllested2014]]p25-
+[[hyllested2014]]p25-
 
 ## By Branch
 Indic [Indra](indra)

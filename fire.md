@@ -14,7 +14,7 @@ Fire is linked to [[light]], the [[sun]], and the (shining) [[deities]]. [[ritua
 [wiki1](https://en.wikipedia.org/wiki/Fire-worship#Indo-European-religions)
 [wiki2](https://en.wikipedia.org/wiki/Proto-Indo-European-mythology#Fire-deities)
 
-[[a-kaliff2005]]
+[[kaliff2005]]
 [[a-kaliff2007]]
 [[s-zimmer2009]]
 
@@ -23,7 +23,7 @@ Fire is linked to [[light]], the [[sun]], and the (shining) [[deities]]. [[ritua
 ## PIE
 - Animate Vgni- [167]
 - Inanimate peh₂u̯er/n- [167]
-- [[j-klein-et2017-20]]
+- [[klein-et2017-20]]
 
 
 [[vedic-homa-fire-ritual]]
@@ -46,7 +46,7 @@ Fire as Hypostatis of The God | mari (tul, kugo jumo),
 [Celtic Fire](fire-celtic.md)
 
 [[n-allen2010]]
-[[a-macdonald1904]]
+
 
 
 ### Eternal Flame
@@ -56,7 +56,7 @@ https://en.wikipedia.org/wiki/Eternal-flame
 
 
 ## Fire Rituals
-Norse & Vedic [[a-kaliff2005]]
+Norse & Vedic [[kaliff2005]]
 
 ## Misc
 

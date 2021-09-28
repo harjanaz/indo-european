@@ -10,7 +10,7 @@
 ## 1997
 ## 1998
 ## 1999
-[[b-sergent1999]]
+[[sergent1999]]
 ## 2000
 ## 2001
 ## 2002
@@ -35,7 +35,7 @@
 [[n-allen-r-woodard2013]]
 [[g-oudaer2013]]
 ## 2014
-[[b-sergent2014]]
+[[sergent2014]]
 [[d-calin2014]]
 [[p-lajoye2014]]
 [[meulder2014]]
@@ -58,7 +58,7 @@
 [[m-quintela2018b]]
 [[m-thuillard-et2018]]
 [[merceron2018]]
-[[b-sergent2018]]
+[[sergent2018]]
 ## 2019
 [[calin2019]]
 ## 2020

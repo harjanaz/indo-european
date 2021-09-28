@@ -1,0 +1,5 @@
+[[journals]]
+
+---
+
+# Journal *Fabula*

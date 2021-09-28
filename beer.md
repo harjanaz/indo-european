@@ -1,6 +1,5 @@
 # Beer
-[[b-bierschenk2017]]
-
+## Ossetian
 
 [Ossetian Beer Son](https://www.youtube.com/watch?v=mC46y6U3McE) 
 

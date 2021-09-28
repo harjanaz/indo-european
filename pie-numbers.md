@@ -2,9 +2,6 @@
 
 ---
 
-## Videos
-[[abalphabeta2018-numbers]]
-
 ## By Number
 [[one]] [[first]]
 [[two]]

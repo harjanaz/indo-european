@@ -4,7 +4,7 @@
 
 ## Language
 [[formulas]]
-[[narratives]]
+[[pie-narratives]]
 
 ## Beliefs
 [[pie-beings]]
@@ -13,7 +13,7 @@
 [[pie-numbers]]
 
 ## Society
-[[pie-society-community-roles]]
+[[society-community]]
 [[exploration-migration]]
 [[pie-folk]]
 [[pie-sexuality]]
@@ -21,11 +21,11 @@
 [[pie-ethics-morality-virtues]]
 [[ie-misc]]
 [[riddles]]
-[[pie-society-community-roles]]
+[[society-community]]
 [[personal-names]]
 [[pie-ethics-morality-virtues]]
 [[taboos]]
-[[pie-law]]
+[[law]]
 
 ## Beliefs/Ideas
 [[ie-time]]

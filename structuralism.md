@@ -19,7 +19,7 @@ Via [[f-saussure]] and [[dumezil]] IE studies got sociological "structuralism". 
 [[j-oosten1985]]
 [[lyle]]  
 [[r-kristensen2007]]
-[[n-allenUNKNOWNc]]
+[[allen-nUNKNOWNc]]
 
 
 

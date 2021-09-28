@@ -15,7 +15,7 @@ Perhaps I should merge some of these pages
 
 [[death-memorials]]
 
-[[pie-hell-dark-underworld]]
+[[hell-dark-underworld-realm-of-dead-afterlife]]
 [[underworld-journey-katabasis-descent]]
 
 [[afterlife]]

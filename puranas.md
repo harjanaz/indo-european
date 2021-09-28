@@ -28,7 +28,6 @@ v=vaishna
 ## Trans.
 
 [[srimad-bhagavata-purana]]
-[[kalki-purana]]
 [[yuga-purana]]
 
 ## Scholarship

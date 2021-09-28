@@ -10,7 +10,7 @@
 ## Relationwhip with PIE
 [Relation to PIE](http://loanwords.prehistoricmap.com/semitic-interface/)
 
-[[a-jacob1999]]
+[[jacob-a1999]]
 
 
 [[t-gamelin2016]] Egyptian Temples vs Mediterannean Temples

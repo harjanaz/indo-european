@@ -4,7 +4,6 @@
 
 
 [[b-lincoln1986-themes]]
-Norse: [[atances-a-2016]]
 [[a-graslund2002]]
 [[a-long2019]]
 [[k-jones1997]]
@@ -65,9 +64,11 @@ Sources
 
 
 ## Death
-• Barrows/mounds associated with Odin and Freyr (who himself was laid in a mound)
-• Angel of Death (played a leading role in Viking age cremation)
-• Ship Funeral
+	• Barrows/mounds associated with Odin and Freyr (who himself was laid in a mound)
+	• Angel of Death (played a leading role in Viking age cremation)
+
+
+	• Ship Funeral
 		○ Women burned with their husbands
 		○ Sign of the Hammer
 		○ Sacrifice of horses
@@ -89,7 +90,6 @@ Anglo-Saxon Death
 
 ## Web Resources
 https://www.indo-european-connection.com/words/death
-
 [[c-rolinson2019-8-25]]
 [[rolinson2020-02-22]]
 [[c-rolinson2019-07-12]]

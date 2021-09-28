@@ -17,8 +17,6 @@
 [[c-hackney2020]]
 [[j-lundquist2017]] ie innovations
 
-## References
-[[arrian-anabasis1.12]]
 
 ## External Links
 - [CHS Commentary](https://ahcip.chs.harvard.edu/)

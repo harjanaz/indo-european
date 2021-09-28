@@ -14,7 +14,7 @@
 ## Bright
 [[heaven-bright-otherworld-paradise]]
 ## Dark
-[[pie-hell-dark-underworld]]
+[[hell-dark-underworld-realm-of-dead-afterlife]]
 
 
 ## d

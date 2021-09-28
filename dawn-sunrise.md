@@ -73,7 +73,6 @@ PIE Xáusōs "rising" from PIE H2ues- "kindle".  Hence, she is the "kindler of t
 - Several Chinese goddesses are similar to the PIE sun goddes and the dawn goddes, implying influence from them through trade routes in Tocharian territories and therefore their worship there. (j-snow2002)
 
 ## Practice: Watching the Sunrise
-[[a-mockler1896]]
    
    
 ---

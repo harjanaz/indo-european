@@ -20,7 +20,7 @@ This pages is for the "The History of Religions". For theories and "Religious St
 
 ### Histories of Religion
 Jan Assman
-[[a-strathern2019]]
+[[strathern2019]]
 [[c-dawson1928]]
 [[m-eliade1978-1982]] history of religon
 [[b-hayden2003]] history of reliigon

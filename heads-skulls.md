@@ -10,8 +10,5 @@
 ## Skull Cups
 [Wiki](https://en.wikipedia.org/wiki/Skull-cup)
 
-## Corvus
-For the Celtic association between severed heads & [Corvus](corvus-crows-ravens.md) see [[ross-a-1967]]p112&313
-
 ## Headhunting
 [proto-austronesians](baldick2013.md)

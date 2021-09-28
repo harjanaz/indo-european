@@ -13,8 +13,7 @@ Whether in trade or creation myths, bovines were central to Proto-Indo-European 
 [[c-anghelina2013]]
 [[c-sterckx2013]]
 [[b-lincoln1981]]p7)](b-lincoln1981)
-[[a-lacaille1930]] Scottish Placenames
-[[b-sergent2018]]
+[[sergent2018]]
 
 
 ## Topics

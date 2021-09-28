@@ -9,7 +9,7 @@
 [[magicians-wizards]]
 
 
-[[m-weiss2009]]
+[[weiss2009]]
 [[c-guyonvarch2002]]
 
 Lat. [[flamines]]

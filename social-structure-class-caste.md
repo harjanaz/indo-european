@@ -1,5 +1,5 @@
 
-This page is for the hierarchized form of [[pie-society-community-roles]].
+This page is for the hierarchized form of [[society-community]].
 
 ---
 

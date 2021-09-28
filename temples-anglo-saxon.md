@@ -15,4 +15,4 @@
 Also had places in town/home/farms mainly for holiday feasts and worship
 
 
-![](pics/89236.png)
+![](a/89236.png)

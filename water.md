@@ -11,7 +11,7 @@
 [[ginevra2017-wife]]
 [[k-witczak2015]]
 [[d-gricourt-d-hollard2018]]
-[[j-klein-et2017-20]]
+[[klein-et2017-20]]
 [[a-nikolaevUNKNOWN]]
 [[j-mcdonaldUNKNOWNa]]
 ## Kinds
@@ -21,7 +21,6 @@
 
 ## Wells
 [[wells-fountains]]
-[[a-moore-j-terry1984]]
 [[d-white2017]]
 [[j-bord-c-bord1992]] ch13
 ## Narratives/Figures

@@ -1,1 +1,0 @@
-> [[a-parpola]]. "On the Symbol Concept of the Vedic Ritualists". [pdf](a-parpolaUNKNOWNa.pdf)

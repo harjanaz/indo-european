@@ -7,4 +7,4 @@
 ### Indic
 [[w-kaelber1976]]
 
-![](pics/98643.jpg)
+![](a/98643.jpg)

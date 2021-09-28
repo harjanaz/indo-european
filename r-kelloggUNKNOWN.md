@@ -1,1 +1,0 @@
-> [[r-kellogg]]. "The Pre-History of Eddic Poetry". [pdf](a/r-kelloggUNKNOWN.pdf)

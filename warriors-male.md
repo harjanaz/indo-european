@@ -24,7 +24,6 @@
 
 [[germanic-heroes]]
 
-Maculinity [[a-dundes1997b]]
 
 ### Grk.
 [[g-nagy2013]]

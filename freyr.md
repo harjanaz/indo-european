@@ -4,7 +4,7 @@
 # Freyr (m.)
 
 [[-heathernranter-2013-05-06]]
-[[a-palsdottir]]
+
 
 
 Nor. Fröy

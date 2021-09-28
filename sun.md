@@ -19,7 +19,7 @@ Klien said that the PIE word for Sun is archaic. What other words are archaic? W
 
 Lat. [[sol]]
 
-[[b-lincoln1982b]]
+[[lincoln1982-mithra]]
 [[d-sick1996]]
 
 [[prayer-sun]]
@@ -39,8 +39,8 @@ Alternatively, Jonas Persson suggested that out of Norse mythology and archaic n
 [[o-wikander2014]]
 
 ## Cycle
-![](pics/875434.png)
-![](pics/87999.jpg)
+![](a/875434.png)
+![](a/87999.jpg)
 
 
 ## Chinese

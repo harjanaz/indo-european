@@ -1,8 +1,5 @@
 # Place Names
 
-Elves [[a-hall2006a]]
-Bulls [[a-lacaille1930]]
-
 
 Ger Theophoric Place Name [[t-kritsch2019]]
 

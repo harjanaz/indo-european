@@ -19,7 +19,7 @@ A hierarchically ranked, strata; functionally differentiated; Functionally integ
   
   
  
-  > The oldest text showing tripartation is the letter between the Mitannian king, Matiwaza, and his Hittite conquerers. It is preserved at the archives in Boghazköy [[g-dumezil1945]]p8-11.
+  > The oldest text showing tripartation is the letter between the Mitannian king, Matiwaza, and his Hittite conquerers. It is preserved at the archives in Boghazköy [[dumezil1945]]p8-11.
 
 
 ## Scholarship

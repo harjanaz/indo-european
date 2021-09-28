@@ -5,7 +5,7 @@
 
 # Sacrifice
 
-= offering = gift (get something in exchange) [[arrian-anabasis1.11]]
+= offering = gift (get something in exchange) 
 
 [Wikipedia: PIE Myth Sacrifices](https://en.wikipedia.org/wiki/Proto-Indo-European-mythology#Sacrifices)
 
@@ -14,12 +14,12 @@
 ## Scholarship
 [[b-lincoln1986-themes]]
 [[d-sick1996]]
-[[a-kaliff2005]]
+[[kaliff2005]]
 [[a-kaliff2007]]
 [[b-collins2014]]
 [[c-serith2001]]
 [[s-zimmer2009]] PIE Terms
-[[c-minkowski1989]]
+[[minkowski1989]]
 
 [Indian Adhikāra](adhikara.md)
 [Celtic Sacrifice](sacrifice-celtic.md)
@@ -31,6 +31,10 @@
 ## Kind
 [[human-sacrifice]]
 [[animal-sacrifice]]
+
+## Types
+by kind, by etc.
+to sea, to etc.
 
 ### Initiatory
 [[ahmadi2015]] Ch 12: "Initiation-based youth bands and initiatory sacrifice"
@@ -59,10 +63,3 @@ Orel & Stolbova connect the Semitic form to East Chadic and Lowland East Cushiti
 The ultimate leader of the sacrifices back in PIE society was the King acting as a priest making a libation to the gods in exchange for favor. "God or *gheu-" itself means "to pour a libation" 
  
 The universe typically begins with the sacrifice of a primordial being (Ymir, Purusa) and is renewed by the dying and rebirth of a young male god (Baldr, Dionysos, Adonis) as with non-IE agricultural gods like Attis, Osiris, etc. 
-
-## By Branch
-### Greek
-[[arrian-anabasis1.10]]
-
-## Non-IE
-Places of Sacrifice  Udmurts (lud)

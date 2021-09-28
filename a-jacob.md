@@ -1,2 +1,0 @@
-# Alexander Jacob
-Questionable scholarship. 

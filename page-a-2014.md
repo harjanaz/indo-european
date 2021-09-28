@@ -1,4 +1,4 @@
-> [[page-a]] (author); [[nagy-j]] (advisor). *Birth Narratives in Indo-European Mythology*. Dissertation. UCLA, 2014.
+> [[page]] (author); [[nagy-j]] (advisor). *Birth Narratives in Indo-European Mythology*. Dissertation. UCLA, 2014.
 > [pdf](https://escholarship.org/uc/item/71m1f09s), [academia](https://www.academia.edu/9043213/Birth-Narratives-in-Indo-European-Mythology), [pdf](a/a-page2014.pdf)
 
 ## Abstract

@@ -1,1 +1,0 @@
-> One account says that Hephaestion laid a wreath on the tomb of Patroclus ; another that Alexander laid one on the tomb of Achilles, calling him a lucky man, in that he had Homer to proclaim his deeds and preserve his memory. [[arrian-anabasis]]

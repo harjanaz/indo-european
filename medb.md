@@ -1,6 +1,6 @@
 # Medb
 
-[[b-sergent2018]]
+[[sergent2018]]
 
 ---
 of Connacht cohabitated with nine kings, and no man could rule in Tara unless he first mated with her. 

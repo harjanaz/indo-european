@@ -2,7 +2,7 @@
 # Women
 Female Mortals
 
-- [[j-klein-et2017-20]] PIE Terms
+- [[klein-et2017-20]] PIE Terms
 - PIE`(h1e)sor-`
 	- PIE `su̯esor-` "sister" [395] denoting the ‘female person of the same clan’ (if not from su̯ e-h1esh2r/n- ‘of the same blood’)
 	-  perhaps Hera (Willi 2010)
@@ -34,4 +34,4 @@ The spiritual authority of women is advanced here as an ancestral role which sur
 [[c-bozzone2016]]
 
 
-![](pics/39247.jpg)
+![](a/39247.jpg)

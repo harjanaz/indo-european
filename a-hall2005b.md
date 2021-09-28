@@ -1,4 +1,0 @@
-> [[a-hall]]. "Getting Shot of Elves: Healing, Witchcraft and Fairies in the Scottish Witchcraft Trials". *Folklore* 116 (April 2005): 19–36. [DOI](https://doi.org/10.1080/0015587052000337699) [jstor](https://www.jstor.org/stable/30035236) [researchgate](https://www.researchgate.net/publication/249014342-Research-Article-Getting-Shot-of-Elves-Healing-Witchcraft-and-Fairies-in-the-Scottish-Witchcraft-Trials) [questia](https://www.questia.com/library/journal/1G1-132851769/getting-shot-of-elves-healing-witchcraft-and-fairies) [pdf](a/a-hall2005b.pdf)
-
-## Abstract
-This paper re-examines the evidence of the Scottish witchcraft trials for beliefs associated by scholars with “elf-shot.” Some supposed evidence for elf-shot is dismissed, but other material illuminates the interplay between illness, healing and fairylore in early modern Scotland, and the relationship of these beliefs to witchcraft itself.

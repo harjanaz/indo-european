@@ -10,6 +10,6 @@
 [[t-chang1988]]
 [[j-jixu2002]]
 [[z-jixu2003]]
-[[j-wei2005]]
+[[wei2005]]
 
 [China, Nomads, & Zoroastrianism](zoroastrianism-and-china.md)

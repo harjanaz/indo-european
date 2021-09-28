@@ -1,7 +1,5 @@
 # *Corvus* (Crows, Ravens)
-[[ross-a-1967]]p311-326
 [[a-korotayev-y-berezkin-a-kozmin-a-arkhipova2006]]
-[[b-sax2007]]
 [[y-berezkin2014b]]
 
 ## External Links

@@ -1,4 +1,4 @@
-[[narratives]]
+[[pie-narratives]]
 [[pie-dawn-goddess]]
 
 ---

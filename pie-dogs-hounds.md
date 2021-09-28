@@ -4,6 +4,8 @@
 
 [Animals](animals.md)
 
+# NEED TO KEEP IN MIND DIFFERENCE BETWEEN DOMESTICATED DOGS/HOUNDS AND WILD DOGS. all are canines but have very very different conotations. unfortuanetly authors use the terms vaguely.
+
 
 [[k-kershaw1997]]p233
 
@@ -26,7 +28,7 @@ Iliad first few lines: the bodies of the warriors are devoured by birds and dogs
 
 [[a-graslund2002]]
 [[b-hansen2019]]
-[[b-lincoln1979b]]
+[[lincoln1979-hellhound]]
 [[p-bernhardt2017]]
 [[y-berezkin2012b]]
 [[d-white1989]]

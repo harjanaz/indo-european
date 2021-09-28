@@ -15,7 +15,6 @@
 [[j-mallory1976]]
 [[i-bonewits2001]]
 `j-lindow2001-ex`
-[[a-coomaraswamy1947]]
 [[e-lyle2008]]
 [[a-winterbourne2004]]
 [[a-wayman1965]]

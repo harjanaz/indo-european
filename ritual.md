@@ -4,7 +4,7 @@
 
 
 ## Misc Topics
-[[priests]] [[pie-law]]
+[[priests]] [[law]]
 [[sacrifice-offerings]]
 [[cults]]
 
@@ -24,12 +24,11 @@
 [[a-kaliff2007]]
 [[i-bonewits2001]]
 [[r-woodard2006]]
-[[b-smith1996]]
 [[v-sadovski2009]]
 [[v-sadovski2018a]]
 [[p-bauschatz1982]]
-[[a-kaliff2005]]
-[[m-weiss2009]]
+[[kaliff2005]]
+[[weiss2009]]
 ## By Branch
 ### European
 [[r-bradley2005]]

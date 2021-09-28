@@ -1,1 +1,0 @@
-[pdf](a/b-taylor2010.pdf)

@@ -1,1 +1,1 @@
-> [[a-kaliff]]. *Fire, Water, Heaven and Earth: Ritual practice and cosmology in ancient Scandinavia: An Indo-European perspective*. Riksantikvarieämbetet, 2007. [pdf](a/a-kaliff2007.pdf)
+> [[kaliff]]. *Fire, Water, Heaven and Earth: Ritual practice and cosmology in ancient Scandinavia: An Indo-European perspective*. Riksantikvarieämbetet, 2007. [pdf](a/a-kaliff2007.pdf)

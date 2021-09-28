@@ -17,7 +17,7 @@
 [[m-gimbutas1997]]
 [[jackson-p2002]]  philosophy, psychology
 [[b-hayden2004]]
-[[a-jacob2005]]
+[[jacob-a2005]]
 [[k-patton2009]]
 [[c-serith2009]]
 [[c-cleary2011]]

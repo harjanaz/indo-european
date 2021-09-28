@@ -1,7 +1,7 @@
 # Hospitality
 
 [[s-jamison1996]]
-- PIE The stranger, *ghosti- [301], could be viewed both as one who had the right of hospi- tality, hence ‘guest’ in Germanic (: Goth. gasts) and Slavonic (: OCS gostь, most proba- bly borrowed from Germanic), and as one who presents a danger to society, hence Latin hostis ‘enemy’, but also hospes ‘host’ from *ghosti-poti- ‘master of the guest’, cf. Benveniste (1969.1: 87−101). [[j-klein-et2017-20]]
+- PIE The stranger, *ghosti- [301], could be viewed both as one who had the right of hospi- tality, hence ‘guest’ in Germanic (: Goth. gasts) and Slavonic (: OCS gostь, most proba- bly borrowed from Germanic), and as one who presents a danger to society, hence Latin hostis ‘enemy’, but also hospes ‘host’ from *ghosti-poti- ‘master of the guest’, cf. Benveniste (1969.1: 87−101). [[klein-et2017-20]]
 
 - Enforced by the Gods
 - Tested by the Gods via [[god-in-disguise]] & [[god-as-guest]]

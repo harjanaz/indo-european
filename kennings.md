@@ -1,7 +1,7 @@
 [[ie-poetics]]
 [[skaldic]]
 # Kennings
-[[c-feuvre2019]]
+[[feuvre2019]]
 [[m-males2017]]
 
 

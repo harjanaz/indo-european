@@ -20,7 +20,6 @@ End Days/Times, Apocalypse etc.
 [[r-zaehner1940]]
 [[m-ara2006]]
 [[d-shapira2013]]
-[[g-agostini2013]]
 [[d-agostini2014]]
 [[ahmadi2015]] Ch 13
 [[d-agostini-s-stark2016]]

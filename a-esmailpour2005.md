@@ -1,1 +1,0 @@
-> [[a-esmailpour]]. *Manichaean Gnosis and Creation Myth*. Sino-Platonic Papers, Number 156, July, 2005. [pdf](a/a-esmailpour2005.pdf)

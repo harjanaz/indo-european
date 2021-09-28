@@ -1,1 +1,0 @@
-> [[a-faulkes]] (trans). *Snorri Sturluson: Edda*. Everyman, 1995. [pdf](a-faulkes1995.pdf)

@@ -13,5 +13,4 @@
 - [[o-nordlandUNKNOWN]]
 - [[a-andren-k-jennbert-c-raudvere2004eds]]
 - [[p-hermann-j-schjodt-r-kristensen2007eds]]
-- [[a-jakobsson2017]]
 - [[t-gunnell2017]]

@@ -1,1 +1,0 @@
-> "...the Celts...replied that their worst fear was that the sky might fall on their heads. [Alexander remarked] under his breath that the Celts thought too much of themselves." [[arrian-anabasis]]

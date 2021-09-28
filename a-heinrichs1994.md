@@ -1,1 +1,0 @@
-> [[a-heinrichs]]. "The Search for Identity: A Problem after the Conversion". *alvíssmál* 3 (1994): 43–62. [pdf](http://userpage.fu-berlin.de/~alvismal/3search.pdf) [pdf](a/a-heinrichs1994.pdf)

@@ -4,7 +4,6 @@
 
 ## General
 [[k-kershaw1997]]
-[[a-lassen2005]]
 [[a-zavaroni2006]]
 [[d-dutton2015]]
 [[k-patton2009]]

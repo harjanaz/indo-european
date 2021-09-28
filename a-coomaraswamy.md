@@ -1,1 +1,0 @@
-# Ananda K. Coomaraswamy

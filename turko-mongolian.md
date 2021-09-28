@@ -6,4 +6,4 @@
 ## Bulgars
 
 ## Turkic Moon God
-![](pics/765432.jpg)
+![](a/765432.jpg)

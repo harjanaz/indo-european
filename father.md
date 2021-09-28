@@ -21,4 +21,4 @@ A father, then, is the protector/head of the household (Lat. `pater familias`)
 
 
  
-![](pics/2983.jpg)
+![](a/2983.jpg)

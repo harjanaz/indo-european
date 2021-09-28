@@ -15,4 +15,4 @@ Wyrd byð swīðost... (5)	Wyrd is strongest
 Til sceal on ēðle dōmes wyrcean. (20-21)	A good man must in the homeland achieve fame.
 
 
-![](pics/290864.jpeg)
+![](a/290864.jpeg)

@@ -3,7 +3,7 @@
 ---
 
 
-[[a-millington2013]] Ares = [[iyarri]]
+[[millington2013]] Ares = [[iyarri]]
 
 
 Later merged with [[mars]] to become [[ares-mars]].

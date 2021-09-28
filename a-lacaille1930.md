@@ -1,1 +1,0 @@
-> [[a-lacaille]]. "The Bull in Scottish Folklore Place-Names, and Archaeology". *Folklore*, Vol. 41, No. 3 (Sep. 30, 1930), pp. 221-248. [jstor](https://www.jstor.org/stable/1255888) [pdf](a/a-lacaille1930.pdf)

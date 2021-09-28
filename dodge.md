@@ -2,7 +2,6 @@
 
 Erick and his father @ Yellowstone
 
-[CV](a/CV-dodge.pdf)
 
 
 ## Education
@@ -15,27 +14,18 @@ Erick and his father @ Yellowstone
 
 [2016-2020]
 - BA @ The Univeristy of Houston
-- Double Major in ANTH & Classics (Latin)
-
-<br>
+- Double Major in Anthropology & Classics (Latin focus)
 
 ## Publications
-BA Honors Thesis: *Orpheus, Odin, and the Indo-European Underworld: A Response to Bruce Lincoln's Article “Waters of Memory, Waters of Forgetfulness"* [[dodge2020]]
+- [[dodge2020-thesis]] BA Honors Thesis: *Orpheus, Odin, and the Indo-European Underworld: A Response to Bruce Lincoln's Article “Waters of Memory, Waters of Forgetfulness"* 
 
-<br>
+## Interviews
+[[dodge-leeming2020]]
 
-## Appearences
-- [The Crane Bag Podcast w/ Jay Leeming](podcast-leeming.md)
-
-"Episode 44: Odin and the Well of Wisdom" [here](http://www.jayleeming.com/podcast.html)
-
-<br>
 
 ## Contact
-erickjdodge@outlook.com
 [academia.edu](https://utexas.academia.edu/erickjdodge)
 [researchgate.net](https://www.researchgate.net/profile/Erick-Dodge2)
-[linkedin.com](https://www.linkedin.com/in/erick-james-dodge/)
 [ORC iD](https://orcid.org/0000-0002-2277-4045)
 
-Feel free to [share your thoughts](review.md) about the site :)
+<p style=" margin-left: 20%; margin-right: 20%;text-align:center;font-family:monaco;text-size:20px;outline: black solid 1px">erickjdodge (at) outlook.com</p>

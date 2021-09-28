@@ -1,5 +1,5 @@
-[[pie-law]] | [[pie-religion]]
+[[law]] | [[pie-religion]]
 
 ---
 
-[[m-weiss2009]]
+[[weiss2009]]

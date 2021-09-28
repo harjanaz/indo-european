@@ -31,8 +31,8 @@
 	- Lith. `diẽvo duktė ̃ (dukrýtė)`
 	- Skt. `divó duhitā́`
 	- Grk. `tʰugá-tēr di(w)ós`
-		- This phrase is used, among others, to describe Aphrodite, who is also called `pʰilommeidḗs` "having a lovely smile" like the Skt. `Uṣas` who is frequently connected with the (Skt?) root `smi-` ‘smile’ (cf. Dunkel 1991) [[j-klein-et2017-20]]
-- Wife? There are no good equations for a possible ‘wife’ of father sky, one proposal being a derivative of the same root, PIE `*diu̯ōneh₂` (Grk. `Di[w]ōnē`) See Dunkel (1991) [[j-klein-et2017-20]]
+		- This phrase is used, among others, to describe Aphrodite, who is also called `pʰilommeidḗs` "having a lovely smile" like the Skt. `Uṣas` who is frequently connected with the (Skt?) root `smi-` ‘smile’ (cf. Dunkel 1991) [[klein-et2017-20]]
+- Wife? There are no good equations for a possible ‘wife’ of father sky, one proposal being a derivative of the same root, PIE `*diu̯ōneh₂` (Grk. `Di[w]ōnē`) See Dunkel (1991) [[klein-et2017-20]]
 
 ### Daughters/Associated-Young-Angelic Women
 - Odin & Valkyries

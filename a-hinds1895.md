@@ -1,1 +1,0 @@
-> *Ovid's Metamorphoses: The original text reduced to the natural English order with a literal interlinear translation*. Arthur Hinds & Co, 1895. [archive.org](https://archive.org/details/ovidsmetamorphos00ovi) [pdf](a/a-hinds1895.pdf)

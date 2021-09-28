@@ -1,1 +1,0 @@
-> [[a-hall]]. "Are there any Elves in Anglo-Saxon Place-Names?" *Nomina: Journal of the Society for Name Studies in Britain and Ireland*. 29:pp. 61-80. 2006. [pdf](http://eprints.gla.ac.uk/3146/) [pdf](a/a-hall2006a.pdf)

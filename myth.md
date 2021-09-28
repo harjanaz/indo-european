@@ -1,6 +1,6 @@
 [[price-r]]
 
-see also [[narratives]]
+see also [[pie-narratives]]
 
 ## External Links
 [[rolinson2019-11-30]]

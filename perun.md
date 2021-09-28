@@ -4,7 +4,7 @@
 
 [Sky](gods-sky.md)
 
-[Thunder](god-thunder.md)
+[Thunder](pie-god-thunder.md)
 
 [[p-lajoye2016]]
 

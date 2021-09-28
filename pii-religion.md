@@ -7,7 +7,7 @@
 ---
 
 [[indo-aryan-branch]]
-
+[[a-keith1917]]
 [[e-kuzmina2007]] Historical Genesis
 [[v-sadovski2018b]]
 [[ahmadi2015]]
@@ -49,7 +49,7 @@ https://en.wikipedia.org/wiki/Bahram-Chobin
 ## Misc
 [[a-saeedipour2012a]] Religion
 [[a-parpola2015]] IE & Indus influence on Hinduism
-[[a-jacob1999]] Near Eastern Connections
+[[jacob-a1999]] Near Eastern Connections
 
 ## Sakas
 t-yu1998

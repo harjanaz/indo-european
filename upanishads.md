@@ -6,7 +6,7 @@
 [[e-deutsch-r-dalvi2004]] trans.
 ## Scholarship
 [[h-griswold1900]]
-[[b-lincoln2006]]
+[[lincoln2006]]
 [[b-black2007]]
 
 

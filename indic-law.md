@@ -1,4 +1,4 @@
-[[sanskrit-texts]] | [[pie-law]]
+[[sanskrit-texts]] | [[law]]
 
 ---
 

@@ -2,7 +2,7 @@
 
 
 [[n-allen2010]]
-[[a-kaliff2005]] Norse & Vedic Fire Rituals
+[[kaliff2005]] Norse & Vedic Fire Rituals
 [[c-anghelina2013]]
 
 ## External Links

@@ -1,7 +1,7 @@
 [[beings-male]] | [[pie-mortals-humans-people]]
 # Men
 
-- [[j-klein-et2017-20]] PIE Terms
+- [[klein-et2017-20]] PIE Terms
 - PIE `h₂nēr` ("man; strength, vital, energy")
 	- Skt. `nara`
 	- Lat. `Nerō`

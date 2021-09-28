@@ -11,6 +11,5 @@ words, stories/narratives/myths
 rituals
 beliefs
 
-## Theories
-[[geertz-c]]
+## Theories of Religion
 [[the-ontological-turn]]

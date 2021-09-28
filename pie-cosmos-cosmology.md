@@ -6,7 +6,7 @@
 ## Scholarship
 [[p-tate1982]]
 [[y-berezkin2016b]]
-[[a-kaliff2005]]
+[[kaliff2005]]
 [[a-kaliff2007]]
 [[m-ross1994]]
 [[m-ross-k-gade2012]] in Skalic Poems

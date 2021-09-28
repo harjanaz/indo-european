@@ -12,13 +12,11 @@ Greek/Universal *Ornithomancy*
 
 
 ## By Branch
+Present in Germanic, Celtic, Roman, at least
 
 Germanic and Celtic ([[h-davidson1988]]p259 "birds")
-Celtic ([[ross-a-1967]]p326-331)
 Roman ([[a-andren1997]]p108)
 
-
-[[arrian-anabasis1.25]]
 
 
 ## External Links

@@ -8,7 +8,6 @@ See also [[luwian]]
 ## Religion
 [[b-collins2007]]
 [[b-sergent2016]]
-[[a-mouton2015]]
 
 
 ## Texts

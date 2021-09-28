@@ -25,7 +25,6 @@ Indian philosophers came to regard the human as an immortal soul encased in a pe
 
 Vedas changed to monist through->Upanishads->Vedanta ("end of the Vedas")->tantric (jnana & bhakti-> increased position of Shiva and Vishnu) 
 
-[[b-smith1987]] defining hinduism
 
 ## External Links
 [Hinduism: Universalist Or Specificist Creed](https://aryaakasha.com/2016/10/29/hinduism-universalist-or-specificist-creed/)

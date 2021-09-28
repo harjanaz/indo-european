@@ -1,16 +1,11 @@
 [[divine-family]]
 # Divine Twins
 
-<iframe width="100%" height="350" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://en.wikipedia.org/wiki/Divine-twins"></iframe>
-
-[wiki](https://en.wikipedia.org/wiki/Divine-twins)
-
+[Wkipedia: Divine Twins](https://en.wikipedia.org/wiki/Divine-twins)
+[Wikipedia: PIE myth: Divine Twins](https://en.wikipedia.org/wiki/Proto-Indo-European-mythology#Divine-Twins)
 
 
-<iframe width="100%" height="350" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://en.wikipedia.org/wiki/Proto-Indo-European-mythology#Divine-Twins"></iframe>
-
-[wiki](https://en.wikipedia.org/wiki/Proto-Indo-European-mythology#Divine-Twins)
-
+- Anglo Saxon [[hengest-and-horsa]] ([[joseph1983]])
 
 - Skt. `divó nápātā`
 - Grk. `di[w]óskouroi`
@@ -22,7 +17,6 @@
 Celtic [[lugian-and-cernunnian]]
 
 [[g-oudaer2013]]
-
 
 ## Other
 [[d-frauenfelder1991]]
@@ -42,7 +36,7 @@ Celtic [[lugian-and-cernunnian]]
 ### Epithet:  "*Sky-Father's Sons*"
 - Skt. [Aśvins](sky-sons-indian) were called "Sons of Heaven" (*divó nápātā* & *dívo napātā*)
 - Baltic "Sons of God" (Latvian Dieva *dēli*, Lithuanian *Dievo sūneliai*)
-- Anglo-Saxon Hengest and Horsa
+- Anglo-Saxon [[hengest-and-horsa]]
 - Grk. [Castor & Pollux](castor-and-pollux.md) were called the "Youths of Zeus" (*Dioskouroi*)
 - Roman Gemini
 

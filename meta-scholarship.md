@@ -16,10 +16,10 @@
 [[e-polome1996a]]
 [[e-campanile1996]]
 [[j-puhvel1996]]
-[[d-sick1998]]
+[[sick1998]]
 [[j-colarusso1998]]
 [[m-detienne2000]] comparison, anth, history
-[[a-hendy2001]] an intellectual history of "myth"
+[[hendy2001]] an intellectual history of "myth"
 [[e-lyle2006a]]
 [[j-lechte2008]] 50 Key Thinkers
 [[j-colarusso2010]]
@@ -30,7 +30,7 @@
 [[c-littleton1966]]
 [[watkinsUKNOWN]]
 [[e-polome1999]]
-[[b-lincoln2006]]
+[[lincoln2006]]
 [[m-witzel2014]]
 
 

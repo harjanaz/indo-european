@@ -29,4 +29,4 @@ https://en.unesco.org/themes/generalregionalhistories#centralasia
 [[yuezhi]]
 
 
-![](pics/2738522.png)
+![](a/2738522.png)

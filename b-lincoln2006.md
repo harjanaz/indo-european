@@ -1,1 +1,0 @@
-[[b-lincoln2006.pdf]]

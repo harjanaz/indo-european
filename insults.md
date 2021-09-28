@@ -1,3 +1,3 @@
 [[dueling]]
 # Insults
-[[c-feuvre2019]]
+[[feuvre2019]]

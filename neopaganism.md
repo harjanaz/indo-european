@@ -1,2 +1,0 @@
-# Newpaganism
-[[richard-wagner]]

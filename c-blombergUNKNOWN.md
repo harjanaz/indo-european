@@ -1,1 +1,0 @@
-> [[c-blomberg]]. "*Yoroi-kizome*, *Genbuku* and Taking the Tonsure: Rites of Passage among the *Bushi* in Feudal Japan". [pdf](a/c-blombergUNKNOWN.pdf)

@@ -1,3 +1,3 @@
 [[fish]]
 # Catfish
-![](pics/wels-catfish.png)
+![](a/wels-catfish.png)

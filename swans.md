@@ -9,7 +9,6 @@ Swans are intimately associated with the divine twins in Indo-European religions
 They fly south for the winter. In Celtic literature one girl is said to be in bird form half the year.
 
 ## Celtic
-[[ross-a-1967]]p302-311
 
 ## Misc
 [[d-gershenson1992]]

@@ -3,7 +3,7 @@
 
 
 [[dhuy2013]]
-[[b-sergent2014]]
+[[sergent2014]]
 [[b-sergent2016]]
 [[r-hutton2013]] ch1, Britain
 [[t-price2015]] Scandinavia 13k BC forward

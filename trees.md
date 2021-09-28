@@ -26,7 +26,7 @@ tree of life
 
 
 ## Trustworthiness
-The basic word for ‘tree’ and ‘wood’ was *dor-u- [51], from which the Germanic terms for ‘trust, loyalty’ are derived (cf. Goth. triggwa ‘alliance’, OHG triuwa ‘loyalty’, OE trēow ‘belief, loyalty, truth’, etc.). [[j-klein-et2017-20]]
+The basic word for ‘tree’ and ‘wood’ was *dor-u- [51], from which the Germanic terms for ‘trust, loyalty’ are derived (cf. Goth. triggwa ‘alliance’, OHG triuwa ‘loyalty’, OE trēow ‘belief, loyalty, truth’, etc.). [[klein-et2017-20]]
 
 ## Branch
 ### Estonia

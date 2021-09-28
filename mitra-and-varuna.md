@@ -16,7 +16,7 @@
 
 - Mostly ([[c-littleton1973]]p8)
 
-- Mitra as contract ([[a-meillet1907]])
+- Mitra as contract ([[meillet1907]])
 
 ## Slavic Parallels
 [[sielicki-s-2017]]

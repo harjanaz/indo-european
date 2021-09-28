@@ -16,4 +16,4 @@ IE Background
 [[l-caldwell1983]]
 [[j-hill1995]]
 [[a-burman2013]] metaphors
-[[c-abram2017]] The name "Bee-Wolf" & Volsunga
+[[abram2017]] The name "Bee-Wolf" & Volsunga

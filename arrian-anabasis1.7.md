@@ -1,1 +1,0 @@
-> *"...[they] incited the Thebans to rebel against Alexander, making great play with the grand old words 'liberty' and 'autonomy'...* [‡'Freedom' and 'autonomy' are very frequently coupled, and the Greek sates were explicitly guaranteed these rights in the 'Charter' of the Corinthian League (see Pseudo-Demosthenes, 17.8)] [[arrian-anabasis]]1.7.5

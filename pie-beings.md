@@ -21,6 +21,12 @@ Germanic [[wights-whit-vættir]]
 [[beings-iranian]]
 [[celtic-beings]]
 
+## By Location
+### Of Underworld
+- [[ferryman]]
+- [[pie-underworld-lord-of-the-dead]]
+- [[pie-underworld-hellhound]]
+
 ## By Topic
 [[plants-herbs-vegetation]]
 [[chthonic]]
@@ -46,7 +52,7 @@ Grk. [[moirai]]
 - [Norns](norns.md)
 - [Mortals](pie-mortals-humans-people.md)
 [[animals]]
-- [Hero Slays Serpent](hero-slays-monster.md)
+- [Hero Slays Serpent](narrative-pie-hero-slays-monster.md)
 
 [[germanic-elves-alf]]
 [[giants]], [[ents]]

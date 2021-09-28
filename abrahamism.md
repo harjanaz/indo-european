@@ -6,4 +6,4 @@
 [[christianity]]
 [[islam]]
 
-[[ie-and-abrahamic]]
+[[ie-abrahamic]]

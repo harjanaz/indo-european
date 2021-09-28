@@ -6,7 +6,7 @@
 [[zodiac]]
 
 ## PIE Etymology
-- PIE `*h₂ster` [149] from `√h₂eh₁s-` [195] "burn, become dry". Pinault 2007 [[j-klein-et2017-20]]
+- PIE `*h₂ster` [149] from `√h₂eh₁s-` [195] "burn, become dry". Pinault 2007 [[klein-et2017-20]]
 - Gloss: ‘star’ (item 55 in [[bjorn2017]]). Possible connection with Semitic: *ʕaθar(-at)– ‘Venus, deified star’
 
 
@@ -19,7 +19,6 @@
 [[y-berezkin2012a]]
 [[c-anghelina2013]]
 [[c-anghelina2014]]
-[[a-berio2014]]
 [[d-stifter2018]]
 [[j-kotyk2018]] Indo-iranian & Chinese
 [[a-bomhard2019]]

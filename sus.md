@@ -4,7 +4,7 @@
 ## Scholarship
 ## By Type
 ### Pigs (Domesticated)
-[[a-hyllested2014]]p69
+[[hyllested2014]]p69
 ### Boars (Wild)
 [Celtic Boars](boars-celtic.md)
 #### Anglo-Saxon Boars

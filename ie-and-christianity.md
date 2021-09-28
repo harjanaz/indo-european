@@ -1,5 +1,5 @@
 [[abrahamism]]
-[[ie-and-abrahamic]]
+[[ie-abrahamic]]
 [[syncretism-conversion-isation]]
 
 ---
@@ -50,12 +50,11 @@
 
 
 
-## Dragons
-[[b-batto1992]]
+## Narratives
+[[hero-slays-dragon-christianity-ie]]
 
 
 ## Pagan view of Christianity
-[[a-faulkes1983]]
  [[r-hoffman1994]] Porphyry
  
 ## Christian view of Paganism

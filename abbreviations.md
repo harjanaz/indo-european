@@ -2,6 +2,11 @@ AHD = [[watkins2011]]
 P = Pokorny's Etymon
 
 
+## Biblio
+v = volume
+#1 = number
+n = note
+p = page
 
 ## Languages
 Eng English

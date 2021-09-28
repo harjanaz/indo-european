@@ -1,4 +1,4 @@
-[[scholars]] [[pagans]]
+[[pagans]]
 
 ---
 

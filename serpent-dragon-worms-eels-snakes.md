@@ -1,4 +1,4 @@
-[[pie-beings]], [[monsters]], [[hero-slays-monster]]
+[[pie-beings]], [[monsters]], [[narrative-pie-hero-slays-monster]]
 
 ---
 
@@ -46,7 +46,7 @@ As you can tell by the page title, this topic gets...tangled.
 [[draca]]
 
 ### Celtic
-[[nagy-j-2018]]
+[[nagy-j2018]]
 [[snakes-celtic]]
 [[celtic-serpent-dragon]]
 

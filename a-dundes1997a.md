@@ -1,1 +1,0 @@
-> [[a-dundes]] "The Flood as Male Myth Of Creation". in *From Game to War : And Other Psychoanalytic Essays on Folklore*. University Press of Kentucky, 1997. [pdf](a-dundes1997a.pdf) [proquest](http://ebookcentral.proquest.com/lib/uh/detail.action?docID=1915569)

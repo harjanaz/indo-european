@@ -19,7 +19,7 @@
 
 
 
-## Appearence in [[narratives]]
+## Appearence in [[pie-narratives]]
 [[pie-war-of-the-gods]]
 
 ## External Links

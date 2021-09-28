@@ -21,7 +21,6 @@ Old English ælf Old Saxon alf, Middle High German alp, Old Norse alfr (Swed
 - There may also have been a female cognate akin to the Greco-Roman nymphs, Slavic vilas, the Huldra of Germanic folklore, and the Hindu Apsaras. [?]
 ## British
 [[a-hall2004]] in Medieval England
-[[a-hall2006a]] in AS Placenames
 
 ## AS ælf
 OE for Elf
@@ -35,7 +34,6 @@ OE for Elf
 	
 ## Elf-Shot
 [[a-hall2005a]]
-[[a-hall2005b]]
 
 
 ## Norse Alfir

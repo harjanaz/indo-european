@@ -1,7 +1,7 @@
 [[journals]]
 
 ---
-# Journal of Indo-European Studies
+# *Journal of Indo-European Studies*
 ## External Links
 [Website](https://www.jies.org/)
 [Wikipedia](https://en.wikipedia.org/wiki/Journal-of-Indo-European-Studies)

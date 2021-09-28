@@ -1,4 +1,4 @@
-[[pie-law]]
+[[law]]
 [[pie-cosmic-order]]
 [[pie-fate]]
 

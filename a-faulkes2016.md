@@ -1,1 +1,0 @@
-> [[a-faulkes]]. *Hemings þáttr*. Dundee, 2016. [pdf](a-faulkes2016.pdf)

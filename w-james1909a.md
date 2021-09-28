@@ -1,1 +1,0 @@
-> *A Pluralistic Universe* [pdf](a/w-james1909a.pdf)

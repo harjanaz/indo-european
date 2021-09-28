@@ -1,4 +1,0 @@
-> [[a-gilmore]]. "Trees as a Central Theme in Norse Mythology and Culture: An Archaeological Perspective". *Scandinavian-Canadian Studies*, Volume 23, 2016. [pdf](a-gilmore2016.pdf)
-
-## Abstract
-This article, the inaugural winner of the journal’s Gurli Aagaard Woods Undergraduate Publication Award, combines the analysis of ancient literature with an archaeological approach in an effort to further interpret the presence and significance of trees in medieval Scandinavian culture. The analysis of textual references to trees such as Yggdrasill and Barnstokkr found in the Norse works Völuspá, Grímnismál, Gylfaginning, and Völsunga Saga, are combined with academic articles, juxtaposed with the examination of archaeological sites at Fröso, Herresta, Bjarsgård, Österfärnebo, and Karmøy, and integrated with modern Scandinavian attitudes to explore an interest in tree-human relationships, literature, and archaeology in medieval Scandinavia.

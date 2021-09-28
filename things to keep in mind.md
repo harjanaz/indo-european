@@ -4,7 +4,7 @@ In "IE" thought Gods, Birds, and Humans each have their own languages. Certain h
 
 
 DONT GET LOST IN THE MOTIFS/POETICS
-It is easy to get lost in Compaartive IE Studies. The rituals, narratives, motifs, and poetics are difficult to make out. They flow into one another. For example liquids are often equated, milk in one IE branch is semen in another [[dodge2020]]. One can slide from talking about "poets singing the praises of warriors before battles like birds" to "warrriors crying like birds at the beginning of battles" ([[iliad-3.2-7]]). Beyond this, many social functions that we moderns see a distinct roles (poets, priests, warriors) were originally not mutually exclusive [[j-heesterman1993p2]] [[j-heesertman1993p13]]&THAT BOOK ABOUT ODIN SACRIFICE. 
+It is easy to get lost in Compaartive IE Studies. The rituals, narratives, motifs, and poetics are difficult to make out. They flow into one another. For example liquids are often equated, milk in one IE branch is semen in another [[dodge2020-thesis]]. One can slide from talking about "poets singing the praises of warriors before battles like birds" to "warrriors crying like birds at the beginning of battles" ([[iliad-3.2-7]]). Beyond this, many social functions that we moderns see a distinct roles (poets, priests, warriors) were originally not mutually exclusive [[j-heesterman1993p2]] [[j-heesertman1993p13]]&THAT BOOK ABOUT ODIN SACRIFICE. 
 
 Cases from IE texts regarding speech as a revealer of secret knowledge, are irrelavant. Cases regarding non-priests (warriors, etc) sounding like birds, are irrelavant. Cases regarding groups of women sounding like birds, are irrelavant. 
 

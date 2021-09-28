@@ -7,7 +7,7 @@
 
 
 - PIE `mātēr-`
-	- Perhaps from meh2- "make ripe" (Tremblay (2003: 85 f.)) [[j-klein-et2017-20]]
+	- Perhaps from meh2- "make ripe" (Tremblay (2003: 85 f.)) [[klein-et2017-20]]
 	- Skt. `mātár-`
 	- Grk. `mḗtēr`
 	- LAt. `māter`

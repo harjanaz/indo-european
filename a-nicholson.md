@@ -1,1 +1,0 @@
-# Andrew J. Nicholson

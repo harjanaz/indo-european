@@ -25,8 +25,8 @@ But when it comes to mythology, I have yet to come across any wagon that Odin ow
 
 In Scandinavian tradition it is known as Tor’s wagon, not Odin’s. Karl, or more commonTorakall/Torekall, is one of the regional names for Tor. “Kall” = dialect for “karl” = “man”. The most known name for the Great Bear is Karlsvogna (Norwegian) or Karlavagnen (Swedish).
 
-![](pics/84676.jpg)
-![](pics/985875.jpg)
+![](a/84676.jpg)
+![](a/985875.jpg)
 
 
 The philosophical, medical and astronomical knowledge that we find in European peoples like the Celts and the Greeks also mirrors that of India such as we find in the Upanishads, Ayurvedic medicine and Vedic astrology.

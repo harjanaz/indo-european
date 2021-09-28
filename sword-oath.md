@@ -3,7 +3,7 @@
 
 d | d
 :----------------------:|:-------------------------:
-fig. | ![](pics/sword-oath5.jpg)
-![](pics/sword-oath2.jpg) | ![](pics/sword-oath3.jpg)
-![](pics/sword-oath4.jpg) | ![](pics/sword-oath1.jpg)
+fig. | ![](a/sword-oath5.jpg)
+![](a/sword-oath2.jpg) | ![](a/sword-oath3.jpg)
+![](a/sword-oath4.jpg) | ![](a/sword-oath1.jpg)
 

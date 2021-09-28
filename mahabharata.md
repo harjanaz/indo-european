@@ -2,7 +2,7 @@
 
 ---
 
-![](pics/928364.jpeg)
+![](a/928364.jpeg)
 
 
 [Translations](mahabharata-translations.md)

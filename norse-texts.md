@@ -5,12 +5,10 @@
 [[svipdags-mal]]
 [[hemings-thattr]]
 [[husdrapa]]
+Hemings þáttr
 
 ### Authors
 [[snorri-sturluson]]
-
-### Misc.
-[[a-faulkes1977a]]
 
 ### Kind
 [[skaldic]]
@@ -33,8 +31,6 @@
 ### Overviews
 [[m-ross2005]]
 [[m-chase2014]]
-### Misc. Topics
-[[a-faulkes1993a]]
 
 
 

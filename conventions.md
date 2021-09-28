@@ -3,7 +3,7 @@
 - I use my own citation style
 
 Authors = [[ashliman]]
-Works = [[nagy-j-2018]]
+Works = [[nagy-j2018]]
 
 ###  Dates
 ex. [[rolinson2020-02-22]] YEAR-MONTH-DAY

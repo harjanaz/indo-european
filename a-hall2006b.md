@@ -1,1 +1,0 @@
-> [[a-hall]]. "Folk-healing, Fairies and Witchcraft: The Trial of Stein Maltman, Stirling 1628". *Studia Celtica Fennica* Vol 3 (2006). [pdf](https://journal.fi/scf/article/view/7416) [academia](https://www.academia.edu/821447/Folk-healing-Fairies-and-Witchcraft-The-Trial-of-Stein-Maltman-Stirling-1628) [pdf](a/a-hall2006b.pdf)

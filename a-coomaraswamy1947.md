@@ -1,1 +1,0 @@
-> [[a-coomaraswamy]]. *Time and Eternity*. Artibus Asiae, MCMXLVII. [pdf](a-coomaraswamy1947.pdf)

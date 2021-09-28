@@ -2,5 +2,4 @@
 # Interlinear Latin Translations
 ## Ovid
 ### Metamorphoses
-[[a-hinds1895]]
 [[r-giles]]

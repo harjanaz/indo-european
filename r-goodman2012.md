@@ -1,1 +1,0 @@
-> Goodman, Russell B. "William James’s Pluralisms", *Revue internationale de philosophie*, vol. no 260, no. 2, 2012, pp. 155-176. [web](https://www.cairn-int.info/journal-revue-internationale-de-philosophie-2012-2-page-155.htm?contenu=article), [pdf](a/r-goodman2012.pdf)

@@ -1,1 +1,0 @@
-> [[ross-a]]; [[robins-d]]. The life and Death of a Druid Prince: The Story of Lindow Man An Archaeological Sensation. Summit Books, 1989. [archive.org](https://archive.org/details/lifedeathofdruid00anne), [pdf](a/a-ross-d-robins1989.pdf)

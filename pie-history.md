@@ -34,4 +34,4 @@ This page is concerned with the earliest (and pre-) PIE cultures. For later ones
 [[afanasievo-culture]]
 
 
-![](pics/290860.jpg)
+![](a/290860.jpg)

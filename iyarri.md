@@ -1,2 +1,2 @@
 # Luwian Deity (Iyarri)
-[[a-millington2013]] Iyarri = [[ares]]
+[[millington2013]] Iyarri = [[ares]]

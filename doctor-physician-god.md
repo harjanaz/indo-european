@@ -4,4 +4,4 @@
 - PIE `?`
 	- Grk. `~Apóllōn`
 	- Skt. `~Rudrá`
-	- Oberlies 2000 [[j-klein-et2017-20]]
+	- Oberlies 2000 [[klein-et2017-20]]

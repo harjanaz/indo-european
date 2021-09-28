@@ -3,7 +3,6 @@
 # Flood Myth
 Alias: Deulge
 
-As Male: [[a-dundes1997a]]
 
 [wikipedia](https://en.wikipedia.org/wiki/Flood-myth)
 

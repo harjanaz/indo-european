@@ -5,12 +5,12 @@
 This page is a bit vauge, it will be moved to [[pii-mitha-mitra]] and its subcategories.
 
 ## Etymology
-- from PIE `*mei̯-` ("give in exchange") [226] (cf. the discussion in Mayrhofer 2006 [[j-klein-et2017-20]]
+- from PIE `*mei̯-` ("give in exchange") [226] (cf. the discussion in Mayrhofer 2006 [[klein-et2017-20]]
 
 ## Scholarship
 [[p-brown1971]]p37, demons
 [[b-lincoln1977b]]
-[[b-lincoln1982b]]
+[[lincoln1982-mithra]]
 [[d-sick1996]]
 [[a-kaliff-o-sundqvist2006]]
 [[r-beck2006]]

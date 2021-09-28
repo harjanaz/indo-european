@@ -3,7 +3,7 @@
 ---
 
 
-Combat is also associated with [[pie-law]] and [[pie-leaders-leadership]].
+Combat is also associated with [[law]] and [[pie-leaders-leadership]].
 
 ## Warriors
 - [[warriors-individual]]

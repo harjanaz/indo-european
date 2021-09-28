@@ -6,7 +6,6 @@ Misc. [[j-smiley-r-kellogg2000]]
 
 [[heimskringla]]
 
-[[thorlaks-saga-byskups]]
 
 Gisla [[gisla-saga-surssonar]]
 Grettir [[grettis-saga-asmundarsonar]]

@@ -55,6 +55,6 @@ See Christian Guardian Angels
 ## 
 
 
-![](pics/c-tolley2009p177.png)
+![](a/c-tolley2009p177.png)
 
-![](pics/germanic-soul.png)
+![](a/germanic-soul.png)

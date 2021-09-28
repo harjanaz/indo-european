@@ -1,4 +1,5 @@
-[Animals](animals.md)
+[[animals]]
+
 # Bears
 [Celtic Bears](bears-celtic.md)
 
@@ -13,7 +14,7 @@ Bera sceal on hǣðe, eald and egesfull. (29-30)	The bear must [be] on the heath
 
 
 ## Other
-![](pics/04.gif)
+![](0001.gif)
 
   (leah-hatch) Hatch, Leah. "Taboo Deformation: How the Fear of Bears and Wolves Manifested Itself in Indo-European Culture". -The Bhlog-, 2014. [web](https://blog.as.uky.edu/thebhlog/?p=96)
   

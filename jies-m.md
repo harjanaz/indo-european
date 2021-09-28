@@ -3,7 +3,7 @@ Monographs by the [[jies]].
 001 [[skomal-polome1987]] 
 002 [[day-j2001]]
 1. [[p-friedrich1975]]
-2. [[h-birnbaum1977]]
+2. [[birnbaum1977]]
 3. [[e-polome1982]]
 4. [[e-polome1984ed]]
 5. [[a-diebold1985]]

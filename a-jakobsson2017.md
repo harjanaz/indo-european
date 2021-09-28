@@ -1,1 +1,0 @@
-> [[a-jakobsson]]. *The Troll Inside You: Paranormal Activity in the Medieval North*. Punctum books, 2017. [pdf](https://punctumbooks.com/titles/the-troll-inside-you-paranormal-activity-in-the-medieval-north/) [pdf](https://www.academia.edu/32484922/The-Troll-Inside-You-Paranormal-Activity-in-the-Medieval-North-Punctum-Books-2017-) [pdf](a/a-jakobsson2017.pdf)

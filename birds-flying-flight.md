@@ -9,7 +9,7 @@
 - PIE `*(H)ōu̯i̯o-` "egg"
 - 
 
-![](pics/98643.jpg)
+![](a/98643.jpg)
 
 [[a-chelariu2016]]
 

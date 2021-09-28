@@ -1,4 +1,4 @@
 [[sacrifice-offerings]]
 # Human Sacrifice
 
-[[b-lincoln1988]]
+[[lincoln1988-druids]]

@@ -32,14 +32,7 @@
 
 ## Latin & Greek Texts
 [[a-jong1997]] trans.
-
-## *Ayādgār ī Jāmāspīg* (*Jāmāspi*)
-[[d-agostini2012]] comments
-[[g-agostini2013]] comments apocalypse
-
 ## Middle Persian
-### Zand ī fragard ī Jud-dēw-dād
-[[d-agostini-e-kiesele-s-secunda2014]]
 ## Forgein Influences
 [[d-agostini2016b]] Greek vocab in Pahlavi texts
 ## ?

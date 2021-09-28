@@ -1,1 +1,0 @@
-> [[a-rutledge]]. Review of [[j-helgason2017]]. Journal of American Folklore, Volume 131, Number 520, Spring 2018, pp. 234-23. [jstor](https://www.jstor.org/stable/10.5406/jamerfolk.131.520.0234), [pdf](a/a-rutledge2018a.pdf)

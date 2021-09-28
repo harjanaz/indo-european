@@ -2,3 +2,5 @@
 
 ## Abstract
 This article seeks evidence among our extensive Scandinavian mythological texts for an issue which they seldom discuss explicitly: the conceptualisation and handling of illness and healing. Its core evidence is two runic texts (the Canterbury Rune-Charm and the Sigtuna Amulet) which conceptualise illness as a þurs ('ogre, monster'). The article discusses the semantics of þurs, arguing that illness and supernatural beings could be conceptualised as identical in medieval Scandinavia. This provides a basis for arguing that myths in which gods and heroes fight monsters provided a paradigm for the struggle with illness. The article proceeds, more speculatively, to use the Eddaic poem Skírnismál and the Finnish Riiden synty as the basis for arguing that one cause of illness could be the transgression of moral norms.
+
+#eh

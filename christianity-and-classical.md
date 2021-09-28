@@ -7,7 +7,6 @@ christianity-and-ie
 [[r-fletcher1997]]
 [[l-johnson2009]]
 [[j-odonnell2015]]
-[[b-bogh2015]]
 [[l-hurtado2016]]
 [[c-nixey2018]]
 

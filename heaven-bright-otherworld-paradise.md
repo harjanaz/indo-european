@@ -1,4 +1,4 @@
-Opposite: [[pie-hell-dark-underworld]]
+Opposite: [[hell-dark-underworld-realm-of-dead-afterlife]]
 # Heaven / Bright Otherworld / Paradise
 
 Meadow in the Sky

@@ -6,4 +6,4 @@
 [[achlys]]
 
 
-![](pics/90864.jpeg)
+![](a/90864.jpeg)

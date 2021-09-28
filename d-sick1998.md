@@ -1,4 +1,0 @@
-> [[d-sick]]. "Dumézil, Lincoln, and the Genetic Model". [pdf](a/d-sick1998.pdf)
-
-## Abstract
-The genetic model, where one posits a derivation from a common ancestor in order to interpret developments in the languages, religions, or other aspects of cultures of related peoples, has been used in Indo-European studies since the inception of the field. The application of this model is evident in both the work of Georges Dumézil and his critic Bruce Lincoln. The difference in their respective methods of application of the model begins to explain a basic element of their disagreement. By tempering the methods of application employed by Lincoln and Dumézil a resolution of the disagreement is possible. An example of this tempered method of application is provided: myths concerning the movements of the soul to a particular cosmological structure described in Plato's *Phaedrus* are compared with those recounted about a similar structure in Vedic hymns.

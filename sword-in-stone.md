@@ -5,7 +5,7 @@
 
 [[w-wentz1911]] ch5
 [[j-bord-c-bord1992]] ch14
-[[c-littleton-l-malcor1994]]
+[[littleton-malcor1994]]
 [[p-thornhill2000]]
 [[l-malkova2002]]
 [[gra-anderson2004]]

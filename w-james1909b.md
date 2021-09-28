@@ -1,1 +1,0 @@
-> *The Meaning of Truth* [pdf](a/w-james1909b.pdf)

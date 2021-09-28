@@ -25,7 +25,7 @@
 [[s-nasr2008]]
 [[w-sundermann2008]]
 [[j-kellens2009]] meta relation between philology & history
-[[d-agostini2010]] Good deeds (*dēn*) and Dante
+[[agostini2010]] Good deeds (*dēn*) and Dante
 [[b-lincoln2019]] daēnā
 
 
@@ -35,8 +35,7 @@
 ### Beings
 [[ameretat]]
 [[zurvan]]
-### Ritual
-[[c-herrenschmidt2003]]
+
 ### Connections with other groups, syncretism
 [[iranian-afro-asiatic]]
 [[j-russell1987]] In Armenia

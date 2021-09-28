@@ -1,3 +1,0 @@
-# Phallus
-
-[[a-palsdottir]]

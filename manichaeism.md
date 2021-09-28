@@ -8,7 +8,6 @@
 ## Misc Topics
 [[p-mirecki-j-beduhn2001]]
 [[j-beduhn2000]] The Body
-[[a-esmailpour2005]] Gnosis & Creation
 [[j-beduhn2009]] Articles
 ## China
 [[l-tsun1976]]

@@ -14,7 +14,7 @@ Horizontal pages: [[pie-poets]]
 [[similes]]
 [[formulas]]
 [[epithets]]
-[[narratives]]
+[[pie-narratives]]
 [[ring-composition]]
 
 
@@ -23,7 +23,7 @@ Horizontal pages: [[pie-poets]]
 [[chatterji1968]] baltic & vedic
 [[renoir1988]] Germanic & PIE Oral-Formula
 [[c-watkins1995]]
-[[a-faulkes1997]] Poetic Inspiration (see [mead](mead.md))
+[[a-faulkes1997]] Germanic Poetic Inspiration (see [mead](mead.md))
 [[galjanic2007]]
 [[a-tuck2013]] meter & textiles
 [[j-ramon2013]] onomastics

@@ -44,7 +44,7 @@ French dude also
 ## Stone
 [[a-hyllested2019]]
 
- *h ek̑ -me/on- meaning ‘stone’ in some daughter languages and ‘sky’ in others (or having both meanings in one and the same language, cf. Skt. aśman- ‘stone’, probably ‘sky’, Av. asman- ‘stone; sky’, Gk. ákmōn ‘anvil’, ‘sky’ in ákmōn ... ouranós [Hsch.] [156]) one may assume that speakers of PIE conceptualized the sky as made of stone, the solution is less evident in cases like Lat. fāgus ‘beech’ vs. Gk. phēgós ‘oak’ [287], where the divergence of attested meanings makes it difficult to assess the situation in the proto-language. [[j-klein-et2017-20]]
+ *h ek̑ -me/on- meaning ‘stone’ in some daughter languages and ‘sky’ in others (or having both meanings in one and the same language, cf. Skt. aśman- ‘stone’, probably ‘sky’, Av. asman- ‘stone; sky’, Gk. ákmōn ‘anvil’, ‘sky’ in ákmōn ... ouranós [Hsch.] [156]) one may assume that speakers of PIE conceptualized the sky as made of stone, the solution is less evident in cases like Lat. fāgus ‘beech’ vs. Gk. phēgós ‘oak’ [287], where the divergence of attested meanings makes it difficult to assess the situation in the proto-language. [[klein-et2017-20]]
 
 
 ## Color

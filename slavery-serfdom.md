@@ -1,4 +1,4 @@
-[[pie-society-community-roles]]
+[[society-community]]
 [[social-units]]
 [[social-structure-class-caste]]
 # Slavery & Serfdom

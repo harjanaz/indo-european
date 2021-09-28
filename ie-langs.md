@@ -3,7 +3,6 @@
 ---
 
 [[greek-lang]]
-[[proto-ger-lang]]
 [[italo-celtic-lang]]
 [[latin-lang]]
 [[proto-indo-iranian-lang]]

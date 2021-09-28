@@ -6,7 +6,7 @@
 [[j-didier2009]]
 [[y-berezkin2010]]
 [[e-hernykh2017]]
-[[b-sergent2018]]
+[[sergent2018]]
 
 ## Ymir & Auðhumla
 "Many years ago, I sought to interpret [Ymir](ymir.md) and [Auðhumla](authhumla) as inherited from a braod "Indo-European tradition," but I would now be more inclined to see a more fluid Eurasian continuum." See (b-lincoln1981:69-95) & (b-lincoln2003:59-76).

@@ -8,9 +8,7 @@ Keep in mind: Folklore often defies boundaries.
 
 ## Scholarship
 [[v-propp1928]]
-[[a-dundes1962]] Emic & Etic Units of Study
 [[v-propp1984b]] misc. essays
-[[a-dundes1997c]] Motif vs Tale Type
 [[e-balsamo2012]] on Propp
 [[y-berezkin2010]] PATTERNS MAP
 
