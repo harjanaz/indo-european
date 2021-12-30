@@ -6,6 +6,6 @@
 
 [[j-lindow1994]]
 [[j-lindow1988]]
-[[k-kershaw1997]]p26
+[[kershaw1997-2000]]p26
 
 Associated with goats

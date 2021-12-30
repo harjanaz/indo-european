@@ -2,7 +2,7 @@
 
 ---
 
-[[s-jamison1996]]
+[[jamison1996]]
 [[z-he2011]] in China
 
 ## Composition
@@ -18,5 +18,5 @@
 - Chinese zodiac? How they chose the animals of the Zodiac?
 
 ## External Links
-[[c-rolinson2019-11-14]]
+[[rolinson2019-11-14]]
 [[rolinson2020-02-22]]

@@ -1,4 +1,4 @@
-[[pie-beings]]
+[[beings]]
 [[beings-female]]
 [[birds-flying-flight]]
 

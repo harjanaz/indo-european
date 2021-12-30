@@ -1,4 +1,4 @@
 # Katja Ritari
 ## Biblio
-- [[k-ritari-a-bergholm2015eds]]
-	- [[a-bergholm-k-ritari2015]]
+- [[k-ritari-bergholm2015eds]]
+	- [[bergholm-k-ritari2015]]

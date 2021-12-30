@@ -1,1 +1,0 @@
-> [[j-jurewicz]]. [[j-jurewicz2005.pdf]]

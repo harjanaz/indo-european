@@ -1,5 +1,10 @@
 > [[agostini]]. "Encountering a Beautiful Maiden: On the Zoroastrian *dēn* in Comparison with Dante’s Beatrice". Bulletin of the Asia Institute
-New Series, Vol. 24 (2010), pp. 15-23. [jstor](https://www.jstor.org/stable/43896117), [academia](https://www.academia.edu/9791606/Encountering-a-Beautiful-Maiden-On-the-Zoroastrian-d%C4%93n-in-Comparison-with-Dante-s-Beatrice), [pdf](a/d-agostini2010.pdf)
+New Series, Vol. 24 (2010), pp. 15-23. 
+
+> [jstor](https://www.jstor.org/stable/43896117)
+> [academia.edu](https://www.academia.edu/9791606/Encountering-a-Beautiful-Maiden-On-the-Zoroastrian-d%C4%93n-in-Comparison-with-Dante-s-Beatrice)
+> [pdf](a/agostini2010.pdf)
+> #nodoi
 
 
 ## Abstract

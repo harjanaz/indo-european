@@ -1,1 +1,0 @@
-> [[a-long]]. *Death and Immortality in Ancient Philosophy*. Cambridge University Press, 2019. [pdf](a/a-long2019.pdf)

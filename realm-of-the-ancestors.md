@@ -1,6 +1,6 @@
-[[pie-ancestors]]
+[[ancestors-the-dead]]
 
 ---
 
 ## External Links
-[[c-rolinson-dead]]
+[[rolinson-dead]]

@@ -3,9 +3,9 @@
 # Trifunctional Sacrifice
 [[hanging]], [[drowning]], [[wounding]]
 
-[[d-evans1979]]
-[[a-lacy1980]]
-[[n-allen2018]]
+[[evans1979]]
+[[lacy1980]]
+[[allen-n2018-khannas]]
 
 [[kaca]]
 

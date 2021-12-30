@@ -1,2 +1,2 @@
-[[pie-deities]]
+[[deities]]
 

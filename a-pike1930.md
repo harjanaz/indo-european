@@ -1,1 +1,0 @@
-> [[a-pike]]. *Indo-Aryan Deities And Worship - As Contained In The Rig Veda*. The Supreme Council, 1930. [pdf](https://archive.org/details/Indo-aryanDeitiesAndWorship-AsContainedInTheRigVeda), [pdf](a/a-pike1930.pdf)

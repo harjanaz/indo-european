@@ -1,4 +1,4 @@
-[[ie-and-christianity]] | [[symbols]]
+[[ie-christianity]] | [[symbols]]
 
 ---
 
@@ -6,7 +6,6 @@
 The cross, whether pagan of christian, acts as an [[axis-mundi]]. It gets associated with the [[world-tree]] (in the form of the pagan [[yggdrasil]] and Christian [[christmas-tree]]).
 
 ## Scholarship
-[[j-bord-c-bord1992]] ch7
 [[g-murphy2000]] Appendix C
 
 

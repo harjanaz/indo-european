@@ -3,8 +3,8 @@
 ---
 
 ## General
-[[k-kershaw1997]]
-[[a-zavaroni2006]]
+[[kershaw1997-2000]]
+[[zavaroni2006]]
 [[d-dutton2015]]
 [[k-patton2009]]
 [[m-meulder2016]]
@@ -70,11 +70,11 @@ Rides [[sleipnir]]
    
    
 ### "Queer"
-[[a-franks2019]]
+[[franks2019]]
 ## Eschatology & War Dead
-[[a-hultgard2011]]
+[[hultgard2011]]
 ## & Mithras
-[[a-kaliff-o-sundqvist2006]]
+[[kaliff-sundqvist2006]]
    
 
    
@@ -108,7 +108,7 @@ From the noun: ódr m.
 Rides Sleipnir
 
 ## Narratives
-[[narrative-pie-war-of-the-foundation]]
+[[narrative-war-of-the-foundation]]
 
 ## External Links
 [[c-rolinson2019-8-16b]]
@@ -116,6 +116,6 @@ Rides Sleipnir
 [[t-powers2019-11-15b]] Hermes & Odin 
 [[rolinson-mythlingwar]]
 [[c-rolinson-cosmicorder]]
-[[c-rolinson2019-12-18]]
+[[rolinson2019-12-18]]
 [[c-rolinson2019-12-12]]
 [[c-rolinson2019-12-24]]

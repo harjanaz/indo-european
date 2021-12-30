@@ -1,5 +1,7 @@
+[[life]]
+
 # Earth & Land
-[[a-willi2007]]
+[[willi2007]]
 - Slavic Mokosh
 - Celtic Danna
 - Indo-Iranian Anahita

@@ -1,1 +1,0 @@
-> Laidlaw, James. Review of Holbraad & Pedersen, 2017. Social Anthropology/Anthropologie Sociale (2017) 25, 3 396–402. © 2017 European Association of Social Anthropologists. doi:10.1111/1469-8676.12441  [pdf](a/j-laidlaw2017.pdf)

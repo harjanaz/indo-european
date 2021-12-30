@@ -1,3 +1,3 @@
 # Paris
 
-[[a-petrosyan2017]]
+[[petrosyan2017]]

@@ -1,4 +1,4 @@
-[[pie-death]]
+[[death]]
 
 ---
 

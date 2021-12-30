@@ -7,4 +7,4 @@
 
 
 ## Epic
-[[a-petrosyan2002]] IE & Near Eastern
+[[petrosyan2002]] IE & Near Eastern

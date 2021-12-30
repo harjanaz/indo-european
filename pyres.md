@@ -1,8 +1,8 @@
-[[fire]], [[smoke]], [[pie-death]]
+[[fire]], [[smoke]], [[death]]
 
 ---
 
 [[sati]]
 
 ## External Links
-[[c-rolinson2019-07-12]]
+[[rolinson2019-07-12]]

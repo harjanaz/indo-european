@@ -1,4 +1,4 @@
-[[pie-horses]], [[horseshoes]]
+[[horses]], [[horseshoes]]
 
 
 [[merceron2018]]

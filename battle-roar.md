@@ -1,1 +1,1 @@
-see [[pie-combat-orality]]
+see [[combat-orality]]

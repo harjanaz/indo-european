@@ -1,1 +1,1 @@
-> [[m-york]]. "Greco-Roman Interpretation of Indo-European Demonology". *Second Session on Demonology*, 1993. [pdf](a/m-york1993.pdf)
+> [[york]]. "Greco-Roman Interpretation of Indo-European Demonology". *Second Session on Demonology*, 1993. [pdf](a/m-york1993.pdf)

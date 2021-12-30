@@ -1,1 +1,0 @@
-> [[d-martin]]. *Inventing Superstition: from the Hippocratics to the Christians*. [pdf](a/d-martin2004.pdf)

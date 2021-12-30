@@ -1,4 +1,4 @@
-[[pie-kings-rulers]]
+[[king-ruler-chief-leader-lord]]
 
 # Celtic Sacred King
 

@@ -4,7 +4,7 @@ This page is for the hierarchized form of [[society-community]].
 ---
 
 ## Theories
-Dumezil's [[functions-tripartite-ideology]]
+Dumezil's [[functions]]
 
 
 ## By Branch

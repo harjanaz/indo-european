@@ -1,7 +1,9 @@
-[[bibliography]]
+[[biblio]]
 
 see also [[major-reference-works]]
 
 ---
 
-[EIEC (i.e. Encyclopedia of Indo-European Culture)](eiec.md)
+[[gamkrelidze-ivanov-vy1995]]
+[[mallory-adams-d1997]]
+[[buck1949]]

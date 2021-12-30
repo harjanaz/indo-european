@@ -1,4 +1,4 @@
-[[ie-time]]
+[[time]]
 
 ---
 
@@ -15,7 +15,6 @@
   [[new-years]]
   
   [[m-quintela2018a]]
-  [[j-bord-c-bord1992]] ch18 britiain
   
   ## Cyclical
   > In addition to *u̯ et-es- [179] other terms for ‘year’ seem to refer to the idea of time as cyclical movement, cf. *h2et-no- [179] from *h2et- ‘go’ (: Skt. átati ‘walks’ [121]), *i̯ēr- [179] probably from *i̯eh2- ‘go, walk’ [121], hence *i̯ēh2-r-, cf. also the Homeric formula (Od. 1.16, 7.261, 14.287) all’ hóte dē étos ẽlthe periploménōn eniautõn (lit.) ‘but when (a) year of the revolving years had come’. The same idea may underlie toch. A pukäl, B pikul ‘year’, if these forms derive from *pi-ku̯l̥- corresponding to the Gk. epithet epiplómenos ‘revolving’ (cf. periploménōn above) said of eniautós ‘year’ (cf. Katz 2004).    [[klein-et2017-20]]
@@ -62,7 +61,7 @@ https://jakubmarian.com/december-in-european-languages/
  
  
  ## Days & Nights Helios Animals
-[[m-west2007]]224 suggests that the 350 cows and 350 sheep of the god Helios in the Odyssey were the days and nights of the year.
+[[west2007-poetry]]224 suggests that the 350 cows and 350 sheep of the god Helios in the Odyssey were the days and nights of the year.
 
 
 ---

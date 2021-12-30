@@ -1,1 +1,1 @@
-[[world-warrior-afterlife]]
+[[warrior-death]]

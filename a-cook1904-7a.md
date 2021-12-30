@@ -1,3 +1,0 @@
-> [[a-cook-a]]. "The European Sky-God". *Folklore*, Vol. 15, No. 3 (Sep. 29, 1904), pp. 264-315. A part of [[a-cook1904-1907]].
-
-[.pdf](a-cook1904-7a.pdf) [jstor](https://www.jstor.org/stable/1254143)

@@ -1,1 +1,1 @@
-> [[c-keary]]. *The Dawn of History: An Introduction to Pre-Historic Study*. [gutenberg](https://www.gutenberg.org/ebooks/52030)
+> [[keary]]. *The Dawn of History: An Introduction to Pre-Historic Study*. [gutenberg](https://www.gutenberg.org/ebooks/52030)

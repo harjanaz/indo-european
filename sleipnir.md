@@ -1,4 +1,4 @@
-[[pie-horses]]
+[[horses]]
 [[odin]]
 # Sleipnir
 

@@ -1,6 +1,0 @@
-- [[howdy]]
-	- [[about]]
-	- [[dodge]]
-	- [[home]]
-		- [[bibliography]]...REST OF WIKI
-		- [[content]]...REST OF WIKI

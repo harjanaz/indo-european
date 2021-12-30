@@ -5,7 +5,7 @@
 
 guardian of the ṛta
 
-[[a-parpola1985]]
+[[parpola1985]]
 [[c-anghelina2013]]
 
 ## External Links

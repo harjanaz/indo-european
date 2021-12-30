@@ -6,13 +6,13 @@
 
 [[zend-avesta]]
 [[vendidad]]
-[[phalavi-texts]]
+
 
 [[p-skjaervo2011]] misc.
 
 ## Bundahišn
 [[d-agostini2017a]] trans 34
-[[d-agostini2017b]] comments on 33:17-28
+[[agostini2017-apocalypse]] comments on 33:17-28
 [[agostini-thrope2020]]
 
 
@@ -25,13 +25,13 @@
 [[e-kanga2013]] trans. parsed
 
 ## Vendidad
-[[j-darmesteter1898]] trans.
+[[darmesteter1898]] trans.
 
 ## Gathas
-[[m-west2010]] trans.
+[[west2010]] trans.
 
 ## Latin & Greek Texts
-[[a-jong1997]] trans.
+[[jong1997]] trans.
 ## Middle Persian
 ## Forgein Influences
 [[d-agostini2016b]] Greek vocab in Pahlavi texts

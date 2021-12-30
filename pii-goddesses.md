@@ -1,3 +1,3 @@
-[[pie-goddesses]]
+[[goddesses]]
 
 ---

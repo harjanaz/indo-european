@@ -1,1 +1,0 @@
-> [[a-gunter]]; [[p-jett]]. Ancient Iranian Metalwork. [pdf](a/a-gunter-p-jett1992.pdf)

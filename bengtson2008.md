@@ -1,0 +1,7 @@
+> [[bengtson]] (ed). *In Hot Pursuit of Language in Prehistory: Essays in the four fields of anthropology*. Book, article collection. [doi](https://doi.org/10.1075/z.145)
+
+
+## Description
+> Compiled in honor and celebration of veteran anthropologist Harold C. Fleming, this book contains 23 articles by anthropologists (in the general sense) from the four main disciplines of prehistory: archaeology, biogenetics, paleoanthropology, and genetic (historical) linguistics. Because of Professor Fleming’s major focus on language — he founded the Association for the Study of Language in Prehistory and the journal _Mother Tongue_ — the content of the book is heavily tilted toward the study of human language, its origins, historical development, and taxonomy. Because of Fleming’s extensive field experience in Africa some of the articles deal with African topics.  
+> <br>
+> This volume is intended to exemplify the principle, in the words of Fleming himself, that each of the four disciplines is enriched when it combines with any one of the other four. The authors are representative of the cutting edge of their respective fields, and this book is unusual in including contributions from a wide range of anthropological fields rather than concentrating in any one of them.

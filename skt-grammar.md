@@ -10,7 +10,6 @@ http://sanskrit.segal.net.br/en/mw?id=2176#2176
 
 ## Textbooks
 [[t-burrow1973]]
-[[t-egenes1989]] + [videos](https://www.youtube.com/watch?v=UyxPzCdZXTg&list=PLMFNyeu-vMRgdAryxpnFKmZsFaQu7E4Ni) + [hw](https://www.yesvedanta.com/sanskrit/) [[m]]
 
 ## Grammars
 Friedrich Max Müller: A Sanskrit Grammar for Beginners

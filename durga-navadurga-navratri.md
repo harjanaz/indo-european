@@ -21,5 +21,5 @@
 [[c-rolinson2019-9-13b]]
 [[rolinson-mythlingwar]]
 [[c-rolinson2019-12-08]]
-[[c-rolinson2019-07-12]]
-[[c-rolinson2019-07-29]]
+[[rolinson2019-07-12]]
+[[rolinson2019-07-29]]

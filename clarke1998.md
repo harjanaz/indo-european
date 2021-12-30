@@ -1,0 +1,10 @@
+> [[clarke]]. *The Head Cult: tradition and folklore surrounding the symbol of the severed human head in the British Isles*. Thesis for PhD at University of Sheffield.
+
+> [website](https://etheses.whiterose.ac.uk/3472/)
+> [pdf](clarke1998.pdf)
+
+## Relavance
+p63 PIE roots of [[heads-skulls]]
+
+## Abstract
+> Evidence relating to the use and veneration of the human head in a religious context is found repeatedly in the archaeological record and folklore of the British Isles. This has been documented from the earliest period, and manifests itself throughout prehistory and recent history in a variety of forms, from human skulls used as talismans to carved stone heads produced as part of a folk tradition of long standing. Until recently, much of the literature relating to the head as a sacred symbol has been produced from the perspective of Celtic studies, the material being interpreted as evidence for the existence of a "Celtic cult of the head" with roots in the pagan Iron Age. It has been claimed that this cult left an indelible mark both upon the archaeological record and the popular consciousness of later peoples, which has survived in superstition and folklore. This study aims to examine the evidence from archaeology, documentary sources and the folk tradition from outside the confines of the Celtic viewpoint, and to discuss the relationships between the different forms of material through a series of case studies. A cross-disciplinary approach is adopted as a method of interpreting this material using approaches from the viewpoints of both folklore and archaeology. Existing sources are complemented by original fieldwork, incorporating material collected from a wide range of continuing traditions surrounding the use of carved human heads and skulls. These were used for a variety of protective and luck-bringing purposes within living memory, many of them having been overlooked by previous studies. This study demonstrates the importance of integrating evidence from both archaeological and folkloric contexts as a method of understanding and interpreting ritual and religion from the past.

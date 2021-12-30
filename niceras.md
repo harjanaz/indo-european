@@ -1,4 +1,4 @@
-[[pie-beings]]
+[[beings]]
 # Niceras (AS Water Monsters)
 
 

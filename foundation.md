@@ -1,7 +1,7 @@
 [[ie-descent-founders]]
 # Foundation
 
-[[a-volpe1993]]
+[[volpe1993]]
 
 
-[[k-kershaw1997]]p226
+[[kershaw1997-2000]]p226

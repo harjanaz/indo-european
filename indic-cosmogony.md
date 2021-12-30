@@ -1,4 +1,4 @@
-[[pie-creation-cosmogony]]
+[[creation-cosmogony]]
 
 ---
 

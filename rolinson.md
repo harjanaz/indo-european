@@ -1,4 +1,4 @@
-[[pagans]]
+[[content-producers]]
 
 ---
 
@@ -10,7 +10,7 @@ He writes articles for the blog [[aryaakasha]]. They can be found referenced thr
 - [Man Cannot Ban What Man Did Not Create – On Sweden’s Proposed “Rune-Ban”](https://aryaakasha.com/2019/05/23/man-cannot-ban-what-man-did-not-create-on-swedens-proposed-rune-ban/)
 [[c-rolinson2019-8-16b]]
 [[c-rolinson2019-9-5]]
-[[c-rolinson2019-09-6]]
+[[rolinson2019-09-6]]
 [[c-rolinson2019-9-8a]]
 [[c-rolinson2019-9-8b]]
 

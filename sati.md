@@ -12,5 +12,5 @@
 [[c-rolinson2018-10-10a]]
 [[c-rolinson2018-10-10b]]
 [[rolinson2020-02-22]]
-[[c-rolinson2019-07-12]]
-[[c-rolinson2019-07-29]]
+[[rolinson2019-07-12]]
+[[rolinson2019-07-29]]

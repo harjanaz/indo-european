@@ -1,2 +1,2 @@
 # Shinto
-[[a-miller1984]]
+[[miller-a1984]]

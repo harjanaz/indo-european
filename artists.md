@@ -1,5 +1,3 @@
-[[bibliography]]
+[[biblio]]
 
 ---
-
-[[rodrigues]]

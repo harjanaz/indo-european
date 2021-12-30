@@ -2,7 +2,7 @@
 
 ---
 
-- [States of Mind](states-of-mind.md) are represented by [Birds](birds-flying-flight) flying into and out of the warrior's head.
+> [[states-of-mind]] are represented by [Birds](birds-flying-flight) flying into and out of the warrior's head. #dodge 
 
 Emotions, drugs, etc.
 
@@ -10,9 +10,9 @@ Emotions, drugs, etc.
 
 - [[rage-madnes-fury-mania]]
 - [[terror-fear]]
-- [[madness]]
+- [[madness-insanity]]
 
 ---
 
 # Sources
-[[a-forbes1905]]
+[[forbes1905]]

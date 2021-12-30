@@ -1,0 +1,1 @@
+[LRC](https://lrc.la.utexas.edu/lex/semantic/field/PA_SH)

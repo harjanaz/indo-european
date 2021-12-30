@@ -1,4 +1,4 @@
-[[animal-sacrifice]]
+[[animal-sacrifices]]
 
 ---
 

@@ -1,3 +1,5 @@
+[[narrative-ambrosia-cycle-of-the-mead]]
+
 # Myth: The Churning Of The Ocean
 
 - **Sources**: Mahabharata, Bhagavata Purana, Vishnu Purana, & in paintings.
@@ -7,4 +9,4 @@
 
 
 ## External Links
-[Wikipedia: Samudra manthan: Comparative Mythology](https://en.wikipedia.org/wiki/Samudra-manthan#Comparative-mythology)
+[Wikipedia: Samudra_manthan#Comparative_mythology](https://en.wikipedia.org/wiki/Samudra_manthan#Comparative_mythology)

@@ -1,11 +1,12 @@
 [[ritual]]
 # Initiation
 
-[[g-hinge2016]]
+## External Links
+[[rolinson2019-11-14]]
+
+[[hinge2016]]
 [[d-knight2012]]
 [[w-kaelber1978]]
-[[g-weckman1970]]
-[[j-helfer1968]]
 
 [[c-guyonvarch2002]] Druidic
 
@@ -13,7 +14,7 @@
 
 [[b-lincoln1979]] Women's initiation
 
-[[a-chelariu2016]]
+[[chelariu2016]]
 
 ## Norse
 The Dead Without Status by Juha Pentikäinen in Nordic Folklore: Recent Studies:

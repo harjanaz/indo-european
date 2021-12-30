@@ -1,11 +1,14 @@
-[[bibliography]]
+[[biblio]]
 
 ---
 
+[[m-detienne2000]]
+
+[[eliade]]
+
 ## Positive
 [[j-vries1967]]
-[[h-penner1969]]
-[[g-larson1974]]
+[[larson1974-intro]]
 [[u-strutynski1974]]
 [[j-haudry1979]] anteposition
 [[j-tashjean1981]]
@@ -13,23 +16,22 @@
 [[greimas1987]] Semiotics
 [[n-allen1990]] on "structure"
 [[r-matasovic1996]]
-[[e-polome1996a]]
+[[polome1996-religion]]
 [[e-campanile1996]]
 [[j-puhvel1996]]
 [[sick1998]]
 [[j-colarusso1998]]
 [[m-detienne2000]] comparison, anth, history
 [[hendy2001]] an intellectual history of "myth"
-[[e-lyle2006a]]
+[[lyle2006-narrative]]
 [[j-lechte2008]] 50 Key Thinkers
 [[j-colarusso2010]]
 [[d-olshansky2013]] Structuralism, Propp
 [[e-lyle2017]]
-[[o-freiberger2018]]
 [[m-quintela2018b]]
 [[c-littleton1966]]
 [[watkinsUKNOWN]]
-[[e-polome1999]]
+[[polome1999]]
 [[lincoln2006]]
 [[m-witzel2014]]
 

@@ -3,4 +3,4 @@
 ---
 
 ## External Links
-[[c-rolinson-dead]]
+[[rolinson-dead]]

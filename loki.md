@@ -1,4 +1,4 @@
-[[pie-beings]]
+[[beings]]
 [[beings-male]]
 
 Indic [Tvaṣṭṛ](tvastr.md)

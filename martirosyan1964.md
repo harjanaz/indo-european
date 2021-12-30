@@ -1,0 +1,1 @@
+> [[martirosyan]]. Studies in Armenian Etymology with Special Emphasis on Dialects and Culture. [pdf](a/h-martirosyan1964.pdf)

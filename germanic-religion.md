@@ -2,7 +2,7 @@
 
 ---
 
-[[h-kratz1985]]
+
 ## Scholarhip
 ### General Overviews
 [[j-grimm1835-78]]

@@ -1,1 +1,0 @@
-[pdf](j-mallory1989.pdf)

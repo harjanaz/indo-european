@@ -1,2 +1,0 @@
-> Olsen, Birgit Anette. "Aspects of family structure among the Indo-Europeans". in Olsen, Birgit Anette Olsen; Olander, Thomas; Kristiansen, Kristian (eds). *Tracing the Indo-Europeans: New Evidence from archaeology and historical linguistics*. Oxbow Books, 2019.
-> in [[b-olsen-t-olander-k-kristiansen2019eds]]

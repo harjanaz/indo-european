@@ -5,7 +5,7 @@ Skt. ***vajra***
 
 Originally Stone?
 
-[[a-hyllested2019]]
+[[hyllested2019]]
 [[c-grade2019]]
 
 ## External Links

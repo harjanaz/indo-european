@@ -3,4 +3,5 @@
 ---
 
 ## Trans.
-[[j-darmesteter1898]]
+[[darmesteter1898]]
+http://www.avesta.org/vendidad/index.html

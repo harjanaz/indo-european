@@ -2,4 +2,4 @@
 
 ---
 
-[[a-rees1936]] Celtic version
+[[rees-a1936]] Celtic version

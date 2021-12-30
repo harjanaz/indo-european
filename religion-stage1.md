@@ -6,4 +6,4 @@
 [[j-paper2005]]
 
 
-[[k-ritari-a-bergholm2015eds]] Pre-Christian "Religion"
+[[k-ritari-bergholm2015eds]] Pre-Christian "Religion"

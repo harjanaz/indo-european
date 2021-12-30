@@ -1,7 +1,7 @@
 [[religion]]
 [[ritual]]
 [[pie-religion]]
-[[pie-death]]
+[[death]]
 
 # Sacrifice
 
@@ -12,10 +12,10 @@
 
 
 ## Scholarship
-[[b-lincoln1986-themes]]
+[[lincoln1986-themes]]
 [[d-sick1996]]
 [[kaliff2005]]
-[[a-kaliff2007]]
+[[kaliff2007]]
 [[b-collins2014]]
 [[c-serith2001]]
 [[s-zimmer2009]] PIE Terms
@@ -30,7 +30,7 @@
 
 ## Kind
 [[human-sacrifice]]
-[[animal-sacrifice]]
+[[animal-sacrifices]]
 
 ## Types
 by kind, by etc.

@@ -1,23 +1,23 @@
-Monographs by the [[jies]].
+# [[journal-ies]] Monographs
 
 001 [[skomal-polome1987]] 
-002 [[day-j2001]]
-1. [[p-friedrich1975]]
-2. [[birnbaum1977]]
-3. [[e-polome1982]]
-4. [[e-polome1984ed]]
-5. [[a-diebold1985]]
-6. [[e-polome1989b]]
-7. [[r-pearson1991]]
-8. [[d-gershenson1992]]
-9. [[pearson1992ed]]
-10. [[j-salmons1993]]
-11. [[d-telegin-j-mallory1994]]
-12. [[f-schwink1994]]
-13. [[b-drinka1995]]
-14. [[w-schmalstieg1995a]]
-15. [[w-schmalstieg1995b]]
-16. [[e-polome1996ed]] NEED BACKLINKS
+002 [[day2001]]
+1 [[p-friedrich1975]]
+2 [[birnbaum1977]]
+3 [[polome1982-homage]]
+4 [[e-polome1984ed]]
+5 [[diebold1985]]
+6 [[e-polome1989b]]
+7 [[r-pearson1991]]
+8 [[d-gershenson1992]]
+9 [[pearson1992ed]]
+10 [[j-salmons1993]]
+11 [[telegin-mallory1994]]
+12 [[f-schwink1994]]
+13 [[b-drinka1995]]
+14 [[w-schmalstieg1995a]]
+15 [[w-schmalstieg1995b]]
+16 [[e-polome1996ed]] NEED BACKLINKS
 KEEP ADDING THE BELOW ONES
 
 https://www.jies.org/DOCS/monoseries.html
@@ -32,7 +32,7 @@ The Indo-Europeanization of Northern Europe. JIES Monograph No. 17 (1996), by Ka
 The Kurgan Culture and The Indo-Europeanization of Europe: Papers by Marija Gimbutas. JIES Monograph No. 18 (1997), by Miriam Robbins Dexter & Karlene Jones-Bley, eds.
 
 
-Varia on the Indo-European Past: Papers in Memory of Marija Gimbutas. JIES Monograph No. 19 (1997), by Miriam Robbins Dexter & Edgar C. Polomé, eds.
+19 [[gimbutas1997-varia]]
 
 
 Studies in Honor of Jaan Puhvel: Part One, Ancient Languages and Philology. JIES Monograph No. 20 (1997), by Dorothy Disterheft, Martin E. Huld, & John A. C. Greppin, eds.
@@ -54,16 +54,24 @@ On the Bifurcation and Repression Theories of Germanic and German. JIES Monograp
 Language Change and Typological Variation: In Honor of Winfred P. Lehmann on the Occasion of His 83rd Birthday, Volume 1: Language Change and Phonology. JIES Monograph No. 30 (1999), by Edgar C. Polomé & Carol F. Justus, eds.
 Language Change and Typological Variation: In Honor of Winfred P. Lehmann on the Occasion of His 83rd Birthday, Volume 2: Grammatical Universals and Typology. JIES Monograph No. 31 (1999), by Carol F. Justus & Edgar C. Polomé, eds.
 Proceedings of the Tenth UCLA Indo-European Conference, Los Angeles, May 21-23, 1998. JIES Monograph No. 32 (1999), by Karlene Jones-Bley, Martin E. Huld, Angela Della Volpe, & Miriam Robbins Dexter, eds.
-Miscellanea Indo-Europea. JIES Monograph No. 33 (1999), by Edgar C. Polomé, ed.
+
+33 [[polome1999]]
+
 Sub-Grammatical Survival: Indo-European s-mobile and its Regeneration in Germanic. JIES Monograph No. 34 (1999), by Mark R. V. Southern.
 Proceedings of the Eleventh UCLA Indo-European Conference, Los Angeles, June 4-5, 1999. JIES Monograph No. 35 (2000), by Karlene Jones-Bley, Martin E. Huld, & Angela Della Volpe, eds.
-The One-eyed God: Odin and the (Indo-)Germanic Männerbünde. JIES Monograph No. 36 (2000), by Kris Kershaw.
+
+36 [[kershaw1997-2000]]
+
 The Historical Morphology of the Baltic Verb. JIES Monograph No. 37 (2000), by William R. Schmalstieg.
 Greater Anatolia and the Indo-Hittite Language Family: Papers presented at a Colloquium hosted by the University of Richmond, March 18-19, 2000. JIES Monograph No. 38 (2001), by Robert Drews, ed.
-Definitive Reconstructed Text of the Coligny Calendar. JIES Monograph No. 39 (2001), by Garrett S. Olmsted.
+
+39 [[olmsted2001]]
+
 Proceedings of the Twelfth Annual UCLA Indo-European Conference, Los Angeles, May 26-28, 2000. JIES Monograph No. 40 (2001), by Martin E. Huld, Karlene Jones-Bley, Angela Della Volpe, & Miriam Robbins Dexter, eds.
 Pre-Indo-European. JIES Monograph No. 41 (2002), by Winfred P. Lehmann.
-The Indo-European and Ancient Near Eastern Sources of the Armenian Epic. JIES Monograph No. 42 (2002), by Armen Y. Petrosyan.
+
+42 [[petrosyan2002]]
+
 Indo-European Perspectives. JIES Monograph No. 43 (2002), by Mark R. V. Southern, ed.
 Proceedings of the Thirteenth Annual UCLA Indo-European Conference, Los Angeles, Nov. 9-10, 2001. JIES Monograph No. 44 (2002), by Karlene Jones-Bley, Martin E. Huld, Angela Della Volpe, & Miriam Robbins Dexter, eds.
 Regional Specifics in Light of Global Models BC -- Complex Societies of Central Eurasia from the 3rd to the 1st Millennium. Volume 1: Ethnos, Language, Culture; General Problems; Studying Statistics; Studying Sintashta; The Eneolithic and Bronze Ages. JIES Monograph No. 45 (2002), by Karlene Jones-Bley & D. G. Zdanovich, eds.

@@ -1,4 +1,4 @@
-[[pie-heroes]]
+[[heroes]]
 
 ---
 

@@ -1,3 +1,3 @@
-[[pie-horses]]
+[[horses]]
 
 [[merceron2018]]

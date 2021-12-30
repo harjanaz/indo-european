@@ -2,17 +2,10 @@
 
 ---
 
-# Proto-Indo-Iranian Branch
-
-[[pii-history]]
-[[proto-indo-iranian-lang]]
-[[pii-folk]]
-[[pii-religion]]
-
-## Related
-[[bmac]]
-
 ## Sub-Branches
-- [[iranians]]
-- [[indo-aryan-branch]] (Indic is inside here)
-- [[nuristani-branch]] (dardic, kalasha, etc)
+[[iranians]]
+[[indo-aryans]]
+
+## Topics
+[[indo-iranian-lang]]
+[[indo-iranian-religion]]

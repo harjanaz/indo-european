@@ -1,4 +1,4 @@
-[[proto-indo-iranian-lang]]
+[[indo-iranian-lang]], [[indo-aryans]]
 
 ---
 

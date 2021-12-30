@@ -1,0 +1,6 @@
+> [[zochios]]. "Slavic deities of death: Looking for a needle in the haystack". 
+
+> [pdf](a/s-zochios2019.pdf)
+
+## Abstract
+Although the notion that Slavic mythology included an afterlife that was geographically distributed through an otherworld has occasionally been questioned due to the lack of necessary sources, this article aims to cast light on a set of gods that scholars have tended to associate with death – Nija, Morana, Černobog, Karačun, Veles, Triglav and Černoglav – in order to clarify a series of specific points. Namely, do they really belong to the category of death deities? Can they be considered as rulers of the otherworld, or do they have something to do with dualistic fertility rites involving death and the regeneration of nature? By answering these significant questions, this article will seek to determine whether we can speak of Slavic death deities, not in terms of hypotheticals and theoretical reconstructions, but with a certainty stemming from source analysis - unless lack of evidence ultimately makes any conclusion prohibitive.

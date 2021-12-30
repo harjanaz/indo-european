@@ -11,10 +11,9 @@
 - It was handed down orally from generation to generation.
 
 
-[[trial-by-jury]]
-[[pie-oath-taking-rituals]]
+[[oath-taking-rituals]]
 
-[[pie-ritual-law]]
+[[ritual-law]]
 
 ### By Branch
 [[italic-law]]

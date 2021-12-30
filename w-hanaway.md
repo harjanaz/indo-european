@@ -1,1 +1,0 @@
-# William L. Hanaway Jr.

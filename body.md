@@ -1,4 +1,4 @@
-[[pie-mortals-humans-people]]
+[[mortals-humans-people]]
 
 ---
 
@@ -24,4 +24,4 @@
 
 
 ## By Branch
-[[h-martirosyan1964]] Armenian ceiling : palate : sky/heaven
+[[martirosyan1964]] Armenian ceiling : palate : sky/heaven

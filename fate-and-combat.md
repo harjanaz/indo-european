@@ -1,4 +1,4 @@
-[[pie-fate]] | [[pie-combat]]
+[[fate]] | [[combat]]
 
 ---
 

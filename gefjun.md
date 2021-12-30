@@ -1,10 +1,10 @@
 
 
-[Beings](pie-beings.md)
+[Beings](beings.md)
 
 [Norse](norse.md)
 
-[Norse Afterlife](norse-afterlife.md)
+[Norse Afterlife](death-germanic.md)
 
 # Gefjun
 
@@ -12,4 +12,4 @@
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Gefjon)
 
-- May have had her own hall in the afterlife, see: [Norse Afterlife](norse-afterlife.md)
+- May have had her own hall in the afterlife, see: [Norse Afterlife](death-germanic.md)

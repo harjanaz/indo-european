@@ -1,0 +1,1 @@
+> [[rees-a]]; [[rees-b]]. *Celtic Heritage: Ancient tradition in Ireland and Wales*. Thames and Hudson, 1961. [pdf](https://archive.org/details/in.gov.ignca.36494), [pdf](a/a-rees-b-rees1961.pdf)

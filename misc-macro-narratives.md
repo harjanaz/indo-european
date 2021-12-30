@@ -4,4 +4,4 @@
 
 [[the-divine-hero]]
 
-[[y-berezkin]] type stuff
+[[berezkin]] type stuff

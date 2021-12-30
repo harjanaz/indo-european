@@ -2,7 +2,7 @@
 
 ---
 
-[[functions-tripartite-ideology]]
+[[functions]]
 
 /mitra-and-varuna
 

@@ -1,4 +1,4 @@
-[[pie-creation-cosmogony]]
+[[creation-cosmogony]]
 # Cosmic/Primordial State/Things
 [[beings-cosmic-primordial]]
 [[waters-cosmic-primordial]]

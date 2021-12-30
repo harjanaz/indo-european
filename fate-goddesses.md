@@ -1,9 +1,9 @@
-[[pie-fate]]
+[[fate]]
 
 ---
 
 ## Scholarship
-[[a-winterbourne2004]]
+[[winterbourne2004]]
 
 
 

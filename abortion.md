@@ -1,15 +1,20 @@
-[[murder]], [[pregnancy]]
+[[crimes]], [[murder]], [[pregnancy]]
 
 ---
 
+> punishable by 200 lashes
+
 ## Zoroastrian
 
-The Zend Avesta imposes a sentence of Peshôtanu (200 lashes) on a woman who, out of fear of discovery, "brings on menses" when conception occurs out of wedlock, with no mention of a penalty for the male.[Zend Avesta, Fargard 15 [13](http://www.hinduwebsite.com/sacredscripts/zoroscripts/fargard.asp#fargard15)] The Code of the Assura, c. 1075 BC has penalties for several different types of abortion crimes: if a woman aborts against her husband's wishes, if a man causes an abortion in any woman at the first stage of pregnancy; if a man causes an abortion in a harlot. In the first case, the woman is to be crucified; in the second, the man is fined two talents; and in the third, the man is to make restitution for a life. ([14](http://www.fordham.edu/halsall/ancient/1075assyriancode.html) Ancient History Sourcebook: The Code of the Assura, c. 1075 BCE]
+> "...when a man has intercourse with a woman quick with child , whether the milk has already come to her breasts or has not yet come: if mischief follow therefrom, and the child dies, this is a sin that makes the man a **Peshôtanu**". ([[vendidad]]15.1.8)
+
+This penalty, *peshô-tanva*, consisted of 200 lashes with a horse-whip (see [[darmesteter1898]]plxxxiii for more detail).
 
 ## Germanic
+> If anyone should administer a potion to a pregnant woman to produce abortion, and the child should die in consequence, the woman who took such a potion, if she is a slave, **shall receive two hundred lashes**, and if she is freeborn, she shall lose her rank, and shall be given as a slave to whomever we may select. ([[visigothic-code]][6.3.1](https://libro.uca.edu/vcode/vg6-3.htm))
 
-The Visigothic Code had a system of punishments similar to that of the Zend Avesta, with 200 lashes for a woman causing her own abortion, or for a male slave performing an abortion on a freeborn woman, but with various fines in all other circumstances.[36] [_The Visigothic Code: (Forum judicum)_ ed. S. P. Scott](http://libro.uca.edu/vcode/vg6-3.htm)
+
 
 
 ## External Links
-[Wiki](https://en.wikipedia.org/wiki/History_of_abortion_law_debate)
+[Wikipedia:  History of Abortion Law Debate](https://en.wikipedia.org/wiki/History_of_abortion_law_debate)

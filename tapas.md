@@ -4,4 +4,4 @@
 
 [[d-wiley2005]]
 [[w-kaelber1976]]
-[[a-murdock1983]]
+[[murdock1983]]

@@ -1,1 +1,0 @@
-> [[johnston]]. *Euripides' Bacchae: A Dual Language Edition*. Fanum Publishing, 2015. [pdf](johnston2015a.pdf)

@@ -30,10 +30,10 @@ All different ways to describe the same thing.
 
 ## Beings
 - [[ferryman]]
-- [[pie-underworld-lord-of-the-dead]]
-- [[pie-underworld-hellhound]]
+- [[lord-of-the-dead]]
+- [[hell-hound]]
 
 
 ## External Links
 [[c-rolinson2019-12-23]]
-[[c-rolinson2019-07-29]]
+[[rolinson2019-07-29]]

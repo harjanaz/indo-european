@@ -1,0 +1,1 @@
+> [[hall-a]]. *The Meanings of Elf and Elves in Medieval England*. University of Glasgow, 2004. [academia](https://www.academia.edu/2977257/The-meanings-of-elf-and-elves-in-medieval-England) [pdf](a/a-hall2004.pdf)

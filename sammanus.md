@@ -1,2 +1,2 @@
 # Sammanus
-[[a-zavaroni2006]]
+[[zavaroni2006]]

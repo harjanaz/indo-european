@@ -1,5 +1,5 @@
 # Sin
-[[a-saeedipour2012c]]
+[[saeedipour2012c]]
 
 
 [[atonement-penance]]

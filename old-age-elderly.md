@@ -1,4 +1,4 @@
-[[pie-mortals-humans-people]]
+[[mortals-humans-people]]
 
 ---
 

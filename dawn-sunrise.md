@@ -28,8 +28,8 @@ PIE Xáusōs "rising" from PIE H2ues- "kindle".  Hence, she is the "kindler of t
 ---
 
 ### Family
-- She was the daughter of [Sky Father](pie-sky-father.md) and  called the "Daughter of Heaven" (PIE *dhugH2tḗr diwós*) [[(m-dexter1997a)]]149.
-- She overlaps with the "Daughter of the Sun" Goddess. In the RV, Uṣas sometimes appears as the daughter of the sun god Sūrya [[(s-jamison1991)]]294, and is given the title ***sū́ ryasya duhitár***. Given the close connection between the sun and the sky god (Dyḗus Ptḗr), with the sun being the eye of Dyḗus Ptḗr, this is no surprise.
+- She was the daughter of [Sky Father](day-sky-father.md) and  called the "Daughter of Heaven" (PIE *dhugH2tḗr diwós*) [[(m-dexter1997a)]]149.
+- She overlaps with the "Daughter of the Sun" Goddess. In the RV, Uṣas sometimes appears as the daughter of the sun god Sūrya [[jamison1991]]p294, and is given the title ***sū́ ryasya duhitár***. Given the close connection between the sun and the sky god (Dyḗus Ptḗr), with the sun being the eye of Dyḗus Ptḗr, this is no surprise.
 - There may have been another goddess, that of [Dusk](dusk.md), perhaps Dawn's sister.
 
 ---
@@ -39,7 +39,7 @@ PIE Xáusōs "rising" from PIE H2ues- "kindle".  Hence, she is the "kindler of t
 > Although a beautiful maiden, Xáusōs is not all sweetness and light. Dawn is ambivalent. It is neither night nor day. The dark has been safely navigated, but the light is not yet here. And it might not come. Xáusōs is the keeper of the gates of dawn. Will she open them? There is always the chance that she might not. And even when she does come, her gift is ambivalent. Each day brings us closer to death. Xáusōs is  a goddess to be welcomed, but with care. See:
 > - [[The Homeric Hymn to Aphrodite 218-38]]
 > - [[RV 1.092.10]] from [[(w-oflaherty1980)]]136
-> - [[TS 4.3.11.5]] from [[m-west2007]]225.
+> - [[TS 4.3.11.5]] from [[west2007-poetry]]225.
 > 
 > The ambiguity has another source. Since dawn is neither night nor day, it's between one thing and another. It doesn't really belong; despite taking part in the Xártus, and even being an important part of its operation, it doesn't really belong to the Xártus, because it doesn't have a definite identity. It thus shares in both the promise and danger of Chaos. As a result, dawn rituals express some hopeful thinking and try to work a little magic. Through them it will be the promise we get, not the danger.
 > Even with the ambiguity, Xáusōs is an upholder of order, of the Xártus. Uṣas (together with her sister, Night) is a "shining mother of order" (RV. 1.142.7; in Macdonell, 1897, 129). The sun does rise, and as long as we continue our own proper behavior it will continue to do so.

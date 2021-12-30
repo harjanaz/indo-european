@@ -1,1 +1,0 @@
-> [[k-kershaw]]. *The One-eyed God: Odin and the (Indo-)Germanic Männerbünde*. [pdf](a/k-kershaw1997.pdf)

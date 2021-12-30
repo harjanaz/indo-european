@@ -1,6 +1,0 @@
-> [[andren-a]]; [[k-jennbert]]; [[raudvere-c]] (eds). *Old Norse religion in long-term perspectives: Origins, Changes, and Interactions*. Nordic Academic Press, 2004. [.pdf](a-andren-k-jennbert-c-raudvere2004.pdf)
-
-#split 
-
-## Contains
-[[a-kaliff-o-sundqvist2006]] p212-

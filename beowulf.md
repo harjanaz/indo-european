@@ -12,8 +12,8 @@ http://ebeowulf.uky.edu/ebeo4.0/CD/main.html
 [[d-ringler2007]]
 ## Scholarship
 IE Background
-[[e-anderson2010]]
-[[l-caldwell1983]]
+[[anderson-e2010]]
+[[caldwell1983]]
 [[j-hill1995]]
-[[a-burman2013]] metaphors
+[[burman2013]] metaphors
 [[abram2017]] The name "Bee-Wolf" & Volsunga

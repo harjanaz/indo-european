@@ -1,0 +1,1 @@
+> [[forte]];[[smith-c]]; "Wheel Composition in Greek and Indic Poetry". in [[jamison-s-melchert-vine2014eds]]. [academia.edu](https://www.academia.edu/8195466/Wheel-Composition-in-Greek-and-Indic-Poetry) [pdf](a-forte-c-smith2014.pdf)

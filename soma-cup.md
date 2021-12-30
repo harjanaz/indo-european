@@ -1,4 +1,4 @@
-[PIE Cup](pie-cup.md)
+[[cups-grail]]
 # Soma Cup
 
 #### Vedic

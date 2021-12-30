@@ -1,0 +1,3 @@
+- Celtic *Ankou*
+- Netherland's *Magere Hein* / *Beenderman* ("Bone-Man")
+- See more [here](https://www.youtube.com/watch?v=FFfakk-hSh0)

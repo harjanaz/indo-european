@@ -31,7 +31,7 @@ The spiritual authority of women is advanced here as an ancestral role which sur
 
 
 ## Women Poets
-[[c-bozzone2016]]
+[[bozzone2016]]
 
 
 ![](a/39247.jpg)

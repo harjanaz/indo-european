@@ -1,1 +1,1 @@
-[[a-lubotsky2002]] scythian elements
+[[lubotsky2002]] scythian elements

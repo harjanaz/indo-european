@@ -1,1 +1,0 @@
-> [[a-berstein]]. "The Ghostly Troop and The Battle Over Death: William of Auvergne (d. 1249) Connects Christian, Old Norse, and Irish Views". in [[m-poo2009ed]] [.pdf](a-bernstein2009.pdf)

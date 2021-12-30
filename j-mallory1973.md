@@ -1,1 +1,1 @@
-> [[mallory-j]] "A Short History of the Indo-European Problem". in [[jies-1-1973]].
+> [[mallory]] "A Short History of the Indo-European Problem". in [[jies-1-1973]].

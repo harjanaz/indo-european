@@ -1,4 +1,4 @@
-[[pie-order]] | [[pie-cosmic-order]]
+[[order]] | [[cosmic-order]]
 
 
 restoration of balance is not necessarily personal, it's not retribution

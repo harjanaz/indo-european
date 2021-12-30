@@ -6,4 +6,4 @@
 
 
 [[cult-of-weapons]]
-[[pie-ancestors]]
+[[ancestors-the-dead]]

@@ -1,7 +1,9 @@
 [[celtic-religion]] & [[otherworld]]
 # Celtic Otherworld
-[[a-nutt1907]]
+[[nutt1907]]
 [[w-wentz1911]] ch6-7
+[[annwn]]
+  [[islands-isles-of-the-blest]]
 The Celts has a profound and positive attitude to death
 
 

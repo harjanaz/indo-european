@@ -6,7 +6,7 @@ A "branch" = a pattern of related [[history]], [[languages]] (grammar & texts), 
 
 
 
-[[humans]]
+
 ...[[gondwana]]
 ...[[laurasians]]
 .........[[austronesians]]

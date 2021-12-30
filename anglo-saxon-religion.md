@@ -14,6 +14,6 @@ Stags were symbols of royalty (In Beowulf the largest hall was called Heorot ("s
 
 ## Scholarship
 ### Overviews
-[[e-stanley1975]]
+[[stanley1975]]
 ### Misc.
 [[m-carver2010]] articles

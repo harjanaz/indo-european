@@ -2,4 +2,4 @@
 
 ----
 
-[[pie-hunting-dogs]]
+[[hunting-dogs]]

@@ -1,4 +1,4 @@
-[[nuristani-branch]]
+[[dardic]]
 
 Afganistan
 

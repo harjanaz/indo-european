@@ -1,4 +1,4 @@
 [[rock-art]]
 # Rock Art (IE)
-[[a-fredell2012]]
-[[a-fredell-m-quintela2010]]
+[[fredell2012]]
+[[fredell-m-quintela2010]]

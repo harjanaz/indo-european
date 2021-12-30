@@ -1,0 +1,3 @@
+[[scholars]]
+
+# Paul C. Bautschatz

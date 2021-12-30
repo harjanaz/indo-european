@@ -1,5 +1,5 @@
-[[germanic-culture]], [[pie-sexuality]]
+[[germanic-culture]], [[sexuality]]
 
 ---
 
-[[a-franks2018]] Odin as Queer
+[[franks2018]] Odin as Queer

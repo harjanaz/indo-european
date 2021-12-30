@@ -1,4 +1,4 @@
-[[pii-religion]]
+[[indo-iranian-religion]]
 # Hinduism
 [wiki](https://en.wikipedia.org/wiki/Hinduism)
 
@@ -11,7 +11,7 @@ Devdutt Pattanaik has a series of popular books
 [[b-collins2014]]
 [[j-bronkhorst2016]]
 [[w-kaelber1981]]
-[[a-keith1917]]
+[[keith1917]]
 [[i-selvanayagam1992]]
 [[w-doniger2009]]
 [[j-bronkhorst2011a]]

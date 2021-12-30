@@ -1,4 +1,4 @@
-[[sanskrit-texts]] | [[law]]
+[[texts-sanskrit]] | [[law]]
 
 ---
 
@@ -19,9 +19,8 @@
 
 ## Misc.
 [[j-jolly1889]]
-[[d-davis2010]]
 [[l-rocher2012]]
-[[p-olivelle-d-davis2018eds]]
+[[olivelle-davis-do2018eds]]
 
 ## External Links
 [Wikipedia](https://en.wikipedia.org/wiki/Dharma%C5%9B%C4%81stra)

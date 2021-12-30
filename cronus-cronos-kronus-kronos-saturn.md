@@ -1,8 +1,8 @@
-[[ie-time]], [[saturn]]
+[[time]], [[saturn]]
 
 ---
 
 [[sergent2014]]
 
 ## External Links
-[[c-rolinson2019-08-10]]
+[[rolinson2019-08-10]]

@@ -1,2 +1,4 @@
-- [Monsters](monsters.md)
-- [Demons](demons.md)
+[[monsters]]
+[[demons]]
+
+[[mara-mares]]

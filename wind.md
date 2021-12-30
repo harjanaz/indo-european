@@ -2,6 +2,7 @@
 # Wind
 
 [[l-perabo2016]]
+[[kolligan2017]]
 
 <iframe width="100%" height="350" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://en.wikipedia.org/wiki/Proto_Indo-European_mythology#Wind-deities"></iframe>
 

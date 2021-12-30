@@ -1,5 +1,6 @@
-[[death-gods]]
-[[death-birds]]
+[[death-beings]]
+[[death-and-birds]]
+[[goddesses]]
 
 ---
 

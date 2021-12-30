@@ -17,7 +17,7 @@ the stopping place of the soul before birth or after death [Barnhart]
 "from the lake," as a dwelling-place of souls in ancient northern Europe.
 
 
-gipta, gæfa, hamingja [[p-hallberg]]
+
 
 
 

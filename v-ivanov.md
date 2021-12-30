@@ -1,1 +1,0 @@
-# Viatcheslav V. Ivanov

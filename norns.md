@@ -1,15 +1,15 @@
 
 
-[[ie-time]]
+[[time]]
 
 
 
 # Norns
 
 [[r-rusu2008]]
-[[k-bek2006]] & [[k-bek2007]]
-[[a-winterbourne2004]]
-[[p-bauschatz1982]]
+[[bek2007]]
+[[winterbourne2004]]
+[[bauschatz1982]]
 
 The norns are higher than Odin, the norns carve runes in Yggdrasil ( the runes represent fate ) and Odin feels envy because of this. This is why he hangs himself on Yggdrasil what gives him insight in the secrets of the runes. However he still can only see the runes ( precognition , ... ) he can not carve them in Yggdrasil, only the norns are capable of carving the runes and so have a strong influence also on Odin's fate.
 

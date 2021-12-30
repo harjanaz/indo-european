@@ -1,1 +1,1 @@
-see [[sacred-divine]]
+see [[sacredness-divinity]]

@@ -16,7 +16,7 @@
 - In RV 10.90.13, when the cosmos is made from the sacrificed Puruṣa, Vāyu is created from his breath. 
 - The Vedic word for “soul,” atman, is cognate with German atmen, “to breathe.” ***Is there a connection between the PIE [Winds](wind.md),  human breath, and the human soul.***
 
-[[pie-reincarnation-rebirth]], [[karma]]
+[[reincarnation-rebirth]], [[karma]]
 
 [[states-of-mind]]
 
@@ -31,5 +31,3 @@ Organocentrism (life breath) but no psychophysical dualism (mind/body)?
 ### Misc
 [[r-thapar1994]]
 
-## Scholarship
-[[n-smithUNKNOWN]]

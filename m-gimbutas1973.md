@@ -1,1 +1,1 @@
-> [[m-gimbutas]] "Old Europe c. 7000-3500 B.C.: The Earliest European Civilization before the Infiltration of the Indo-European Peoples". in [[jies-1-1973]]
+> [[gimbutas]] "Old Europe c. 7000-3500 B.C.: The Earliest European Civilization before the Infiltration of the Indo-European Peoples". in [[jies-1-1973]]

@@ -14,9 +14,9 @@ This page is for the Germanic Thunder God (Proto-Germanic `*Þunraz`).
 See:
 	→ [[Perkūnas]]
 ## Narratives
-[[narrative-pie-war-of-the-foundation]]
+[[narrative-war-of-the-foundation]]
 
 
 ## External Links
 [[c-rolinson2019-9-19a]]
-[[c-rolinson2019-12-18]]
+[[rolinson2019-12-18]]

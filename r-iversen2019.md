@@ -1,2 +1,2 @@
 > Iversen, Rune. "On the emergence of Corded Ware societies in northern Europe: Reconsidering the migration hypothesis". in Olsen, Birgit Anette Olsen; Olander, Thomas; Kristiansen, Kristian (eds). *Tracing the Indo-Europeans: New Evidence from archaeology and historical linguistics*. Oxbow Books, 2019.
-> in [[b-olsen-t-olander-k-kristiansen2019eds]]
+> in [[olsen-olander-kristiansen2019-tracing]]

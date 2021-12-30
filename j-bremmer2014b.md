@@ -1,1 +1,1 @@
-> [[j-bremmer]]. *Initiation into the Mysteries of the Ancient World*. De Gruyter, 2014. [pdf](a/j-bremmer2014b.pdf)
+> [[bremmer]]. *Initiation into the Mysteries of the Ancient World*. De Gruyter, 2014. [pdf](a/j-bremmer2014b.pdf)

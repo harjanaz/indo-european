@@ -1,1 +1,1 @@
-> [[lincoln]]. "Places Outside Space, Moments Outside Time". in [[e-polome1982]].
+> [[lincoln]]. "Places Outside Space, Moments Outside Time". in [[polome1982-homage]].

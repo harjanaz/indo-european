@@ -1,11 +1,10 @@
-[[proto-indo-iranian-lang]]
+[[pie-lang]], [[indo-iranians]]
 
 ---
 
+## Sub-branches
+[[indic-lang]]
+[[iranian-lang]]
 
-
-[[j-martinez-m-vaan2014]]
-[[a-nouraiIDK.pdf]]
-
-## External Links
-[UT's LRC: Old Iranian](https://lrc.la.utexas.edu/eieol/aveol)
+## Scholarship
+[[m-witzel2003]] Loan words with BMAC

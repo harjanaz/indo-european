@@ -1,1 +1,0 @@
-> [[n-smith]]. "Belief Systems - A Psychological Analysis". [pdf](a/n-smithUNKNOWN.pdf)

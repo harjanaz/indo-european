@@ -1,12 +1,10 @@
 [[water]]
 See also [[sailing-ships]]
 # The Sea/Ocean
-
-[[w-gregor1891]]
 [[(m-dexter1997b)]]
 [[m-nordvig2013]]
 
-[[h-martirosyan1964]] Armenian
+[[martirosyan1964]] Armenian
 
 
 - PIE `?`

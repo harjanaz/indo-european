@@ -1,2 +1,2 @@
 # Herman Wirth
-[wiki](https://en.wikipedia.org/wiki/Herman_Wirth)
+[Wikipedia](https://en.wikipedia.org/wiki/Herman_Wirth)

@@ -5,7 +5,7 @@
 
 ## Contains
 [[aikio2012]]
-[[a-parpola2012]]
+[[parpola2012]]
 [[t-viitso2012]]
 [[kallio2012]]
 [[g-kroonen2012b]]

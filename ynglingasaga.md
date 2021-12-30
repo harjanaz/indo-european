@@ -1,2 +1,2 @@
 ## Narratives
-[[narrative-pie-war-of-the-foundation]]
+[[narrative-war-of-the-foundation]]

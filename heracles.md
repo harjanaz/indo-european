@@ -1,6 +1,6 @@
 # Grk. Hēraklês
 [[r-mondi1990]]
-[[a-sterken2015]], [[a-sterken2016]]
+[[sterken2015]], [[sterken2016]]
 
 Gregory Nagy's https://classical-inquiries.chs.harvard.edu/thinking-comparatively-about-greek-mythology-i-herakles-as-athlete/
 

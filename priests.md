@@ -1,30 +1,33 @@
 [[ritual]] [[pie-religion]]
 [1st Function](first-function-sovereignty.md)
 
-
-
-[[k-kershaw1997]]p246
-
-[[magi]]
-[[magicians-wizards]]
-
-
-[[weiss2009]]
-[[c-guyonvarch2002]]
-
-Lat. [[flamines]]
-
-## Name of Priests
-[[d-agostini-s-shaked2013]] Zoro
+## Kinds
+All utilized poety and their chief business was performing sacrifices. They were the ones who were qualified to properly perform the ritual.
+[[pourer-priests]]
+[[seer-priests]]
+[[combat-priests]]
+[[fire-priests]]
 
 ## By Branch
 [[germanic-priests]]
+[[magi]]
+[[magicians-wizards]]
+Lat. [[flamines]]
 
-## Lifestyle
-[[p-olivelle1993]]
+## Topics 
+### Patron-Client Relationship
+The well being (wealth, victory, etc) of the patron and/or community depends on them. If efficous, the patron would bestow gifts upon the priests, usually in the form of cattle.
+### Name of Priests
+[[d-agostini-s-shaked2013]] Name of Zoroastrian Priests
+### Lifestyle
+[[p-olivelle1993]] Lifestyle
+### Misc.
+[[weiss2009]]
+[[c-guyonvarch2002]]
+[[kershaw1997-2000]]p246
 
 
 ## External Links
-[[c-rolinson2019-09-6]]
+[[rolinson2019-09-6]]
 [[t-powers2019-11-15c]]
 [Wikipedia: PIE Myth: Priesthood](https://en.wikipedia.org/wiki/Proto-Indo-European-mythology#Priesthood)

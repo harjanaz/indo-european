@@ -2,4 +2,4 @@
 
 ---
 
-[[functions-tripartite-ideology]]
+[[functions]]

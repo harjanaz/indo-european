@@ -1,1 +1,1 @@
-> [[e-hamp]]. "Beowulf 2863a [g]". in [[e-polome1982]].
+> [[e-hamp]]. "Beowulf 2863a [g]". in [[polome1982-homage]].

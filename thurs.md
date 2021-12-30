@@ -1,4 +1,4 @@
-[[pie-beings]]
+[[beings]]
 # Thurs
 ```r
 I probably have the name wrong

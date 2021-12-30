@@ -1,5 +1,0 @@
-[[scholars]]
-
----
-
-# Wilburn Hansen

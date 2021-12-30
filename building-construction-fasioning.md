@@ -1,3 +1,3 @@
 
-[[pie-deities]] as architects
+[[deities]] as architects
 [[d-panchenko2016]] walls

@@ -1,0 +1,5 @@
+[[root-incline]]
+
+---
+
+[Wiktionary](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/%E1%B8%B1lew-)

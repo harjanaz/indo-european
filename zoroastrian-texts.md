@@ -1,4 +1,4 @@
-[[zoroastrianism]], [[texts]]
+[[zoroastrianism]], [[texts-iranian]]
 
 ---
 

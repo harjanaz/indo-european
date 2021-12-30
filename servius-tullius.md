@@ -1,8 +1,8 @@
-[Warrior-Kings](pie-kings-rulers.md)
+[Warrior-Kings](king-ruler-chief-leader-lord.md)
 
-[[pie-kings-rulers]]
+[[king-ruler-chief-leader-lord]]
 
-[Halo](king-halo.md)
+[Halo](halo.md)
 
 # Servius Tullius
 

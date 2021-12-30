@@ -1,6 +1,6 @@
-[Beings](pie-beings.md)
+[Beings](beings.md)
 
-[Gods](pie-deities.md)
+[Gods](deities.md)
 /sacred-marriage,  divine-union, divine-pair, alliances
 
 # Sacred Marriage

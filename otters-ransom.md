@@ -4,4 +4,4 @@
 
 # Otter's Ransom
 ## Trans.
-[[a-faulkesUNKNOWN]]
+[[faulkesUNKNOWN]]

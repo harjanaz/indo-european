@@ -1,4 +1,4 @@
-[[indic-gods]] | [[pie-perkwunos]]
+[[indic-gods]] | [[thunder-lightning]]
 
 ---
 

@@ -1,4 +1,4 @@
-[[world-warrior-afterlife]]
+[[warrior-death]]
 [[warriors-male]]
 # Einheri
 Einheri (pl. einherjar) meaning "one who fights alone"

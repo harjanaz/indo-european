@@ -1,4 +1,4 @@
-[Horses](pie-horses.md)
+[Horses](horses.md)
 # Celtic Horses
 			§ 2 used to draw a light chariot
 			§ Beauty, speed, bravery, and sexual vigor

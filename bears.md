@@ -5,7 +5,7 @@
 
 [[b-sergent2016]]
 [[l-perabo2016]]
-[[h-kwon1999]]
+
 [[m-merisante2014]]
 
 ## Anglo-Saxon

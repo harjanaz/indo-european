@@ -1,0 +1,1 @@
+> [[kojoyan]]. Review of [[fomin-a-jivanyan-s-mathuna2012eds]]. [academia](https://www.academia.edu/9303151/Review-to-the-Journal-Ireland-and-Armenia-Studies-in-Language-History-and-Narrative-ed-by-Maxim-Fomin-Alvard-Jivanyan), [pdf](a/a-kojoyan2014.pdf)

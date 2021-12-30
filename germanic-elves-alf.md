@@ -1,7 +1,7 @@
-[[pie-beings]] | [[germanic-beings]]
+[[beings]] | [[germanic-beings]]
 
 # Germanic Elves
-[[a-hall2007b]]
+[[hall-a2007b]]
 ## Etymology
 From Proto-Germanic *albiz, of uncertain origin, possibly from Proto-Indo-European *albʰós “white” (compare related Latin albus) or *lbʰu- “skillful” (compare related Sanskrit ऋभुस् Ribhus, ṛbʰú-).  
 
@@ -20,7 +20,7 @@ Old English ælf Old Saxon alf, Middle High German alp, Old Norse alfr (Swed
 
 - There may also have been a female cognate akin to the Greco-Roman nymphs, Slavic vilas, the Huldra of Germanic folklore, and the Hindu Apsaras. [?]
 ## British
-[[a-hall2004]] in Medieval England
+[[hall-a2004]] in Medieval England
 
 ## AS ælf
 OE for Elf
@@ -33,7 +33,7 @@ OE for Elf
 "...Shippey observed (2003, p.57) [they] combine the ideas of exceptional danger and outstanding beauty and power." [the keys of middle earth, 204]
 	
 ## Elf-Shot
-[[a-hall2005a]]
+[[hall-a2005a]]
 
 
 ## Norse Alfir

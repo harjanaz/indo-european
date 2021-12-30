@@ -1,4 +1,4 @@
-For Proto-Indo-European gods: [[pie-deities]]
+For Proto-Indo-European gods: [[deities]]
 
 
 

@@ -1,4 +1,4 @@
-[[pie-just-war]] | [[dharma]]
+[[just-war]] | [[dharma]]
 
 ---
 

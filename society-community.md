@@ -3,22 +3,23 @@
 [[w-hearn1879]]
 [[h-schaeffer1922]]
 [[b-lincoln1987c]]
-[[d-elmer2012]]
+[[elmer2012]]ch2
 
 
 ## Topics
-As a hierarchy: [[social-structure-class-caste]]
-[[kinship-family]]
+[[production]]
+[[social-structure-class-caste]]
+[[kin-family]]
 [[patron-client]]
 [[guest-host]]
-[[law]]
-[[pie-marriage]]
-[[pie-oath-taking-rituals]]
-[[pie-parenthood]]
+[[law]] | [[crimes]]
+[[marriage]]
+[[oath-taking-rituals]]
+[[parent]]
 
 ### [[ie-descent-founders]]
-[[a-volpe1993]]
-### [[kinship-family]]
+[[volpe1993]]
+### [[kin-family]]
 [[villages-city-cities-towns]]
 
 ## Community as World
@@ -32,7 +33,7 @@ Etymology of "World" Man's-Age
 ### Debtors
 Owed "money" *h₂ép-*, and "were in need" *h₁eg-*
 ### Husbands & Wives
-[[pie-marriage]]
+[[marriage]]
 
 
 ## Tribes

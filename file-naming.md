@@ -1,11 +1,11 @@
 # How to name files
 
 ## Topics
-- One of the most hairy topics for organization is [[pie-life-and-death]].
+- One of the most hairy topics for organization is [[life-and-death]].
 ### Gender
-Gender Nuetral = "deities" ex. [[pie-deities]]
-Male = "gods-male" [[pie-gods-male]]
-Female = "goddeses" [[pie-goddesses]]
+Gender Nuetral = "deities" ex. [[deities]]
+Male = "gods-male" [[gods-male]]
+Female = "goddeses" [[goddesses]]
 
 
 ## Scholarship

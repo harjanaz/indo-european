@@ -1,0 +1,1 @@
+- . Scholars use to see the indo-iranian god Lord Wisdom (Ahura Mazdā, Varuṇa) as a sky god, and mistakenly linked Váruṇa with Greek [[ouranos]]. 

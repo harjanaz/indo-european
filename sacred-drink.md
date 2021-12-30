@@ -6,6 +6,7 @@
 
 - Prepared and consumed by priests using a [cup](cups-grail.md). (g-dumezil 1924A)
 
+[Wikipedia: Samudra manthan: Comparative Mythology](https://en.wikipedia.org/wiki/Samudra-manthan#Comparative-mythology)
 ### PIE
 
 - *médʰu

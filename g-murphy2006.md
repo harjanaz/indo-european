@@ -1,1 +1,0 @@
-> [[g-murphy]]. *Gemstone of Paradise: The Holy Grail in Wolfram's Parzival*. Oxford University Press, 2006. [pdf](a/g-murphy2006.pdf).

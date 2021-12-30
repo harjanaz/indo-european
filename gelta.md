@@ -18,5 +18,5 @@ Was loaned into Old Norse as: *gjalti*
 
 # Sources
 
-- [[a-bergholm2012]]p57
-- [[a-forbes1905]]p275
+- [[bergholm2012]]p57
+- [[forbes1905]]p275

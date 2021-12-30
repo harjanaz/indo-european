@@ -1,4 +1,4 @@
-[[greek-beings]] | [[pie-deities]]
+[[greek-beings]] | [[deities]]
 
 ---
 

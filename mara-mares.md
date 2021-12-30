@@ -1,4 +1,4 @@
-[[pie-death]]
+[[death]]
 [[nightmares]]
 # Mara/Mares
 [WIki](https://en.wikipedia.org/wiki/Mare-(folklore))

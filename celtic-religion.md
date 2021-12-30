@@ -1,8 +1,6 @@
-[[pie-religion]]
+[[celtic-culture]]
 
-|| [[celtic-lang]], [[celtic-history]]
-# Celtic Religion
-
+---
 
 [[williams-m-2016]]
 
@@ -11,8 +9,7 @@
 
 ## General Overviews
 [[j-macculloch1948]]
-[[j-bord-c-bord1992]]
-[[a-rees-b-rees1961]]
+[[rees-a-rees-b1961]]
 
 ---
 

@@ -1,4 +1,4 @@
-[[pii-religion]]
+[[indo-iranian-religion]]
 
 # Daēvas
 

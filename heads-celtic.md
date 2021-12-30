@@ -1,7 +1,11 @@
-[[heads-skulls]]
+[[celtic-culture]] [[heads-skulls]]
+
+---
 
 # Celtic Heads
-[[d-clarke1998]]
+## Scholarship
+[[clarke1998]]
+## Miranda Jane Green
 
 Head-hunting was apart of the cultic traditions of certain Celts
 
@@ -30,8 +34,3 @@ They had magical properties, especially those of supernatural heroes.
 [Welsh and Irish Myth]
 	Cú Chulainn collected the heads of his enemies and placed them on stones.
 	It was prophesied that the Ulstermen, smitten by Macha's curse of weakness, would regain their strength if they drank the milk from the huge severed head of Conall Cernach. In this tale the dead attains the properties of a cauldron of regeneration. Readers will recall the similar story of Bendigeidfran in the Mabinogi, whose severed head can speak and encourage his companions, bringing them good fortune on their long journey from Harlech to London.
-	
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-Sources:
-	Celtic Myths by Miranda Jane Green
-

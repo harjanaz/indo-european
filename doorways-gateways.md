@@ -33,5 +33,5 @@ Side question, does anyone know about the significance of the standing doorways 
 - The Udmurts [a Finno-Ugric people from Udmurtia, Russia] had doorways nexts to totems.  
 ![](a/doorway-udmurt.jpg)
 
-## Web Resources
-[[https://www.indo-european-connection.com/words/door]]
+## Biblio
+https://www.indo-european-connection.com/words/door

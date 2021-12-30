@@ -1,1 +1,0 @@
-> [[a-parpola]]. "The Na ̄satyas, the Chariot and Proto–Aryan Religion". [pdf](a/a-parpolaUNKNOWNb.pdf)

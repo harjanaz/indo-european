@@ -1,6 +1,6 @@
 # Stone/Rock
 
-[[a-hyllested2019]] as Sky
+[[hyllested2019]] as Sky
 
 [[k-dowden2000]]
 

@@ -1,6 +1,8 @@
 [[religion]]
-[[pie-beings]]
+[[beings]]
 [[divine-family]]
+
+[[daytime]]
 # Sun (God)
 
 Klien said that the PIE word for Sun is archaic. What other words are archaic? What is the oldest layer of PIE language?
@@ -8,10 +10,10 @@ Klien said that the PIE word for Sun is archaic. What other words are archaic? W
 [[m-witzel2005]]
 [[c-morris1889]]
 
-## Sun Gods in General
-<iframe width="100%" height="350" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://en.wikipedia.org/wiki/Solar-deity"></iframe>
 
-[wiki](https://en.wikipedia.org/wiki/Solar-deity)
+
+[[greeting-the-sun]]
+
 
 ## PIE
 
@@ -43,11 +45,15 @@ Alternatively, Jonas Persson suggested that out of Norse mythology and archaic n
 ![](a/87999.jpg)
 
 
-## Chinese
-  Several Chinese goddesses are similar to the PIE [sun-solar goddess](sun) and the [dawn goddess](dawn-sunrise), implying influence from them through trade routes in Tocharian territories and therefore their worship there (j-snow2002).
   
 ## Web Resources
 
 [web](https://www.indo-european-connection.com/religion/gods/sun-god)
 
 https://www.indo-european-connection.com/words/sun
+
+
+## Non-IE
+For Sun Gods in General: [Wikipedia: Solar deity](https://en.wikipedia.org/wiki/Solar-deity)
+### Chinese
+  Several Chinese goddesses are similar to the PIE [sun-solar goddess](sun) and the [dawn goddess](dawn-sunrise), implying influence from them through trade routes in Tocharian territories and therefore their worship there (j-snow2002).

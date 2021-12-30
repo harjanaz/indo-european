@@ -3,7 +3,7 @@
 [[n-allenUNKNOWNb]]
 
 ## IE Parallels
-PIE [[pie-perkwunos]]
+PIE [[thunder-lightning]]
 Ger. [[thor]]
 
 ## Misc.
@@ -43,7 +43,7 @@ Ger. [[thor]]
 - He rode a chariot drawn by bay horses [RV 3.35](RV-3.35.md)
 
 #### War
-- [2nd Function](functions-second.md)
+- [2nd Function](second-function.md)
 - He was invoked by soldiers in battle [RV 4.24](RV-4.24.md)
 - Leads armies
 - Unlike [Mitra & Varuna](mitra-and-varuna.md), he gains his ends through the exercise of physical strength. 
@@ -64,6 +64,6 @@ Ger. [[thor]]
 ## External Links
 [[c-rolinson2019-9-16]]
 [[c-rolinson2019-9-19a]]
-[[c-rolinson2019-11-14]]
+[[rolinson2019-11-14]]
 [[rolinson-mythlingwar]]
-[[c-rolinson2019-12-18]]
+[[rolinson2019-12-18]]

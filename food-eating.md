@@ -1,10 +1,10 @@
-[[pie-mortals-humans-people]] | [[meat]] | [[plants-herbs-vegetation]]
+[[mortals-humans-people]] | [[meat]] | [[plants-herbs-vegetation]]
 
 ---
 [[feasts-dinner]] | [[bread-baked]]
 
 ## Misc Scholarship
-[[b-lincoln1986-themes]]
+[[lincoln1986-themes]]
 [[m-detienne-j-vernants1989]] food and sacrifice, greek
 [[b-dotson2018]]
 

@@ -13,8 +13,6 @@
 [[j-bronkhorst2011b]]
 [[powers-j1995]]
 [[c-beckwith2015]]
-[[j-powers-2009-bm]]
-[[j-jurewicz2005]]
 [[j-bronkhorst2010b]]
 
 ## Texts
@@ -37,4 +35,4 @@ https://en.wikipedia.org/wiki/Maitreya
 
 ## External Links
 [Wikipedia: Buddhism in central Asia](https://en.wikipedia.org/wiki/Buddhism-in-Central-Asia)
-[[c-rolinson2019-8-25]]
+[[rolinson2019-8-25]]

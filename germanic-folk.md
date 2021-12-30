@@ -1,4 +1,4 @@
-[[pie-folk]]
+[[folklore]]
 [[germanic-lang]], [[germanic-history]], [[germanic-religion]]
 
 ---

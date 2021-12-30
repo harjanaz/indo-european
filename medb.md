@@ -23,3 +23,6 @@ of Connacht cohabitated with nine kings, and no man could rule in Tara unless he
 Sources:
 	Celtic Myths by Miranda Jane Green
 
+
+## Other Macro Groups
+Neolithic [[sergent2018]]

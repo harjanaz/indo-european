@@ -1,0 +1,1 @@
+[bʰed-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0ed- "Reconstruction:Proto-Indo-European/bʰed-")

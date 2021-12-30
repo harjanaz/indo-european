@@ -1,1 +1,1 @@
-[[b-collins2007]] hittite dagan
+[[collins2007]] hittite dagan

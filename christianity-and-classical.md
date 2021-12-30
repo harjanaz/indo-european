@@ -2,7 +2,6 @@ christianity-and-ie
 
 ---
 
-[[j-randall1970]]
 [[r-fox1986]]
 [[r-fletcher1997]]
 [[l-johnson2009]]

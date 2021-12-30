@@ -1,4 +1,4 @@
 [[animals]]
 # Horns & Horned Animals
 
-[[a-poruciuc2018]]
+[[poruciuc2018]]

@@ -1,4 +1,4 @@
-[[ie-and-christianity]]
+[[ie-christianity]]
 
 ---
 

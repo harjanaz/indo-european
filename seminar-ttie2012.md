@@ -3,10 +3,10 @@
 ## Contains
 [[m-allentoft2012]]
 [[g-kroonen2012a]]
-[[a-fredell2012]]
+[[fredell2012]]
 [[e-ostmo2012]]
-[[brown-d2012]]
-[[a-hyllested2012]]
+[[brown2012]]
+[[hyllested2012]]
 [[anthony2012a]]
 [[anthony2012-early]]
 [[j-mallory2012a]]

@@ -10,6 +10,10 @@
 ## Sub Branches
 [[dahae-branch]]
 [[saka]]
+[[scythian-religion]]
+
+
+[[iranian-religion]]
 
 
 ## External Links

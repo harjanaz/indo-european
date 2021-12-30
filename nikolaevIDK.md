@@ -1,0 +1,4 @@
+> [[nikolaev]]. "Δάειρα, The Lady of The Waters". [doi](https://doi.org/10.30842/ielcp230690152357), [pdf](a/a-nikolaevUNKNOWN.pdf)
+
+## Abstract
+This paper examines the evidence for the obscure Attic goddess Δάειρα / Δαῖρα who received cult in some Attic demes in an Eleusinian context. It is argued that this deity originally had nothing to do with Persephone or Demeter with whom she is identified in some sources; instead, due prominence is given to the earliest mythographical sources according to which Daeira was an Oceanid and ἡ ὑγρὰ οὐσία. Based on these testimonia, the name Δάειρα / Δαῖρα is etymologized as «the Lady of the Waters»: `*δά-ϝειρα` ‘having δα-’ from PIE `*deh2-/*dh2-` ‘water’, fully parallel to the name of Poseidon (`*potei̯ dās` ‘Lord of Waters’ > Ποτ(ε)ιδᾶς).

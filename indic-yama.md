@@ -6,5 +6,5 @@
 [[c-anghelina2013]]
 
 ## External Links
-[[c-rolinson-dead]]
-[[c-rolinson2019-07-29]]
+[[rolinson-dead]]
+[[rolinson2019-07-29]]

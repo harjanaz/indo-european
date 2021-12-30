@@ -1,4 +1,4 @@
-[[pie-horses]], [[sacrifice]], [[burial-funeral-graves]]
+[[horses]], [[sacrifice]], [[burial-funeral-graves]]
 
 ---
 

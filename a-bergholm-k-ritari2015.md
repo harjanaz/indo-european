@@ -1,1 +1,0 @@
-> [[bergholm-a]]; [[k-ritari]]. "Introduction: 'Celtic Religion': Is This A Valid Concept?". Article in [[k-ritari-a-bergholm2015eds]] [.pdf](a-bergholm-k-ritari2015.pdf)

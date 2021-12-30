@@ -3,14 +3,13 @@
 ## Topics
 [[homosexuality]]
 [[pederasty]]
+[[beastiality]]
 ## Scholarship
 [[d-wiley2005]]
 [[p-sauzeau2013]]
 [[dhuy2020]]
-[[u-dronke1980]]
-
+[[m-merisante2014]]
 ## By Branch
-[[pie-sexuality]]
 [[germanic-sexuality]]
 
 ## External Links

@@ -1,0 +1,1 @@
+`*h1ék̑u̯o-` "horse" from [[*swift-root]] so "swift one(s)"

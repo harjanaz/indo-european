@@ -7,7 +7,7 @@
 
 
 
-[[g-hinge2016]]
+[[hinge2016]]
 
 
 ## Burials
@@ -17,10 +17,8 @@
 [Assianism](https://en.wikipedia.org/wiki/Assianism)
 
 ### Linguistics
-[[a-lubotsky2002]]
-[[a-mayor-j-colarusso-d-saunders2014]]
+[[lubotsky2002]]
+[[mayor-j-colarusso-d-saunders2014]]
 
 ### Archaeology
-[[a-alekseev-et-al2011]]
-[[a-alekseev-et-al2002]]
 [[b-geel-et-al2004]] climate

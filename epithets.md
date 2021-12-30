@@ -1,5 +1,5 @@
-[[j-powers-2009-bm]] of Buddha
-[[j-ramon2013]] classics gods
+
+[[ramon2013]] classics gods
 [[j-macedoUNKNOWN]]
 [[j-gonda1959]] Rig Veda
 

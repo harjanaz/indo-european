@@ -1,0 +1,12 @@
+> [[fortunato]]; [[jordan]]. 
+> "Your place or mine? A phylogenetic comparative analysis of marital residence in Indo-European and Austronesian societies". 
+> Article in [[journal-ptrsb]]v365i1559.
+
+> [doi](https://doi.org/10.1098/rstb.2010.0017)
+> [pdf](a/ #nopdf 
+
+#idk
+
+
+## Abstract
+> Accurate reconstruction of prehistoric social organization is important if we are to put together satisfactory multidisciplinary scenarios about, for example, the dispersal of human groups. Such considerations apply in the case of Indo-European and Austronesian, two large-scale language families that are thought to represent Neolithic expansions. Ancestral kinship patterns have mostly been inferred through reconstruction of kin terminologies in ancestral proto-languages using the linguistic comparative method, and through geographical or distributional arguments based on the comparative patterns of kin terms and ethnographic kinship ‘facts’. While these approaches are detailed and valuable, the processes through which conclusions have been drawn from the data fail to provide explicit criteria for systematic testing of alternative hypotheses. Here, we use language trees derived using phylogenetic tree-building techniques on Indo-European and Austronesian vocabulary data. With these trees, ethnographic data and Bayesian phylogenetic comparative methods, we statistically reconstruct past marital residence and infer rates of cultural change between different residence forms, showing Proto-Indo-European to be virilocal and Proto-Malayo-Polynesian uxorilocal. The instability of uxorilocality and the rare loss of virilocality once gained emerge as common features of both families.

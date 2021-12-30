@@ -1,4 +1,4 @@
-[[pie-dogs-hounds]] | [[man-men]]
+[[canids]] | [[man-men]]
 
 ---
 

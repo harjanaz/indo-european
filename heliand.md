@@ -1,4 +1,4 @@
-[[old-english-texts]] | [[ie-and-christianity]]
+[[old-english-texts]] | [[ie-christianity]]
 
 ---
 
@@ -18,7 +18,7 @@
  [[j-cathey2002ed]]
  
 ## Translations
-[[m-scott1966]]
+
 
 [Saxon Text w/ Eng & Ger trans](https://www.hieronymus.us.com/latinweb/Mediaevum/Heliand.htm)
 [Latin & Saxon Text](https://wikisource.org/wiki/Heliand)

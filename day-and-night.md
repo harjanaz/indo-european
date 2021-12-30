@@ -1,6 +1,6 @@
-[[day]] | [[night]]
+[[daytime]] | [[night]]
 
 ---
 
 ## External Links
-[[c-rolinson2019-12-2]]
+[[rolinson2019-12-2]]

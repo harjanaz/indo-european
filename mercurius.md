@@ -1,3 +1,3 @@
 # Mercurius
-[[a-zavaroni2006]]
-[[k-kershaw1997]]
+[[zavaroni2006]]
+[[kershaw1997-2000]]

@@ -1,12 +1,12 @@
 
 
-[Beings](pie-beings.md)
+[Beings](beings.md)
 
-[Mortals](pie-mortals-humans-people.md)
+[Mortals](mortals-humans-people.md)
 
-[Warrior-Kings](pie-kings-rulers.md)
+[Warrior-Kings](king-ruler-chief-leader-lord.md)
 
-[Halo](king-halo.md)
+[Halo](halo.md)
 
 # Lavinia
 

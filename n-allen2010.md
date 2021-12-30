@@ -1,7 +1,7 @@
 > ?
 
 [[fire]], [[agni]], [[hephaestus]], [[arjuna]], [[achilles]]
-[[water]], [[pie-rivers-streams]], [[rain]], [[indra]], [[river-scamander]]
+[[water]], [[rivers-streams]], [[rain]], [[indra]], [[river-scamander]]
 
 Mahabharata Book 1, Khandava Forest Fire
 Iliad book 21

@@ -1,4 +1,4 @@
-[Sanskrit Texts](sanskrit-texts.md)
+[Sanskrit Texts](texts-sanskrit.md)
 # "Sanskrit" by Pat Panda
   [Youtube](https://www.youtube.com/watch?v=Z1Z6tww61DA&list=PLo4qIQPKyBJ8P09Tp1FzmlyknJOu9XScQ&index=1)
 

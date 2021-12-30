@@ -1,0 +1,1 @@
+Translation used: S. P. Scott

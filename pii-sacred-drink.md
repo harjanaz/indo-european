@@ -1,4 +1,4 @@
-[[pie-sacred-drink]]
+[[sacred-drink]]
 
 ---
 

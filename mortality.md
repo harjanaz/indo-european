@@ -1,4 +1,4 @@
 # Life & Death
-[[pie-mortals-humans-people]]
-[[pie-death]]
+[[mortals-humans-people]]
+[[death]]
 [[methods-to-lengthen-life]]

@@ -2,12 +2,11 @@
 
 ---
 
-[[lat-texts]]
+[[latin-texts]]
 
 
 ## Misc. Scholarship
-[[j-stone2005]]
-[[a-corbeill2015]] Sexing the world
+[[corbeill2015]] Sexing the world
 [[b-fortson2011]]
 
 ## External Links

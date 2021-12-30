@@ -1,4 +1,4 @@
-[[king-halo]]
+[[halo]]
 
 ---
 

@@ -1,0 +1,3 @@
+- Jamison, Stephanie. 1997. “Sanskrit Pārin āhya ‘Household Goods’ Semantic Evolution ̣ in Cultural Context.” In Festschrift for Eric Hamp. Vol. 1, ed. Douglas Q. Adams, pp. 139–45. Journal of Indo-European Studies Monograph No. 23, Washington, DC: Institute for the Study of Man.
+- Jamison, Stephanie. 2003. “Vedic vrā: Evidence for the Svayamvara in the Rig Veda?” ̣ In Paitimāna: Essays in Iranian, Indo-European, and Indian Studies in Honor of Hanns-Peter Schmidt. Vols. 1–2, ed. Siamak Adhami, pp. 39–56. Costa Mesa, CA: Mazda.
+- Oguibénine, Boris. 1990. “Vedic Brahmacārin in the Atharvaveda and in Two Domestic Treatises.” In Three Studies in Vedic and Indo-European Religion and Linguistics, pp. 1–20. Poona: Bhandarkar Oriental Research Institute.

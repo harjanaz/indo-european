@@ -1,5 +1,41 @@
-narratives
-content
-
-
-biblio
+[[root-PEG-CLUB]]
+[[root-IMPROVE-MAKE-BETTER]]
+[[root-DIG-BURROW-PIERCE-STAB]]
+[[root-BREAK]]
+[bʰegʷ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0eg%CA%B7- "Reconstruction:Proto-Indo-European/bʰegʷ-")
+[bʰeh₁-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0eh%E2%82%81- "Reconstruction:Proto-Indo-European/bʰeh₁-")
+[bʰeh₂-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0eh%E2%82%82- "Reconstruction:Proto-Indo-European/bʰeh₂-")
+[bʰeh₂g-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0eh%E2%82%82g- "Reconstruction:Proto-Indo-European/bʰeh₂g-")
+[bʰeh₃g-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0eh%E2%82%83g- "Reconstruction:Proto-Indo-European/bʰeh₃g-")
+[bʰel-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0el- "Reconstruction:Proto-Indo-European/bʰel-")
+[bʰelǵ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0el%C7%B5- "Reconstruction:Proto-Indo-European/bʰelǵ-")
+[bʰelǵʰ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0el%C7%B5%CA%B0- "Reconstruction:Proto-Indo-European/bʰelǵʰ-")
+[bʰendʰ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0end%CA%B0- "Reconstruction:Proto-Indo-European/bʰendʰ-")
+[bʰenǵʰ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0en%C7%B5%CA%B0- "Reconstruction:Proto-Indo-European/bʰenǵʰ-")
+[bʰer-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0er- "Reconstruction:Proto-Indo-European/bʰer-")
+[bʰerǵʰ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0er%C7%B5%CA%B0- "Reconstruction:Proto-Indo-European/bʰerǵʰ-")
+[bʰergʰ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0erg%CA%B0- "Reconstruction:Proto-Indo-European/bʰergʰ-")
+[bʰerH-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0erH- "Reconstruction:Proto-Indo-European/bʰerH-")
+[bʰers-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0ers- "Reconstruction:Proto-Indo-European/bʰers-")
+[bʰewdʰ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0ewd%CA%B0- "Reconstruction:Proto-Indo-European/bʰewdʰ-")
+[bʰewg-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0ewg- "Reconstruction:Proto-Indo-European/bʰewg-")
+[bʰewgʰ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0ewg%CA%B0- "Reconstruction:Proto-Indo-European/bʰewgʰ-")
+[bʰey-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0ey- "Reconstruction:Proto-Indo-European/bʰey-")
+[bʰeyd-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0eyd- "Reconstruction:Proto-Indo-European/bʰeyd-")
+[bʰeydʰ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0eyd%CA%B0- "Reconstruction:Proto-Indo-European/bʰeydʰ-")
+[bʰeyh₂-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0eyh%E2%82%82- "Reconstruction:Proto-Indo-European/bʰeyh₂-")
+[bʰleh₁-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0leh%E2%82%81- "Reconstruction:Proto-Indo-European/bʰleh₁-")
+[bʰleh₃-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0leh%E2%82%83- "Reconstruction:Proto-Indo-European/bʰleh₃-")
+[bʰlendʰ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0lend%CA%B0- "Reconstruction:Proto-Indo-European/bʰlendʰ-")
+[bʰlewH-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0lewH- "Reconstruction:Proto-Indo-European/bʰlewH-")
+[bʰleyǵ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0ley%C7%B5- "Reconstruction:Proto-Indo-European/bʰleyǵ-")
+[bʰredʰ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0red%CA%B0- "Reconstruction:Proto-Indo-European/bʰredʰ-")
+[bʰreg-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0reg- "Reconstruction:Proto-Indo-European/bʰreg-")
+[bʰreHg-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0reHg- "Reconstruction:Proto-Indo-European/bʰreHg-")
+[bʰrekʷ-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0rek%CA%B7- "Reconstruction:Proto-Indo-European/bʰrekʷ-")
+[bʰrem-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0rem- "Reconstruction:Proto-Indo-European/bʰrem-")
+[bʰrewh₁-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0rewh%E2%82%81- "Reconstruction:Proto-Indo-European/bʰrewh₁-")
+[bʰrews-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0rews- "Reconstruction:Proto-Indo-European/bʰrews-")
+[bʰreyH-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0reyH- "Reconstruction:Proto-Indo-European/bʰreyH-")
+[bʰruHg-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0ruHg- "Reconstruction:Proto-Indo-European/bʰruHg-")
+[bʰuH-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/b%CA%B0uH- "Reconstruction:Proto-Indo-European/bʰuH-")

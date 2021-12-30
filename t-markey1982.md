@@ -1,1 +1,1 @@
-> [[t-markey]]. "The Cosmology of Lear and His Daughters". in [[e-polome1982]].
+> [[t-markey]]. "The Cosmology of Lear and His Daughters". in [[polome1982-homage]].

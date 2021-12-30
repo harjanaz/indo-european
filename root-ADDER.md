@@ -1,0 +1,1 @@
+`*nē-tr-, nə-tr-` | snake, adder | [LRC](https://lrc.la.utexas.edu/lex/master/1382)

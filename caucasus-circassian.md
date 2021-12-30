@@ -12,8 +12,8 @@ Contains Circassians, Abaza, Abkhaz, and Ubykhs?
 
 ##  Circassian 
 [[b-shinkuba2009]]
-[[a-jaimoukha2009]]
-[[a-jaimoukha2012]]
+[[jaimoukha2009]]
+[[jaimoukha2012]]
 
 
 

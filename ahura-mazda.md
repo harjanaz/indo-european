@@ -1,2 +1,2 @@
 # Ahura Mazda
-[[a-parpola1985]]
+[[parpola1985]]

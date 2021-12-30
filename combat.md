@@ -1,10 +1,35 @@
-The pages [[battle]] and [[war]] redirect here. 
-Combat is a form of [[violence]]. When combat is dirceted towards animals, it is the [[hunt]].
+Combat is a form of [[violence]].
+Redirect: [[battle]], [[war]]
 
 ---
 
-> *War. War Never Changes.* -Fallout Franchise
+## Biblio
+[[kolligan2017]]
+[[r-drews2004]]
+[[c-horn-k-kristiansen2018eds]]
+[[o-symonenko2017]]
+[[rolinson-mythlingwar]]
+[[c-rolinson2019-12-08]]
+[[d-rodin-r-sorabji2006]] Just War
+[[m-meulder2013]] Strategy
 
-## By Branch
-[[pie-combat]]
+## Branches
+[[combat]]
+[[indo-iranian-combat-priests]]
 [Aztec Flower Wars](https://en.wikipedia.org/wiki/Flower-war)
+
+## Topics
+When combat is directed towards animals, it is the [[hunt]]
+
+Combat is also associated with [[law]] and [[leaders-leadership]].
+
+### Warriors
+- [[warriors-individual]]
+	- [[warriors-male]]
+	- [[warriors-female]]
+- [[warband-koryos-comitatus-mannerbund]] led by a [[king-ruler-chief-leader-lord]]
+
+[[weapons]]
+[[war-god]]
+
+

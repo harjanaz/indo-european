@@ -1,4 +1,4 @@
-[[afro-asiatic]]
+[[afro-asiatic-religion]]
 
 ---
 

@@ -1,4 +1,4 @@
-[[warriors-in-general]]
+[[warriors]]
 
 ---
 

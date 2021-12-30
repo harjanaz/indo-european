@@ -1,1 +1,0 @@
-[pdf](a/e-benard1994.pdf)

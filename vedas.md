@@ -1,4 +1,4 @@
-[[sanskrit-texts]]
+[[texts-sanskrit]]
 
 ---
 

@@ -1,4 +1,4 @@
-[[pie-beings]]
+[[beings]]
 # Cosmic & Primordial Beings
 
 

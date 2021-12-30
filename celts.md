@@ -4,5 +4,4 @@
 
 [[celtic-history]]
 [[celtic-lang]]
-[[celtic-folk]]
-[[celtic-religion]]
+[[celtic-culture]]: religion, folk, law, etc.

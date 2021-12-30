@@ -42,4 +42,4 @@ manu
 - Väinämöinen's wound floods the earth with blood, see [wiki](https://en.wikipedia.org/wiki/Finnish-flood-myth)
 
 ### Ravens
-[[a-korotayev-y-berezkin-a-kozmin-a-arkhipova2006]]
+[[korotayev-berezkin-kozmin-arkhipova2006]]

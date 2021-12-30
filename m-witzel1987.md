@@ -1,1 +1,1 @@
-> [[witzel-m]]. "The Case of the Shattered Head". *Studien zur Indologie und Iranistik*, 13/14, 1987, 363-415. [pdf](a/m-witzel1987.pdf)
+> [[witzel]]. "The Case of the Shattered Head". *Studien zur Indologie und Iranistik*, 13/14, 1987, 363-415. [pdf](a/m-witzel1987.pdf)

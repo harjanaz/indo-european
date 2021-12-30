@@ -2,5 +2,8 @@
 
 ---
 
-[[d-agostini2016a]] Iranian eschatological influences
-[[d-agostini2019a]] Iranian & Jewish syncretism 
+
+[[agostini2019-luhrasp]] Iranian & Jewish syncretism 
+
+
+[[iranian-judaism]]

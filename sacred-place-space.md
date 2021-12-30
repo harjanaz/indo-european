@@ -1,4 +1,4 @@
-[[religion]], [[space-landscape-location]]
+[[religion]], [[landscape-location]]
 # Sacred Places
 
 [[sielicki-s-2017]]

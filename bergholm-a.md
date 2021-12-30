@@ -1,5 +1,0 @@
-[[scholars]]
-
----
-
-# Alexandra Bergholm

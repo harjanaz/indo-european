@@ -3,13 +3,13 @@
 ---
 
 ## By Topic
-[[folk]]
+[[folklore]]
 [[religion]]
 [[names]]
 
 ## By Branch
 [[world-culture]]
-...[[pie-culture]]
+...[[culture]]
 ......[[greek-culture]]
 ......[[armenian-culture]]
 ......[[germanic-culture]]

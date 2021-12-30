@@ -1,1 +1,0 @@
-> [[a-nutt]]. "The Celtic Other-World". *Folklore*, Vol. 18, No. 4 (Dec., 1907), pp. 445-448. [jstor](https://www.jstor.org/stable/1254501) [pdf](a/a-nutt1907.pdf)

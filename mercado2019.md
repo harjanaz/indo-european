@@ -1,0 +1,1 @@
+> [[mercado]]. "Form in Latin and Umbrian Sacral Verse". at [[conference-uoc2019]]. [pdf](https://rootsofeurope.ku.dk/kalender/arrangementer-2019/indo-european-religion-and-poetics/handouts/S4T1-Mercado.pdf) [pdf](a/a-mercado2019.pdf)

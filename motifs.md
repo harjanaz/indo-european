@@ -1,14 +1,16 @@
 # Motifs
 
-[[a-sterken2015]], [[a-sterken2016]] The nursing ill-willed woman who is harmed
+[[sterken2015]], [[sterken2016]] The nursing ill-willed woman who is harmed
 
 [[motif-clusters]]
+
+[[weaving-as-poetry]]
 
 
 
 ## A153.1 Theft of [[ambrosia]]: Food of the gods stolen 
 
-[[a-sterken2018]]
+[[sterken2018]]
 
 ---
 

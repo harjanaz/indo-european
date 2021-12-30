@@ -1,1 +1,0 @@
-> [[i-reader]], [[g-tanabe]]. [pdf](a/i-reader-g-tanabe1998.pdf)

@@ -10,6 +10,16 @@
 
 [wiki](https://en.wikipedia.org/wiki/Proto-Indo-European-mythology#Weather-deity)
 
+[[j-lindow1994]]
+
+
+Indic [[parjanya]]
+
+Hittite [[collins2007]]
+
+## Influence on Uralic
+[[u-saloUNKNOWN]]
+
 
 
 [[j-macedoUNKNOWN]]

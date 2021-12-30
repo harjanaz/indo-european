@@ -1,17 +1,21 @@
-[[pie-combat]]
+[[combat]]
 
 ---
 
 # PIE `*Kóryos`
 
+
 Lat. *comitatus*
+
+## Videos
+[[davis-da2021-koryos]]
+## Scholarship
 
 [[h-zimmermannUNKNOWN]]
 [[p-borgeaud1991]]
-[[k-kershaw1997]]
+[[kershaw1997-2000]]
 
-
-
+## Topics
 ### Initiatory Sacrifice
 [[initiation]], [[sacrifice-offerings]]
 [[ahmadi2015]] Ch 12: "Initiation-based youth bands and initiatory sacrifice"

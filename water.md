@@ -12,7 +12,7 @@
 [[k-witczak2015]]
 [[d-gricourt-d-hollard2018]]
 [[klein-et2017-20]]
-[[a-nikolaevUNKNOWN]]
+[[nikolaevIDK]]
 [[j-mcdonaldUNKNOWNa]]
 ## Kinds
 - Flowing VS Stagnant
@@ -22,9 +22,8 @@
 ## Wells
 [[wells-fountains]]
 [[d-white2017]]
-[[j-bord-c-bord1992]] ch13
 ## Narratives/Figures
-[[a-petrosyan2007]] vs heroes
+[[petrosyan2007]] vs heroes
 [[scyld-scefing]]
 
 ## Primordial
@@ -36,5 +35,5 @@
 
 ## Web Resources
 https://www.indo-european-connection.com/words/water
-[[c-rolinson2019-12-2]]
+[[rolinson2019-12-2]]
 ![](a/2398.jpg)

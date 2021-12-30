@@ -1,0 +1,3 @@
+[[journals]]
+
+# NWSA Journal

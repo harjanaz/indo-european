@@ -1,8 +1,7 @@
-[[pie-horses]] [[vedic-animals]]
+[[horses]] [[vedic-animals]]
 
 ---
 
-[[horse.pdf]]
 
 1. Praise
 2. Sacrifice

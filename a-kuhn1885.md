@@ -1,1 +1,0 @@
-> [[a-kuhn]]. "Die sprachvergleichung und die urgeschichte der indogermanischen völker". *Zeitschrift für Vergleichende Sprachforschung*, 1885. [jstor](https://www.jstor.org/stable/40844398) [pdf](a/a-kuhn1885.pdf)

@@ -1,1 +1,1 @@
-> [[witzel-m]]."The Ṛgvedic Religious System and its Central Asian and Hindukush Antecedents" in [[a-griffiths-j-houben2004eds]]. [pdf](a/m-witzel2004.pdf)
+> [[witzel]]."The Ṛgvedic Religious System and its Central Asian and Hindukush Antecedents" in [[griffiths-a-houben2004eds]]. [pdf](a/m-witzel2004.pdf)

@@ -1,0 +1,1 @@
+> [[carnoy]]. *The Mythology of All Races: Volume VI: Iranian*. Marshall Jones Company, 1917. [pdf](https://archive.org/details/in.ernet.dli.2015.188448) [pdf](a-carnoy1917.pdf)

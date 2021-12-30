@@ -6,7 +6,7 @@
 [[b-sergent2016]]
 [[p-bernhardt2017]]
 [[m-merisante2014]]
-[[k-kershaw1997]]p222
+[[kershaw1997-2000]]p222
 
 - Skt. [vṛ́ka](https://en.wiktionary.org/wiki/%E0%A4%B5%E0%A5%83%E0%A4%95#Sanskrit) "un-harm, away-wolf" [[rv10.036.03c-d-wolf]]. Lat. lupus, Eng. wolf, etc. The "Dangerous" or "Tearer". Like the root for bear, it may be a taboo-name avoidance.
 

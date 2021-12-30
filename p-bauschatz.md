@@ -1,1 +1,0 @@
-# Paul C. Bautschatz

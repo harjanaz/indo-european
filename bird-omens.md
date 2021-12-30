@@ -1,4 +1,4 @@
-[[birds-pie]], [[omens]]
+[[birds]], [[omens]]
 
 ---
 
@@ -15,7 +15,7 @@ Greek/Universal *Ornithomancy*
 Present in Germanic, Celtic, Roman, at least
 
 Germanic and Celtic ([[h-davidson1988]]p259 "birds")
-Roman ([[a-andren1997]]p108)
+Roman ([[andren1997]]p108)
 
 
 

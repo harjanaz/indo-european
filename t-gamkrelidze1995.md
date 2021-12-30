@@ -1,2 +1,0 @@
-# (t-gamkrelidze1995)
-> Gamkrelidze, Thomas V. and Ivanov, Vjačeslav V. Indo-European and the Indo- Europeans: A Reconstruction and Historical Analysis of a Proto-Language and a Proto-Culture. tr. Johanna Nichols. New York: Mounton de Gruyter, 1995.

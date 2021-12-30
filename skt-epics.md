@@ -1,4 +1,4 @@
-[[sanskrit-texts]], [[ie-epic]]
+[[texts-sanskrit]], [[ie-epic]]
 
 ---
 

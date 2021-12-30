@@ -1,1 +1,1 @@
-see [[pie-horses]] for horseshoes
+see [[horses]] for horseshoes

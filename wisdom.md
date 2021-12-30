@@ -1,1 +1,1 @@
-[[a-pinchard2011]]
+[[pinchard2011]]

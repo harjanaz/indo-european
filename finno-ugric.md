@@ -2,5 +2,5 @@
 ## Scholarship
 [[u-holmberg1927]]
 ## History
-[[finno-ugric-and-pie]]
+[[ie-finno-ugric]]
 [[j-ahola-c-tolley2014]]

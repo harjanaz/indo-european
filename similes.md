@@ -1,4 +1,4 @@
-[[ie-poetics]]
+[[poetics]]
 # Similes
 
 [[a-ranero1999]] Mahbharata

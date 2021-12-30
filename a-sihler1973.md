@@ -1,1 +1,0 @@
-> [[a-sihler]] "Proto-Indo-European `*smH-` 'Pair'" in [[jies-1-1973]]

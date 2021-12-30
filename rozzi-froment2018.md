@@ -1,0 +1,6 @@
+> [[rozzi]], and [[froment]]. “Earliest Animal Cranial Surgery: from Cow to Man in the Neolithic.” [[journal-scientific-reports]]v8:5536, 2018.
+> 
+>   [doi](https://dx.doi.org/10.1038%2Fs41598-018-23914-1)
+
+## Abstract
+> The earliest cranial surgery (trepanation) has been attested since the Mesolithic period. The meaning of such a practice remains elusive but it is evident that, even in prehistoric times, humans from this period and from the Neolithic period had already achieved a high degree of mastery of surgical techniques practiced on bones. How such mastery was acquired in prehistoric societies remains an open question. The analysis of an almost complete cow cranium found in the Neolithic site of Champ-Durand (France) (3400-3000 BC) presenting a hole in the right frontal bone reveals that this cranium underwent cranial surgery using the same techniques as those used on human crania. If bone surgery on the cow cranium was performed in order to save the animal, Champ-Durant would provide the earliest evidence of veterinary surgical practice. Alternatively, the evidence of surgery on this cranium can also suggest that Neolithic people practiced on domestic animals in order to perfect the technique before applying it to humans.

@@ -2,7 +2,7 @@
 
 (k-hastrup1985)
 
-[[a-gurevich1969]]
+[[gurevich1969]]
 
 # Norse Cosmography
 

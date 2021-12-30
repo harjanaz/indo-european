@@ -14,9 +14,9 @@ It's opposite: [Fury](rage-madnes-fury-mania.md)
 
 #### Celtic
 
-- [Gelta](gelta.md) (might be more like [madness](madness.md) than terror see bergholm below)
+- [Gelta](gelta.md) (might be more like [madness-insanity](madness-insanity.md) than terror see bergholm below)
 
-[[a-bergholm2012]]p57
+[[bergholm2012]]p57
 
 
 ## External Links

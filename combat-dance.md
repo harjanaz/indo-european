@@ -1,3 +1,3 @@
 [[sword-dance]]
 
-[[k-kershaw1997]]p138
+[[kershaw1997-2000]]p138

@@ -1,5 +1,5 @@
 
-[[pie-names]]
+[[names]]
 
 ---
 

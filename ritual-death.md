@@ -1,4 +1,4 @@
-[[ritual]], [[pie-death]]
+[[ritual]], [[death]]
 # Ritual Death
 
 [[trifunctional-sacrifice-threefold-death]]

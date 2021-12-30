@@ -1,5 +1,5 @@
-[[pie-culture]]
+[[culture]]
 
 ---
 
-[[m-west2016]]
+[[west2016]]

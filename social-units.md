@@ -1,3 +1,4 @@
-# Social Units
+==[[society-community]]==
 
-[The tribe](tribe-tribes.md)
+[[tribe]]
+[[kin-family]]

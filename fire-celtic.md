@@ -1,7 +1,6 @@
 [[fire]]
 # Celtic Fire
-[[r-maclagan1898]]
-
+#edit
 Mide’s first fire at Uisneach can be seen as an act of combining the Samos energy of the fire with the Giamic flow of the land which rises up to kiss the sky. We can work this into our charms, incantations, and spells that we say over sacred fires when we kindle them with a friction fire drill. The words Prometheus and Pramathayas from Greece and India, reveal that fire stolen from the gods was that provided by ‘math/meth’ or friction. A Welsh parallel would be Math Mathonwy. Further confirming that the god of Magic, in celtic paganism, is the god who kindles or steals fire. Mide’s use of a fire drill is in the same Indo-European tradition. Sacred fires come from listening, or are taken carefully from that power into the hands of mankind. 
 Fire, Well, and Tree
 In Celtic paganism, the sacred center is best represented by a pillar or tree, a wellspring or water source, or a sacred bonfire. In ADF we call these things the hallows. This is true for the wider spectrum of Indo-Europea religions, but that isn’t the focus of this article.

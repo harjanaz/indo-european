@@ -1,10 +1,10 @@
 
 
-[Beings](pie-beings.md)
+[Beings](beings.md)
 
 [Monsters](monsters.md)
 
-[Serpent-Dragon](serpent-dragon-worms-eels-snakes)
+[Serpent-Dragon](serpent-worm-eel-snake.md)
 
 [Celtic](celtic-religion)
 

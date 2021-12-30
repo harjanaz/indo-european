@@ -1,0 +1,1 @@
+[bak-](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/bak- "Reconstruction:Proto-Indo-European/bak-")

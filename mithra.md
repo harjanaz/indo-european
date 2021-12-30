@@ -2,7 +2,7 @@
 
 ---
 
-This page is a bit vauge, it will be moved to [[pii-mitha-mitra]] and its subcategories.
+This page is a bit vauge, it will be moved to [[mitha-mitra]] and its subcategories.
 
 ## Etymology
 - from PIE `*mei̯-` ("give in exchange") [226] (cf. the discussion in Mayrhofer 2006 [[klein-et2017-20]]
@@ -12,7 +12,7 @@ This page is a bit vauge, it will be moved to [[pii-mitha-mitra]] and its subcat
 [[b-lincoln1977b]]
 [[lincoln1982-mithra]]
 [[d-sick1996]]
-[[a-kaliff-o-sundqvist2006]]
+[[kaliff-sundqvist2006]]
 [[r-beck2006]]
 [[c-anghelina2013]]
 [[r-beck2013]]

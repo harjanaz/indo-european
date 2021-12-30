@@ -1,5 +1,4 @@
-[[ie-poetics]]
+[[poetics]]
 
 ---
 
-[[t-mizunoUNKNOWN]]

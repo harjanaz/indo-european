@@ -2,10 +2,14 @@
 See also: [[languages]]
 
 ## By Branch
+### Celtic
 [[texts-irish]]
 [[texts-welsh]]
-[[sanskrit-texts]]
+### Classical
+[[latin-texts]]
+[[greek-texts]]
+### Other
+[[texts-sanskrit]]
 [[texts-celtic]]
 [[texts-iranian]]
-[[texts-classical]]
 [[texts-germanic]]

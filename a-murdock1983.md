@@ -1,1 +1,0 @@
-> [[a-murdock]]. *Tapas in the Ṛg Veda*. MA Thesis at McMaster University. [pdf](a/a-murdock1983.pdf)

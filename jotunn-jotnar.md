@@ -1,4 +1,4 @@
-[[pie-beings]]
+[[beings]]
 # Norse Jǫtunn / Jǫtnar
 
 ON Sing. Jǫtunn, Pl.  jǫtnar

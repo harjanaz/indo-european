@@ -6,7 +6,7 @@
 This page is concerned with the earliest (and pre-) PIE cultures. For later ones see [[pie-branches]].
 
 ## Misc.
-[[j-mallory1989]]
+[[mallory1989-search]]
 [[anthony2007-horse]]
 [[reich2018]] overview of dna, linguistics, and archaeology
 

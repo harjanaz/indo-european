@@ -16,3 +16,5 @@
 Sources:
 	Celtic Myths by Miranda Jane Green
 
+## Narratives
+[[narrative-father-unknowingly-kills-son]]

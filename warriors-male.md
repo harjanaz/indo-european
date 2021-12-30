@@ -1,8 +1,8 @@
-[Beings](pie-beings.md)
+[Beings](beings.md)
 
-[Mortals](pie-mortals-humans-people.md)
+[Mortals](mortals-humans-people.md)
 
-[Warrior-Kings](pie-kings-rulers.md)
+[Warrior-Kings](king-ruler-chief-leader-lord.md)
 
 [[einheri]]
 
@@ -12,7 +12,7 @@
 
 [Heroes Halos](luan-laith.md)
 [[fraech]]
-[[world-warrior-afterlife]]
+[[warrior-death]]
 
 [[warriors-female]]
 
@@ -32,7 +32,7 @@
 
 ### Irish
 [[fraech]]
-[[a-carnoy2011]]
+[[carnoy2011]]
 
 
 
@@ -43,8 +43,8 @@
 [[f-coimbra2016]]
 ### Narratives
 [[birth]] 
-[[a-petrosyan2007]] vs river/water gods
-[[a-rees1936]] Divine Celtic Heroes
+[[petrosyan2007]] vs river/water gods
+[[rees-a1936]] Divine Celtic Heroes
 
 [[m-meulder2013]] Strategy 
 

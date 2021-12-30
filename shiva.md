@@ -3,7 +3,7 @@
 ## Scholarship
 [[w-doniger1973]]
 [[w-doniger1980b]]
-[[k-kershaw1997]]p351
+[[kershaw1997-2000]]p351
 
 
 ## Festivals
@@ -16,10 +16,10 @@
 - [“Spend It Well”](https://aryaakasha.com/2019/07/21/spend-it-well/)
 - [The Bringer Of Shocking Enlightenment](https://aryaakasha.com/2019/08/07/the-bringer-of-shocking-enlightenment/)
 [[rolinson2020-02-22]]
-[[c-rolinson2019-8-25]]
+[[rolinson2019-8-25]]
 [[c-rolinson2019-9-19a]]
 [[c-rolinson2019-9-19b]]
 [[rolinson2019-11-30]]
-[[c-rolinson2019-12-2]]
+[[rolinson2019-12-2]]
 [[c-rolinson2019-08-07]]
 [[c-rolinson-cosmicorder]]

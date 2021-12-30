@@ -1,1 +1,0 @@
-> [[s-torjussen]]. "Dionysos in the Underworld. An Interpretation of the Toledo Krater". Nordlit 10(2), 2006. [doi](https://doi.org/10.7557/13.1801), [pdf](https://www.researchgate.net/publication/33417766), [pdf](s-torjussen2006.pdf)

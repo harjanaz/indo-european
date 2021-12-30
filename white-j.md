@@ -1,4 +1,4 @@
-[[youtube-channels]], [[crecganford]]
+[[youtube]], [[crecganford]]
 
 ---
 

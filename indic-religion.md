@@ -2,13 +2,17 @@
 
 ---
 
+[Wikipedia: Historical Vedic religion](https://en.wikipedia.org/wiki/Historical-Vedic-religion)
+
+[[vedic-gods]]
+
 ## Scholarship
 ### Overviews
-[[a-keith1917]]
+[[keith1917]]
 [[w-doniger2014]]
 [[h-zimmer1946]]
 ### Misc.
-[[a-parpolaUNKNOWNb]]
+[[parpolaIDK-nasatyas]]
 
 ## Topics
 [[tapas]]

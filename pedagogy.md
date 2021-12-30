@@ -3,6 +3,5 @@
 THAT COOL CELTIC TEXT
 
 ## Skaldic
-SKÁLDSKAPARMÁL
+skaldskaparmal
 [[j-quinn1994]]
-[[skaldskaparmal]]

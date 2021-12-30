@@ -1,4 +1,4 @@
-[[indic-aryaman]] | [[pie-milky-way]]
+[[indic-aryaman]] | [[milky-way]]
 
 ---
 

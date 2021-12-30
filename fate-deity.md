@@ -1,0 +1,2 @@
+Nor. [[norns]]
+Grk. [[moirai]]

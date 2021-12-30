@@ -1,4 +1,4 @@
-[[pie-cosmic-order]]
+[[cosmic-order]]
 
 ---
 

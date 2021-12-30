@@ -1,3 +1,3 @@
 # Harappan
 
-[[a-parpola1985]] Religion
+[[parpola1985]] Religion

@@ -2,7 +2,7 @@
 
 ---
 
-This page is for ancient authors. For modern researchers see [[bibliography]].
+This page is for ancient authors. For modern researchers see [[biblio]].
 
 ## By Branch
 [[greek-persons]]

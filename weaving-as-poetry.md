@@ -1,4 +1,4 @@
-[[ie-poetics]]
+[[poetics]]
 
 ---
 

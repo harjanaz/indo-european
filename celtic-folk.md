@@ -1,4 +1,4 @@
-[[folk]]
+[[folklore]]
 See also: [[celtic-texts]]
 # Celtic Folk
 

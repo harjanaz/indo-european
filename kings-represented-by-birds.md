@@ -1,4 +1,4 @@
-[[birds-pie]] | [[pie-kings-rulers]]
+[[birds]] | [[king-ruler-chief-leader-lord]]
 
 ---
 

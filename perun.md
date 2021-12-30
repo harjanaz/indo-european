@@ -1,10 +1,10 @@
-[Beings](pie-beings.md)
+[Beings](beings.md)
 
-[Gods](pie-deities.md)
+[Gods](deities.md)
 
 [Sky](gods-sky.md)
 
-[Thunder](pie-god-thunder.md)
+[[thunder-lightning]]
 
 [[p-lajoye2016]]
 

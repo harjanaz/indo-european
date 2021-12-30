@@ -1,4 +1,4 @@
-[[pie-schools]]
+[[universities-colleges-institutions-schools]]
 
 ---
 

@@ -1,3 +1,3 @@
 [[combat-dance]]
 
-[[k-kershaw1997]]
+[[kershaw1997-2000]]

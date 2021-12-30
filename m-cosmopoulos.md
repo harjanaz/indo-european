@@ -1,1 +1,0 @@
-# Michael B. Cosmopoulos

@@ -1,0 +1,1 @@
+> [[iversen]]. "Arrowheads as indicators of interpersonal violence and group identity among the Neolithic Pitted Ware hunters of southwestern Scandinavia".

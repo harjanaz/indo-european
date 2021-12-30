@@ -1,11 +1,11 @@
 Existence as it is explained by [[religion]].
 
-[[pie-cosmic-order]]
+[[cosmic-order]]
 
-## Relative to [[ie-time]]
+## Relative to [[time]]
 [[creation-cosmogony]]
 [[eschatology]]
 
 
 ## By Branch
-[[pie-cosmos]]
+[[cosmos]]

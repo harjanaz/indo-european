@@ -3,8 +3,8 @@
 Baldness
 
 [[b-lincoln1977]]
-[[b-lincoln1986-themes]]
-[[k-kershaw1997]]p77
+[[lincoln1986-themes]]
+[[kershaw1997-2000]]p77
 
 
 

@@ -1,1 +1,1 @@
-> [[rolinson]]. "AN INDO-EUROPEAN GUIDE-BOOK OF THE DEAD – Part Three: The River Of Stars". [blog](https://aryaakasha.com/2019/12/28/an-indo-european-guide-book-of-the-dead-part-three-the-river-of-stars/). Part of [[c-rolinson-dead]].
+> [[rolinson]]. "AN INDO-EUROPEAN GUIDE-BOOK OF THE DEAD – Part Three: The River Of Stars". [blog](https://aryaakasha.com/2019/12/28/an-indo-european-guide-book-of-the-dead-part-three-the-river-of-stars/). Part of [[rolinson-dead]].

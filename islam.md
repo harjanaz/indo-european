@@ -2,9 +2,9 @@
 # Islam
 
 [[g-lechler1937]]
-[[n-allen2018]]
+[[allen-n2018-khannas]]
 
-[[zoroastrianism-and-islam]]
+[[iranian-islam]]
 
 jihad
 Futuwwa	(chivalry)

@@ -1,6 +1,6 @@
 # Axis Mundi
 It:
--  Vertically connects the [[cosmography]].
+-  Vertically connects the [[space]].
 -  Marks the horizontal center, the "navel" from which the [Cardinal Directions](cardinal-directions-maps) extend. This is also where the [watery nexus](nexus.md) lies.
 
 ## Forms
@@ -15,4 +15,4 @@ It:
 [[z-smitek1999]] 
 
 ## External Links
-[[c-rolinson2019-12-2]]
+[[rolinson2019-12-2]]

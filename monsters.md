@@ -1,9 +1,9 @@
 
 
-[Beings](pie-beings.md)
+[Beings](beings.md)
 
 # Monsters
 
-[[serpent-dragon-worms-eels-snakes]]
+[[serpent-worm-eel-snake]]
 
 [[l-perabo2016]]

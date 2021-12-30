@@ -1,0 +1,1 @@
+> [[lindsay]]. *The creed of Japhet, that is of the race popularly surnamed Indo-Germanic or Aryan, as held before the period of its dispersion; ascertained by the aid of comparative mythology and language*. [hathitrust](https://catalog.hathitrust.org/Record/100434753), [pdf](a/a-lindsay1891.pdf).

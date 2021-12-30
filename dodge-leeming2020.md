@@ -1,5 +1,6 @@
 > [[dodge]]; [[leeming]]. Podcast. "Episode 44: Odin and the Well of Wisdom". Crane Bag Podcast, 2020.
 
+> [mp3](https://html5-player.libsyn.com/embed/episode/id/16219262/height/90/theme/custom/thumbnail/no/direction/backward/render-playlist/no/custom-color/5a8db8)
 > [jayleeming.com](http://www.jayleeming.com/podcast.html)
 > [The Crane Bag Podcast w/ Jay Leeming](leeming.md)
 

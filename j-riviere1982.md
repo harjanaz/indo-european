@@ -1,1 +1,1 @@
-> [[j-riviere]]. "The Three Counsels". in [[e-polome1982]].
+> [[j-riviere]]. "The Three Counsels". in [[polome1982-homage]].

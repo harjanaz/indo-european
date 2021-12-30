@@ -1,1 +1,0 @@
-> [[a-faulkes]]. *Poetical Inspiration in Old Norse and Old English Poetry*. Viking Society for Northern Research, 1997. [pdf](a-faulkes1997.pdf)

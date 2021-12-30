@@ -1,1 +1,0 @@
-> [[a-griffiths]]; [[j-houben]] (eds). *The Vedas: Texts, Language & Ritual: Proceedings of the Third International Vedic Workshop, Leiden 2002*. Egbert Forsten, 2004.

@@ -1,4 +1,4 @@
-[[celtic-religion]] | [[pie-reincarnation-rebirth]]
+[[celtic-religion]] | [[reincarnation-rebirth]]
 # Celtic Rebirth
 CAULDRONS
 The Cauldron of Rebirth

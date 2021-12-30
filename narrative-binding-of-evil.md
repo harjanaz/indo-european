@@ -1,4 +1,4 @@
-[[pie-narratives]]
+[[narratives]]
 
 ---
 > IE 

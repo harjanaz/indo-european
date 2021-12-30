@@ -1,4 +1,4 @@
-[[functions-tripartite-ideology]]
+[[functions]]
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## Parts
 [Priests](priests)
-[[pie-kings-rulers]]
+[[king-ruler-chief-leader-lord]]
 ## India
 
 - Gods: [Mitra & Varuna](mitra-and-varuna.md)

@@ -1,0 +1,1 @@
+> [[rees-a]]. "The Divine Hero in Celtic Hagiology". *Folklore*, Vol. 47, No. 1 (Mar., 1936), pp. 30-41. [jstor](https://www.jstor.org/stable/1257341), [DOI](https://doi.org/10.1080/0015587X.1936.9718625), [pdf](a/a-rees1936.pdf)

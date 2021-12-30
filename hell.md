@@ -1,0 +1,1 @@
+cold not hot (zoroastrianism, Nordic Hel)

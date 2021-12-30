@@ -1,10 +1,10 @@
 
 
-[Beings](pie-beings.md)
+[Beings](beings.md)
 
-[Mortals](pie-mortals-humans-people.md)
+[Mortals](mortals-humans-people.md)
 
-[Warrior-Kings](pie-kings-rulers.md)
+[Warrior-Kings](king-ruler-chief-leader-lord.md)
 
 [[bird-king-halo]]
 
@@ -15,7 +15,7 @@ Iranian kingly radiance, bird-form
 
 ## Scholarship
 [[e-campanile 1988]]
-[[b-lincoln1981]]p77-78
+[[lincoln1981]]p77-78
 ## Other
 
 Unlike in the Greco-Roman world, where the halo was forgoten [except christianity], in Iran it developed into the *khvarenah*, an important concept in Mazdaic theology.

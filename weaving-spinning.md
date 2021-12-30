@@ -1,9 +1,9 @@
 [[textiles]]
 # Weaving
-[[a-miller1984]]
+[[miller-a1984]]
 
-[[k-bek2006]]
+[[bek2007]]
 
-[[a-winterbourne2004]] fate
+[[winterbourne2004]] fate
 
-[[c-bozzone2016]]
+[[bozzone2016]]

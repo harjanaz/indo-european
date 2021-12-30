@@ -1,10 +1,7 @@
 [[eddic-poetry]]
 
 # Prose Edda
-## Trans.
-### Whole Book
-[[j-young1954]]
-### Detailed by Chapter
+### Chapters
 
 1. [[prologue]]
 2. [[gylfaginning]]

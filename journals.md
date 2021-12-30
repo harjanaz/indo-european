@@ -1,14 +1,14 @@
-[[bibliography]]
+[[biblio]]
 
 ---
 
 [[journals to look into]]
 
 Miscellanea Indogermanica
-[[jies]]
+[[journal-ies]]
 [[journal-eurasian-studies]]
 [[journal-nouvellemythologiecomparee]]
-[[journal-indo-european-linguistics]]
+[[journal-iel]]
 
 ## Related
 [[journal-aion]]

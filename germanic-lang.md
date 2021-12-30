@@ -13,7 +13,7 @@
 ## Topics
 [[runes]]
 [[germanic-texts]]
-[[a-liberman1996]], [[a-liberman1997]]
+[[liberman1996]], [[liberman1997]]
 
 
 

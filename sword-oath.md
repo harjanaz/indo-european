@@ -1,4 +1,4 @@
-[[swords]] [[pie-oath-taking-rituals]]
+[[swords]] [[oath-taking-rituals]]
 # Sword Oath
 
 d | d

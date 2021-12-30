@@ -1,4 +1,4 @@
-[[bibliography]]
+[[biblio]]
 # French Scholarship
 
 
@@ -7,27 +7,14 @@
 [[m-eliade1970]], Eng. trans: [[m-eliade1972]]
 ## 1996
 [[dubuisson1996]]
-## 1997
-## 1998
 ## 1999
 [[sergent1999]]
-## 2000
-## 2001
-## 2002
-## 2003
-## 2004
 ## 2005
 [[s-papillon2005]]
-## 2006
-## 2007
-## 2008
-## 2009
-## 2010
-## 2011
-## 2012
+[[sergent2005]]
 ## 2013
 [[p-sauzeau2013]]
-[[j-koch2013]]
+[[koch2013-formula]]
 [[m-meulder2013]]
 [[c-sterckx2013]]
 [[p-lajoye2013]]
@@ -48,7 +35,7 @@
 [[b-sergent2016]]
 [[allen-n2016]]
 [[m-meulder2016]]
-[[a-chelariu2016]]
+[[chelariu2016]]
 [[dhuy2016]]
 [[p-lajoye2016]]
 [[calin2016]]

@@ -6,7 +6,9 @@
 
 [[light-and-fire]]
 [[fire-as-axis-mundi]]
-[[hearth]]
+
+
++home=[[hearth]]
 
 Fire is linked to [[light]], the [[sun]], and the (shining) [[deities]]. [[ritual]]s like [[yasna]]
 
@@ -15,7 +17,7 @@ Fire is linked to [[light]], the [[sun]], and the (shining) [[deities]]. [[ritua
 [wiki2](https://en.wikipedia.org/wiki/Proto-Indo-European-mythology#Fire-deities)
 
 [[kaliff2005]]
-[[a-kaliff2007]]
+[[kaliff2007]]
 [[s-zimmer2009]]
 
 [[eternal-fire]]
@@ -52,7 +54,7 @@ Fire as Hypostatis of The God | mari (tul, kugo jumo),
 ### Eternal Flame
 https://en.wikipedia.org/wiki/Eternal-flame
 
-[[a-gailey-g-adams1977]] Irish Bonfires
+[[gailey-g-adams1977]] Irish Bonfires
 
 
 ## Fire Rituals

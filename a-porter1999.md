@@ -1,1 +1,0 @@
-> [[a-porter]]. "The Trinity and the Indo-European Tripartite Worldview". Budhi, 2&3, 1999. [pdf](https://journals.ateneo.edu/ojs/index.php/budhi/article/view/629/626), [html](http://www.tdl.com/~app/trinity.html), [pdf](a/a-porter1999.pdf)

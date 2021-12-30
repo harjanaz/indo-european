@@ -1,2 +1,2 @@
-[[d-frauenfelder1991]]
+[[frauenfelder1991]]
 [[d-gricourt-d-hollard2018]]

@@ -1,1 +1,0 @@
-> [[a-pike]]. *Iran-Aryan Faith and Doctrine As Contained in the Zend-Avesta*. The Standard Printing Co, 1924. [archive](https://archive.org/details/iranoaryanfaithd00pike/page/n9/mode/2up), [pdf](a/a-pike1874.pdf)

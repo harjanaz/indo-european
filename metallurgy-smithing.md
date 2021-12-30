@@ -8,4 +8,4 @@
 ## Scholarship
 [[t-viitso2012]]
 [[x-wan2011]]
-[[a-gunter-p-jett1992]] Iranian
+[[gunter-a-jett1992]] Iranian

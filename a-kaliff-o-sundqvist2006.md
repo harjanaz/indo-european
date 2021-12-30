@@ -1,1 +1,0 @@
-> [[kaliff]]; [[o-sundqvist]]. "Odin and Mithras: Religious acculturation during the Roman Iron Age and the Migration Period". Article in [[a-andren-k-jennbert-c-raudvere2004eds]]. [pdf](https://www.academia.edu/27724226/Odin-and-Mithras-religious-acculturation-during-the-Roman-Iron-Age-and-the-Migration-Period) [pdf](a/a-kaliff-o-sundqvist2006.pdf)

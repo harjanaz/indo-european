@@ -1,0 +1,1 @@
+> [[khanbaghi]]. *The Fire, the Star and the Cross: Minority Religions in Medieval and Early Modern Iran*. I.B.Tauris, 2006. [pdf](a/a-khanbaghi2006.pdf)

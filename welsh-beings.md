@@ -1,4 +1,4 @@
-[[celtic-beings]]
+[[beings-celtic]]
 
 ---
 

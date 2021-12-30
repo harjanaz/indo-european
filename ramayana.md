@@ -1,4 +1,4 @@
-[Sanskrit Texts](sanskrit-texts.md)
+[Sanskrit Texts](texts-sanskrit.md)
 # Ramáyana
 
 ## Parsed

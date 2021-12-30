@@ -4,5 +4,5 @@
 [[cernunnian]]
 
 
-[[pie-divine-twins]]
+[[divine-twins]]
 [[d-gricourt-d-hollard2018]]

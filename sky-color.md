@@ -4,9 +4,9 @@
 
 - There are three primary skys: the Bright, Red, and Dark. 
 - Each sky has its own:
-	-  [World](cosmography.md)
-	-  [Time of day](24h.md)
-	-  [Gods](pie-deities.md)
+	-  [World](space.md)
+	-  [Time of day](24hours.md)
+	-  [Gods](deities.md)
 
 
 ### Bright Sky

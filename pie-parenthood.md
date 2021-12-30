@@ -1,6 +1,0 @@
-[[society-community]]
-
----
-
-[[fatherhood]]
-[[motherhood]]

@@ -1,6 +1,6 @@
-[Beings](pie-beings.md)
+[Beings](beings.md)
 
-[Gods](pie-deities.md)
+[Gods](deities.md)
 
 [Sacred Marriage](sacred-marriage.md)
 /sacred-marriage-germanic

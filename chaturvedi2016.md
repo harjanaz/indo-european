@@ -1,0 +1,1 @@
+> [[chaturvedi]]. "Harmonia and ṛtá". Article in [[r-seaford2016ed]] [pdf](a-chaturvedi2016.pdf) [jstor](https://www.jstor.org/stable/10.3366/j.ctt1bgzdmh.9)

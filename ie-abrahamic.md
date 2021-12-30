@@ -2,10 +2,10 @@
 
 ---
 
-[[s-levin1995]]
+[[levin1995]]
 [[p-brown1971]]p35bottom-
 
 ## Sub-Branches
 [[ie-and-judaism]]
-[[ie-and-christianity]]
+[[ie-christianity]]
 [[ie-and-islam]]

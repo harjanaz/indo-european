@@ -1,8 +1,8 @@
-[[pie-eschatology]]
+[[eschatology]]
 
 ---
 
-[[a-znamenski2011]]p3-5
+[[znamenski2011]]p3-5
 
 
 http://www.chinabuddhismencyclopedia.com/en/index.php/Shambhala-in-the-Kalki-Purana

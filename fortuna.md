@@ -2,7 +2,7 @@
 
 ---
 
-[[a-zavaroni2006]]
+[[zavaroni2006]]
 
 ## External Links
 [Wikipedia: O Fortuna](https://en.wikipedia.org/wiki/O-Fortuna)

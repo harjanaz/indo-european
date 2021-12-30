@@ -1,4 +1,4 @@
-[[pie-deities]], [[sheep]]
+[[deities]], [[sheep]]
 
 ---
 
@@ -13,7 +13,7 @@
 	- Oettinger [[klein-et2017-20]]
 
 ## PIE
-- Both terms derive from *peh₂- which originally meant "to protect" and later "to shepherd" (*peh₂nts?). It also gave birth to the term *ph₂tḗr (“father” literally "protector"). See [Sky Father](pie-sky-father.md)
+- Both terms derive from *peh₂- which originally meant "to protect" and later "to shepherd" (*peh₂nts?). It also gave birth to the term *ph₂tḗr (“father” literally "protector"). See [Sky Father](day-sky-father.md)
 
 
 Mithras was considered the Lord of Wide Pastures and a Shepherd

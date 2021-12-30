@@ -6,8 +6,6 @@
 [[n-baker2011]] Book
 [[d-levy1993a]] Article
 ## Misc Topics
-[[p-mirecki-j-beduhn2001]]
-[[j-beduhn2000]] The Body
 [[j-beduhn2009]] Articles
 ## China
 [[l-tsun1976]]

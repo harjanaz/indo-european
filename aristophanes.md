@@ -1,5 +1,0 @@
-[[greek-persons]]
-
----
-
-[[aristophanes-frogs]]

@@ -1,4 +1,4 @@
-[[pie-skull-cups]]
+[[skull-cups]]
 
 ---
 

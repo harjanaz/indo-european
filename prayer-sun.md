@@ -1,4 +1,4 @@
-[[pie-sacred-orality]]
+[[sacred-orality]]
 [[sun]]
 # Prayers to the Sun
 

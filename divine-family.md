@@ -5,22 +5,22 @@
 [wiki](https://en.wikipedia.org/wiki/Proto-Indo-European-mythology#Pantheon)
 
 
-[[pie-sky-father]] -- [[ie-earth-mother]] / [[sky-mother]]
+[[day-sky-father]] -- [[ie-earth-mother]] / [[sky-mother]]
 [[thunder-lightning]]
-	- [[pie-dawn-goddess]]
+	- [[dawn-goddess]]
 	- [[sun]]
 	- [[moon]]
-	- [[pie-divine-twins]]
+	- [[divine-twins]]
 
 [[ie-earth-mother]]
-[[pie-divine-twins]]
+[[divine-twins]]
 
 
 
 
 
-## Appearence in [[pie-narratives]]
-[[pie-war-of-the-gods]]
+## Narratives
+[[narrative-war-of-the-gods]]
 
 ## External Links
 [Sky-Earth-Thunder – A Brief Comparative Model of the Divine Family](https://aryaakasha.com/2019/07/19/sky-earth-thunder-a-brief-comparative-model-of-the-divine-family/)

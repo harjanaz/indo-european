@@ -1,0 +1,1 @@
+> [[mallory]]; [[adams-d]] (ed.). *Encyclopedia of Indo-European Culture*. Chicago: Fitzroy Dearborn Publishers, 1997.

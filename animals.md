@@ -1,9 +1,15 @@
-[[pie-beings]]
+[[beings]]
 
 ---
+
+For poetics --> [[buck-3-animals]]
+
 ## Types
+[[horses]]
+[[frog]]
+[[birds]]
 [[bovines]]
-[[pie-horses]]
+[[horses]]
 [[monkey]]
 [[fox-jackal-coyote]]
 [[cervidae]] (Deer, Stags/Bucks)
@@ -17,7 +23,7 @@
 
 
 ## Mythical
-[[serpent-dragon-worms-eels-snakes]]
+[[serpent-worm-eel-snake]]
 
 ### Combinations
 [[animal-men]]
@@ -28,12 +34,12 @@
 ## By Branch 
 [[celtic-animals]]
 [[germanic-animals]]
-[[h-martirosyan1964]] Armenian???
+[[martirosyan1964]] Armenian???
 
   
 
 ## Topics
-+sacrifice=[[animal-sacrifice]]
++sacrifice=[[animal-sacrifices]]
 +sexuality=[[bestiality]]
 
 ## External Links

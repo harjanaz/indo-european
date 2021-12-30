@@ -1,3 +1,3 @@
-[[pie-ethics-morality-virtues]]
+[[ethics-morality-virtues]]
 
 ---

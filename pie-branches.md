@@ -2,16 +2,18 @@
 
 ---
 
+A good standard for cladistic nomenclature:  [[olander2019]]
+
 ## Non-IE
 [[barbarians]]
 
 ## Branches / Clades
 [[hellens]]
-[[germanic-branch]]
+[[germans]]
 [[italo-celts]]
 [[balto-slavs]]
-[[indo-iranians]], [[scythians]], [[saka]], [[kushans]]
-[[tocharians]]
+[[indo-iranians]]
+[[tocharians]], [[kushans]]
 [[anatolians]]
 [[armenians]]
 [[cimmerians]]
@@ -20,14 +22,14 @@
 [[lusitanians]]
 
 ### Other Branches / Clades
-[[graeco-aryan]]
+[[graeco-aryans]]
 [[the-west]]
 [[guanches]]
 [[danavas]]
 [[turanians]]
-[Biblical Names](bible)
+[[bible]] tribes
 [[balkans]]
-[[bible]] In the bible
+
 
 
 ## External Links

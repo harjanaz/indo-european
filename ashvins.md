@@ -1,4 +1,4 @@
-[[pie-divine-twins]] | [[horse-riding]]
+[[divine-twins]] | [[horse-riding]]
 
 ---
 
@@ -9,4 +9,4 @@
 ## External Links
 [Wikipedia: Aśvins](https://en.wikipedia.org/wiki/A%C5%9Bvins)
 [[c-rolinson2019-9-16]]
-[[c-rolinson2019-11-14]]
+[[rolinson2019-11-14]]

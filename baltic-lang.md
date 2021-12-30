@@ -2,7 +2,7 @@
 
 ---
 
-[[baltic-texts]]
+[[baltic-poetics]]
 
 ## Scholarship
 

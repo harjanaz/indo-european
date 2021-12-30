@@ -1,3 +1,3 @@
 # Mashya
 
-[[a-saeedipour2012c]]
+[[saeedipour2012c]]

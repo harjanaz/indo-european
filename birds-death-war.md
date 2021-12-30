@@ -1,4 +1,4 @@
-[[birds-pie]], [[pie-death]], [[combat]]
+[[birds]], [[death]], [[combat]]
 
 ---
 

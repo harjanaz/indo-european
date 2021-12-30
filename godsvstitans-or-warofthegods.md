@@ -1,4 +1,4 @@
-[[pie-deities]] [[titans]]
+[[deities]] [[titans]]
 # Gods vs Titans / War of the Gods
 
 #### By Branch

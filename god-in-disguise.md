@@ -1,4 +1,4 @@
-[[pie-deities]]
+[[deities]]
 # God in Disguise
 - Widespread
 - It has to do with divine perception. 

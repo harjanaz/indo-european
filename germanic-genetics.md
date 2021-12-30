@@ -1,4 +1,4 @@
-[[germanic-branch]], [[indo-european-genetics]]
+[[germans]], [[genetics]]
 
 ---
 

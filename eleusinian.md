@@ -3,7 +3,7 @@
 ---
 ## Scholarship
 [[b-lincoln1981b]]
-[[m-cosmopoulos2015]]
+
 
 ## Popular
 [[b-muraresku2020]]

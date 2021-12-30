@@ -1,3 +1,3 @@
 [[small]]
 [[large]]
-[[long]]
+[[length]]

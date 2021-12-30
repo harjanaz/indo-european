@@ -1,9 +1,9 @@
 [[giant-cosmic-primordial]]
 
-[[pie-creation-cosmogony]]
+[[creation-cosmogony]]
 
 Sacrified brother of [[manu-first-man]]
-*not to be confused with the [[pie-divine-twins]]*
+*not to be confused with the [[divine-twins]]*
 # Twin / Yemo
 <iframe width="100%" height="350" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/y%C3%A9mHos#Proto-Indo-European"></iframe>
 
@@ -16,9 +16,9 @@ Sacrified brother of [[manu-first-man]]
 
 ## Scholarship
 [[j-puhvel1975]]
-[[a-parpola1985]]
+[[parpola1985]]
 [[p-raffetta2002]]
-[[a-saeedipour2012c]]
+[[saeedipour2012c]]
 
 ## IE Decendents
 Skt. [[indic-yama]]

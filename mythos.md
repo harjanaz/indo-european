@@ -1,3 +1,3 @@
-[[pie-narratives]]
+[[narratives]]
 # Mythos
 [[lincoln1996]]

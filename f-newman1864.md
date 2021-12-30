@@ -1,1 +1,0 @@
-> ? [pdf](a/f-newman1864.pdf)

@@ -1,3 +1,3 @@
 > ?
 
-in [[k-ritari-a-bergholm2015eds]]
+in [[k-ritari-bergholm2015eds]]

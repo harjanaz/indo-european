@@ -1,4 +1,7 @@
-> [[dodge]]. *Orpheus, Odin, and the Indo-European Underworld: A Response to Bruce Lincoln's Article “Waters of Memory, Waters of Forgetfulness"*. University of Houston Honors College, 2020. https://doi.org/10.13140/RG.2.2.15131.90402
+> [[dodge]]. *Orpheus, Odin, and the Indo-European Underworld: A Response to Bruce Lincoln's Article “Waters of Memory, Waters of Forgetfulness"*. University of Houston Honors College, 2020. 
+
+> [doi](https://doi.org/10.13140/RG.2.2.15131.90402) (researchgate)
+> [archive.org](https://archive.org/details/erick_james_dodge_thesis)
 
 
 ## Abstract
@@ -13,7 +16,8 @@
 [[fire-in-water]]
 [[peele]]
 
-## Other
-https://youtu.be/TWib6bPZzy0?t=222
+## Additions
+[YouTube: Chinese Parallel](https://youtu.be/TWib6bPZzy0?t=222)
+[Wikipedia: Meng Po](https://en.wikipedia.org/wiki/Meng_Po)
 
 ![[conspiracy-meme.jpg]]

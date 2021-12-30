@@ -2,9 +2,5 @@
 
 ---
 
-- [*Macgnímartha Finn*  The Boyhood deeds of Finn](macgnimartha-finn.md)
-- [Dindshenchas](dindshenchas.md)
+- [[dindshenchas]]
 
-
-## Scholarship
-[[s-coileainUNKNOWN]]

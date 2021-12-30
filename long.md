@@ -1,6 +1,1 @@
-[[size]]
-
----
-
-## Web Resources
-https://www.indo-european-connection.com/words/long
+# A. G. Long

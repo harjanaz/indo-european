@@ -1,4 +1,4 @@
-[[pie-beings]]
+[[beings]]
 # Germanic Beings
 ## PIE *wekti-* (“object, thing”)
 ## PG *wihtiz*

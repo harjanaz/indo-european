@@ -2,7 +2,11 @@
 
 ---
 
-The following pages redirect here: [[battle-roar]]
 
-## By Branch
-[[pie-combat-orality]]
+
+
+
+## of individuals
+[[rage-madnes-fury-mania]]
+## of armies
+[[battle-roar]]?

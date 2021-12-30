@@ -1,6 +1,0 @@
-> [[a-hall]]. ""Þur sarriþu þursa trutin": Monster-Fighting and Medicine in Early Medieval Scandinavia". *Asclepio: Revista de Historia de la Medicina y de la Ciencia*, Vol 61, No 1 (2009). [pdf](http://asclepio.revistas.csic.es/index.php/asclepio/article/view/278/274) [academia](https://www.academia.edu/821403/-%C3%9Eur-sarri%C3%BEu-%C3%BEursa-trutin-Monster-Fighting-and-Medicine-in-Early-Medieval-Scandinavia) [pdf](a/a-hall2009.pdf)
-
-## Abstract
-This article seeks evidence among our extensive Scandinavian mythological texts for an issue which they seldom discuss explicitly: the conceptualisation and handling of illness and healing. Its core evidence is two runic texts (the Canterbury Rune-Charm and the Sigtuna Amulet) which conceptualise illness as a þurs ('ogre, monster'). The article discusses the semantics of þurs, arguing that illness and supernatural beings could be conceptualised as identical in medieval Scandinavia. This provides a basis for arguing that myths in which gods and heroes fight monsters provided a paradigm for the struggle with illness. The article proceeds, more speculatively, to use the Eddaic poem Skírnismál and the Finnish Riiden synty as the basis for arguing that one cause of illness could be the transgression of moral norms.
-
-#eh

@@ -3,7 +3,7 @@ See also [[nature-gods]] & [[social-gods]]
 
 # Sky Gods / Heavenly Deities
 
-[[sky]]
-[[pie-dawn-goddess]]
-[[sun]]
-[[moon]]
+[[day-sky-father]]
+[[night-sky-father]]
+[[dawn-goddess]]
+[[dusk-goddess]]

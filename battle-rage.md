@@ -1,0 +1,3 @@
+fury, furor
+
+Av. *aēšəmāi*

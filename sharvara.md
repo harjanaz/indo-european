@@ -1,4 +1,4 @@
-[[pie-hell-hound]]
+[[hell-hound]]
 [[indic-yama]] | [[indic-dogs]]
 
 ---

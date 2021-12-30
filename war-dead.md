@@ -1,11 +1,11 @@
-[[pie-death]], [[warband-koryos-comitatus-mannerbund]]
+[[death]], [[warband-koryos-comitatus-mannerbund]]
 
 # The War dead
 Alias: Ghostly Troops
 
 
-[[a-bernstein2009]]
-[[k-kershaw1997]]
+[[bernstein2009]]
+[[kershaw1997-2000]]
 
 
 Germanic [[einheriar-einherjar]]

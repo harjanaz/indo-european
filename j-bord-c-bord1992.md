@@ -1,1 +1,0 @@
-[pdf](j-bord-c-bord1992.pdf)

@@ -2,15 +2,15 @@
 
 
 
-[Beings](pie-beings.md)
+[Beings](beings.md)
 
-[Gods](pie-deities.md)
+[Gods](deities.md)
 
 /love
 
 # Love
 
-[[a-saeedipour2012b]]
+[[saeedipour2012b]]
 
 - **Kama**, hindu god of desire, a handsome youth who makes people fall in love by shooting flowery arrows at them.
 

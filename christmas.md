@@ -1,4 +1,4 @@
-[[winter-festivals]] | [[ie-and-christianity]]
+[[winter-festivals]] | [[ie-christianity]]
 
 ---
 [[christmas-tree]]

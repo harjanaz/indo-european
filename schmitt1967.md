@@ -1,0 +1,1 @@
+> [[schmitt]]. *Dichtung und Dichtersprache in indogermanischer Zeit*. Wiesbaden. 1967.

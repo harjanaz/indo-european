@@ -5,7 +5,7 @@
 ## By Writer
 [[greek-persons]]
 
-## Ancient
+## [[grk-epics]] Ancient
 [[homer]]
 [[homeric-hymns]]
 [[hesiod-theogony]]
@@ -16,7 +16,7 @@
 ### Plays
 [[aeschylus]]
 [[aristophanes]]
-[[euripides]]
+
 ### Other
 [[callimachus]]
 [[alcman]]

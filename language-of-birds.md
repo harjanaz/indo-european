@@ -1,11 +1,11 @@
-[[birds-pie]], [[pie-orality]]
+[[birds]], [[orality]]
 
 ---
 
-[[birds-pie]]
+[[birds]]
 
 [[languages-of-beings]] (Gods, Men, Birds all have their own languages.)
-[[birds-pie]]
+[[birds]]
 
 ---
 

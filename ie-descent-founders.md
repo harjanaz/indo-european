@@ -1,6 +1,6 @@
 # IE Descent
 
-[[a-volpe1993]]
+[[volpe1993]]
 
 
 [Tuisto/Tvaṣṭṛ m.]

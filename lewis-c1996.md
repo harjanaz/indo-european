@@ -1,0 +1,11 @@
+> [[lewis-c]]. *Prehistoric Mining At The Great Orme: Criteria for the identification of early mining*. 
+
+> [pdf](https://www.greatormemines.info/research/)
+
+
+## Summary
+> This study describes and discusses the criteria for the identification of prehistoric or early mining on the Great Orme. Particular emphasis is placed on the geological conditions of the ore deposit and how this has governed the scale and morphology of the extensive workings now recognised at the site. This was achieved by underground and surface surveys of the workings together with precise recording of geological formations through the same areas. The principal routes through the 18-19th century workings were surveyed, concentrating on localities where evidence for early phases of mining existed. Geological recording took the form of logging individual rock strata and associated mineralisation from surface exposures to the deepest sections of the mine where early mining could be identified.
+> 
+> The artefacts and features of the prehistoric workings were also investigated, by a review of all existing historical and archaeological documentation relating to the site supplemented by evidence obtained directly through this study. From this it was possible to distinguish differences in mining artefacts and features between the prehistoric period and the 18-19th centuries. Evidence for prehistoric mining from recognised sites throughout the British Isles, Ireland, Europe and the Near East has also been reviewed and comparisons made with similar evidence from the Great Orme mine workings.
+> 
+> The limited evidence for mineral processing and complete lack of evidence for copper smelting on the Great Orme as well as the local area has also been discussed and possible sites for these operations are suggested. It is calculated that quantities of smelted copper metal in excess of 200 tonnes could have been mined from the Great Orme, suggesting this site may have been a significant contributor to metal production during the Bronze Age period in the British Isles.

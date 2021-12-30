@@ -1,1 +1,0 @@
-# Noel W. Smith

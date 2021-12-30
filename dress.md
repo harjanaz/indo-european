@@ -1,4 +1,4 @@
-[[gender]], [[clothes]]
+[[gender]], [[clothes-clothing]]
 
 ---
 

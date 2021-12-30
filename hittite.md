@@ -6,7 +6,7 @@ See also [[luwian]]
 [wiki](https://en.wikipedia.org/wiki/Hittite-mythology-and-religion)
 
 ## Religion
-[[b-collins2007]]
+[[collins2007]]
 [[b-sergent2016]]
 
 

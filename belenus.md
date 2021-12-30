@@ -1,6 +1,6 @@
 
 
-[Celtic](celtic-religion) , [Beings](pie-beings.md)
+[Celtic](celtic-religion) , [Beings](beings.md)
 
 [Interpretatio Romana](interpretatio-romana.md) , [Gods?]
 

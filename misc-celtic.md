@@ -1,2 +1,2 @@
 # Misc Celtic
-[[a-ward1981]]
+[[ward-a1981]]

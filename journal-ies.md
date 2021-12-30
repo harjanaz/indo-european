@@ -1,0 +1,61 @@
+[[journals]]
+
+---
+# *Journal of Indo-European Studies (JIES)*
+## Publisher
+Institute for the Study of Man in Washington, D.C.
+## External Links
+[Website](https://www.jies.org/)
+[Wikipedia](https://en.wikipedia.org/wiki/Journal-of-Indo-European-Studies)
+## Monographs
+[[jies-m]]
+## Volume Index
+[[jies-1-1973]]
+[[jies-2-1974]]
+[[jies-3-1975]]
+[[jies-4-1976]]
+[[jies-5-1977]]
+[[jies-6-1978]]
+[[jies-7-1979]]
+[[jies-8-1980]]
+[[jies-9-1981]]
+[[jies-10-1982]]
+[[jies-11-1983]]
+[[jies-12-1984]]
+[[jies-13-1985]]
+[[jies-14-1986]]
+[[jies-15-1987]]
+[[jies-16-1988]]
+[[jies-17-1989]]
+[[jies-18-1990]]
+[[jies-19-1991]]
+[[jies-20-1992]]
+[[jies-21-1993]]
+[[jies-22-1994]]
+[[jies-23-1995]]
+[[jies-24-1996]]
+[[jies-25-1997]]
+[[jies-26-1998]]
+[[jies-27-1999]]
+[[jies-28-2000]]
+[[jies-29-2001]]
+[[jies-30-2002]]
+[[jies-31-2003]]
+[[jies-32-2004]]
+[[jies-33-2005]]
+[[jies-34-2006]]
+[[jies-35-2007]]
+[[jies-36-2008]]
+[[jies-37-2009]]
+https://www.jies.org/DOCS/jies-index/mainindex.html
+[[jies-38-2010]]
+[[jies-39-2011]]
+[[jies-40-2012]]
+[[jies-41-2013]]
+[[jies-42-2014]]
+[[jies-43-2015]]
+[[jies-44-2016]]
+[[jies-45-2017]]
+[[jies-46-2018]]
+[[jies-47-2019]]
+[[jies-48-2020]]

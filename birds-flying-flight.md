@@ -11,7 +11,7 @@
 
 ![](a/98643.jpg)
 
-[[a-chelariu2016]]
+[[chelariu2016]]
 
 [[valkyries]]
 
@@ -19,7 +19,7 @@
 
 ### Terror or Madness
 
-- Irish [[geilt]] [[a-forbes1905]]
+- Irish [[geilt]] [[forbes1905]]
 
 ### Fury
 

@@ -1,5 +1,5 @@
-[[todo]]
-
+---
+publish: false
 ---
 
 https://www.academia.edu/9984365/Review-of-The-Origins-of-the-Worlds-Mythologies-by-Michael-Witzel

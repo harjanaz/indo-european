@@ -1,1 +1,1 @@
-> [[p-olivelle]]. *The Āśrama System: The History of Hermeneutics of a Religious Institution*. [pdf](a/p-olivelle1993.pdf)
+> [[olivelle]]. *The Āśrama System: The History of Hermeneutics of a Religious Institution*. [pdf](a/p-olivelle1993.pdf)

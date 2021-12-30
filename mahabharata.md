@@ -1,4 +1,4 @@
-[[sanskrit-texts]] | [[sanskrit-texts]]
+[[texts-sanskrit]] | [[texts-sanskrit]]
 
 ---
 
@@ -13,5 +13,11 @@
 Rama in it [[p-scharf2003]]
 ## Scholarship
 [[allen-n2016]]
-[[n-allen2019a]]
+[[allen-n2019-chronicle]]
 [[s-taneja2009]] Iliad and Mahabharata
+
+## Narratives
+[[narrative-father-unknowingly-kills-son]]
+## Characters
+[[ arjuna]] 
+[[babhruvahana]]

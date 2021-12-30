@@ -1,0 +1,1 @@
+> [[macdonald-d]]. *Does the New Testament Imitate Homer? Four Cases from the Acts of the Apostles*. [pdf](macdonald-d2003.pdf)

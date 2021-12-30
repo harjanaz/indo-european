@@ -1,10 +1,9 @@
 [[swords]] | [[stones-rocks]]
-[[pie-kings-rulers]] | [[arthurian]]
+[[king-ruler-chief-leader-lord]] | [[arthurian]]
 
 ## Arthurian
 
 [[w-wentz1911]] ch5
-[[j-bord-c-bord1992]] ch14
 [[littleton-malcor1994]]
 [[p-thornhill2000]]
 [[l-malkova2002]]

@@ -11,7 +11,7 @@ buddhist kali-yuga? buddhist-islamic?
 
 [[syncretic-eschatology-islam]]
 [[syncretic-eschatology-zoroastrianism]]
-[[zoroastrianism-and-islam]]
+[[iranian-islam]]
 [[syncretic-eschatology-sikhism]]
 
 ## Old Stuff

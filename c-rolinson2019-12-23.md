@@ -1,1 +1,1 @@
-> [[rolinson]]. "AN INDO-EUROPEAN GUIDE-BOOK OF THE DEAD – Part Prelude: The Path Of The Dead Is Open". [blog](https://aryaakasha.com/2019/12/23/an-indo-european-guide-book-of-the-dead-part-prelude-the-path-of-the-dead-is-open/). Part of [[c-rolinson-dead]].
+> [[rolinson]]. "AN INDO-EUROPEAN GUIDE-BOOK OF THE DEAD – Part Prelude: The Path Of The Dead Is Open". [blog](https://aryaakasha.com/2019/12/23/an-indo-european-guide-book-of-the-dead-part-prelude-the-path-of-the-dead-is-open/). Part of [[rolinson-dead]].

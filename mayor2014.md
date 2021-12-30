@@ -1,0 +1,1 @@
+> [[mayor]]. *The Amazons: Lives & Legens of Warrior Women Across The Ancient World*. Princeton University Press, 2014. [jstor](https://www.jstor.org/stable/j.ctt7zvndm) [pdf](a/a-mayor2014.pdf)

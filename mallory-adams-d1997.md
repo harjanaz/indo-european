@@ -1,4 +1,9 @@
-> Encyclopedia of  Indo-European Culture [[j-mallory-adams-d1997.pdf]]
+> [[mallory]]; [[adams-d]]. 
+> *Encyclopedia of  Indo-European Culture*. 
+> Book.
+> Fitzroy Dearborn, 1997.
+
+> [pdf](a/j-mallory-adams-d1997.pdf)
 
 Errata [[witczak2003]]
 

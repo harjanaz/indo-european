@@ -1,8 +1,8 @@
-[[pie-beings]]
+[[beings]]
 [[beings-norse]]
 # Njörðr
 
-[[e-polome1999]]
+[[polome1999]]
 [[cardona1990]] = [[nereus]] & [[nereid]]
 
 ON Njörðr (m.)

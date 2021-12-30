@@ -1,1 +1,0 @@
-> [[c-keary]]. *Outlines of Primitive Belief Among the Indo-European Races*. [pdf](a/c-keary1882.pdf)

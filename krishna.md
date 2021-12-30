@@ -1,5 +1,5 @@
 # Krishna
-[[a-sterken2015]], [[a-sterken2016]]
+[[sterken2015]], [[sterken2016]]
 
 ### In Bible
 Called *charsena* Esther 1:14

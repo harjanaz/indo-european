@@ -1,3 +1,3 @@
 # Societal Honors
 
-[[a-volpe1993]]
+[[volpe1993]]

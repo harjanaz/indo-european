@@ -2,7 +2,7 @@
 
 ---
 [[skt-grammar]]
-[[sanskrit-texts]]
+[[texts-sanskrit]]
 
 ## Scholarship
 [[woodard2008ed]] ch2

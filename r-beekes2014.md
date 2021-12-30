@@ -1,1 +1,1 @@
-> [[r-beekes]]. Pre-Greek [pdf](a/r-beekes2014.pdf)
+> [[beekes]]. Pre-Greek [pdf](a/r-beekes2014.pdf)

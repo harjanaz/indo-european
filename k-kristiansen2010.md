@@ -1,4 +1,4 @@
-in [[a-fredell-k-kristiansen-f-boado2010eds]]
+in [[fredell-k-kristiansen-f-boado2010eds]]
 
 [[k-kristiansen]]
 

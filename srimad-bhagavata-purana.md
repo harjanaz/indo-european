@@ -1,4 +1,4 @@
-[[sanskrit-texts]]
+[[texts-sanskrit]]
 
 ## Trans.
 https://prabhupadabooks.com/sb?d=1

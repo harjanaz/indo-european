@@ -1,4 +1,4 @@
-[[pii-beings]], [[pie-deities]]
+[[pii-beings]], [[deities]]
 
 ---
 

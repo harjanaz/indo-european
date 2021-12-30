@@ -1,6 +1,6 @@
 [Functions](social-structure-class-caste.md)
 
-[2nd Function](functions-second.md)
+[2nd Function](second-function.md)
 
 /kshatriya
 

@@ -6,7 +6,7 @@ borders, mixed-gods, liminalityy, etc.
 [[syncretism-conversion-isation]]
 
 
-[[a-pinchard2011]]
+[[pinchard2011]]
 [[y-berezkin2015]]
 [[e-hernykh2017]]
 

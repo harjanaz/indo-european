@@ -1,3 +1,5 @@
-[[pie-life-and-death]]
+[[life-and-death]]
 
 ---
+
+Lived out on [[middle-earth-land]]

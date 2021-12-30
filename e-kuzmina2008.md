@@ -1,1 +1,1 @@
-> [[e-kuzmina]]. *The Prehistory of the Silk Road*. University of Pennsylvania Press, 2008. [pdf](a/e-kuzmina2008.pdf)
+> [[kuzmina]]. *The Prehistory of the Silk Road*. University of Pennsylvania Press, 2008. [pdf](a/e-kuzmina2008.pdf)

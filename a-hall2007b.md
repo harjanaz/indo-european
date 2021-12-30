@@ -1,2 +1,0 @@
-
-> [[a-hall]]. *Elves in Anglo-Saxon England: Matters of Belief, Health, Gender, and Identity* The Boydell Press, 2007. [jstor](https://www.jstor.org/stable/10.7722/j.ctt14brrh5) [academia](https://www.academia.edu/822022/Elves-in-Anglo-Saxon-England-Matters-of-Belief-Health-Gender-and-Identity) [pdf](a/a-hall2007b.pdf)

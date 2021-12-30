@@ -1,1 +1,0 @@
-> [[a-carnoy]]. "Iran's Primeval Heroes and the Myth of the First Man". in *Indo-Iranian Studies (RLE Iran B) : Being Commemorative Papers Contributed by European, American and Indian Scholars*. Routledge 2011. | [.pdf](a-carnoy2011.pdf)

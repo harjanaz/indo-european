@@ -5,3 +5,4 @@
 [[indic-goddesses]]
 [[shiva]]
 [[ganesh]]
+[[saraswati]]

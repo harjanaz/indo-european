@@ -1,7 +1,7 @@
-[[pie-deities]]
-[[pie-fate]]
-[[pie-mortals-humans-people]]
-[[pie-ethics-morality-virtues]]
+[[deities]]
+[[fate]]
+[[mortals-humans-people]]
+[[ethics-morality-virtues]]
 
 ---
 

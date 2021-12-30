@@ -6,7 +6,7 @@
 [[y-berezkin2012a]]
 
 [[z-smitek2001]]
-[[h-martirosyan1964]] Armenian
+[[martirosyan1964]] Armenian
 
 ## External Links
 [[c-rolinson2019-12-24]]

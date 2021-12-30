@@ -1,4 +1,4 @@
-[[fate-impersonal]], [[pie-cosmic-order]], [[pie-fate]]
+[[fate-impersonal]], [[cosmic-order]], [[fate]]
 
 ## External Links
 [[rolinson-mythlingwar]]

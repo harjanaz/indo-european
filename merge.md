@@ -1,17 +1,17 @@
 Perhaps I should merge some of these pages
 
-[[pie-life-and-death]]
+[[life-and-death]]
 
-[[pie-ancestors]] [[pie-cult-of-ancestors]]
+[[ancestors-the-dead]] [[ancestors-the-dead]]
 [[realm-of-the-ancestors]]
 [[mythical-ancestors]]
 
 [[war-dead]]
-[[pie-path-of-the-dead]]
+[[path-of-the-dead]]
 
-[[death-gods]]
+[[death-beings]]
 
-[[death-birds]]
+[[death-and-birds]]
 
 [[death-memorials]]
 
@@ -19,5 +19,4 @@ Perhaps I should merge some of these pages
 [[underworld-journey-katabasis-descent]]
 
 [[afterlife]]
-[[world-warrior-afterlife]]
-[[pie-afterlife]]
+[[warrior-death]]

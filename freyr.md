@@ -1,4 +1,4 @@
-[[pie-beings]]
+[[beings]]
 [[beings-norse]]
 [[beings-male]]
 # Freyr (m.)
@@ -29,4 +29,4 @@ Travel:
 His priests were buried in ships
 
 ## Narratives
-[[narrative-pie-war-of-the-foundation]]
+[[narrative-war-of-the-foundation]]

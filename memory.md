@@ -1,10 +1,8 @@
-[[thought-thinking]], [[ie-poetics]]
+[[thought-thinking]], [[poetics]]
 # Memory
 - PIE `*mers-` "forgetting"
 
 
 
-
-[[f-harwood1976]]
 [[r-bradley2002]]
 [[g-mierke2010]]

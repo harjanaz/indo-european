@@ -1,3 +1,3 @@
-[[pie-marriage]]
+[[marriage]]
 # Dowry
-[[a-testart2013]]
+[[testart2013]]

@@ -1,4 +1,4 @@
-[[pie-mountains]]
+[[mountains]]
 [[barrows-burial-mounds-treasure-artefacts]]
 # Hills
 [[k-dowden2000]]

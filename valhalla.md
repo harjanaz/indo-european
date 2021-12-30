@@ -1,4 +1,4 @@
-[[world-warrior-afterlife]]
+[[warrior-death]]
 # Valhöll
 
 [[sundqvist-2017]]
@@ -10,4 +10,4 @@ Valhöll "Hiding Place of the Fallen/Chosen"
 
 
 
-[[a-hultgard2011]]
+[[hultgard2011]]

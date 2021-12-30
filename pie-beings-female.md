@@ -1,5 +1,0 @@
-[[pie-beings]]
-
----
-
-[[pie-goddesses]]

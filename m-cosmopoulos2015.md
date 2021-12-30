@@ -1,1 +1,0 @@
-> [[m-cosmopoulos]]. *Bronze Age Eleusis and the Origins of the Eleusinian Mysteries*. Cambridge University Press, 2015. [pdf](a/m-cosmopoulos2015.pdf)

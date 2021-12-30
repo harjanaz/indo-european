@@ -2,4 +2,4 @@
 
 ---
 
-[[h-martirosyan1964]] Armenian
+[[martirosyan1964]] Armenian

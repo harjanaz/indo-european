@@ -1,3 +1,3 @@
 # Ullr
-[[a-zavaroni2006]]
+[[zavaroni2006]]
 [[d-feldman2015]]

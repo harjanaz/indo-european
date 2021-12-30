@@ -1,4 +1,4 @@
-[[a-koptev2010]]
+[[koptev2010]]
 [[e-lyle2017]]
 
 

@@ -1,1 +1,1 @@
-see [[ie-poetics]]
+see [[poetics]]

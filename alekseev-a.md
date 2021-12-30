@@ -1,5 +1,0 @@
-[[scholars]]
-
----
-
-# A. Yu. Alekseev

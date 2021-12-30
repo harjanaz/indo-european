@@ -1,6 +1,8 @@
 #tbc
 # Plague/Illness/Healing
 
+[[milizia2015]]
+
 - [Hittite Prayer](https://lrc.la.utexas.edu/eieol/hitol/80?fbclid=IwAR2vHBBgEqKPI0YA4C61XX5cu-umopVfu8gP-PfwWkiWc7CG5pmYzEUYuc4)
 
 

@@ -1,3 +1,3 @@
 [[body]]
 # Knees
-IE [[rock-art]] Knees [[a-fredell-m-quintela2010]]
+IE [[rock-art]] Knees [[fredell-m-quintela2010]]

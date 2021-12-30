@@ -1,1 +1,0 @@
-[w](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/lend%CA%B0-)

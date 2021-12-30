@@ -1,4 +1,4 @@
-[[pie-beings]]
+[[beings]]
 [[beings-norse]]
 [[beings-female]]
 # Freyja (f.)
@@ -21,7 +21,7 @@ Greek Aphrodite
 [Vǫluspá: 21-24]
 
 ## Narratives
-[[narrative-pie-war-of-the-foundation]]
+[[narrative-war-of-the-foundation]]
 
 
 ## External Links

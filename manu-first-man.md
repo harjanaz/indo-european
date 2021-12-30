@@ -1,12 +1,12 @@
-[Beings](pie-beings.md)
+[Beings](beings.md)
 [IE Descent](ie-descent-founders)
 
 He had a brother, [[twin-yemo]], [[manu-and-yemo]]
 
 # PIE Manu ("Man")
 [[p-raffetta2002]]
-[[a-carnoy2011]] Irish
-[[a-saeedipour2012c]]
+[[carnoy2011]] Irish
+[[saeedipour2012c]]
 
 ## German
 The Germans claimed to be descendants of Mannus, the son of Tuisto. [Tacitus, *Annals* & *Histories*]

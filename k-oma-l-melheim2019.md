@@ -1,5 +1,5 @@
 > Oma, Kistin Armstrong; Melheim, Lene. "‘Children of the light’: On yoga, body schemes and altered states of consciousness in the Nordic Late Bronze Age – a link to India?". in Olsen, Birgit Anette Olsen; Olander, Thomas; Kristiansen, Kristian (eds). *Tracing the Indo-Europeans: New Evidence from archaeology and historical linguistics*. Oxbow Books, 2019.
-> in [[b-olsen-t-olander-k-kristiansen2019eds]]
+> in [[olsen-olander-kristiansen2019-tracing]]
 
 
 [[yoga]]

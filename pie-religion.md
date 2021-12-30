@@ -1,8 +1,10 @@
-[[pie-culture]] | [[religion]]
+[[culture]] | [[religion]]
 
 ---
 
-Short overview-articles of PIE religion include: [[m-york2013]]. Longer overview-books include: [[w-kelly1863]], [[m-muller1879]], [[a-lindsay1891]], [[m-staley1894]], and [[c-keary1878]]ch9.
+> For poetics --> [[buck-22-religion-and-beliefs]]
+
+Short overview-articles of PIE religion include: [[york2013]]. Longer overview-books include: [[w-kelly1863]], [[m-muller1879]], [[lindsay1891]], [[m-staley1894]], and [[c-keary1878]]ch9.
 
 ## By Branch
 [[germanic-religion]]
@@ -15,23 +17,23 @@ Short overview-articles of PIE religion include: [[m-york2013]]. Longer overview
 
 ## Topics
 ### Beings
-[[pie-deities]]
+[[deities]]
 [[heavenly-people]]
 
 ### Misc Topics
 [[faith-belief-trust]]
-[[pie-religious-terms]]
-[[pie-cosmos]]
-[[pie-beings]]
-	- [[pie-mortals-humans-people]]
+[[religious-terms]]
+[[cosmos]]
+[[beings]]
+	- [[mortals-humans-people]]
 [[symbols]]
-[[pie-numbers]]
-[[pie-eschatology]]
-[[sacred-divine]]
+[[numbers]]
+[[eschatology]]
+[[sacredness-divinity]]
 [[flood]]
 [[states-of-mind]]
 [[sacrifice-offerings]]
-[[pie-fate]]
+[[fate]]
 [[sacred-drink]]
 [[divination]]
 [[symbols]]

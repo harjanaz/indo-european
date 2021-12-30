@@ -3,4 +3,4 @@
 ---
 
 [[language-of-birds]]
-[[vedic-gods]]
+[[indic-gods]] "Vedic Gods"

@@ -1,1 +1,0 @@
-> [[a-bomhard]]. Nostratic Etymological Index. [pdf](a/a-bomhard2015.pdf)

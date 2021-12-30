@@ -6,5 +6,5 @@
 [[silver]]
 [[white-color]]
 
-[[brown]]
+[[color-brown]]
 [[black]]

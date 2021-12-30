@@ -1,4 +1,4 @@
-[[lat-texts]]
+[[latin-texts]]
 
 # Seneca
 
