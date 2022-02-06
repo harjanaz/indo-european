@@ -1,3 +1,3 @@
 - This is a backup of https://indo-european.wiki <br>
 - I have it here in case anyone wants their own copy of the site. It is NOT for contributing to the site. If you would like to contibute, please email your notes to: "indo-european.wiki (at) outlook.com" <br>
-- Since I write my notes using double square bracket internal links (i.e. [[filename]]), you'll need a markdown viewer/editor that can read that style. I reccomend https://obsidian.md Just download the files (click the green "CODE" button, then Download ZIP, then double-click/unzip the file) and open it with Obsidian.
+- Since I write my notes using double square bracket internal links (i.e. [[filename]]), you'll need a markdown viewer/editor that can read that style. I reccomend https://obsidian.md Just download the files (click the green "CODE" button, then Download ZIP, then double-click/unzip the file) and open the folder with Obsidian.
