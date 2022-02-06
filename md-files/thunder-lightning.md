@@ -22,7 +22,7 @@ Hittite [[collins2007]]
 
 
 
-[[j-macedoUNKNOWN]]
+[[macedo2017-zeus]]
 
 Germanic [Thor](ger-thor.md)
 Vedic [Indra](indra)

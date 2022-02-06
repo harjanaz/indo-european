@@ -1,4 +1,4 @@
-[[space]] of [[death]]
+[[space]] of [[death-decay]]
 
 # PIE Otherworld
 

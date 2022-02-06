@@ -1,5 +1,5 @@
 # Shamanism
-[[fournet2020]] Siberian vs IE 
-
-[[n-price2001]]
-[[m-eliade1964]]
+[[fournet2020]]
+[[rowsell-dec-1-2021-shaman]]
+[[price-n2001]]
+[[eliade1964]]

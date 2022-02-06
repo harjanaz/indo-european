@@ -1,4 +1,4 @@
-[[death]], [[warband-koryos-comitatus-mannerbund]]
+[[death-decay]], [[warband-koryos-comitatus-mannerbund]]
 
 # The War dead
 Alias: Ghostly Troops

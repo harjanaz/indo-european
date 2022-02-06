@@ -3,4 +3,4 @@
 ---
 
 ## Scholarship
-[[lincoln1980-ferryman]]
+[[lincoln1980-1991-ferryman]]

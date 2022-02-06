@@ -3,4 +3,4 @@
 > [pdf](a/a-strathern2019.pdf)
 
 ## References
-Criticises [[bondarenko-korotayev2003]] for using IE theory (p200n238).
+Criticises [[bondarenko-d-korotayev2003]] for using IE theory (p200n238).

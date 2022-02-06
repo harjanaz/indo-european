@@ -1,4 +1,4 @@
-[[deities]] 
+[[gods]] 
 [[metals]]
 # PIE Smith God
 

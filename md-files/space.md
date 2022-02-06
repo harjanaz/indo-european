@@ -56,7 +56,7 @@ Some things cross from one world to another:
 - The 3 worlds of the cosmos are held together via the [Axis Mundi](axis-mundi.md). Each world has its own:
 	-  [Sky Color](sky-color)
 	-  [Time of day](24hours.md)
-	-  [Gods](deities.md)
+	-  [Gods](gods.md)
 
 
 

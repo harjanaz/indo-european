@@ -1,4 +1,4 @@
-Pages 1-41 of [[ashliman1993voices]]. Available for free on Ashliman's [pitt.edu website](https://www.pitt.edu/~dash/voices001-041.html). 
+Pages 1-41 of [[ashliman1993-voices]]. Available for free on Ashliman's [pitt.edu website](https://www.pitt.edu/~dash/voices001-041.html). 
 
 
 ---

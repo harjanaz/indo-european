@@ -1,2 +1,2 @@
-# Dan Davis (Author)
+# Dan Davis
 [[davis-da-links]]

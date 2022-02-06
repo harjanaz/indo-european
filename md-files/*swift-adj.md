@@ -1,1 +1,0 @@
-`*h1ōk̑u-` "swift" from [[*swift-root]]

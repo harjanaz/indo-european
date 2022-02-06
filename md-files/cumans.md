@@ -1,4 +1,4 @@
-[[turkic-tribes]]
+[[turk]]
 
 ---
 

@@ -1,4 +1,4 @@
-[Gods](deities.md)
+[Gods](gods.md)
 [Female Gods](goddesses.md)
 
 [IE Descent](ie-descent-founders)

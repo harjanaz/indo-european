@@ -1,9 +1,9 @@
 [[cultures]]
 
 ## Topics
-[[homosexuality]]
-[[pederasty]]
-[[beastiality]]
+`+` same sex = [[homosexuality]]
+`+` underage = [[pederasty]]
+`+` animals = [[beastiality]]
 ## Scholarship
 [[d-wiley2005]]
 [[p-sauzeau2013]]

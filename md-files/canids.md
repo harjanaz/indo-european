@@ -32,7 +32,7 @@ Iliad first few lines: the bodies of the warriors are devoured by birds and dogs
 
 [[graslund2002]]
 [[b-hansen2019]]
-[[lincoln1979-hellhound]]
+[[lincoln1979-1991-hellhound]]
 [[p-bernhardt2017]]
 [[y-berezkin2012b]]
 [[d-white1989]]

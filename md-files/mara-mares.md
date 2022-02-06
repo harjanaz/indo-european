@@ -1,4 +1,4 @@
-[[death]]
+[[death-decay]]
 [[nightmares]]
 # Mara/Mares
 [WIki](https://en.wikipedia.org/wiki/Mare-(folklore))

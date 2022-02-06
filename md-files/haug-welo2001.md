@@ -1,0 +1,1 @@
+> [[haug]]; [[welo]]. “The proto-hexameter hypothesis: perspectives for further research.” _Symbolae Osloenses_ 76:130–136. 2001.

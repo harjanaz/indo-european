@@ -2,13 +2,15 @@
 
 ---
 [linktr.ee](https://linktr.ee/SurvivetheJive)
+
 [academia.edu](https://ucl.academia.edu/TomRowsell)
 [Blogspot](https://survivethejive.blogspot.com)
 [YouTube](https://www.youtube.com/channel/UCZAENaOaceQUMd84GDc26EA)
+[Telegram](https://t.me/s/survivethejive)
 
 ## Donate
 
-[Full list on his blogspot](https://survivethejive.blogspot.com/p/donate.html)
+[Full donation method list on his blogspot](https://survivethejive.blogspot.com/p/donate.html)
 
 ### One Off
 [Paypal](https://www.paypal.me/survivethejive)

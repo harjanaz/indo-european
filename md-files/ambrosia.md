@@ -1,3 +1,3 @@
-[[food-eating]], [[deities]]
+[[food-eating]], [[gods]]
 # Ambrosia
 [[sterken2018]]

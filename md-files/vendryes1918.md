@@ -1,0 +1,1 @@
+> [[vendryes]]. “Les correspondances de vocabulaire entre l’indo-iranien et l’italo-celtique.” *Mémoires de la Société de linguistique de Paris* 20:265–285. 1918.

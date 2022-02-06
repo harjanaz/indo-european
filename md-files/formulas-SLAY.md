@@ -1,8 +1,5 @@
-[[formulas]]
+[[formulas]], [[hero-slays]]
 
 ---
-
-
-[[hero-slays]]
 
 [[formula-SLAY-SERPENT]]

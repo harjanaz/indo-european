@@ -10,6 +10,7 @@
 ## Writting them down -> [[textuality]]
 
 ## List of Narratives
+[[narratives-birth]]
 [[narrative-first-sacrifice]] creation
 [[fire-in-water]]
 [[king-and-virgin]]
@@ -17,6 +18,7 @@
 [[narrative-cycle-of-the-mead]]
 [[rees-a1936]] Divine Celtic Heroes
 [[narrative-ambrosia-cycle-of-the-mead]]
+[[narrative-establish-ritual-lievstock]]
 
 Combat:
 [[narrative-hero-slays-dragon]]

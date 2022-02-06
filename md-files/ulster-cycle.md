@@ -1,4 +1,4 @@
-[[texts-irish]]
+[[irish-texts]]
 
 # Ulster Cycle
 	 

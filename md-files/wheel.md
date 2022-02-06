@@ -1,0 +1,5 @@
+[[technology]]
+
+---
+
+`+` [[horses]] = [[chariots]]

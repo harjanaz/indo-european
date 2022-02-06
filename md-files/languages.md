@@ -9,9 +9,6 @@ Below you will find the languages organized by historical branch. Inside each ar
 		- [[ie-langs]]
 
 
-## On Reconstructing Languages
-[[woodard2008ed]] Appendix 1
-
 
 ## Misc. Languages
 https://en.wikipedia.org/wiki/Paleo-European-languages

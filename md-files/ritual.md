@@ -2,6 +2,9 @@
 
 ---
 
+## Specific Rituals
+[[ritual-establish-ritual-livestock]]
+
 
 ## Kinds
 [[initiation]]
@@ -18,7 +21,7 @@
 [[initiation]]
 
 
-## Scholarship
+## Biblio
 [[k-patton2009]]
 [[meulder2014]]
 [[b-sergent2016]]
@@ -30,6 +33,7 @@
 [[bauschatz1982]]
 [[kaliff2005]]
 [[weiss2009]]
+[[nagy-g2020-08-07]]
 ## By Branch
 ### Roman
 Private Ritual: https://www.saturniatellus.com/2018/05/1661/
@@ -38,6 +42,9 @@ Private Ritual: https://www.saturniatellus.com/2018/05/1661/
 ## By Animal
 ### Bovine vs Horse Rituals
 [[c-sterckx2013]]
+
+## Narratives About Ritual
+[[narrative-establish-ritual-lievstock]]
 
 ## External Links
 [[rolinson2019-09-6]]

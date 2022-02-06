@@ -1,4 +1,4 @@
-[[death]], [[birds]]
+[[death-decay]], [[birds]]
 
 ---
 

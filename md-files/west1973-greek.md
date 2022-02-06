@@ -1,0 +1,1 @@
+> [[west]]. “Greek Poetry 2000–700 B.C.” _Classical Quarterly_ 179–192. 1973.

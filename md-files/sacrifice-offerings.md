@@ -1,7 +1,7 @@
 [[religion]]
 [[ritual]]
 [[pie-religion]]
-[[death]]
+[[death-decay]]
 
 # Sacrifice
 

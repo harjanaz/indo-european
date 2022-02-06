@@ -13,7 +13,7 @@
 [[c-littleton1980]]
 [[m-jazayery-w-winter1988]] 
 [[gamkrelidze-ivanov-vy1995]]
-[[e-polome1996b]]
+[[polome1996-elements]]
 [[gimbutas1997-kurgan]]
 [[jackson2002]]  philosophy, psychology
 [[b-hayden2004]]

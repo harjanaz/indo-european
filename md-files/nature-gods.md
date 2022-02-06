@@ -1,4 +1,4 @@
-[[divine-family]] [[deities]]
+[[divine-family]] [[gods]]
 See also the [[sky-gods]] & [[social-gods]]
 
 # Nature Gods

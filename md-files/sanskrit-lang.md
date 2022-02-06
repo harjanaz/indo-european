@@ -5,7 +5,7 @@
 [[texts-sanskrit]]
 
 ## Scholarship
-[[woodard2008ed]] ch2
+
 [[m-witzel1999]] Substrate Influences
 [[cardona1990]] View of Language
 

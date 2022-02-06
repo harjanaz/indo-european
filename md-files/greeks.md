@@ -3,5 +3,5 @@
 ---
 
 [[greek-history]]
-[[greek-lang]]
+[[greek-lang]] ([[greek-texts]])
 [[greek-culture]]

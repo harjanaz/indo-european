@@ -1,0 +1,1 @@
+> [[seaford]] (ed). Universe and Inner Self in Early Indian and Early Greek Thought. Edinburgh University Press, 2016.

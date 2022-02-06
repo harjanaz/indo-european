@@ -1,6 +1,6 @@
-[[deities]]
+[[gods]]
 [[fate]]
-[[mortals-humans-people]]
+[[humans]]
 [[ethics-morality-virtues]]
 
 ---

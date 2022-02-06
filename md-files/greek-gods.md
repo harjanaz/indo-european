@@ -1,11 +1,16 @@
-[[greek-beings]] | [[deities]]
+[[greek-beings]] | [[gods]]
 
 ---
+
+Gods/Titans/LargerThanLifeFigures
+
+[[prometheus]]
+[[apollo]]
+[[hermes]]
 
 ## By Gender
 [[greek-goddesses]]
 [[greek-male-gods]]
 
-## By 
-
+## Biblio
 [[h-versnel2011]]

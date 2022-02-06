@@ -2,7 +2,7 @@
 
 ---
 
-The cosmos was [created](creation-cosmogony.md), exists [cyclically](cyclicality.md), and contains humans who experience [[life-and-death]].
+The cosmos was [created](creation-cosmogony.md), exists [cyclically](cyclicality.md), and contains humans who experience [[life-and-death-mortality]].
 
 
 

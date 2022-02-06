@@ -1,6 +1,6 @@
 [Beings](beings.md)
 
-[Mortals](mortals-humans-people.md)
+[Mortals](humans.md)
 
 [Warrior-Kings](king-ruler-chief-leader-lord.md)
 
@@ -26,7 +26,7 @@
 
 
 ### Grk.
-[[g-nagy2013]]
+[[nagy-g2013]]
 ### Lat.
 [[horatius-cocles]]
 
@@ -55,4 +55,4 @@
 
 ## In Poetry (Epics, Song, Saga, etc.)
 [[b-miles2011]] Classical & Irish
-[[g-nagy2005]]
+[[nagy-g2005]]

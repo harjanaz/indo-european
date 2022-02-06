@@ -9,7 +9,7 @@
 ## Positive
 [[j-vries1967]]
 [[larson1974-intro]]
-[[u-strutynski1974]]
+[[strutynski1974]]
 [[j-haudry1979]] anteposition
 [[j-tashjean1981]]
 [[j-haudry1985]] reconstruction
@@ -17,8 +17,8 @@
 [[n-allen1990]] on "structure"
 [[r-matasovic1996]]
 [[polome1996-religion]]
-[[e-campanile1996]]
-[[j-puhvel1996]]
+[[campanile1996]]
+[[puhvel1996]]
 [[sick1998]]
 [[j-colarusso1998]]
 [[m-detienne2000]] comparison, anth, history

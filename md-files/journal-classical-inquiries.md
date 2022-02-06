@@ -1,5 +1,3 @@
-[[journals]]
+> *Classical Inquiries*. Digital Journal @[[chs]]. 
 
----
-
-[Website](https://classical-inquiries.chs.harvard.edu/)
+[classical-inquiries.chs.harvard.edu](https://classical-inquiries.chs.harvard.edu/)

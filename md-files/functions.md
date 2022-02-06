@@ -25,10 +25,10 @@ A hierarchically ranked, strata; functionally differentiated; Functionally integ
 ## Scholarship
 [[baldick]] (all)
 [[e-lyle1982]]
-[[e-lyle1996]]
+[[lyle1996]]
 [[porter1999]]
 [[v-mejia2009]]
-[[e-lyle2006b]] & [[e-lyle2012]]
+[[lyle2006-structure]] & [[lyle2012]]
 [[r-kasperski2011]]
 [[n-allen2015]]
   

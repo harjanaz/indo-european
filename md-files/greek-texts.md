@@ -1,24 +1,12 @@
-[[greek-lang]]
+[[greek-lang]], [[texts]]
 
 ---
 
-## By Writer
-[[greek-persons]]
-
-## [[grk-epics]] Ancient
-[[homer]]
-[[homeric-hymns]]
-[[hesiod-theogony]]
-
-[[m-backvarova2016]] Hittite influences
-
-## Classical
-### Plays
-[[aeschylus]]
-[[aristophanes]]
-
-### Other
+[[greek-epics]]
 [[callimachus]]
 [[alcman]]
 [[plato]]
 [[thucydides]]
+[[herodotus]]
+[[aesop]]
+[[euripides]]

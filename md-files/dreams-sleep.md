@@ -1,4 +1,4 @@
-[[mortals-humans-people]]
+[[humans]]
 
 ---
 

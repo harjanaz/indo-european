@@ -6,7 +6,7 @@
 
 [[c-guyonvarch2002]]
 
-[[lincoln1988-druids]]
+[[lincoln1988-1991-druids]]
 
 - Imposed [Geas](geas.md) on prominent people
 

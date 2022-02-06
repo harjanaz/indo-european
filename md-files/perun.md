@@ -1,6 +1,6 @@
 [Beings](beings.md)
 
-[Gods](deities.md)
+[Gods](gods.md)
 
 [Sky](gods-sky.md)
 

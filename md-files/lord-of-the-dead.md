@@ -3,6 +3,6 @@
 ---
 
 ## Scholarship
-[[b-lincoln1981c]]
+[[lincoln1981-1991-lord]]
 
 [[rolinson-dead]]

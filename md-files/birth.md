@@ -1,3 +1,6 @@
-# Birth
+See also: [[pregnancy]], [[abortion]]
 
-[[page2014]]
+---
+
+## Topics
+[[narratives-birth]]

@@ -10,12 +10,9 @@ Miscellanea Indogermanica
 [[journal-nouvellemythologiecomparee]]
 [[journal-iel]]
 
-## Related
+## Semi Related
 [[journal-aion]]
-### Oral Poetics
 [[journal-oral-tradition]]
-### Classics
 [[journal-classics@]]
 [[journal-classical-inquiries]]
-### Folklore
 [[journal-folklore]]

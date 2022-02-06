@@ -2,7 +2,7 @@
 
 ---
 
-For poetics --> [[buck-3-animals]]
+> For poetics --> [[buck-3-animals]]
 
 ## Types
 [[horses]]

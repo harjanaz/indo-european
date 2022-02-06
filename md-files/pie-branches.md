@@ -22,7 +22,7 @@ A good standard for cladistic nomenclature:  [[olander2019]]
 [[lusitanians]]
 
 ### Other Branches / Clades
-[[graeco-aryans]]
+[[graeco-aryan]]
 [[the-west]]
 [[guanches]]
 [[danavas]]

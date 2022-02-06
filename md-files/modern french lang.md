@@ -2,4 +2,4 @@
 
 ---
 
-[[french-scholarship]]
+[[french-biblio]]

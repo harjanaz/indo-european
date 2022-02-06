@@ -2,13 +2,8 @@
 
 ---
 
-[[formulas-FAME]]
-[[formulas-SLAY]]
-[[formulas-MEN]]
-[[formulas-WHEELS]]
-[[formulas-SUN]]
 
-[[formula-SWFIT-HORSES]]
+## Misc.
 [[formula-RIGHT SPEECH]]
 [[formula-ETERNAL-LIFE]]
 [[formula-MAN-KILLER]]
@@ -16,6 +11,24 @@
 [[formula-YESTERDAY]]
 [[formula-BAD-SKY]] (i.e. bad weather)
 [[formula-HOUSE-MASTER]]
+[[macedo2017-zeus]] epithets
+
+## By Semantic Fields / Terms
+[[formulas-GODS]]
+[[formulas-MESSANGER(S)]]
+[[formulas-FAME]]
+[[formulas-SLAY]]
+[[formulas-MEN]]
+[[formulas-WHEELS]]
+[[formulas-SUN]]
+[[formulas-SWIFT]]
+[[formulas-HORSE(S)]]
+
+## By Branch
+[[pie-formulas]]
+[[graeco-aryan-formulas]]
+[[indo-iranian-formulas]]
+
 
 ## Biblio
 [[calin]]
@@ -25,3 +38,5 @@
 [[mallory2006]]
 [[beekes2011]]
 [[massetti2020-artiepes]]
+
+[[watkins1974]] meter derived from formulas 

@@ -1,4 +1,4 @@
-[[life-and-death]] | [[ethics-morality-virtues]]
+[[life-and-death-mortality]] | [[ethics-morality-virtues]]
 
 ---
 
@@ -6,4 +6,4 @@
 
 Kill
 `+` monster = slay
-`+` human = murder
+`+` unlawful `+` human = murder

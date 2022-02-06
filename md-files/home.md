@@ -1,31 +1,13 @@
-[[howdy]]
-
----
-
 This site has three interconnected sections:
 
 - [[biblio]]
 - [[content]]
 
+The best way to get started is just by searching and playing around!
+
 
 ## Ex.
-I wrap etymons (pokorny, watkins, etc) in buck's semantic fields which are in turn wrapped in content pages. For example:
-- [[animals]] (content page with links to biblio pages)
-	- [[buck-3.11-animal]] (semantic field)
-		- pokonry-animal (etymon)
-		- watkins-animal (etymon)
-
-The content pages are further subdivided along linguistic family lines:
-- pie
-	- indo-iranian
-		- indo-aryan
-			- sanskrit
-
-,ages:
-
-- copper age
-- bronze age
-- iron age
+The topical page [[earth]] has links to various sub-topical pages, biblio pages, external links, and to the semantic field page [[buck-1.21-earth-land]] which inturn contains various etymons (pokonry, watkins, etc.). The basic topical page is for the topic as a whole, while the semantic field page is strictly for poetics. 
 
 
-,and every othe concievable hierarchical organizing pattern. I do this to create a hyper-interlinked yet also hyper-organized wiki structure. One can go "up" and "down" a page just as easily as you can go "side-to-side". Linguistics, archaeology, and history all interlink.
+The content pages are organized by linguistic family (indo-iranian, balto-slavic, etc.); ages (copper, bronze age, etc.); and every other concievable hierarchical organizing pattern. I do this to create a hyper-interlinked yet also hyper-organized wiki structure. One can go "up" and "down" a page just as easily as you can go "side-to-side".

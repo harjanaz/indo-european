@@ -1,1 +1,0 @@
-> [[rolinson]]. "Out Of Context Quotes And DevaRajya Uber Alles From The Iliad". [blog](https://aryaakasha.com/2019/12/08/out-of-context-quotes-and-devarajya-uber-alles-from-the-iliad/)

@@ -1,0 +1,3 @@
+> [[woodard]]. Comment on [[nagy-g2019-11-22]].
+
+> Cato's _sive circumagi sive circumferenda_ is an interesting case from the perspective of primitive Indo-European conceptions of moveable property. _Circum-agō_ must reference, in an expected way, the driving of the mature _suovetaurilia_ (the triple sacrifice of pig-sheep-bull) around the periphery of the space to be purified; while _circum-ferō_ looks to be the action performed when the triple sacrifice consists of, alternatively, "suckling" victims, treated as if they were non-animate items of wealth (to be picked up and carried).

@@ -1,4 +1,4 @@
-[[death]]
+[[death-decay]]
 # Anglo-Saxon Death
 In general
 	· Perhaps the fire served to ensure that the spirit did not trouble the living, they ensured the continued spiritual welfare of the dead and the safety of the living

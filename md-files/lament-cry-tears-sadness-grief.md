@@ -1,4 +1,4 @@
-[[death]]
+[[death-decay]]
 See also [[burial-funeral-graves]]
 # Lament
 [[bozzone2016]]

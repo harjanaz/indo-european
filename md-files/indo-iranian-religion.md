@@ -5,7 +5,8 @@
 [[iranian-religion]]
 [[indo-aryan-religion]]
 
-## Misc Scholarship
+## Biblio
+[[ragozin1895]]
 [[lincoln1981]]
 [[keith1917]]
 [[e-kuzmina2007]] Historical Genesis

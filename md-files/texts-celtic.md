@@ -1,7 +1,7 @@
 [[texts]]
 
-[[texts-irish]]
-[[texts-welsh]]
+[[irish-texts]]
+[[welsh-texts]]
 
 
 

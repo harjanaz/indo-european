@@ -1,6 +1,4 @@
-See also [[orality]]
-
----
+This page is for the idea and usage of [[texts]], usually contrasted with [[orality]].
 
 ## By Branch
 [[texts]]

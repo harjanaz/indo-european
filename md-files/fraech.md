@@ -1,7 +1,7 @@
 <div style="text-align: justify">
 
   
-[Mortals](mortals-humans-people.md)   
+[Mortals](humans.md)   
 [[warriors-male]]
 <br><br/>
 

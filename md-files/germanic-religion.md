@@ -13,8 +13,9 @@
 [[k-gundarsson1993]]
 [[b-linzie2003]]
 ### Misc.
-[[e-polome1974]] pie elements
+[[polome1974]] pie elements
 [[l-motzUNKNOWN]]
+[[rowsell-dec-1-2021-shaman]]
 
 ## Narratives
 Bee warrior [[abram2017]]

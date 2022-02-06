@@ -10,7 +10,10 @@ A "branch" = a pattern of related [[history]], [[languages]] (grammar & texts), 
 ...[[gondwana]]
 ...[[laurasians]]
 .........[[austronesians]]
-.........[[ancient-north-eurasians]]
+.........[[ancient-north-eurasians-haplogroup-p]]
 .........[[eurasian]]
-..............[[turks]]
+..............[[turk]]
 ..............[[pie]]
+
+
+When these branches interact: [[syncretism-conversion-isation]]

@@ -1,0 +1,1 @@
+> [[davidson-o]]. “Indo-European Dimensions of Heracles in *Iliad* 19.95–133”. Article.

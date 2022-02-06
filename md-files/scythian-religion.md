@@ -11,7 +11,7 @@
 
 
 ## Burials
-[[b-lincoln1987b]]
+[[lincoln1987-1991-scythian]]
 
 ### Neo-Paganism
 [Assianism](https://en.wikipedia.org/wiki/Assianism)

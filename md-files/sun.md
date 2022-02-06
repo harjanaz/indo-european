@@ -21,7 +21,7 @@ Klien said that the PIE word for Sun is archaic. What other words are archaic? W
 
 Lat. [[sol]]
 
-[[lincoln1982-mithra]]
+[[lincoln1982-1991-mithra]]
 [[d-sick1996]]
 
 [[prayer-sun]]

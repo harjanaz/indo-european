@@ -5,7 +5,6 @@
 [[greek-texts]]
 
 [[r-beekes2014]] Pre-Greek
-[[r-beekes2010]] Greek
 
 
 [[mythos]]

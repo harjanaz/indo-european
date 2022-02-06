@@ -1,5 +1,5 @@
 [[formulas]] + [[etyma-FAME-klewos]]
-See also: [[life-and-death]]
+See also: [[life-and-death-mortality]]
 
 ---
 

@@ -4,7 +4,7 @@ See also: [[vedic-homa-fire-ritual]]
 [wiki](https://en.wikipedia.org/wiki/Historical-Vedic-religion)
 
 ## Texts
-[[rv-rig-veda]]
+[[rv]]
 
 
 ## Scholarship

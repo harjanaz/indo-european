@@ -1,0 +1,1 @@
+[The meaning of Aphrodite by Paul Friedrich](https://archive.org/details/meaningofaphrodi0000frie/mode/2up?q=indo-european)

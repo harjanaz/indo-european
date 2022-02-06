@@ -1,7 +1,7 @@
 Wilbur, H. Terence, "The Earliest Stages of the Successful Resistance to Indo-Europeanization of the Western Pyrenees," p. 3.
 Robbins, Miriam, "The Assimilation of Pre-Indo-European Goddesses into Indo-European Society," p. 19.
 Hansen, Jellison Leigh, "Death and the Indo-Europeans: Some Traditions," p. 31.
-- p41-59: [[lincoln1980-ferryman]]
+- p41-59: [[lincoln1980-1991-ferryman]]
 Pleslova-Stikova, Emilie, "Square Enclosures of Old Europe, 5th and 4th Millennia B.C." p. 61.
 Skomal, Nacev Susan, "The Social Organization of the Tiszapolgar Group at Basatanya - Carpathian Basin Copper Age," p. 75.
 Sochacki, Zdzislaw, "Some Remarks on the Social Structure and Economic System of the Baden Culture," p. 93.

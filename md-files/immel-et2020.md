@@ -1,4 +1,4 @@
-> [[immel]], [[terna]], [[simalcsik]], [[susat]], [[sarov]], [[sirbu]], [[hofmann-r]], [[muller]], [[nebel]], [[krause]]. "Gene-flow from steppe individuals into Cucuteni-Trypillia associated populations indicates long-standing contacts and gradual admixture". [[ journal-scientific-reports]]v10: 4253, 2020.
+> [[immel]], [[terna]], [[simalcsik]], [[susat]], [[sarov]], [[sirbu]], [[hofmann-r]], [[muller-j]], [[nebel]], [[krause]]. "Gene-flow from steppe individuals into Cucuteni-Trypillia associated populations indicates long-standing contacts and gradual admixture". [[ journal-scientific-reports]]v10: 4253, 2020.
 
 
 > [DOI](https://doi.org/10.1038/s41598-020-61190-0)

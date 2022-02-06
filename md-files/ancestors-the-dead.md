@@ -1,4 +1,4 @@
-[[mortals-humans-people]], [[death]]
+[[humans]], [[death-decay]]
 
 ---
 
@@ -55,4 +55,4 @@ Images of ancestors placed in the house during high festivals to allow them to p
 [[rolinson2018-09-26]]
 [[c-rolinson2019-9-8a]]
 [[rolinson-dead]]
-
+[[rolinson2019-09-17]]

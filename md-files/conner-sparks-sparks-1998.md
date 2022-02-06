@@ -1,0 +1,1 @@
+> [[conner]]; [[sparks-d]]; [[sparks-m]]. *Cassell's Encyclopedia of Queer Myth, Symbol and Spirit*. Book. Cassell.

@@ -1,10 +1,9 @@
-[[textuality]]
-See also: [[languages]]
+This page is for actuals texts written in [[languages]], for the idea and usage of texts see: [[textuality]]
 
 ## By Branch
 ### Celtic
-[[texts-irish]]
-[[texts-welsh]]
+[[irish-texts]]
+[[welsh-texts]]
 ### Classical
 [[latin-texts]]
 [[greek-texts]]

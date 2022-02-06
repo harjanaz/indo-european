@@ -2,6 +2,8 @@
 
 ---
 
+[starling.rinet.ru](https://starling.rinet.ru/cgi-bin/query.cgi?basename=%5Cdata%5Cie%5Cpiet&root=config), [alt](https://starlingdb.org/) [old](https://web.archive.org/web/20110709042127/http://www.indo-european.nl/cgi-bin/startq.cgi?flags=endnnnl&root=leiden&basename=%5Cdata%5Cie%5Cpokorny)
+
 [[pokorny1989]]
 [[watkins2011]]
 [[mallory-adams-d1997]]

@@ -1,4 +1,4 @@
-[[deities]], [[sheep]]
+[[gods]], [[sheep]]
 
 ---
 

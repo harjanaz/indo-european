@@ -1,5 +1,5 @@
 > [[dumezil]] (author)
-> [[u-strutynski]] (ed, intro)
+> [[strutynski]] (ed, intro)
 > [[aronowicz]], [[bryson]] (transl). 
 > Book. 
 > *Camillus : a study of Indo-European religion as Roman history*

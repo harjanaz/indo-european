@@ -1,4 +1,4 @@
-> [[h-davidson]]. *The Lost Beliefs of Northern Europe*. Routledge, 1993. [pdf](a/h-davidson1993.pdf)
+> [[davidson-h]]. *The Lost Beliefs of Northern Europe*. Routledge, 1993. [pdf](a/h-davidson1993.pdf)
 
 
 ## Abstract

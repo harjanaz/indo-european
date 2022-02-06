@@ -2,7 +2,7 @@
 
 ---
 
-As you can tell by the page title, this topic gets...tangled.
+As you can tell by the page title, this topic gets...*tangled*. I'll do some #cleanup  in the future.
 
 ## Etymology
 
@@ -41,7 +41,7 @@ As you can tell by the page title, this topic gets...tangled.
 [[vahagn]] vs [[vishap]]
 
 ### Classical
-[[d-ogden2013]]
+[[ogden2013-sourcebook]]
 
 ### Norse
 [[g-grierson1922]]

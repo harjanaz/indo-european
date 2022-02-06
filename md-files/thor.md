@@ -15,6 +15,7 @@ See:
 	→ [[Perkūnas]]
 ## Narratives
 [[narrative-war-of-the-foundation]]
+[[narrative-establish-ritual-lievstock]] ([[ginevra2020-hermes]])
 
 
 ## External Links

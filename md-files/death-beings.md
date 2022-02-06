@@ -1,4 +1,4 @@
-[[death]], [[beings]]
+[[death-decay]], [[beings]]
 
 ---
 

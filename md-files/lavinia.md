@@ -2,7 +2,7 @@
 
 [Beings](beings.md)
 
-[Mortals](mortals-humans-people.md)
+[Mortals](humans.md)
 
 [Warrior-Kings](king-ruler-chief-leader-lord.md)
 

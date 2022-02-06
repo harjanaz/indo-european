@@ -1,6 +1,6 @@
 [Beings](beings.md)
 
-[Gods](deities.md)
+[Gods](gods.md)
 /sacred-marriage,  divine-union, divine-pair, alliances
 
 # Sacred Marriage

@@ -1,31 +1,33 @@
-[[beings]]
-[[mortals-humans-people]]
+
+[[humans]]
 [[warriors-male]]
 [[society-community]]
 [[combat]]
 
+---
 
 
+
+## Biblio
 [[beek2014]]
 [[parpola1985]]
 [[miller-d1998]] Spartan
 [[d-wiley2005]]
 [[d-knight2012]]
-
+[[c-rolinson2019-9-5]]
+[[nagy-g2017-01-12]] kings are "begetters/generators"
 
 warlord
 Ger. *drohtin*
 [[heliand]]
 
-[[birth]]
-- Ruled over [Tribes](tribe.md)
-[Celtic Sacred King](celtic-sacred-king.md)
+
+- Ruled over [[tribe]]
+[[celtic-sacred-king]]
 
 
-
-#### Charateristics of both Warriors & Kings
-
-- [Halo](halo.md) Warriors & Princes (idk about mature kings)
+### Charateristics of both Warriors & Kings
+[Halo](halo.md) Warriors & Princes (idk about mature kings)
 
 
 
@@ -49,19 +51,6 @@ Ger. *drohtin*
 > 
 > by [Subhash Kak](https://medium.com/@subhashkak1) on [medium.com](https://medium.com/@subhashkak1/the-indian-caesar-and-the-city-6fc1a083147a)
 
-
-
-## Anglo-Saxon
-Maxims II	
-Cyning sceal on healle bēages dǣlan. (19-20)	The king must in the hall deal out rings.
-
-
-## Non-IE
-Divine Right | Bulgars
-
-
 ## Narratives
 [[narrative-1]]
-
-## External Links
-[[c-rolinson2019-9-5]]
+[[narratives-birth]]

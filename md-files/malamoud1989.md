@@ -1,0 +1,1 @@
+> [[malamoud]]. *Cuire le monde: Rite et pensée dans l'Inde ancienne*. Paris: La Découverte, 1989.

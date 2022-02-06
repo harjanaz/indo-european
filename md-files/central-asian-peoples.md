@@ -1,6 +1,4 @@
-See also [[turkic-tribes]]
-See also [[eurasian-groups-over-time]]
-See also [[iranians]]
+
 
 
 [[history]], [[nomadism]], [[pastoralism]]
@@ -15,6 +13,9 @@ See also [[iranians]]
 
 [[central-asian-peoples]]
 
+
+[[turk]]
+[[iranians]]
 
 https://en.unesco.org/themes/generalregionalhistories#centralasia
 

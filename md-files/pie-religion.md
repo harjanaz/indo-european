@@ -17,7 +17,7 @@ Short overview-articles of PIE religion include: [[york2013]]. Longer overview-b
 
 ## Topics
 ### Beings
-[[deities]]
+[[gods]]
 [[heavenly-people]]
 
 ### Misc Topics
@@ -25,7 +25,7 @@ Short overview-articles of PIE religion include: [[york2013]]. Longer overview-b
 [[religious-terms]]
 [[cosmos]]
 [[beings]]
-	- [[mortals-humans-people]]
+	- [[humans]]
 [[symbols]]
 [[numbers]]
 [[eschatology]]

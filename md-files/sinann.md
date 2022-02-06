@@ -2,7 +2,7 @@
 
 [Texts](languages)
 [Celtic](texts-celtic.md)
-[Irish](texts-irish.md)
+[Irish](irish-texts.md)
 [Dindshenchas](dindshenchas.md)
 
 # Goddess

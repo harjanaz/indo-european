@@ -12,8 +12,8 @@ Germanic [[wights-whit-vættir]]
 [[beings-by-cosmography]] locations
 
 ## By Lifespan
-- Long, Immortal [[deities]]
-- Short, Mortal, subject to death (i.e. movement of soul from middle world to upper and lower worlds), and thus have a dual mode (life/death): [[mortals-humans-people]].
+- Long, Immortal [[gods]]
+- Short, Mortal, subject to death (i.e. movement of soul from middle world to upper and lower worlds), and thus have a dual mode (life/death): [[humans]].
 
 
 ## By Topic
@@ -27,9 +27,9 @@ Germanic [[wights-whit-vættir]]
 
 
 ### Divinity
-[[deities]]
+[[gods]]
 [[germanic-elves-alf]]
-[[mortals-humans-people]]
+[[humans]]
 [[animals]]
 [[death-beings]]
 

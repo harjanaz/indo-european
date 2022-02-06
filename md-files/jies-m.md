@@ -1,23 +1,25 @@
 # [[journal-ies]] Monographs
 
-001 [[skomal-polome1987]] 
-002 [[day2001]]
-1 [[p-friedrich1975]]
-2 [[birnbaum1977]]
-3 [[polome1982-homage]]
-4 [[e-polome1984ed]]
-5 [[diebold1985]]
-6 [[e-polome1989b]]
-7 [[r-pearson1991]]
-8 [[d-gershenson1992]]
-9 [[pearson1992ed]]
-10 [[j-salmons1993]]
-11 [[telegin-mallory1994]]
-12 [[f-schwink1994]]
-13 [[b-drinka1995]]
-14 [[w-schmalstieg1995a]]
-15 [[w-schmalstieg1995b]]
-16 [[e-polome1996ed]] NEED BACKLINKS
+|||
+|-|-|
+001 | [[skomal-polome1987]] 
+002 | [[day2001]]
+1 | [[p-friedrich1975]]
+2 | [[birnbaum1977]]
+3 | [[polome1982-homage]]
+4 | [[e-polome1984ed]]
+5 | [[diebold1985]]
+6 | [[e-polome1989b]]
+7 | [[r-pearson1991]]
+8 | [[d-gershenson1992]]
+9 | [[pearson1992ed]]
+10 | [[j-salmons1993]]
+11 | [[telegin-mallory1994]]
+12 | [[f-schwink1994]]
+13 | [[b-drinka1995]]
+14 | [[w-schmalstieg1995a]]
+15 | [[w-schmalstieg1995b]]
+16 | [[polome1996ed]]
 KEEP ADDING THE BELOW ONES
 
 https://www.jies.org/DOCS/monoseries.html

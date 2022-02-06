@@ -1,4 +1,4 @@
-[[mortals-humans-people]] | [[meat]] | [[plants-herbs-vegetation]]
+[[humans]] | [[meat]] | [[plants-herbs-vegetation]]
 
 ---
 [[feasts-dinner]] | [[bread-baked]]

@@ -8,5 +8,5 @@
 `j-haudry1965-fm-abrv`
 `j-haudry1965-fre`
 
-[[french-scholarship]]
+[[french-biblio]]
 

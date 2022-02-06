@@ -1,0 +1,1 @@
+> [[tichy]] “Hom. ἀνδροτῆτα und die Vorgeschichte des daktylischen Hexameters.” _Glotta_ 59:28–67. 1981.

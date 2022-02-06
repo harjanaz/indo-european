@@ -4,7 +4,7 @@
 
 [Beings](beings.md)
 
-[Gods](deities.md)
+[Gods](gods.md)
 
 /love
 

@@ -1,3 +1,5 @@
-> [pdf](a/c-auffarth-l-stuckenbruck2004.pdf)
+> 
 
-#split confusing, refereces a collection.
+
+## Relevant Article
+[[bremmer2004]]

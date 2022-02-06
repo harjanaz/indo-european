@@ -10,7 +10,7 @@
 
 +home=[[hearth]]
 
-Fire is linked to [[light]], the [[sun]], and the (shining) [[deities]]. [[ritual]]s like [[yasna]]
+Fire is linked to [[light]], the [[sun]], and the (shining) [[gods]]. [[ritual]]s like [[yasna]]
 
 
 [wiki1](https://en.wikipedia.org/wiki/Fire-worship#Indo-European-religions)

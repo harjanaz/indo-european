@@ -1,11 +1,6 @@
-> [[petrosyan]]. 
-> *The Indo-European and Ancient Near Eastern origins of the Armenian Epic: myth and history*. 
-> Book.
-> [[jies-m]]42
+> [[petrosyan]]. *The Indo-European and Ancient Near Eastern origins of the Armenian Epic: myth and history*.  Book. [[jies-m]]42.
 
-> [pdf](a/a-petrosyan2002.pdf) need ToC #fix 
-
-#split 
+> [pdf](a/petrosyan2002.pdf)
 
 ## Abstract
 The eminent Armen Y. Petrosyan of the Armenian National Academy of Sciences provides us with an immense wealth of information about the mythology of not only pre-Christian Armenia (pre AD 3001), but also of the many sister Indo-European speaking peoples with whom Armenians share a common linguistic heritage. While Petrosyan believes that proto-Armenian myth had its roots in what he sees as the (reconstructed) beliefs of the Proto-Indo-Europeans, he also traces the multitude of subsequent influences acquired from the myths of the highly diverse variety of peoples and cultures of neighboring Asia Minor and Mesopotamia with whom Armenians had contact over the course of time. The result is a treasure trove of data that is not only of extreme value to Indo-Europeanists but also to scholars and researchers interested in the ancient classical civilizations of the Middle East. Beyond that, it makes an intriguing and inspiring resource book that will be welcomed by mythologists around the world.

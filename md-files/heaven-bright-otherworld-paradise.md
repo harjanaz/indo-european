@@ -3,7 +3,7 @@ Opposite: [[hell-dark-underworld-realm-of-dead-afterlife]]
 
 Meadow in the Sky
 
-[[b-lincoln1980]]
+[[lincoln1980-1991-paradise]]
 [[j-puhvel1969]]
 [[d-sick1996]]
 

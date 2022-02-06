@@ -1,4 +1,4 @@
-[[deities]]
+[[gods]]
 [[divine-family]]
 
 ---

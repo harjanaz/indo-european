@@ -4,5 +4,5 @@
 
 This page is for ancient authors. For modern researchers see [[biblio]].
 
-## By Branch
-[[greek-persons]]
+
+This bares more on reconstructing rituals than narratives (which concern characters).

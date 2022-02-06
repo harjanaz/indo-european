@@ -8,7 +8,7 @@ This page is for contemporary content producers involved in revivalist, reconstr
 ## Internet Groups
 "Reconstructive Paganism" [[facebook]]
 ## People
-- [[aryaakasha]] ([[rolinson]] & [[powers-t]])
+- [[blog-aryaakasha]] ([[rolinson]] & [[powers-t]])
 - Survive the JIve ([[rowsell]])
 - Dr. Boaz ([[vilallonga]])
 - [[fortress-of-lugh]]

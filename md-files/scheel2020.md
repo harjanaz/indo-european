@@ -3,6 +3,7 @@
 > *Narrating law and laws of narration in medieval Scandinavia*.
 
 #split 
+#nopdf 
 
 ## Description
 > Disputes lie at the heart of the sagas. Consequently, literary texts have been treated as sources of legal practice - narrations of law - while the sagas themselves and the handling of legal matters by the figures adhere to laws of narration. The volume addresses this intricate relationship between literature and social practice from the perspective of historians as well as philologists. The contributions focus not only on disputes and their solution in saga literature, but also on the representation of law and its history in sagas and Latin historiography from Scandinavia as well as the representation of laws and norms in mythological texts. They demonstrate that narrations of law provide an indispensable insight into legal culture and its connection to a wider framework of social norms, adjusting the impression given by the laws. The philological approaches underline that the narrative texts also have an agenda of their own when it comes to their representation of law, providing a mirror of conduct, criticising inequity, reinforcing the political and juridical position of kings or negotiating norms in mythological texts. Altogether, the volume underlines the unifying force exerted by a common fiction of law beyond its letter.

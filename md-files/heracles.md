@@ -1,14 +1,12 @@
 # Grk. Hēraklês
+[[burkert1979]]
 [[r-mondi1990]]
 [[sterken2015]], [[sterken2016]]
-
-Gregory Nagy's https://classical-inquiries.chs.harvard.edu/thinking-comparatively-about-greek-mythology-i-herakles-as-athlete/
-
-
-[[burkert1979]]
-
-[[vajrapani]] Indo-Greek Heracles and Buddha
-
-## External Links
-[‘Time And I Against Any Other Two’ – an Indo-European analysis of a maxim.](https://aryaakasha.com/2019/07/22/time-and-i-against-any-other-two-an-indo-european-analysis-of-a-maxim/)
+[[series-nagy-g-tc]]
 [[rolinson2019-12-3]]
+[[rolinson2019-07-22]]
+
+
+## Topics
+[[vajrapani]] Indo-Greek Heracles and Buddha
+[[narrative-establish-ritual-lievstock]]

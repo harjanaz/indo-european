@@ -1,0 +1,1 @@
+> [[west]].“Indo-European Metre”. _Glotta_ 51:161–187.  1973. 

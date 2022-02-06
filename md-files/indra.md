@@ -2,9 +2,14 @@
 [[c-anghelina2013]]
 [[n-allenUNKNOWNb]]
 
-## IE Parallels
+
+
+## IE Parallel Figures
 PIE [[thunder-lightning]]
 Ger. [[thor]]
+
+## Narratives
+[[narrative-establish-ritual-lievstock]] ([[ginevra2020-hermes]])
 
 ## Misc.
 

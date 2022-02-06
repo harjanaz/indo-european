@@ -1,4 +1,4 @@
-[[fire]], [[smoke]], [[death]]
+[[fire]], [[smoke]], [[death-decay]]
 
 ---
 

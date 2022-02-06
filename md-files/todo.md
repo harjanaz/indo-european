@@ -2,80 +2,67 @@
 publish: false
 ---
 
-## NOW
-[[greimas]]
-[[gamkrelidze-ivanov-vy1995]]
-[[mallory-adams-d1997]]
-
-## Later
-
-https://archive.org/details/meaningofaphrodi0000frie/mode/2up?q=indo-european
-The meaning of Aphrodite by Paul Friedrich
-
-https://github.com/obsidian-userland/publish
+# ==[[left-off]]==!!!
 
 
 
-[[keyword-searchs-in-journals]]
 
-#maybe (not ie)
+[[tags]]
 
-
-- Check ever citation for Book reviews on Rice's [library](https://onesearch.library.rice.edu) and use their wifi. #rice
-
-==FINISH ARYA AKASHA & [[davis-da]] YOUTUBE==
-
-1. [[buck-semantic-fields]]
-2. Add Watkin's
-
-[[journal-if]]
-
-#fill 
-#eh
-#ocr 
-#transcribeeasy
-#edit 
-#confusing
-#cleanup
-#idk
-
-https://www.youtube.com/c/DanDavisAuthorChannel/videos left off at "Europe's First Cities"
-
-See if you can find pdf versions of ebooks
-
-Buy #nopdf 
-- Understanding Religion: A Thematic Approach
-- Daemons Are Forever: Contacts and Exchanges in the Eurasian Pandemonium
-- 
-[[rydberg]]
-
-
-[[old-todo]]
-
-#IMPORTANT 
-
-
-lots of parallels here https://en.wikipedia.org/wiki/Turkic_mythology
-
-[[tricksters]]
-
-bottom of https://aryaakasha.com/2020/01/
-
-https://archive.org/details/in.ernet.dli.2015.39418/page/n85/mode/2up
 
 [[read]]
 [[buy-collect]]
 [[books]]
 Link [[unlinked-files]]
 [[merge]]
+
+## Online
+[[archive-org-loan]]
+[[keyword-searchs-in-journals]]
+[[academia]]
+[[todo-youtube]]
+[[todo-google]]
+[[specific-authors]]
+[[wikipedia]]
+
+## Rice
+https://brill.com/view/serial/HO2-CAVE?rskey=1luIut&result=7
+https://www.jstor.org/stable/25188440?seq=1
+- Check ever citation for Book reviews on Rice's [library](https://onesearch.library.rice.edu) and use their wifi. #rice
+- [[journal-if]]
+
+## Specific Authors
+[[todo-macedo]]
+
+
+
+1. [[buck-semantic-fields]]
+2. Add Watkin's
+
+
+
+
+https://www.youtube.com/c/DanDavisAuthorChannel/videos left off at "Europe's First Cities"
+
+See if you can find pdf versions of ebooks
+
+
+
+
+
+
+
+bottom of https://aryaakasha.com/2020/01/
+
+https://archive.org/details/in.ernet.dli.2015.39418/page/n85/mode/2up
+
+
 https://yalebooks.yale.edu/book/9780300241280/star-stories
 
 https://www.pitt.edu/~dash/ashliman.html
 
 SMS Studia Mythologica Slavica
 
-g"horseshoe indo-european
-g"prometheus indo-european
 
 ## Compare
 - runes from around the world
@@ -86,17 +73,12 @@ g"prometheus indo-european
 [[send]]
 [[journals to look into]]
 
-do I have all Bruce Lincoln's works? check http://libgen.li/search.php?req=%20Bruce%20Lincoln&column=author
+- do I have all Bruce Lincoln's works? check http://libgen.li/search.php?req=%20Bruce%20Lincoln&column=author
 
-GATHER FROM DIDIER CALIN's ACADEMIA PAGE
-
-[[youtube]] & [[biblio]]
 
 https://forum.obsidian.md/t/obsidian-hotkeys-favorites-and-best-practices/12125
 
-https://www.youtube.com/watch?v=eBiYS2TmVmg
-https://www.youtube.com/watch?v=4d48pi01-Zw
-https://www.youtube.com/watch?v=ptPHOkoHaYE
+
 
 https://brill.com/view/book/9789004433953/back-1.xml?language=en
 
@@ -206,7 +188,7 @@ Regularly:
 [[todo-google]]
 
 
-Interconnect this page better: [[ancient-north-eurasians]]
+Interconnect this page better: [[ancient-north-eurasians-haplogroup-p]]
 
 
 https://en.wikipedia.org/wiki/The-Battle-of-Maldon
@@ -250,7 +232,7 @@ add sandbox to iframes
 
 https://brill.com/view/title/54789
 
-Seaford, Richard (ed). Universe and Inner Self in Early Indian and Early Greek Thought. Edinburgh University Press, 2016.
+
 
 https://www.researchgate.net/profile/Ana-Camillo2
 
@@ -259,7 +241,6 @@ https://www.sgr.fi/en/
 
 [[reading-notes]]
 
-CHOP UP THE [[buck1949]] GREEN Proto-Indo-European BOOK
 
 
 Get [[o-wikander]]'s work clear
@@ -386,120 +367,24 @@ Heiler, Friedrich. 1961. Erscheinungsformen und Wesen der Religion. Stuttgart: K
 
 Leeuw, Gerardus van der. 1967. Religion in Essence and Manifestation. Gloucester: Smith.
 
-Conceptions of the Afterlife in Early Civilizations: Universalism, Constructivism and Near-Death Experience; Book by Gregory Shushan
-
-## No PDFs Available, Buy Book
-- [[g-murphy]]'s *The Saxon Savior* and *The Heliand, The Saxon Gospel*.
-
-g"james frazer indo-european"
-g"indo-european astrology"
-g"daniel brinton indo-european
-The Trinity and the Indo-European Tripartite Worldview
-https://rootsofeurope.ku.dk/english/calendar/events-2019/indo-european-religion-and-poetics/IERP-program-final.pdf
-https://www.semanticscholar.org/paper/Indo-European-Religion-and-Poetics-%E2%80%93-A-Comparative-M%C3%BCnter-Anfosso/585f3723b60c92a1e307c91310676bf3d7ce82e5?p2df
-ken dowden
-
-
-https://languagelog.ldc.upenn.edu/nll/index.php?s=indo-european
-
-
-> g"religion site:https://www.eurasiatica.blog
-https://www.google.com/search?hl=en&as-q=religion&as-epq=&as-oq=&as-eq=&as-nlo=&as-nhi=&lr=&cr=&as-qdr=all&as-sitesearch=https%3A%2F%2Fwww.eurasiatica.blog&as-occt=any&safe=images&as-filetype=&tbs=
-
-
-
-https://www.patheos.com/blogs/fromacommonwell/author/cgoodwin/
-
-
-https://www.reddit.com/r/IndoEuropean/
-
-
-clean out "other" folder
-
-https://www.youtube.com/watch?v=wv1l2SqLb7Q
-
-https://religion.wikia.org/wiki/Proto-Indo-European-religion
-
-India: Historical Beginnings and the Concept of the Aryan, Book by Romila Thapar
-
-https://www.academia.edu/3836804/An-Indo-Iranian-Symbol-of-Power-in-the-Earliest-Steppe-Kurgans
-
-https://bv.fapesp.br/en/auxilios/87790/noun-as-divine-epithet-in-greek-and-indo-european-religious-language/
-
-
-https://en.wikipedia.org/wiki/Gudmund-Sch%C3%BCtte
-https://en.wikipedia.org/wiki/Rudolf-Much
-https://en.wikipedia.org/wiki/Vilhelm-Gr%C3%B8nbech
-
-
-https://brill.com/view/serial/HO2-CAVE?rskey=1luIut&result=7
-
-https://books.google.com/books?id=wRsoAAAAYAAJ&pg=PA86&lpg=PA86&dq=vedic+interlinear&source=bl&ots=LQlEjbwTSv&sig=ACfU3U3YdrvAnE5I9AEaFTa4s50QxEjk1Q&hl=en&sa=X&ved=2ahUKEwis-9H7qP7tAhVHJKwKHR7lBnQ4HhDoATAGegQICRAC#v=onepage&q=vedic%20interlinear&f=false
-
-https://books.google.com/books?id=4zgYAAAAYAAJ&pg=PA86&lpg=PA86&dq=vedic+interlinear&source=bl&ots=llzX8BSowZ&sig=ACfU3U2TYPptN4PymFu1nyTYi7kNsHrpQg&hl=en&sa=X&ved=2ahUKEwis-9H7qP7tAhVHJKwKHR7lBnQ4HhDoATAIegQICxAC#v=onepage&q=vedic%20interlinear&f=false
-
-https://books.google.com/books?id=-o8YedRjXusC&pg=PA86&lpg=PA86&dq=vedic+interlinear&source=bl&ots=w2ohkWWpKX&sig=ACfU3U07tdEuuRxl6KnpHG9fQmsl84VHGA&hl=en&sa=X&ved=2ahUKEwis-9H7qP7tAhVHJKwKHR7lBnQ4HhDoATAHegQIChAC#v=onepage&q=vedic%20interlinear&f=false
-
-https://www.jstor.org/stable/25188440?seq=1
-
-# Read
-[[grihya-sutras]]
-g"Gṛhya
-
-
-
-Below "Addition books...": https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=M%26uuml%3Bller%2C%20F%2E%20Max%20%28Friedrich%20Max%29%2C%201823%2D1900
-
-
-I've already searched this site, it has a lot of older authors: https://onlinebooks.library.upenn.edu/search.html
-[[p-pourshariati2008]]
-[[p-crone2012]]
-[[ahmadi2015]]
-[[drews]]
-
-
-https://archive.org/details/originalsanskrit02muir/page/n27/mode/2up?q=indo-european `mentions indo-europeans`
-
-https://1lib.us/book/2423338/305db2
-
-
-treatment can be found, however, in several places: most extensively in the epilogue to the Dow/ lixfeld volume, The Nazification of an Academic Discipline (Dow and lixfeld 1994), and in the preface to the lixfeld/Dow volume, Folklore and Fascism: The Reich Insti- tute for German Folklore (lixfield and Dow 1994). briefer treatments are in chapter 4 of Dow and bockhorn, The Study of European Ethnology in Austria (Dow and bockhorn 2004), and in chapter 4 of Dow’s German Folklore. A Handbook (Dow 2006).
-
-
-Symbols (herman Wirth), Germanic Studies (Wilhelm teudt), Fairy tales and leg- endry (otto Plassmann), indo-Germanic-Finnish cultural relations (yrjö von Grön- hagen), meteorology, World ice Study (hans robert Scultetus), and teaching and research Post for Word Study (Walter Wüst).
-
-Richard Wolfram
+- Conceptions of the Afterlife in Early Civilizations: Universalism, Constructivism and Near-Death Experience; Book by Gregory Shushan
+- The Trinity and the Indo-European Tripartite Worldview
+- https://rootsofeurope.ku.dk/english/calendar/events-2019/indo-european-religion-and-poetics/IERP-program-final.pdf
+- https://www.semanticscholar.org/paper/Indo-European-Religion-and-Poetics-%E2%80%93-A-Comparative-M%C3%BCnter-Anfosso/585f3723b60c92a1e307c91310676bf3d7ce82e5?p2df
+- ken dowden
+- https://languagelog.ldc.upenn.edu/nll/index.php?s=indo-european
+- g"religion site:https://www.eurasiatica.blog
+- https://www.google.com/search?hl=en&as-q=religion&as-epq=&as-oq=&as-eq=&as-nlo=&as-nhi=&lr=&cr=&as-qdr=all&as-sitesearch=https%3A%2F%2Fwww.eurasiatica.blog&as-occt=any&safe=images&as-filetype=&tbs=
+- https://www.patheos.com/blogs/fromacommonwell/author/cgoodwin/
+- https://www.reddit.com/r/IndoEuropean/
+- https://www.youtube.com/watch?v=wv1l2SqLb7Q
+- https://religion.wikia.org/wiki/Proto-Indo-European-religion
+- India: Historical Beginnings and the Concept of the Aryan, Book by Romila Thapar
+- https://www.academia.edu/3836804/An-Indo-Iranian-Symbol-of-Power-in-the-Earliest-Steppe-Kurgans
+- https://bv.fapesp.br/en/auxilios/87790/noun-as-divine-epithet-in-greek-and-indo-european-religious-language/
 
 
 
 
-i. Folklore and Folk research
-1. custom,Folkbelief,FolkDance/movementForms:Prof.Dr.richardWol-
-fram, Vienna
-2. utensilsandhouseholdGoods:Dr.[ernstotto]Thiele,rosenbergbureau27
-3. costumes: Gertrud Pesendorfer, Folk Art museum innsbruck
-4. Folknarrative,Fairytales,legend:Dr.Wilhelmmai,Ancestralinheritance
-5. Symbols,houseSignsandkinshipSymbols:Dr.ottoPlaßmann,Ancestral
-inheritance
-ii. Folk music, Folk Song, Folk Dance/musical Part
-Dr. Alfred Quellmalz, State institute for German music research
-iii. house research and Architecture
-Docent. Dr. martin rudolph, technical university braunschweig
-iV. construction and Settlement culture
-Prof. [?]28 Sachs, bozen
-V. Dialects, Place and Family names
-Dr. [matthias] insam, munich, Dr. [bruno] Schweizer, Ancestral inheritance
-Vi. Archives
-Dr. [Franz] huter, State Archives Vienna
-Vii. church registers and kinship Studies
-Viii. iX.
-X. Xi.
-Dr. [Wolfgang?] kayser, reich Post for kinship research berlin Prehistory
-Dr. [Georg] innerebner, bozen
-museums, Art treasures, Statue Art, and Folk Art
-Dr. [hans] Posse, Director of the Art Gallery Dresden,
-Dr. Graf [oswald] trapp, innsbruck, State curator for tyrol, Dr. [Walter?] Frodl, klagenfurt, State curator for carinthia Dr. [Josef?] ringler, innsbruck
-Film
-SS-hauptsturmführer [helmut] bousset, berlin
-Folk history, tribal Studies
-[illegible: karl Felix Wolff?]
+
+- Emania Journal 16 (1997) **Lyle, Emily**: Age grades, age classes and alternate succession: a restatement of the basis at the societal level of Indo-European symbolic partition, 63-71. <https://www.navan-research-group.org/emania.html>

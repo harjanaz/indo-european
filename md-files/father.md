@@ -14,6 +14,6 @@ A father is the protector/head of the household (Lat. `pater familias`)
 
 ## External Links
 https://www.indo-european-connection.com/words/father
-> This article will cover two concepts forged into one deity. Namely "teut" as "people" or "tribe" and "ates" as "father". Word "teut" is most probably an Indo-European synonym for LEODE [[mortals-humans-people]].
+> This article will cover two concepts forged into one deity. Namely "teut" as "people" or "tribe" and "ates" as "father". Word "teut" is most probably an Indo-European synonym for LEODE [[humans]].
 
 #cleanup 

@@ -2,4 +2,4 @@
 
 > [pdf](koch2013.pdf)
 
-[[french-scholarship]]
+[[french-biblio]]

@@ -1,1 +1,5 @@
-[[abortion]]
+[[kill]] `+` unlawful `+` human
+
+---
+
+`+` [[pregnancy]] = [[abortion]]

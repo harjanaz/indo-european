@@ -1,4 +1,4 @@
-[[euripides]], [[greek-texts]]
+[[euripides]]
 
 ---
 

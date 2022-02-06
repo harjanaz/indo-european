@@ -26,7 +26,7 @@ Jan Assman
 [[b-hayden2003]] history of reliigon
 
 ## By Topic
-[[deities]]
+[[gods]]
 
 
 ## Methods

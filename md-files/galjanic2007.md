@@ -1,4 +1,6 @@
-> [[galjanic]] Three and the some: A Typology of Poetic Enumeration in Greek and related Indo-European Traditions. Dissertation at Harvard, 2007. [pdf](a/a-galjanic2007.pdf)
+> [[galjanic]]. *Three and the some: A Typology of Poetic Enumeration in Greek and related Indo-European Traditions*. Dissertation at Harvard, 2007.
+
+> [pdf](a/a-galjanic2007.pdf)
 
 Written under [[watkins]], [[nagy-g]], and [[katz]]
 

@@ -6,7 +6,7 @@
 - Each sky has its own:
 	-  [World](space.md)
 	-  [Time of day](24hours.md)
-	-  [Gods](deities.md)
+	-  [Gods](gods.md)
 
 
 ### Bright Sky

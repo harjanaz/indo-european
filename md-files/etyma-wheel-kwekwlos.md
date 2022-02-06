@@ -1,4 +1,4 @@
-[[terms]], [[wheels-chariots]]
+[[terms]], [[chariots]]
 
 ---
 

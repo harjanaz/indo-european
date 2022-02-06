@@ -2,7 +2,7 @@
 
 ---
 
-[[rv-rig-veda]]
+[[rv]]
 [[upanishads]]
 
 ## Scholarship

@@ -1,4 +1,4 @@
-[[ethics-morality-virtues]], [[deities]], [[relationships]]
+[[ethics-morality-virtues]], [[gods]], [[relationships]]
 
 ---
 

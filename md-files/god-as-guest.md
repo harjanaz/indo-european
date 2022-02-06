@@ -1,4 +1,4 @@
-[[deities]]
+[[gods]]
 Subform of [[god-in-disguise]] + [[hospitality-strangers]]
 # God as Guest (or Beggar)
 

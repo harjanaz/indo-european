@@ -2,4 +2,4 @@
 
 # Poetry of LLywarch Hen
 ## Trans.
-[[p-ford1974]]
+[[ford1974-poetry]]

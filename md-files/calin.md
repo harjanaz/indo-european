@@ -1,4 +1,4 @@
-[[french-scholarship]]
+[[french-biblio]]
 # Didier Calin
 Many articles in french. See.
 ## External Links

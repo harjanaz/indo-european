@@ -1,1 +1,1 @@
-> [[n-oettinger]], [[s-schaffner]], [[t-steer]], [[e-tichy]]. *Münchener Studien zur Sprachwissenschaft*. Heft 71/1 2017/2018.
+> [[n-oettinger]], [[s-schaffner]], [[t-steer]], [[tichy]]. *Münchener Studien zur Sprachwissenschaft*. Heft 71/1 2017/2018.

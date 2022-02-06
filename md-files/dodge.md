@@ -12,14 +12,14 @@ From 2016 to 2020 I attended The Univeristy of Houston where I earned a Double B
 
 ## Works
 - *The Indo-European Wiki* <indo-european.wiki>
-- I include various personal comments tagged in the wiki as [[dodge-commentary]].
+	- I include various personal comments, notes, connections, and ideas under the headers "[[dodge-commentary]]".
 - [[dodge2020-thesis]] BA Honors Thesis: *Orpheus, Odin, and the Indo-European Underworld: A Response to Bruce Lincoln's Article “Waters of Memory, Waters of Forgetfulness"* 
 - [[dodge2020-ontological]]
 - [[dodge2021-birds]]
 - [[dodge2021-mahdi]]
 
 ## Interviews
-[[dodge-leeming2020]]
+[[dodge-leeming-j2020]]
 
 
 ## Accounts

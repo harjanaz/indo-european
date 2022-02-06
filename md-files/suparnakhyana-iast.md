@@ -13,7 +13,7 @@ vāñchan putrān paśūn vittaṃ svargam āyur anandhatām ||
 > If you desire (**vāñchan**) sons (**putrān**), cattle (**paśūn**), wealth (**vittam**), heaven (**svargam**), [long] life (**āyuḥ**) and non-blindness (**an-andhatām**), [you] should study (**abhyaset**) the eleven (**ekādaśa**) well-spoken (**su-uktāni**) pure (**pavitrāṇi**) well-winged ones [i.e. verses] (**su-parṇāni**).
 
 > Notes
-> - The verb here, *abhyaset* (study; practice, repeat), is from the root **अस्** as "to throw, hurl, shoot at, cast". Why? Because you try to learn something you "give it a shot"!
+> - The verb here, *abhyaset* (study; practice, repeat), is from the root **अस्** as "to throw, hurl, shoot at, cast". Why? Because you try to learn something you "give it a shot" of course!
 
 ### 1.2
 sauvarṇaparṇam amitadyutim aprameyaṃ

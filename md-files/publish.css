@@ -16,7 +16,7 @@ code {
     color: #f58a2d !important;
     text-decoration: none !important;
     font-family: 'Monaco' !important;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 /* EXTERNAL LINKS */
@@ -26,6 +26,7 @@ span.cm-string.cm-url,
     color: #057cfc !important;
     text-decoration: none !important;
     font-family: 'Monaco' !important;
+    font-size: 15px;
 }
 
 

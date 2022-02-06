@@ -2,17 +2,13 @@
 
 ---
 
-
-
 ## Topics
 [[prayer]]
 [[language-of-the-gods]]
 
 
-
-
-
 ## Biblio
+[[woodard2018-02-04]]
 [[rolinson2019-7-27]]
 [[rolinson2019-09-6]]
 [[rolinson2019-11-14]]

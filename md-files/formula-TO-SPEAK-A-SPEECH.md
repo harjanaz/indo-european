@@ -9,5 +9,5 @@ ave | uxðā vacå |
 
 
 - [[alliteration]] `u̯-k-u̯`
-- A noun and adjective pair deriving from a common root, and sharing the same base meaning like [[formula-SWFIT-HORSES]].
+- A noun and adjective pair deriving from a common root, and sharing the same base meaning like [[formula-SWIFT-HORSES]].
 - Eng. "sing song" (not historically traceable)

@@ -1,4 +1,4 @@
-[[rv-rig-veda]], [[misc-mantras-sung]]
+[[rv]], [[misc-mantras-sung]]
 
 ---
 

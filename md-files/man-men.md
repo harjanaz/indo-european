@@ -1,4 +1,4 @@
-[[beings-male]] | [[mortals-humans-people]]
+[[beings-male]] | [[humans]]
 # Men
 
 - [[klein-et2017-20]] PIE Terms

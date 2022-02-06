@@ -1,4 +1,4 @@
-[[french-scholarship]]
+[[french-biblio]]
 
 > [[calin]]. "L'héritière lettone de l'Aurore indo-européenne". [academia](https://www.academia.edu/40090976/). 
 

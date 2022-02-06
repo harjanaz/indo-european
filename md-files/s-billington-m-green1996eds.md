@@ -1,3 +1,8 @@
-> [[s-billington]]; [[mi-green]] (eds). *The Concept of the Goddess*. Routledge, 1996. [pdf](a/s-billington-m-green1996eds.pdf)
+> [[s-billington]]; [[mi-green]] (eds). *The Concept of the Goddess*. Routledge, 1996.
 
-#split 
+> split pdf
+
+## Relevant Articles
+[[davidson1996]]
+[[grundy1996]]
+[[wood1996]]

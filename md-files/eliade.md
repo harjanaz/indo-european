@@ -1,1 +1,3 @@
-[[eliade-autobio-2]]
+# Mircea Eliade
+[Wikipedia](https://en.wikipedia.org/wiki/Mircea-Eliade)
+

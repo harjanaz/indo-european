@@ -20,11 +20,11 @@ All different ways to describe the same thing.
 
 ## Layout
 ### River of Forgetfulness
-[[lincoln1982-waters]]
+[[lincoln1982-1991-waters]]
 [[dodge2020-thesis]]
 ### House of the Lord of the Dead
 ### Nexus
-[[lincoln1982-waters]]
+[[lincoln1982-1991-waters]]
 
 ---
 

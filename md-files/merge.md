@@ -1,6 +1,6 @@
 Perhaps I should merge some of these pages
 
-[[life-and-death]]
+[[life-and-death-mortality]]
 
 [[ancestors-the-dead]] [[ancestors-the-dead]]
 [[realm-of-the-ancestors]]

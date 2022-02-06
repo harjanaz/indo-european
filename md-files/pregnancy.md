@@ -1,5 +1,4 @@
-See also: [[birth]]
-# Pregnancy
-[[abortion]]
+`+` completion = [[birth]]
+`+` [[murder]] = [[abortion]]
 
-[[lincoln1988-embryological]]
+---

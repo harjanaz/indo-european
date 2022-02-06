@@ -26,14 +26,14 @@ The Ferryman is one of the oldest characters in human history, and his purpose w
 [37:22](https://www.youtube.com/watch?v=7AArGLbIIFw&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=11&t=2242s) The true age and meaning of the Ferryman
 
 ## Primary Sources
-[[pausanias-description10.28.2]]
-[[shatapatha-brahmana4.2.5.10]]
-[[shvetashvatara-upanishad2.8]]
-[[denkard3.182]]
-[[mandukya-upanishad1.2.7]]
-[[aristophanes-frogs139f]]
-[[euripides-alcestis441]]
-[[yasna46.10]]
+[[pausanias-description]]10.28.2
+[[shatapatha-brahmana]]4.2.5.10
+[[shvetashvatara-upanishad]]2.8
+[[denkard]]3.182
+[[mandukya-upanishad]]1.2.7
+[[aristophanes-frogs]]139f
+[[euripides-alcestis]]441
+[[yasna]]46.10
 [[voyage-of-saint-brendon]]
 [[lucian]]
 [[Russian Laments for the Dead]]

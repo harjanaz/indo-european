@@ -17,4 +17,4 @@
 ## Topics
 [[tragedy]]
 ## Indo-Europeanizaton
-[[g-nagy1990]]
+[[nagy-g1990]]

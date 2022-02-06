@@ -1,6 +1,8 @@
 [[pie-branches]]
 # Bible
 
+[[greek-judaism]]
+
 # IEs in the Bible
 [[p-lajoye2013]]
 

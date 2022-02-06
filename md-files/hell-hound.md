@@ -3,7 +3,7 @@
 ---
 
 ## Scholarship
-[[lincoln1979-hellhound]]
+[[lincoln1979-1991-hellhound]]
 
 Name: "Spot"
 

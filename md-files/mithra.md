@@ -10,7 +10,7 @@ This page is a bit vauge, it will be moved to [[mitha-mitra]] and its subcategor
 ## Scholarship
 [[p-brown1971]]p37, demons
 [[b-lincoln1977b]]
-[[lincoln1982-mithra]]
+[[lincoln1982-1991-mithra]]
 [[d-sick1996]]
 [[kaliff-sundqvist2006]]
 [[r-beck2006]]

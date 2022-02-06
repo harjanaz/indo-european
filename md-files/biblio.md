@@ -9,6 +9,7 @@
 [[publishers]] (institutes, presses, etc)
 
 ## By Kind
+[[conferences]]
 ### Print
 [[journals]]
 [[encylopedias]]

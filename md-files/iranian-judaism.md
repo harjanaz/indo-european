@@ -2,7 +2,7 @@
 
 ---
 
-
-[[agostini2019-luhrasp]] Iranian & Jewish syncretism 
+## Biblio
+[[agostini2019-luhrasp]]
 [[d-winston1966]]
 [[w-sundermann2008]]

@@ -1,3 +1,5 @@
+[[homeric-hymn-to-hermes]]
+
 ## Trans.
 `028360.pdf` misc. notes
 
