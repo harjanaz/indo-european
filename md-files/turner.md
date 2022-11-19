@@ -1,0 +1,5 @@
+[[scholars]]
+
+---
+
+# John D. Turner

@@ -1,1 +1,5 @@
-# Robert Beekes
+[[scholars]]
+
+---
+
+# Robert S. P. Beekes

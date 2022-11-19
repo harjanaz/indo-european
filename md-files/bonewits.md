@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Isaac Bonewits

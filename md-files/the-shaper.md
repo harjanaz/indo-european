@@ -1,4 +1,4 @@
-[[indo-iranian-deities]]
+[[pii-gods]]
 
 ---
 
@@ -9,4 +9,4 @@ Av. Θwōrəštar- ("Shaper")
 Av. Gə̄uš Urvan ("Ox Shaper")
 
 ## Narratives
-[[narrative-indo-iranian-creation]]
+[[narrative-pii-creation]]

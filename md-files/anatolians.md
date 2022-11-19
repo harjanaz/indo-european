@@ -5,7 +5,7 @@
 [[anatolian-history]]
 [[anatolian-lang]]
 [[anatolian-folk]]
-[[anatolian-religion]]
+[[anatolian-culture]]
 
 
 ## Web Resources

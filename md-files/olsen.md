@@ -1,3 +1,5 @@
+[[scholars]]
+***
 # Birgit Anette Olsen
 [Wikipedia](https://en.wikipedia.org/wiki/Birgit-Anette-Olsen)
 

@@ -1,5 +1,5 @@
 ## External Links
-[[rolinson-mythlingwar]]
-[[c-rolinson2019-12-10]]
-[[c-rolinson2019-12-11]]
-[[c-rolinson2019-12-28]]
+[[rolinson-series-mythlingwar]]
+[[rolinson2019-12-10]]
+[[rolinson2019-12-11]]
+[[rolinson2019-12-28]]

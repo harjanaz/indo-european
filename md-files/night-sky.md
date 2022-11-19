@@ -1,1 +1,1 @@
-[[j-didier2009]] eurasia & china
+[[didier2009]] eurasia & china

@@ -1,1 +1,0 @@
-The Rise of Bronze Age Society by Kristiansen & Larsson ➜ https://amzn.to/2XhlH6v

@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Herman W. Tull

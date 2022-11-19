@@ -1,3 +1,3 @@
 # Karl Kerènyi
 ## On Kerènyi
-[[e-polome1984ed]]
+[[polome1984ed]]

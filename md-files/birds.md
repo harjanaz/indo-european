@@ -1,4 +1,4 @@
-[[animals]]
+[[buck-3-animals]]
 
 ---
 
@@ -17,7 +17,7 @@
 [[birds-indic]]
 [[birds-iranian]]
 
-[[things to keep in mind]]
+[[things-to-keep-in-mind]]
 
 ## Topics
 [[death-and-birds]]
@@ -49,7 +49,7 @@ https://meluhha.com/rv/verse.pl?v=10.177.02&acc=no&q=bird&lang=eng
 [[bird-sacrifice]]
 [[birds-kings]]
 [[kings-represented-by-birds]]
-[[f-staal1983-1]], [[f-staal1985]]
+[[staal1983-1]], [[staal1985]]
 
 - [Germanic] galdr = birdsong (ja puhvel, West)
 - [Vedic] [Fritz Staal agnicayana Meaningless mantras mimick birdsong](https://www.jstor.org/stable/601529?seq=1) altar is a bird

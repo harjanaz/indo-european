@@ -1,4 +1,4 @@
-[[biblio]]
+[[~biblio]]
 
 ---
 

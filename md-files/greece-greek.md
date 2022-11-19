@@ -6,12 +6,12 @@
 
 ## Scholarship
 ### Overviews
-[[g-murray1925]] 5 stages
+[[murray-g1925]] 5 stages
 [[w-burkert1977]]
 
 ### Misc.
 [[forte2015]]
-[[j-vernant2006]] 
+[[vernant2006]] 
 
 
 ## Topics

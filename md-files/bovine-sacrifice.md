@@ -4,8 +4,8 @@
 
 
 [[sergent2018]]
-[[j-puhvel1978]]
-[[h-tull1996]]
+[[puhvel-j1978]]
+[[tull1996]]
 
 ## Prohibition
 - [Behafarid's](https://en.wikipedia.org/wiki/Behafarid) followers disallowed sacrifices of cattle except when they were decrepit.

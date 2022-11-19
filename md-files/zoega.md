@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Geir T. Zoëga

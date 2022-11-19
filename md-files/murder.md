@@ -1,4 +1,4 @@
-[[kill]] `+` unlawful `+` human
+[[kill]] `+` [[crimes]]/unlawful `+` human
 
 ---
 

@@ -6,4 +6,4 @@
 
 ## External Links
 [Wikipedia](https://en.wikipedia.org/wiki/Mahagauri)
-[[c-rolinson2018-10-19]]
+[[rolinson2018-10-19]]

@@ -1,7 +1,7 @@
 ## Biblio
-[[n-allen2010]]
+[[allen-n2010]]
 [[petrosyan2017]]
-[[d-frame2013]]
+[[frame2013]]
 
 ## Topics
-[[motif-dice-game]]
+[[motif--dice-game]]

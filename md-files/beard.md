@@ -1,0 +1,5 @@
+[[scholars]]
+
+---
+
+# Katherine Suzane Beard

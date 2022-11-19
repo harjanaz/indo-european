@@ -1,0 +1,2 @@
+- The Great Stupa of Sanchi depicts celts. Ashoka sent monks all the way to macedonia?
+- skt. *vidya* = cltic *uidiia*? David Frawley "Way of Wisdom"

@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Kim McCone

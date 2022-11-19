@@ -1,44 +1,25 @@
-[[storm-weather]]
-[[divine-family]]
-# PIE Perkwunos
-<iframe width="100%" height="350" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://en.wikipedia.org/wiki/Perkwunos"></iframe>
+[Wikipedia: in religion and myth](https://en.wikipedia.org/wiki/Thunderbolt#In_religion_and_mythology)
 
-[wiki](https://en.wikipedia.org/wiki/Perkwunos)
+> Poetics
+[[buck-1-5-7-thunderbolt-lightning-strike]]
+[[buck-1.5.6-noise-thunder]]
+[[buck-1.5.5-flash-lightning]]
+[[buck-1-5-7-Thunderbolt, Lightning Strike]]
 
+Specifically as a weapon: [[bolt]]
 
-<iframe width="100%" height="350" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://en.wikipedia.org/wiki/Proto-Indo-European-mythology#Weather-deity"></iframe>
+## Topics
+[[storm-god]]
 
-[wiki](https://en.wikipedia.org/wiki/Proto-Indo-European-mythology#Weather-deity)
-
-[[j-lindow1994]]
-
-
-Indic [[parjanya]]
-
-Hittite [[collins2007]]
-
-## Influence on Uralic
-[[u-saloUNKNOWN]]
-
-
+[[thunder-lightning-god]]
+[[lindow1994]]
 
 [[macedo2017-zeus]]
+Germanic [[thor]]
 
-Germanic [Thor](ger-thor.md)
-Vedic [Indra](indra)
-
-
-#### Weapon
-[[Thunder Weapon]]
-	  
-## Scholarship
+## Biblio
 [[hyllested2014]]p25-
 
-## By Branch
-Indic [Indra](indra)
-Norse [[ger-thor]]
-Estonian [[taara]]
-Greek [[zeus]]
 
-## Web Resources
-<iframe width="100%" height="350" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.indo-european-connection.com/religion/gods/thunder-god"></iframe>
+
+

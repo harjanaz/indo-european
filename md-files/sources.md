@@ -1,1 +1,1 @@
-see [[biblio]]
+see [[~biblio]]

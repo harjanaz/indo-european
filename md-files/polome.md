@@ -1,4 +1,7 @@
+[[scholars]]
+***
 # Edgar C. Polomé
-Indo-European Scholar (who focused on the Germanic branch). See also [[freemasonry]]. According to one of his students, Stephen Flowers, he was a Freemason..
+[Wikipedia](https://en.wikipedia.org/wiki/Edgar-C.-Polom%C3%A9)
 
-[wikipedia](https://en.wikipedia.org/wiki/Edgar-C.-Polom%C3%A9)
+- Bibliography available in [[dil1982]]:369
+- He was a [Freemason](freemasonry.md) (according to one of his students, [[flowers-s]]).

@@ -1,1 +1,0 @@
-# Carolina López-Ruiz

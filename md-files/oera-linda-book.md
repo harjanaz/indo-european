@@ -1,6 +1,6 @@
-[[germanic-texts]]
-
+[[germanic-texts]] | [[kooky-and-downright-bonkers]] | [[frisian]]
+***
 # Oera Linda Book
-[web](https://www.sacred-texts.com/atl/olb/)
-## Trans.
-[[j-ottema-w-sandbach1876]]
+[sacred-texts.com](https://www.sacred-texts.com/atl/olb/)
+[[ottema-sandbach1876]]
+[[wirth1933]]

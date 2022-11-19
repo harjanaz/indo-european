@@ -3,7 +3,7 @@
 [Chidag Andarz i Poryotkeshan](chidag.md)
 
 ## Textuality
-[[d-utz1991]]
+[[utz1991]]
 
 ## Zoroastrian
 [[zoro-texts]]

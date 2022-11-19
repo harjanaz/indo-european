@@ -1,4 +1,4 @@
-> Bombard, Allan R. "The Words for 'star' in Indo-European and Semitic". Archaeoastronomy and Ancient Technologies 2019, 7(2), 1–4; http://aaatec.org/art/a-ba1
+> [[bomhard]]. "The Words for 'star' in Indo-European and Semitic". Archaeoastronomy and Ancient Technologies 2019, 7(2), 1–4; http://aaatec.org/art/a-ba1
 
 
 [.pdf](a-bomhard2019.pdf) [.pdf](https://aaatec.org/documents/article/ba1.pdf)

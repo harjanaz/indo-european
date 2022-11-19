@@ -1,4 +1,4 @@
-> [[white-j]]. "Proto Indo European Folk Tales (Some of the oldest stories in the world)". [YouTube](https://youtu.be/eBiYS2TmVmg). [mp4](white-j2021-folk.mp4) #syncvault
+> [[white-j]]. "Proto Indo European Folk Tales (Some of the oldest stories in the world)". [YouTube](https://youtu.be/eBiYS2TmVmg). [mp4](white-j2021-folk.mp4) have #archived
 
 
 ## Description

@@ -1,6 +1,7 @@
 [[thunder-lightning]]
 
-----
+[Wikipedia](https://en.wikipedia.org/wiki/Thor)
+***
 
 This page is for the Germanic Thunder God (Proto-Germanic `*Þunraz`).
 
@@ -19,5 +20,5 @@ See:
 
 
 ## External Links
-[[c-rolinson2019-9-19a]]
+[[rolinson2019-9-19-einu]]
 [[rolinson2019-12-18]]

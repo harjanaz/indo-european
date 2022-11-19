@@ -1,3 +1,3 @@
 [[pie-branches]]
 # Guanches
-[[g-kennedy2010]]
+[[kennedy2010]]

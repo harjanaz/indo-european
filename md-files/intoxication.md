@@ -1,4 +1,4 @@
-[[altered-states-of-consciousness]] | [[sacred-drink]]
+[[altered-states-of-consciousness]] | [[The Sacred Cup & Drink]]
 
 [[mead]]
 [[alcohol]]

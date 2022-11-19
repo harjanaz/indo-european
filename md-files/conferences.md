@@ -1,6 +1,9 @@
-[[biblio]]
+[[~biblio]]
 
 ---
 
-[[conference-uoc2019]]
-[[conference-uppsala2020]]
+[[uoc2019]]
+[[uppsala2020]]
+[[weciec]] @UCLA
+
+[[iacm]]

@@ -1,4 +1,4 @@
-> [[b-sergent]].  "Un mythe lithuano-amérindien". *Dialogues d'Histoire Ancienne*. 25 (2): 9–39. [doi](https://doi.org/10.3406%2Fdha.1999.1536), [pdf](a/b-sergent1999.pdf)
+> [[sergent]].  "Un mythe lithuano-amérindien". *Dialogues d'Histoire Ancienne*. 25 (2): 9–39. [doi](https://doi.org/10.3406%2Fdha.1999.1536), [pdf](a/b-sergent1999.pdf)
 
 
 > **Wikipedia Summary:**

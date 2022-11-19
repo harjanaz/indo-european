@@ -1,4 +1,4 @@
-[[metallurgy-smithing]] + [[combat]]
+[[smith-forge]] + [[buck-20-warfare-and-hunting]]
 
 ---
 

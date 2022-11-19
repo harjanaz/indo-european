@@ -1,0 +1,1 @@
+> [[lieberg]]. "The Theologia Tripertita as an intellectual model". in [[polome1984ed]]. 

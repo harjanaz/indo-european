@@ -1,0 +1,1 @@
+> [[vycinas]]. *Our Cultural Agony*. [pdf](a/v-vycinas1973.pdf)

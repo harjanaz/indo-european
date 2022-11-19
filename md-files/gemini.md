@@ -1,3 +1,3 @@
 [[stars-astro-constellations-planets]]
 
-[[g-oudaer2013]]
+[[oudaer2013]]

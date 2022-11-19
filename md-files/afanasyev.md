@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Alexander Nikolayevich Afanasyev

@@ -2,7 +2,7 @@
 
 > [pdf](a/a-galjanic2007.pdf)
 
-Written under [[watkins]], [[nagy-g]], and [[katz]]
+Written under [[watkins]], [[nagy-g]], and [[katz-j]]
 
 ## Abstract
 

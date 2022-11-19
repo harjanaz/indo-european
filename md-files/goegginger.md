@@ -1,1 +1,3 @@
+[[scholars]]
+***
 # Wolf H. Goegginger

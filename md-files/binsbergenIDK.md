@@ -1,0 +1,7 @@
+> [[binsbergen]]. "Giving birth to Fire: Evidence for a widespread cosmology revolving on an elemental transformative cycle, in Japan, throughout the Old World, and in the New World". Abstract for presentation. 
+
+> [pdf](a/binsbergenIDK.pdf)
+> #link  #nodoi 
+
+# Abstract
+> Point of departure will, of course, be the myth of the primal goddess Izanami giving birth to the Fire God Kagutsuchi or Homusubi. Destruction and Production are the two basic relations between elements in the transformative cycle (which for instance surfaces in a late, streamlined form in late 1st mill. BCE China: I Ching, and Taoism in general -- but with convincing parallels in Ancient Greece, Ancient Egypt, sub-Saharan Africa, and North America) -- secondary relations are furtherance / blessing and hindrance / insult; fire, of course, is among one of the basic elements or positions, and so are water, earth, air, probably also metal and wood. There are most instructive parallels, in the story of Izanami's death when giving birth to Fire, both in Africa and Ancient Greece, and in North America, specifically in its flood myths, many of which also revolve on permutations within the transformative cycle, with Flood being simply the Water element dramatised. Applying the lessons of these parallels to Japanese cosmogonic and theogonic myths will make us look with new eyes at the Japanese material, and realise its many-faceted transcontinental connections.

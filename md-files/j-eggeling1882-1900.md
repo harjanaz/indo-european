@@ -1,1 +1,0 @@
-> [[j-eggeling]]. [I](https://www.sacred-texts.com/hin/sbr/sbe12/index.htm), [II](https://www.sacred-texts.com/hin/sbr/sbe26/index.htm), [III](https://www.sacred-texts.com/hin/sbr/sbe41/index.htm), [IV](https://www.sacred-texts.com/hin/sbr/sbe43/index.htm), [V](https://www.sacred-texts.com/hin/sbr/sbe44/index.htm).

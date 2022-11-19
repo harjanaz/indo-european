@@ -5,20 +5,20 @@
 > It depicts "Christ as a Germanic war lord, *drohtin*, and the disciples as his *comitatus*, a loyal war band."
 
 ## Scholarship
-[[g-murphy1995]]
+[[murphy-g1995]]
 [[p-augustyn2000]]
-[[j-cathey2002ed]]
-[[g-mierke2010]]
+[[cathey2002]]
+[[mierke2010]]
 [[v-pakis2010ed]]
 [[n-rhody2012]]
 [[m-kay2013]]
-[[f-bosman2016]]
+[[bosman2016]]
  
 ## Editions 
- [[j-cathey2002ed]]
+ [[cathey2002]]
  
 ## Translations
-
+https://www.hieronymus.us.com/latinweb/Mediaevum/Heliand.htm#X01
 
 [Saxon Text w/ Eng & Ger trans](https://www.hieronymus.us.com/latinweb/Mediaevum/Heliand.htm)
 [Latin & Saxon Text](https://wikisource.org/wiki/Heliand)

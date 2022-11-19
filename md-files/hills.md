@@ -1,5 +1,5 @@
 [[mountains]]
-[[barrows-burial-mounds-treasure-artefacts]]
+[[burial-funeral-graves-barrows-mounds]]
 # Hills
 [[k-dowden2000]]
 

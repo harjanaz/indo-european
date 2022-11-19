@@ -1,1 +1,1 @@
-> [[dubuisson]]. "Les enjeux d’une exegèse". in [[pearson1992ed]].
+> [[dubuisson]]. "Les enjeux d’une exegèse". in [[pearson-r1992ed]].

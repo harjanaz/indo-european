@@ -4,16 +4,16 @@
 
 ## Scholarship
 [[x-liu2017]]
-[[c-beckwith2015]]
-[[j-bronkhorst2007]]
-[[j-bronkhorst2010a]] Stupas = Burial Mounds
+[[beckwith2015]]
+[[bronkhorst2007]]
+[[bronkhorst2010a]] Stupas = Burial Mounds
 [[m-walter1998]]
 [[a-coomaraswamy1935]] Iconography
 [[u-jager1986]]
-[[j-bronkhorst2011b]]
+[[bronkhorst2011b]]
 [[powers-j1995]]
-[[c-beckwith2015]]
-[[j-bronkhorst2010b]]
+[[beckwith2015]]
+[[bronkhorst2010b]]
 
 ## Texts
 [[skt-texts-buddhist]]

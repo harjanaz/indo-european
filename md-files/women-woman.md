@@ -1,4 +1,4 @@
-[[beings-female]]
+[[buck-2.24-female]]
 # Women
 Female Mortals
 
@@ -8,6 +8,9 @@ Female Mortals
 	-  perhaps Hera (Willi 2010)
 - PIE `gᵘ̯en(h₂)` 
 	- Skt. `jáni-, gnā́-`
+
+## Culture
+[[cultural-norm--women-support-male-violence]]
 
 
 ## Anglo-Saxon

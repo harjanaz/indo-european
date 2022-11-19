@@ -8,7 +8,7 @@
 > The Pitted Ware culture appear in my novel *Thunderer: Gods of Bronze 2*. In the story they're called the Seal People.
 
 ## Sources
-[[anthony2007-horse]]
+[[anthony2007]]
 [[shennan2018-first]]
 [[schulting-fibiger2012]]
 [[iversen2016]]

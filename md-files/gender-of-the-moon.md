@@ -1,0 +1,3 @@
+[[moon]]
+***
+> "...the female personification of the Sun in Nordic cosmology, as compared to the male iterations more commonly found in both Hindu and Classical civilization. However, against this it is important to weigh the speculation around the ‘original’ Indo-European Sun Divinity potentially being female – something that still echoes in various places, and in particular with the Hindu Aspect of MataJI, Kushmanda." ([[rolinson2018-04-14]])

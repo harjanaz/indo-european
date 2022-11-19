@@ -1,3 +1,3 @@
 > ?
 
-Reply to [[i-mcnish2004]]
+Reply to [[mcnish2004]]

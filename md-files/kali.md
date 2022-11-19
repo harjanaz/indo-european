@@ -2,9 +2,9 @@
 
 
 ## External Links
-[[c-rolinson2019-8-23b]]
-[[c-rolinson2018-10-10a]]
+[[rolinson2019-8-23b]]
+[[rolinson2018-10-10-n]]
 [[rolinson2020-02-22]]
 [[rolinson2019-12-2]]
 [[rolinson2019-07-12]]
-[[c-rolinson2019-12-28]]
+[[rolinson2019-12-28]]

@@ -1,0 +1,6 @@
+>[Dumézil, Georges](dumezil.md). *Entretiens avec Didier Eribon*. 
+
+> [[dumezil1987-en]]
+
+## Abstract
+> Georges Dumézil a toujours déclaré qu'un savant doit s'effacer derrière son œuvre. D'où son refus constant d'écrire ses mémoires ou de se livrer à la confidence autobiographique. Il a pourtant accepté de se raconter, de faire le récit de sa carrière universitaire, de sa vie intellectuelle et donc de sa vie tout court. Salué depuis de nombreuses années comme l'auteur d'une des œuvres les plus puissantes dans le domaine des sciences humaines, il donne ici de nouveaux éclairages sur son travail et sur les conditions dans lesquelles il s'est développé et imposé. Ce faisant, il offre à l'historien un témoignage capital sur la vie des idées en France au vingtième siècle. Il n'hésite pas à parler aussi de ses amis - de Pierre Gaxotte à Miche Foucault -, de ses goûts littéraires et philosophiques, de ses tentations politiques de jeunesse et de son détachement d'aujourd'hui. Mais surtout, il donne à un large public de non-spécialistes une voie d'accès à son œuvre, dont il fait comprendre la portée et les enjeux.

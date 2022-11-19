@@ -1,0 +1,1 @@
+> [[friedrich]]. The Proto-Indo-European adpreps (spatio-temporal auxiliaries), in Festschrift for Henry Hoenigswald: On the Occasion of his Seventieth Birthday, ed. G. Cardona and N. Zide, Tübingen, Gunter Narr, 131-142.

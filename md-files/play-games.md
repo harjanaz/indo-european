@@ -1,3 +1,3 @@
-# Play / Games
+[[cultural-activities]]
+***
 [[dice]]
-[[hunt]]

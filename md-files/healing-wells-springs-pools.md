@@ -1,6 +1,6 @@
 [[healing-waters]]
 # Healing Wells
-[[d-gricourt-d-hollard2018]]
+[[gricourt-hollard2018]]
 
 ## Estonia
 Sacred

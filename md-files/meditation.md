@@ -2,4 +2,4 @@
 
 ---
 
-[[j-bronkhorst1993]]
+[[bronkhorst1993]]

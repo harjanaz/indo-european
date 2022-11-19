@@ -3,7 +3,7 @@
 # Poetic Edda
 ## Entire Trans.
 [[o-bray1908]]
-[[j-chisholm2005]]
+[[chisholm2005]]
 
 ## By Chapter
 - [[voluspa]]

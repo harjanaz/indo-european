@@ -1,8 +1,8 @@
-[[animals]]
+[[buck-3-animals]]
 
 ---
 
-[Animals](animals.md)
+[Animals](buck-3-animals.md)
 
 # Wolves & Dogs/Hounds
 
@@ -31,11 +31,11 @@ Iliad first few lines: the bodies of the warriors are devoured by birds and dogs
 
 
 [[graslund2002]]
-[[b-hansen2019]]
+[[hansen-b2019]]
 [[lincoln1979-1991-hellhound]]
 [[p-bernhardt2017]]
 [[y-berezkin2012b]]
-[[d-white1989]]
+[[white-d1989]]
 
 ## Types
 [[hell-hound]]
@@ -50,4 +50,4 @@ Iliad first few lines: the bodies of the warriors are devoured by birds and dogs
 https://www.indo-european-connection.com/words/hound
 
 [Chruch Grim](https://en.wikipedia.org/wiki/Church-grim)
-[[c-rolinson2019-12-24]]
+[[rolinson2019-12-24]]

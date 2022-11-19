@@ -1,4 +1,4 @@
-[[latin-texts]]
+[[latin-texts-poetics]]
 
 # Sallust
 

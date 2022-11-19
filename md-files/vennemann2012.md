@@ -1,0 +1,1 @@
+> [[vennemann]]. *Germania Semitica*. De Gruyter, 2012.

@@ -1,5 +1,0 @@
-> *The Foundation of Myth: A Unified Theory on the Link Between Season/Celestial Cycles, the Precession, Theology, and the Alphabet/Zodiac*.
-
-tgastro
-tgalphabet
-tgzodiac

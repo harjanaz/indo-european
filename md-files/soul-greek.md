@@ -1,3 +1,3 @@
 [[mind-soul-spirit]]
 # Greek Soul
-[[j-bremmer1983]]
+[[bremmer1983]]

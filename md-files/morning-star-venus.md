@@ -18,7 +18,7 @@ Note: Used as a noun and a personal name
 
 ## Near Eastern Ishtar
 a) Proto-Indo-European *h2s-tḗr (> Hittite ḫašter, Greek astḗr, etc.) ‘star’ → Proto-
-Semitic *cattar- (> Akkadian Ištar, Hebrew caštōret, etc.) ‘deified star, planet Venus’. [[j-klein-et2017-21]]
+Semitic *cattar- (> Akkadian Ištar, Hebrew caštōret, etc.) ‘deified star, planet Venus’. [[klein-et2017-21]]
 
 
 ## Anglo-Saxon Ēarendel

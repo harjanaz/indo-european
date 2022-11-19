@@ -1,7 +1,7 @@
 <div style="text-align: justify">
 
   
-[Mortals](humans.md)   
+[Mortals](buck-2.1-human-being.md)   
 [[warriors-male]]
 <br><br/>
 

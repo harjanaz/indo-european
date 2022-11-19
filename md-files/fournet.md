@@ -1,2 +1,4 @@
+[[scholars]]
+***
 # Arnaud Fournet
-fournet.arnaud@wanadoo.fr
+`fournet.arnaud (at) wanadoo.fr`

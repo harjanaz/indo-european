@@ -1,4 +1,4 @@
-[[vedas]], [[poets]]
+[[vedas]], [[poets-bards]]
 
 ---
 

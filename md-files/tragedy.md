@@ -2,4 +2,4 @@
 
 # Tragedy
 
-[[j-vernant-p-vidal1988]]
+[[vernant-vidal1988]]

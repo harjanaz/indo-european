@@ -5,7 +5,7 @@
 [[greek-lang]]
 [[italo-celtic-lang]]
 [[latin-lang]]
-[[indo-iranian-lang]]
+[[pii-lang]]
 [[balto-slavic-lang]]
 [[armenian-lang]]
 [[anatolian-lang]]

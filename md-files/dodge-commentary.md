@@ -1,1 +1,1 @@
-Any similarities I see while studying IE texts I note down under "[[dodge-commentary]]" headers. **They are merely rough connections, not arguments or reflections of my beliefs**. For my fleshed out arguments see my works on the page: [[dodge]].
+Any parallels I ([[dodge]]) see while studying IE texts I note down under "[[dodge-commentary]]" headers. **They are merely rough connections, not arguments or reflections of my beliefs**. For my fleshed out arguments see my works on the page: [[dodge]].

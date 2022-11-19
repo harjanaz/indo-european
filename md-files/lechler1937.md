@@ -1,0 +1,1 @@
+> [[lechler]]. "The Tree of Life in Indo-European and Islamic Cultures". [pdf](a/g-lechler1937.pdf)

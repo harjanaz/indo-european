@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Mihály Hohhál

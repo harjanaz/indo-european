@@ -1,0 +1,1 @@
+> [[denning]]; [[gerow]] (eds). *The Persistence of religions: essays in honor of Kees W. Bolle*. Book, collection of articles. 

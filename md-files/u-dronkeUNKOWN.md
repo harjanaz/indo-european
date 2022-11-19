@@ -1,1 +1,1 @@
-> [[u-dronke]]. "Beowulf and Ragnarǫk". [pdf](a/u-dronkeUNKOWN.pdf)
+> [[dronke]]. "Beowulf and Ragnarǫk". [pdf](a/u-dronkeUNKOWN.pdf)

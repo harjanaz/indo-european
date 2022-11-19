@@ -1,1 +1,0 @@
-> [[rolinson]]. "SkandaMata – 5th of the NavaDurgas, 5th Night of NavRatri". [blog](https://aryaakasha.com/2018/10/14/skandamata-5th-of-the-navadurgas-5th-night-of-navratri/), [blog repost](https://aryaakasha.com/2019/10/04/skandamata-5th-of-the-navadurgas-5th-night-of-navratri-2/). Part of [[c-rolinson2018-2019navratri]].

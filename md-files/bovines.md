@@ -1,4 +1,4 @@
-[[animals]]
+[[buck-3-animals]]
 
 ---
 
@@ -18,23 +18,25 @@ Whether in trade or creation myths, bovines were central to Proto-Indo-European 
 ## Scholarship
 [[jamison1996]]
 [[s-zimmer2009]]
-[[d-sick1996]]
-[[c-anghelina2013]]
-[[c-sterckx2013]]
+[[sick1996]]
+[[anghelina2013]]
+[[sterckx2013]]
 [[lincoln1981]]p7
 
 
 ## Topics
+[[bovines-and-mortals]]
 [[bovine-sacrifice]]
 [[bovine-raiding]]
 [[bovine-cosmic-promordial]] cosmology 
 [[venkantasubbiah1965]] myth
 
+> "For the speakers of Proto-Indo-European, domesticated cattle were basic symbols of the generosity of the gods and the productivity of the earth. Humans were created from a piece of the primordial cow. The ritual duties that defined "proper" behavior revolved around the value, both moral and economic, of cattle. Proto-Indo-European mythology was, at its core, the worldview of a male-centered, cattle-raising people essarily cattle nomads but certainly people who held sons and cattle in the highest esteem." ([[anthony2007]]p135)
+
 ## Narratives
-[[narrative-indo-iranian-creation]]
+[[narrative-pii-creation]]
 
 ## By Branch
-[[oxen-bulls-celtic]]
 [[w-crooke1912]] Veneration in India
 
 ## Non-IE

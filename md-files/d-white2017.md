@@ -1,1 +1,0 @@
-> [pdf](a/d-white2017.pdf)

@@ -4,7 +4,7 @@
 ---
 
 
-[[iranian-judaism]]
+[[iranic-judaic]]
 [[iranian-christianity]]
 [[iranian-islam]]
 

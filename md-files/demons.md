@@ -9,7 +9,9 @@
 
 - (m-york 1993)
 - 
-## Perisan Daeva
+## Iranic
+Iranic Daiva/Daeva
+- Have temples: *Daivadānam*
 
 #### Indic
 - [Asura](asura.md)

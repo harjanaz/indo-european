@@ -1,1 +1,5 @@
+[[scholars]]
+
+---
+
 # G. B. Adams

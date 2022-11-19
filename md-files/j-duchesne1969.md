@@ -1,1 +1,0 @@
-> Duchesne-Guillemin, Jacques. The Religion of Ancient Iran. In Historia Religionum: Handbook for the History of Religions. ed. C. Jouco Bleeker. Leiden: E.J. Brill, 1969.

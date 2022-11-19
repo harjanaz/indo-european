@@ -13,4 +13,4 @@ Gods/Titans/LargerThanLifeFigures
 [[greek-male-gods]]
 
 ## Biblio
-[[h-versnel2011]]
+[[versnel2011]]

@@ -1,10 +1,7 @@
-[[old english lang]]
+[[germanic-texts]] | [[old english lang]]
 
 ---
 
-## Scholarship
-
-
-## Texts
 [[beowulf]]
 [[heliand]]
+[[law-of-wihtred]]

@@ -1,17 +1,19 @@
-[[formulas]]
-[[culture]]
-[[narratives]]
-
----
-
+[[orality]]
+See also [[contemporary-compositions]] & [[formulas]]
+***
 ## Scholarship
 [[vries1961]]
+[[anthony2007]]
+
 
 ## Writting them down -> [[textuality]]
 
 ## List of Narratives
+> "These two myths were fundamental to the Proto-Indo-European system of religious belief." [[anthony2007]]p134:
+> 1. [[narrative--first-sacrifice]]
+> 2. [[narrative--first-warrior-trito]]
+
 [[narratives-birth]]
-[[narrative-first-sacrifice]] creation
 [[fire-in-water]]
 [[king-and-virgin]]
 [[narrative-binding-of-evil]]
@@ -19,6 +21,7 @@
 [[rees-a1936]] Divine Celtic Heroes
 [[narrative-ambrosia-cycle-of-the-mead]]
 [[narrative-establish-ritual-lievstock]]
+[[narrative-2]]
 
 Combat:
 [[narrative-hero-slays-dragon]]

@@ -1,1 +1,0 @@
-# Fulvio Gosso

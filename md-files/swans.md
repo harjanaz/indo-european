@@ -1,4 +1,4 @@
-[[birds-flying-flight]]
+[[birds-flying-flight-wings]]
 [[anatidae]]
 # Swans
 [Wiki](https://en.wikipedia.org/wiki/Swan#In-culture)
@@ -11,4 +11,4 @@ They fly south for the winter. In Celtic literature one girl is said to be in bi
 ## Celtic
 
 ## Misc
-[[d-gershenson1992]]
+[[gershenson1992]]

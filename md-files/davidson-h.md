@@ -1,1 +1,5 @@
+[[scholars]]
+
+---
+
 # Hilda Ellis Davidson

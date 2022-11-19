@@ -4,5 +4,5 @@
 restoration of balance is not necessarily personal, it's not retribution
 
 ## External Links
-[[c-rolinson-cosmicorder]]
-[[c-rolinson2019-12-13b]]
+[[rolinson-series-cosmicorder]]
+[[rolinson2019-12-13b]]

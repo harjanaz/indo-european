@@ -1,4 +1,4 @@
-[[indic-yama]]
+[[yama]]
 
 ---
 

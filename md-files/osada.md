@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Toshiki Osada

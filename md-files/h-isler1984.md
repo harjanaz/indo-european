@@ -1,1 +1,0 @@
-> [[h-isler]]. "The animal frieze in archaic Greek art". in [[e-polome1984ed]]. 

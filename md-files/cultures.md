@@ -1,4 +1,4 @@
-[[home]]
+[[~home]]
 
 ---
 
@@ -9,7 +9,7 @@
 
 ## By Branch
 [[world-culture]]
-...[[culture]]
+...[[pie-culture]]
 ......[[greek-culture]]
 ......[[armenian-culture]]
 ......[[germanic-culture]]

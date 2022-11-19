@@ -1,1 +1,4 @@
-# Adrienne Mayor
+
+[[scholars]]
+***
+> [Mayor, Adrienne](mayor.md).

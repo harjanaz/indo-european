@@ -1,1 +1,0 @@
-# Jeannine Davis-Kimball

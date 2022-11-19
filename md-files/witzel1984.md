@@ -1,0 +1,3 @@
+> [[witzel]]. The earliest form of the idea of rebith in India". 1984.
+
+> "In spite of the omission of karmic retribution, Witzel's article takes it for granted that these Vedic ideas are the precursors of the belief in rebirth and karmic retribution, so that it reaches the following conclusion: "The Vedic texts thus provide several 'stepping stones' allowing to follow up the development of the 'classical' rebirth theory: an (also) Indo-eEuropean belief in birds as the souls of the departed ancestors and of unborn children, the fear of the second death..."" [Source?] #findout 

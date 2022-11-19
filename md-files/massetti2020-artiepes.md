@@ -1,4 +1,4 @@
->[[massetti]]. "Gr. ἀρτιεπής, ved. ṛtvíya‑ vā́k‑, jav. raϑβiiavacah‑". Article in [[journal-if]]v125#1(2020)p1-20. 
+>[Massetti, Laura](massetti.md). "Gr. ἀρτιεπής, ved. ṛtvíya‑ vā́k‑, jav. raϑβiiavacah‑". Article in [[journal-if]]v125#1(2020)p1-20. 
 
 >[doi](https://doi.org/10.1515/if-2020-001)
 >[pdf](massetti2020-artiepes.pdf)

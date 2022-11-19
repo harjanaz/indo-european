@@ -2,6 +2,17 @@
 publish: false
 ---
 
+
+[[weciec26]]
+
+HERE https://youtu.be/PDjZvn0aXhw?t=680 HERE
+
+https://pies.ucla.edu/conference/weciec-archives/weciec-3/
+
+https://buske.de/east-and-west.html?___SID=U
+https://pies.ucla.edu/publications/
+
+
 [[todo]]
 
 https://classics-at.chs.harvard.edu/search/?s=indo-european

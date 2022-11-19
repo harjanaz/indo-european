@@ -1,10 +1,10 @@
-This page is for linguistic gender, see [[sexuality]] for the cultural aspect.
+See also [[sexuality]]
 
 
-[[r-matasovic2004]]
-[[s-luraghiUNKNOWN]]
-[[s-luraghi2011]]
-[[n-dreifer2018]]n-dreifer2018]]
+[[matasovic2004]]
+[[luraghiUNKNOWN-origin]]
+[[luraghi2011-typological]]
+[[dreifer2018]]n-dreifer2018]]
 
 
 [[dress]]

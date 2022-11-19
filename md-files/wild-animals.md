@@ -1,4 +1,4 @@
-[[animals]]
+[[buck-3-animals]]
 Opposite: [[domesticated-animals]]
 
 ---

@@ -2,4 +2,4 @@
 # Guta Saga
 Gotlanders
 ## Trans.
-[[c-peel1999]]
+[[peel1999]]

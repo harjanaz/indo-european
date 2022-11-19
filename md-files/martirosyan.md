@@ -1,1 +1,3 @@
-# H. Martirosyan
+[[scholars]]
+***
+# Hrach Martirosyan

@@ -2,5 +2,5 @@
 
 ---
 
-[[formula-SWIFT-HORSES]]
+[[formula--SWIFT-HORSES]]
 [[platte2017]]

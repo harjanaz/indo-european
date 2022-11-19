@@ -1,1 +1,0 @@
-> [[rolinson]]. "MahaGauri – The Eighth Night of NavRatri – Eighth of the NavaDurgas". [blog](https://aryaakasha.com/2018/10/19/mahagauri-the-eighth-night-of-navratri-eighth-of-the-navadurgas/). Part of [[c-rolinson2018-2019navratri]].

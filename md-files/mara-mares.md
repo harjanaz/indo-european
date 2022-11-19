@@ -28,6 +28,8 @@ Old Irish Morrígan (“phantom queen”)
 From mór (“great”) +‎ rígan (“queen”). Some posit an (otherwise unattested) Old Irish mor cognate with Old English mare as in nightmare, with the compound meaning "phantom queen".
 http://edil.qub.ac.uk/32588
 
-
-
 PIE *mor- (“feminine malicious evil spirit”) from *mer- "to die, disappear" Skt. mara
+
+
+
+#cleanup 

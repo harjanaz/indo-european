@@ -1,1 +1,0 @@
-> [[c-oharris]]. "Hodur, Shoe-Smith: Baldur. Foot-Lamed: An Investigation". [pdf](a/c-oharris2007.pdf)

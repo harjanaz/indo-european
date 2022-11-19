@@ -1,13 +1,6 @@
+[[celtic-beings]]
 
+---
 
-[Celtic](celtic-religion) , [Beings](beings.md)
+- [[interpretatio-romana]] Caesar's Apollo = Grannus ([[green-mi1990]]:58)
 
-[Interpretatio Romana](interpretatio-romana.md) , [Gods?]
-
-# Grannus
-
-- Solar God
-
-- Consort was [Sirona](sirona.md)
-
-- [Interpretatio Romana](interpretatio-romana.md) Apollo

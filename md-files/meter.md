@@ -1,11 +1,14 @@
-# Meter
-(chris-taylor) Taylor, Chris. "Indo-European Meter" -The Bhlog-, 2014. [web](https://blog.as.uky.edu/thebhlog/?p=82)
+## Biblio
+[[russom2017]]ch2
+[[taylor-c2014-meter]]
 
-
-## Misc. Biblio
-[[watkins1974]] ie meter derived from formulas 
 
 ## Topics
+### Misc
+[[watkins1974]] ie meter derived from formulas 
 ### Greek Hexameter
-- [[watkins1974]]:introduction
-- [[haarmann2021]]:80,89ff non-ie origin of greek hexameter
+- {[[watkins1974]]:introduction}
+- {[[haarmann2021]]:80,89ff} non-ie origin of greek hexameter
+### Misc
+> Stress on initial finite verbs in independent clauses
+> See: [[lehmann]] and {[[hoover1985]]p3,25,94,109}

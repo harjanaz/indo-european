@@ -1,1 +1,5 @@
+[[scholars]]
+
+---
+
 # Earl R. Anderson

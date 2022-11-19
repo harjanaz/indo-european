@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Jean-Pierre Vernant

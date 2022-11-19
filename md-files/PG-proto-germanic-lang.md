@@ -2,9 +2,9 @@
 
 ---
 
-[[d-ringe2006]]
+[[ringe2006]]
 [[kroonen2013]]
-[[g-walkden2014]]
+[[walkden2014]]
 
 
 

@@ -1,1 +1,0 @@
-> [[l-johnson]]. *Among the Gentiles: Greco-Roman Religion and Christianity*. Yale University Press, 2009. [pdf](a/l-johnson2009.pdf)

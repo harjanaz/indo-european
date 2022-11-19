@@ -3,4 +3,4 @@
 ---
 
 ## By Branch
-Germanic and Celtic ([[h-davidson1988]]p259 "birds")
+Germanic and Celtic ([[davidson-h1988]]p259 "birds")

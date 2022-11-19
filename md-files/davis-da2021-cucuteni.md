@@ -12,7 +12,7 @@
 [[khvoyka]]
 
 ## Sources
-[[anthony2007-horse]]
+[[anthony2007]]
 [[gimbutas1999-living]]
 [[mallory1989-search]]
 [[mallory-adams-d2006-oxford]]

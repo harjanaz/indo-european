@@ -1,0 +1,1 @@
+> [[schopen]].1987. "Burial ad Sanctos and the Physical Presence of the Buddha in Early Indian Buddhism: A Study in the Archaeology of Religions". *Religion* 17: 193–225. Reprinted in Schopen 1997: 114–147.

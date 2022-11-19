@@ -1,0 +1,1 @@
+> [[mccone]]. "Hund, Wolf un Krieger bei den Indogermanen". in *Studien zum lndogermanischen Wortschatz*, ed. W Meid, Innsbruck, 101-154. 1987.

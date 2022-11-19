@@ -1,1 +1,0 @@
-> [[rolinson]]. "OF BHAIRAVA AND BALANCE, Vedic, Eddic, and Homeric perspectives upon Lore and Order [Part 4E] Sage Advice From The High One". [blog](https://aryaakasha.com/2019/12/14/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-upon-lore-and-order-part-4e-sage-advice-from-the-high-one/). Part of [[c-rolinson-cosmicorder]].

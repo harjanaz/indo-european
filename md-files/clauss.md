@@ -1,0 +1,5 @@
+[[scholars]]
+
+---
+
+# Manfred Clauss

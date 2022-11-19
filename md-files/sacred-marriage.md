@@ -13,7 +13,7 @@
 
 ### PIE
 
-- [Greek](sacred-marriage-greek.md)
+- [Greek](sacred-marriage-greek.md) See: [[rite2021]]
 
 - [Germanic](sacred-marriage-germanic.md)
 

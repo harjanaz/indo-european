@@ -2,11 +2,11 @@
 
 ---
 ## Scholarship
-[[b-lincoln1981b]]
+[[lincoln1981b]]
 
 
 ## Popular
-[[b-muraresku2020]]
+[[muraresku2020]]
 
 ## Topics
 [[psychadelics-entheogens]]

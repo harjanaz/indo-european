@@ -2,6 +2,6 @@
 
 ---
 
-[[beings-positive]]
+[[beings-positive]] +
 [[beings-neutral]] & [[beings-ambiguous]]
-[[beings-negative]]
+[[beings-negative]] -

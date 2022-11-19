@@ -1,1 +1,1 @@
-Shamanism
+> [[eliade]]. Shamanism

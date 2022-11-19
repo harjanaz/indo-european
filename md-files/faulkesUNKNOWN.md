@@ -1,1 +1,1 @@
-> "Otter's Ransom". [pdf](a-faulkesUNKNOWN.pdf)
+> [[faulkes]]. "Otter's Ransom". [pdf](a-faulkesUNKNOWN.pdf)

@@ -1,10 +1,10 @@
-See also [[sea-ocean]]
+[[sea-ocean]] + [[transportation]]
 
-# Sailing & Ships
-
-[[e-richards1897]] Horse ritual
-[[h-haarmann2018]]
+---
 
 
-## External Links
-[[c-rolinson2019-10-2]]
+## Biblio
+[[srirangarajan2021]]
+[[richards-e1897]] Horse ritual
+[[haarmann2018]]
+[[rolinson2019-10-2]]

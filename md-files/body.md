@@ -1,14 +1,10 @@
-[[humans]]
+[[buck-2.1-human-being]]
 
 ---
 
-
-
-
-
 ## By Part
+[[abdomen]]
 [[knees]]
-
 [[arms]]
 [[legs]]
 [[severed-limbs]]
@@ -19,7 +15,7 @@
 
 [[foot-feet-shoes-boots-sandals]]
 ### Hair & Fingernails
-[[b-lincoln1977]] says [[hair]] and [[fingernails]]  are associated
+[[lincoln1977]] says [[hair]] and [[fingernails]]  are associated
 
 
 

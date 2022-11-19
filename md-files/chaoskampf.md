@@ -4,7 +4,7 @@ Often this narrative utilizes monster-slaying narratives. For example, in the IE
 
 ## Non-IE
 ### Near Eastern
-[[j-fontenrose1959]]
+[[fontenrose1959]]
 
 ## External Link
 [Wikipedia](https://en.wikipedia.org/wiki/Chaos-(cosmogony)#Chaoskampf)

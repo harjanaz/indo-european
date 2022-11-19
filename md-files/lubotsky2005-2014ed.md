@@ -12,6 +12,6 @@ Latin...
 Reconstructing Proto-Nostratic
 Hittite 
 Slavic
-Indo-Iranians [[e-kuzmina2007]]
-Iranian Verb [[j-cheung2007]]
+Indo-Iranians [[kuzmina2007]]
+Iranian Verb [[cheung2007]]
 Ol Frisian

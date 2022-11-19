@@ -1,1 +1,0 @@
-# Hitochi Yamada

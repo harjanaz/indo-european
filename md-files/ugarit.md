@@ -1,2 +1,2 @@
-[[o-wikander2014]]
-[[o-wikander2017b]]
+[[wikander2014]]
+[[wikander-ola2017-unburning]]

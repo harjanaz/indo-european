@@ -1,1 +1,1 @@
-> [[k-amano]]. "Ritual contexts of sattra myths in the Maitrāyaṇī Saṁhitā". in [[t-pontillo-m-dore-h-hock2016eds]].
+> [[k-amano]]. "Ritual contexts of sattra myths in the Maitrāyaṇī Saṁhitā". in [[t-pontillo-m-dore-hock2016eds]].

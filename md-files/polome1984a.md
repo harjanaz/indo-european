@@ -1,0 +1,1 @@
+> [[polome]]. "Karl Kerènyi—A biographical sketch". in [[polome1984ed]].

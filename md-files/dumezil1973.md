@@ -1,0 +1,1 @@
+> [[dumezil]]. “The *Rigsþula* and Indo-European Social Structure.” *Gods of the Ancient Northmen* (Dumézil 1973a). Pp. 118-25.

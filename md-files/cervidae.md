@@ -1,4 +1,4 @@
-[Animals](animals.md)
+[Animals](buck-3-animals.md)
 # Cervidae (Deer, Stags/Bucks)
 [Celtic Stags](stags-celtic.md)
 [Celtic Deer](deer-celtic.md)

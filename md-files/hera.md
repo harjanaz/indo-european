@@ -1,5 +1,5 @@
 ## Biblio
-[[v-pirenne-g-pironti2017]]
+[[pirenne-pironti2017]]
 [[willi2010]]
 [[nagy-g-ccm-6]] trifunctionality
 ## Non-IE

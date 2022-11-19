@@ -2,12 +2,12 @@
 
 ---
 
-[[latin-texts]]
+[[latin-texts-poetics]]
 
 
 ## Misc. Scholarship
 [[corbeill2015]] Sexing the world
-[[b-fortson2011]]
+[[fortson2011]]
 
 ## External Links
 [UT's LRC: Latin](https://lrc.la.utexas.edu/eieol/latol)

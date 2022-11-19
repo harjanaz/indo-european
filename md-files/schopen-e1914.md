@@ -2,5 +2,4 @@
 
 > [pdf](a/schopen-e1914.pdf)
 
-#connect 
-#translate
+#link | [[german-scholarship]]

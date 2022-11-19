@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Laura M. Slatkin

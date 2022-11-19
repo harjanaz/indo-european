@@ -1,6 +1,9 @@
-> [[ross-m]]. 
-> Book.
-> *The pre-Christian religions of the North : research and reception*
+> [[ross-m]] (ed). *The pre-Christian religions of the North: research and reception*. 
+
+VOLUMES #fix 
+Research and Reception, Volume ii: from c. 1830 to the Present
+
+#have 
 
 
 ## Description

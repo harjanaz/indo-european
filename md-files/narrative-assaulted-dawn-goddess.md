@@ -1,6 +1,6 @@
 [[narratives]]
-[[dawn-goddess]]
+[[dawn]]
 
 ---
 
-[[j-mcdonaldUNKNOWNb]]
+[[mcdonald-jIDK-aphrodite]]

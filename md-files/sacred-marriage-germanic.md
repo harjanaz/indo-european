@@ -1,14 +1,5 @@
-[Beings](beings.md)
-
-[Gods](gods.md)
-
-[Sacred Marriage](sacred-marriage.md)
-/sacred-marriage-germanic
-
-# Sacred Marriage (Germanic)
-
----
-
+[[sacred-marriage]]
+***
 - Between a male ruler of the sky and the fruitful earth. It causes fertility (ripening fruit, growing grain) and peace. See: [(j-vries1956v2p191,350)]((j-vries1956).md), [(g-turville1964)]((g-turville1964).md), (Olsen 1909)
 
 - Some traditions of the countryside could be interpreted as vestiges of a ritual copulation which had been enacted in pagan times (w-mannhardt 1875-1877: 480ff.)
@@ -27,6 +18,6 @@
 
 ---
 
-# Sources
-
-- (l-motz 1988p449)
+# Biblio
+[[motz1988]]p449
+[[vries1956]]

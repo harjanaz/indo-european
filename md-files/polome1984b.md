@@ -1,0 +1,1 @@
+> [[polome]]. "Some thoughts on the methodology of Comparative Religion, with special focus on Indo-European". in [[polome1984ed]].

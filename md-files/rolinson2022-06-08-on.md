@@ -1,0 +1,3 @@
+> [[rolinson]]. "The Coronation Of The DemiGod King: Hercules, Indra-Varuna And Those Rendered Alike To Him". Post on [[blog-aryaakasha]]. Part of [[rolinson-series-wyrd]].
+
+> [aryaakasha.com](https://aryaakasha.com/2022/06/08/on-wyrd-women-dwelling-in-waters-handing-out-swords-as-the-supernal-basedness-for-a-system-of-government-part-2-the-coronation-of-the-demigod-king-hercules-indra-varuna-and-those-render/)

@@ -1,0 +1,4 @@
+> [[haynes]]; [[witzel]]. "Of Dice and Divination". Article
+
+## Abstract
+> Three ancient traditions of sortilege, widely dispersed geographically, share remarkably similar features. A “dice” game from ancient India attested in the Vedic literature from ca. 1000 BC, the I Ching oracle from China also dating from about the same period, and a divination method still used among indigenous people in Guatemala that dates from the pre-Columbian period, all share the same underlying structure. Although elaborate systems for interpreting the results of the sortilege differ in each of these cultures, the basic process for casting the dice or oracle — the random selection, the counting in groups, and the determination of the outcome by the remainder — are parallel in all three cases. This paper will describe these three different systems, compare their similarities and differences, and suggest a process by which they may have developed from a common source.

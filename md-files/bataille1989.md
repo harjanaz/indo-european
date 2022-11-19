@@ -1,4 +1,6 @@
-> [[bataille]]. *Theory of Religion*. [pdf](a/bataille1989.pdf)
+> [Bataille, Georges](bataille.md). *Theory of Religion*. 
+
+> [pdf](a/bataille1989.pdf)
 
 
 ## Relavance

@@ -1,8 +1,8 @@
-[[home]]
+[[~home]]
 
 ## By Branch
 ### Classical
-[[j-rykwert1964]]
+[[rykwert1964]]
 [[tegea]]
 [[sicyon]]
 

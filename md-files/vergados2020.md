@@ -1,0 +1,1 @@
+> [[vergados]]. *Hesiod’s Verbal Craft: Studies in Hesiod’s Conception of Language and its Ancient Reception*. Oxford University Press, 2020.

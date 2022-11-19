@@ -1,0 +1,9 @@
+> [[lincoln]]. *Myth, Cosmos, and Society: Indo-European Creation and Destruction*. Harvard University Press, 1986.
+
+
+## Summary
+> "Bruce Lincoln, author of a number of creative studies in the area of myth and ritual, argues that many of the Indo-European myths of creation and destruction reflect not only an interrelation and interdependence of the individual (microcosm, anthropogony), the universe (macrocosm, cosmogonic), and the human society (mesocosm, sociogonic) but form a single mythic system. Examining a number of textual sources, Lincoln uses the cognate elements of these myths to reconstruct the "shared tradition' and to demonstrate the power of this myth in sacrificial rites, magical healing, dietary laws, notions of death and resurrection, and for the structures of social hierarchy. Lincoln's clear and comprehensive argument goes beyond the traditional interpretations of Jacob Grimm and Hermann Guntert and offers new interpretative insights in this area. His study is well written even though linguistically rather technical at points. The book includes a number of helpful tables and figures. There are some 50 pages of footnotes, many annotated, which, with the selected bibliography, present the significant sources in the field. Also included are an index of words and an index of subjects, both useful aids in reading the book. A must for all academic libraries that have collections in the area of mythology and ritual; it not only complements such studies as those by Mircea Eliade and Joseph Campbell, but is a definitive study in its own right. Appropriate for undergraduates as well as for scholars in the field." 
+> -- R.L. Massanari, Alma College
+
+## Reviews
+[[miller-d1989]]

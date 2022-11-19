@@ -1,2 +1,4 @@
 # Flidais
 Flidais [FLIDH-ish; the ‘dh’ is the ‘th’ sound in ‘other’]. This goddesses’ name appears to come from the words ‘fled’ (‘feast’) and ‘os’ (‘deer’). Like Manannán mac Lir, she seems to live somewhat separately from the rest of the Tuatha De Danann. She is an independent goddess who lives not in the hollow hills but in the forest or wilderness, where she herds wild cattle and deer, who she milks and protects. She is the divine consort of the human or semi-divine hero Fergus Mac Roich; it was said that when not with Flidais, it took seven ordinary women to satisfy him sexually. She travels by chariot drawn by deer, and although her legend may be influenced by that of Artemis, there are also reports of the Gauls worshipping a Divine Huntress; therefore, these attributes may be native. [https://discoverdruidry.wordpress.com/2018/05/28/calling-to-the-hollow-hills-irish-gods-names-and-attributes/]
+
+

@@ -1,1 +1,5 @@
+[[scholars]]
+
+---
+
 # Randy P. Conner

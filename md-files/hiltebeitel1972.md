@@ -1,1 +1,1 @@
-> [[hiltebeite]]. "The Mahābhārata and Hindu Eschatology". *History of Religions*, Vol. 12, No. 2 (Nov., 1972), pp. 95-135. [jstor](https://www.jstor.org/stable/1062101) [pdf](a/a-hiltebeitel1972.pdf)
+> [[hiltebeitel]]. "The Mahābhārata and Hindu Eschatology". *History of Religions*, Vol. 12, No. 2 (Nov., 1972), pp. 95-135. [jstor](https://www.jstor.org/stable/1062101) [pdf](a/a-hiltebeitel1972.pdf)

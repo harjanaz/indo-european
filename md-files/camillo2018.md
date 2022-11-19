@@ -1,6 +1,6 @@
 > [[camillo]]. "Elizabeth Wayland Barber, The Dancing Goddesses: Folklore, Archaeology, and the Origins of European Dance". *Pomegranate The International Journal of Pagan Studies* 20(1):129-132, 2018. [.pdf](a-camillo2018.pdf) [doi](https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.1558%2Fpome.34505) [RG](https://www.researchgate.net/profile/Ana-Camillo2)
 
-Review of [[e-barber2013]]
+Review of [[barber-e2013]]
 
 ## Abstract
 Elizabeth Wayland Barber is a folkdancer, archaeologist and linguist. In The Dancing Goddesses: Folklore, Archaeology, and the Origins of European Dance she analyses deeply how the belief in mystical female spirits has developed not only into ritual dances for fertility and healing but also in a variety of customs and traditions of villagers and peasants. Some traditions have survived to present day in Europe as symbols, superstitions, and even in calendar customs. The Dancing Goddesses is the result of a deep research based on fieldwork, archaeology, anthropology, and linguistics and is of interest to any person pursuing deep knowledge regarding not only the origins of European dance but also on ritual, folklore, and archaeology.

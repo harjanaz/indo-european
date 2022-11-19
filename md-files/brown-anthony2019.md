@@ -2,7 +2,7 @@
 
 > Earlier article: [[brown-anthony2017]]
 
-> [[brown]]; [[anthony]]. "Late Bronze Age midwinter dog sacrifices and warrior initiations at Krasnosamarskoe, Russia". Article in [[olsen-olander-kristiansen2019-tracing]]
+> [[brown]]; [[anthony]]. "Late Bronze Age midwinter dog sacrifices and warrior initiations at Krasnosamarskoe, Russia". Article in [[olsen-olander-kristiansen2019]]
 
 
 ## Wikipedia Summary

@@ -1,0 +1,1 @@
+> [[sourvinou]]. "Festival and Mysteries: Aspects of the Eleusinian Cult". In: Cosmopoulos, Michael B. (ed.). *Greek Mysteries: The Archaeology and Ritual of Ancient Greek Secret Cults*. Routledge, 2003. p25-50.

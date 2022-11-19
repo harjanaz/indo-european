@@ -1,3 +1,3 @@
 # Horoscopy
 
-Indo-iranian & Chinese [[j-kotyk2018]]
+Indo-iranian & Chinese [[kotyk2018]]

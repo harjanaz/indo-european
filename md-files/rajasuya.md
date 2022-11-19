@@ -2,4 +2,4 @@
 [[ritual]]
 [[first-function-sovereignty]]
 
-[[c-sterckx2013]]
+[[sterckx2013]]

@@ -5,3 +5,4 @@
 [[volsung]]
 [[helgi]]
 [[sigurd]]
+[[beowulf]]

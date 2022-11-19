@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Franklin C. Southworth

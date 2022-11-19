@@ -24,26 +24,40 @@ A hierarchically ranked, strata; functionally differentiated; Functionally integ
 
 ## Scholarship
 [[baldick]] (all)
-[[e-lyle1982]]
+[[lyle1982]]
 [[lyle1996]]
 [[porter1999]]
 [[v-mejia2009]]
 [[lyle2006-structure]] & [[lyle2012]]
 [[r-kasperski2011]]
 [[n-allen2015]]
+[[dooley2006]]:13-15,125,152,155
   
   
 ## By Branch
 [[functions-scythian]]
-[[functions-indo-iranian]]
+[[pii-functions]]
 
 ## As Represented in Objects
-Trifunction Shield of Achilles [[n-allen2007]]
+Trifunction Shield of Achilles [[allen-n2007]]
 ## Narratives
 [[narrative-war-of-the-foundation]]
 
 ## Non-IE
-> "[The Finno-Ugric] system of gods, which is not as strictly hierarchical as that in IE mythology -- a distinction perhaps reflecting the different structures of society prevalent among IEs and Finno-Ugric peoples." [[m-hoppal2000]]p76 
+> "[The Finno-Ugric] system of gods, which is not as strictly hierarchical as that in IE mythology -- a distinction perhaps reflecting the different structures of society prevalent among IEs and Finno-Ugric peoples." [[hoppal2000]]p76 
 
 ## External Links
 [Wikipedia: PIE Society: Trifunctional Hypothesis](https://en.wikipedia.org/wiki/Proto-Indo-European-society#Trifunctional-hypothesis)
+
+
+## Celtic #cleanup 
+	Trifunctions:
+	1. Druids
+	2. Equites
+	3. Plebs
+
+
+
+Sources:
+	[[green-mi1990]] or 
+	From Olympus to Camelot by David Leeming

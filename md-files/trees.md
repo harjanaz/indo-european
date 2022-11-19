@@ -2,13 +2,16 @@
 
 ---
 
+`+` [[sacredness-divinity]] = [[tree-of-life]]
+`+` [[axis-mundi]] = [[world-tree]]
+
 pl. [[forests]]
 
 [[world-tree]]
 [[tree-of-life]]
 
 [[p-friedrich1970]]
-[[c-cusack2011b]]
+[[cusack2011b]]
 sacred tree
 - [[y-hosoi1976]] Japan
 - [[sundqvist-2017]]

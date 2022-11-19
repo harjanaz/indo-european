@@ -1,8 +1,11 @@
-> [[dodge]]. *Orpheus, Odin, and the Indo-European Underworld: A Response to Bruce Lincoln's Article “Waters of Memory, Waters of Forgetfulness"*. University of Houston Honors College, 2020. 
+> [Dodge, Erick](dodge.md). *Orpheus, Odin, and the Indo-European Underworld: A Response to Bruce Lincoln's Article “Waters of Memory, Waters of Forgetfulness"*. Honors Thesis, B.A. (Classical Studies). University of Houston Honors College, 2020. 
 
 > [doi](https://doi.org/10.13140/RG.2.2.15131.90402) (researchgate PDF)
 > [archive.org](https://archive.org/details/erick_james_dodge_thesis)
-> [pdf](a/dodge-2020-thesis.pdf)
+> [pdf](dodge2020-thesis.pdf)
+
+> **Extracts:**
+> [pdf](a/dodge2020-thesis-liquids.pdf) on [[functionally-equivalent-liquids]]
 
 
 ## Abstract
@@ -15,10 +18,14 @@
 ## Referenced by
 [[rowsell-dec-1-2021-shaman]]@[18:45](https://youtu.be/gWfv23T2wc4?t=1124)
 [[dodge-leeming-j2020]]
+[[dodge2022-03-01]]
 
 ## Additions
 [YouTube: Chinese Parallel](https://youtu.be/TWib6bPZzy0?t=222)
 [Wikipedia: Meng Po](https://en.wikipedia.org/wiki/Meng_Po)
+
+- Functionally Equivalent Liquids may have a ritual aspect (in addition to the cosmological and mythical aspects I wrote about), see: [[rolinson2022-03-01]].
+- Axis Mundi & white liquids: Shiva Linga & milk ([[rolinson2022-03-01]]).
 
 ## Table of Contents
 ```

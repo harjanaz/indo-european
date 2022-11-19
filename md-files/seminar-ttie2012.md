@@ -2,15 +2,15 @@
 
 ## Contains
 [[m-allentoft2012]]
-[[g-kroonen2012a]]
+[[kroonen2012-linguistic]]
 [[fredell2012]]
-[[e-ostmo2012]]
+[[ostmo2012]]
 [[brown2012]]
 [[hyllested2012]]
 [[anthony2012a]]
 [[anthony2012-early]]
-[[j-mallory2012a]]
-[[j-mallory2012b]]
+[[mallory2012a]]
+[[mallory2012b]]
 [[k-kristiansen2012a]]
 [[k-kristiansen2012b]]
 

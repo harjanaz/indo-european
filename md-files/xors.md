@@ -2,4 +2,4 @@
 
 ---
 
-[[c-borissoff2014]] Non-Iranian (i.e. PIE )Origin
+[[borissoff2014]] Non-Iranian (i.e. PIE )Origin

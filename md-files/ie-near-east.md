@@ -3,7 +3,7 @@
 ---
 
 [[burkert1992]]
-[[j-rose2019]]
+[[rose2019]]
 
 
 ## greek-near-east

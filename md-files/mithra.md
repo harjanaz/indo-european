@@ -2,19 +2,19 @@
 
 ---
 
-This page is a bit vauge, it will be moved to [[mitha-mitra]] and its subcategories.
+**This page is a bit vauge, it will be moved to [[pii-mitha-mitra]] and its subcategories.**
 
 ## Etymology
 - from PIE `*mei̯-` ("give in exchange") [226] (cf. the discussion in Mayrhofer 2006 [[klein-et2017-20]]
 
 ## Scholarship
 [[p-brown1971]]p37, demons
-[[b-lincoln1977b]]
+[[lincoln1977b]]
 [[lincoln1982-1991-mithra]]
-[[d-sick1996]]
+[[sick1996]]
 [[kaliff-sundqvist2006]]
 [[r-beck2006]]
-[[c-anghelina2013]]
+[[anghelina2013]]
 [[r-beck2013]]
 [[t-stepanov2013]]
 [[r-gordon2016]]
@@ -27,7 +27,7 @@ This page is a bit vauge, it will be moved to [[mitha-mitra]] and its subcategor
 ## By Branch
 ### Iranian
 ### Roman
-[[e-sauer1996]] Decline of Mithraism in Rome
+[[sauer1996]] Decline of Mithraism in Rome
 
 
 ## External Links

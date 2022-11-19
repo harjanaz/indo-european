@@ -1,4 +1,4 @@
-[[syncretism-conversion-isation]] | [[eschatology]]
+[[syncretism-conversion-isation]] | [[eschatology-era]]
 
 ---
 
@@ -40,3 +40,7 @@ https://en.wikipedia.org/wiki/Eschatology#See-also
 https://journal.fi/scripta/article/view/67184
 
 https://www.nytimes.com/1999/04/03/arts/apocalyptic-meditations-every-faith-has-a-view.html
+
+
+## Topics
+`+` [[mahdi]] = [[dodge2021-mahdi]]

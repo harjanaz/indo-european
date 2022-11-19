@@ -1,0 +1,1 @@
+> [[schaeffer]]. *Hebrew tribal economy and the jubilee as illustrated in Semitic and Indo-European village communities*. [hathitrust](https://catalog.hathitrust.org/Record/006739092), [pdf](a/.pdf).

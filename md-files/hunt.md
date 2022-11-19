@@ -1,4 +1,4 @@
-[[combat]] + [[animals]]
+[[buck-20-warfare-and-hunting]] + [[buck-3-animals]]
 
 # The Hunt
 [[wild-hunt]]
@@ -8,5 +8,5 @@
 
 ## Works
 astro [[y-berezkin2005]]
-[[j-boyle1969]]
+[[boyle1969]]
 [[m-fomin2018]]

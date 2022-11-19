@@ -1,6 +1,6 @@
 > [[baldick]]. *Animals and shaman: Ancient Religions of Central Asia*. I. B. Tauris, 2000.
 
-#nopdf 
+> [pdf](a/baldick2000.pdf)
 
 Reviewed by [[mckay2002]]
 

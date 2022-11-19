@@ -6,7 +6,7 @@
 [[upanishads]]
 
 ## Scholarship
-[[e-arnold1905]] metre
+[[arnold1905]] metre
 [[t-elizarenkova1995]]
 
 [[rsis]]

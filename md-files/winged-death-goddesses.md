@@ -1,6 +1,6 @@
 [[death-beings]]
 [[death-and-birds]]
-[[goddesses]]
+[[female-gods]]
 
 ---
 

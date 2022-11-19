@@ -2,7 +2,7 @@
 
 [Beings](beings.md)
 
-[Mortals](humans.md)
+[Mortals](buck-2.1-human-being.md)
 
 [Warrior-Kings](king-ruler-chief-leader-lord.md)
 

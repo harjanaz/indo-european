@@ -1,0 +1,1 @@
+> [[Seigneurie]]. *A Companion to World Literature*. [John Wiley & Sons](john-wiley-&-sons.md), 2019.

@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# J. F. Campbell

@@ -1,14 +1,16 @@
 ## Scholarship
 [[m-puett2002]]
+[[cosmo2002]]
 [[s-bumbacher2007]]
-[[j-didier2009]]
+[[didier2009]]
 [[z-he2011]]
 [[payne-r-witzel-m-2016eds]]
-[[d-white2017]]
+[[white-d2017]]
+[[durdevic2021]]
 
 ## Chinese and IE Linguistics
 [[t-chang1988]]
-[[j-jixu2002]]
+[[jixu-j2002]]
 [[z-jixu2003]]
 [[wei2005]]
 

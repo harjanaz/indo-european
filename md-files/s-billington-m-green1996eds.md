@@ -1,4 +1,4 @@
-> [[s-billington]]; [[mi-green]] (eds). *The Concept of the Goddess*. Routledge, 1996.
+> [[s-billington]]; [[green-mi]] (eds). *The Concept of the Goddess*. Routledge, 1996.
 
 > split pdf
 

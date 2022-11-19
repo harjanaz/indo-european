@@ -1,1 +1,0 @@
-> Friedrich, Paul. The Proto-Indo-European Goddess of Dawn: awsos. In Language, Context, and the Imagination: Essays by Paul Friedrich. ed. Anwar S. Dil. Stanford, CA: Stanford University Press, 1979, 291-7.

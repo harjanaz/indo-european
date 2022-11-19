@@ -1,1 +1,3 @@
+[[scholars]]
+***
 # Govind Sadashiv Ghurye

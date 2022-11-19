@@ -1,7 +1,7 @@
 # Afro-Asiatic & Semitic
 
 [[abrahamism]]
-[[f-giusfredi-v-pisaniello2019]]
+[[giusfredi-pisaniello2019]]
 
 
 ## Greece

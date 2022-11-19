@@ -3,7 +3,7 @@
 [[first-function-sovereignty]]
 
 
-[[d-fickett2012]]
-[[c-sterckx2013]]
-[[j-puhvel1978]]
+[[fickett2012]]
+[[sterckx2013]]
+[[puhvel-j1978]]
 [[jamison1996]]

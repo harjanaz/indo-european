@@ -1,0 +1,1 @@
+> [[firchow]] (ed). *Studies by Einar Haugen: Presented on the Occasion of his 65th Birthday, April 19 1971*. De Gruyter, 1972.

@@ -1,0 +1,1 @@
+Ancient [[interpretatio]]  as a kind of support

@@ -1,0 +1,1 @@
+> [[bomhard]]. "Indo-European and Afroasiatic: New Evidence for the Connection". Article in [[arbeitman-bomhard1981]].

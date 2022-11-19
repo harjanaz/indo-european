@@ -1,0 +1,1 @@
+> [[kuiper]]. "The Bliss of Aša". *Indo-Iranian Journal* 8 (1964):96-129.

@@ -1,7 +1,7 @@
-[[fate]] | [[combat]]
+[[fate]] | [[buck-20-warfare-and-hunting]]
 
 ---
 
 
 ## External Links
-[[c-rolinson2019-11-12]]
+[[rolinson2019-11-12]]

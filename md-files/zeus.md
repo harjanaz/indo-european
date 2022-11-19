@@ -1,4 +1,5 @@
-
+## Characteristics
+- One form, [[zeus-triophthalmos]] had three eyes, see [[three-eyed-god]]
 
 ## Biblio
 [[chelariu2016]]

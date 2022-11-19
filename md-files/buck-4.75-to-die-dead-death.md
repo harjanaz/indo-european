@@ -15,3 +15,5 @@ nāu2- : nəu- : nū-   'death; corpse'   reflex
 nek̑-   'death, dying, necrosis; corpse'   reflex
 u̯ei-2   'to wizen, wither'   reflex
 
+
+[[winged-death-goddesses]]

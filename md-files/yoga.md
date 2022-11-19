@@ -1,5 +1,5 @@
-# Yoga
-
-#### PIE (Germanic & Skt. evidence) ~eh 
-k-oma,l-melheim2019
+[[practices]]
+***
+## Biblio
+[[oma-melheim2019]] Ger. & Skt. evidence
 [[n-allen1998]]

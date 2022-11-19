@@ -2,13 +2,48 @@
 publish: false
 ---
 
+# #LEFTOFF 
+
+- put `to-ie` in
+- catch up on (1) youtube channels / reddit / etc and (2) curwen's writings
+- Then I'll link pages etc.
+
+
+# Other
+
+FOR FRIEND:  [[rolinson2022-dont]]
+https://en.wikipedia.org/wiki/Gudmund-Sch%C3%BCtte
+https://en.wikipedia.org/wiki/Rudolf-Much
+https://en.wikipedia.org/wiki/Vilhelm-Gr%C3%B8nbech
+LOOK INTO THIS
+https://twitter.com/akali_berserker/status/1521387129997500416/photo/1
+https://twitter.com/DrinkerOfSoma
+https://medium.com/@drinkerofsoma/on-the-north-caucasian-epos-from-the-lens-of-comparative-indo-european-mythology-part-1-367342d212ed
+https://www.facebook.com/DrinkerOfSoma/
+LOOK INTO THIS
+
+wikipedia [[fire-in-water]]
 # ==[[left-off]]==!!!
+[[scholars]]: [[janko]]
+#link 
 
 
+https://www.sas.upenn.edu/~jfarrell/from_ccat/courses/myth/topics/ie-myth.html
+
+[[aryaakasha-list]]
+
+[[research-sites]]
+Bibtex?
+
+Search [sciarium.com](https://sciarium.com) for "indo-european"
+
+FIX ALL WIKIPEDIA LINKS - to _
+
+NEW ARTICLES UP ON https://www.indo-european-connection.com/religion
+"term(s)" vs "word(s)" vs "etyma"
 
 
-[[tags]]
-
+- French Scholarship ([[french-biblio]]) add these reccomended books from [amazon](https://www.amazon.fr/feu-dans-tradition-indo-europ%C3%A9enne/dp/8872523435)
 
 [[read]]
 [[buy-collect]]
@@ -16,21 +51,21 @@ publish: false
 Link [[unlinked-files]]
 [[merge]]
 
+Argawan: The Indo-European Memory of the Caucasus,” JArmenSt VIII.2, Fall 2006 [2007], pp. 110-147;
 ## Online
 [[archive-org-loan]]
 [[keyword-searchs-in-journals]]
 [[academia]]
 [[todo-youtube]]
 [[todo-google]]
-[[specific-authors]]
 [[wikipedia]]
-
+Lincoln, Bruce. 1982. “Places Outside Space, Moments Outside Time.” In Homage to Georges Dumézil, ed. Edgar C. Polomé, 69–84. Journal of Indo-European Studies Monograph 3. Washington, D.C.: Institute for the Study of Man.
 ## Rice
 https://brill.com/view/serial/HO2-CAVE?rskey=1luIut&result=7
 https://www.jstor.org/stable/25188440?seq=1
-- Check ever citation for Book reviews on Rice's [library](https://onesearch.library.rice.edu) and use their wifi. #rice
+- Check ever citation for Book reviews on Rice's [library](https://onesearch.library.rice.edu) and use their wifi. 
 - [[journal-if]]
-
+https://www.youtube.com/watch?v=PLsdUjjkJBU
 ## Specific Authors
 [[todo-macedo]]
 
@@ -38,52 +73,23 @@ https://www.jstor.org/stable/25188440?seq=1
 
 1. [[buck-semantic-fields]]
 2. Add Watkin's
-
-
-
-
 https://www.youtube.com/c/DanDavisAuthorChannel/videos left off at "Europe's First Cities"
-
 See if you can find pdf versions of ebooks
-
-
-
-
-
-
-
 bottom of https://aryaakasha.com/2020/01/
-
 https://archive.org/details/in.ernet.dli.2015.39418/page/n85/mode/2up
-
-
 https://yalebooks.yale.edu/book/9780300241280/star-stories
-
 https://www.pitt.edu/~dash/ashliman.html
-
 SMS Studia Mythologica Slavica
-
-
 ## Compare
 - runes from around the world
 - textiles
 - archutecture
-
-
 [[send]]
 [[journals to look into]]
-
 - do I have all Bruce Lincoln's works? check http://libgen.li/search.php?req=%20Bruce%20Lincoln&column=author
-
-
 https://forum.obsidian.md/t/obsidian-hotkeys-favorites-and-best-practices/12125
-
-
-
 https://brill.com/view/book/9789004433953/back-1.xml?language=en
-
 # OTHER
-
 https://www.ancient-origins.net/news-history-archaeology/scythian-empire-0014802?fbclid=IwAR1NwC4bjtI5rXTfT3x0VthWSTPHqVP3UOnRY-Ey3uZBeJcWeARUIRsT1fY
 
 https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/dusmen%E1%B8%97s
@@ -101,9 +107,11 @@ FINISH INCORPORATING THESE https://en.wikipedia.org/wiki/Indo-European-languages
 https://en.wikipedia.org/wiki/Pre-Indo-European-languages
 
 Cultural traditions and the origin of the Indo-Europeans by S. V. Zharnikova
+https://lexiconpoeticum.org/m.php?p=lemma&i=37905
+https://skaldic.org/m.php?p=verse&i=930&v=i
 
 https://www.sid.ir/en/Journal/ViewPaper.aspx?ID=242504
-
+https://en.wikipedia.org/wiki/Talk:Indo-European_cosmogony
 https://indo-european.info/WebHelp/bibliography-and-further-reading.htm
 https://indo-european.info/
 https://academiaprisca.org/en/resources/indo-european-demic-diffusion-model/
@@ -120,7 +128,7 @@ https://books.google.com/books/about/Aogemada%C4%89%C3%A2.html?id=8HkQAQAAIAAJ&h
 https://www.youtube.com/watch?v=4jHsy4xeuoQ
 
 1. [[jies-m]]
-2. [[journal-ies]] Organize and Download them from HATHITRUST
+2. [[jies-the-journal-of-indo-european-studies]] Organize and Download them from HATHITRUST
 3. Below
 4. [[skt-roots]]
 5. [[journal-oral-tradition]]
@@ -166,7 +174,7 @@ Robert M. Price
 
 https://youtu.be/Z0HCs6PVnzI
 
-collect [[c-benjamin]]'s works on central asia
+collect [[benjamin]]'s works on central asia
 
 https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/zoroastrian-law-and-the-spread-of-islam-in-iranian-society-ninthtenth-century/A498193E93EF4EE882C407FB2C0833D8
 [[
@@ -243,7 +251,7 @@ https://www.sgr.fi/en/
 
 
 
-Get [[o-wikander]]'s work clear
+Get [[wikander-ola]]'s work clear
 
 REINCARNATED HELGI
 https://en.wikipedia.org/wiki/Helgi-Hundingsbane

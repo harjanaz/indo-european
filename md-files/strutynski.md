@@ -1,1 +1,3 @@
-# Udo Strutynski
+[[scholars]]
+***
+> [Strutynski, Udo](strutynski.md).

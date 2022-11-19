@@ -1,1 +1,1 @@
-> [[r-beck]]. "Ecstatic Religion in the Roman Cult of Mithras" in [[deconick-g-shaw-j-turner2013eds]]. [pdf](a/r-beck2013.pdf)
+> [[r-beck]]. "Ecstatic Religion in the Roman Cult of Mithras" in [[deconick-shaw-g-turner2013eds]]. [pdf](a/r-beck2013.pdf)

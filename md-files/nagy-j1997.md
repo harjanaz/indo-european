@@ -1,4 +1,3 @@
-# (j-nagy1997)
-> Nagy, Joseph Falaky. *Conversing with Angels and Ancients: Literary Myths of Medieval Ireland*. Cornell Univeristy Press, 1997.
+> [[nagy-j]]. *Conversing with Angels and Ancients: Literary Myths of Medieval Ireland*. Cornell University Press, 1997.
 
-[Oral](orality.md)
+> #nodoi #link 

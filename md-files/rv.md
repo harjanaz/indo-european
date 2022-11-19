@@ -10,10 +10,10 @@ I use Van Nooten & Holland, it's the one that UT LRC uses.
 [Aurobindo](http://sri-aurobindo.in/workings/matherials/rigveda/10/10-036.htm)
 [TITUS: Without Sandhi](http://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/rv/mt/rv.htm)
 [Grffith Trans.](https://en.wikisource.org/wiki/The-Rig-Veda)
-[[jamison-brereton2014]]
+[[jamison-brereton2014-rigveda]]
 
 ## Misc Hymns
-Wolves [[rv10.036.03c-d-wolf]]
+Wolves [[rv10-036-03c-d-wolf]]
 Gayatri [[rv3.62.10-gayatri]]
 Frog [[rv7.103]]
 [[krinvanto-vishvam-aryam]]
@@ -27,8 +27,8 @@ The Nasadiya Sukta in Chapter Ten.
 ## Scholarship
 [[s-aurobindo1917]]
 [[wirth1954]]
-[[j-gonda1959]] Epithets
-[[d-knipe1967]] Near East Connection
+[[gonda1959]] Epithets
+[[knipe1967]] Near East Connection
 [[s-kak1992]]
 [[r-das1995]] Foreign Words
 [[n-kazanas2001]]
@@ -37,7 +37,7 @@ The Nasadiya Sukta in Chapter Ten.
 
 ## External Links
 [Misc. Mantras Sung](misc-mantras-sung.md)
-[[rolinson-mythlingwar]]
-[[c-rolinson2019-12-23]]
-[[c-rolinson2019-12-24]]
-[[c-rolinson2019-12-28]]
+[[rolinson-series-mythlingwar]]
+[[rolinson2019-12-23]]
+[[rolinson2019-12-24]]
+[[rolinson2019-12-28]]

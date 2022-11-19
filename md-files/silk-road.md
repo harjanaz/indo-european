@@ -1,2 +1,2 @@
-[[e-kuzmina2008]]
-[[c-beckwith2009]]
+[[kuzmina2008]]
+[[beckwith2009]]

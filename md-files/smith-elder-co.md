@@ -1,0 +1,3 @@
+[[publishers]]
+***
+# Smith, Elder, & Co.

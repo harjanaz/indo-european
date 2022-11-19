@@ -1,6 +1,9 @@
 [[ritual]]
 # Initiation
 
+## Biblio
+[[dooley2006]]:181
+
 ## External Links
 [[rolinson2019-11-14]]
 
@@ -8,11 +11,11 @@
 [[d-knight2012]]
 [[w-kaelber1978]]
 
-[[c-guyonvarch2002]] Druidic
+[[guyonvarch2002]] Druidic
 
-[[ahmadi2015]] Ch 12: "Initiation-based youth bands and initiatory sacrifice"
+[[ahmadi2015-th]] Ch 12: "Initiation-based youth bands and initiatory sacrifice"
 
-[[b-lincoln1979]] Women's initiation
+[[lincoln1979]] Women's initiation
 
 [[chelariu2016]]
 

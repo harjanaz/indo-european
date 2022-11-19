@@ -1,4 +1,4 @@
 # Tibetan
 bon, vajrayana, etc.
 
-[[b-dotson2018]]
+[[dotson2018]]

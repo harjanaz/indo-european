@@ -1,1 +1,5 @@
+[[scholars]]
+
+---
+
 # Allan R. Bomhard

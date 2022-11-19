@@ -1,7 +1,8 @@
-[[religion]]
+[[axis-mundi]] + [[trees]]
 
+Different from [[tree-of-life]]
 
-A kind of [[axis-mundi]] or cosmicly large [[tree-of-life]].
+---
 
 ## By Branch
 [[world-tree-germanic]]
@@ -9,3 +10,7 @@ A kind of [[axis-mundi]] or cosmicly large [[tree-of-life]].
 [[world-tree-celtic]]
 Also found among the: Urmurt Vos, Samoyeds, and Tengrists (Mongols, Turks).
 
+
+
+## Biblio
+[[philpot1897]]

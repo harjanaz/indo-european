@@ -1,1 +1,5 @@
+[[scholars]]
+
+---
+
 # Andrew L. Allen

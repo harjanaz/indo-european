@@ -2,7 +2,7 @@
 
 ---
 
-The creation of the [[cosmos-cosmology]].
+The creation of the [[cosmos-cosmography]].
 
 ## By Branch
 [[creation-cosmogony]]
@@ -22,22 +22,21 @@ The creation of the [[cosmos-cosmology]].
 [[m-nordvig2013]]
 [[mischke2014]]
 [[cigan-2019]]
-[[c-lopez2016]]
+[[lopez-c2016]]
 
 ## Narratives
-1. [[cosmic-primordial]]
-2. [[first-sacrifice]]
-3. [[first-warrior-trito]]
+1. [[first-sacrifice]]
+2. [[narrative--first-warrior-trito]]
 
 
-Two kinds, which sometimes overlap: 
-1. Creation of the Cosmos "Cosmography"
-2. A subtype: the Creation of Humans
+
+[[egg-cosmogony]]
 
 
-Things which are [[cosmic-primordial]]
 
-Brothers [[twin-yemo]] & [[manu-first-man]]
+
+
+Brothers [[twin]] & [[manu-first-man]]
 The former sacrifices the latter (along with the cow? see below)
 
 ## From Primordial Being (Twin, [Cow](bovines.md), etc)

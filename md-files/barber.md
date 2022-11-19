@@ -1,3 +1,0 @@
-[[scholars]]
-
-# Elizabeth Barber

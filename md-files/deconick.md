@@ -1,1 +1,5 @@
-# April D DeConick
+[[scholars]]
+
+---
+
+# April D. DeConick

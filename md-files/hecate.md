@@ -1,2 +1,2 @@
 # Hecate
-[[b-hansen2019]]
+[[hansen-b2019]]

@@ -8,6 +8,6 @@
 > The Funnelbeaker culture appear in my novel *Thunderer: Gods of Bronze 2*. In the story they're called the Furun but what were the real historical people like?
 
 ## Sources
-[[anthony2007-horse]]
+[[anthony2007]]
 [[shennan2018-first]]
 [[schulting-fibiger2012]]

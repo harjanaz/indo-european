@@ -1,0 +1,1 @@
+> [[burgess]]. 1997. “Beyond Neo-analysis: Problems with the Vengeance Theory.” _American Journal of Philology_ 118:1–19.

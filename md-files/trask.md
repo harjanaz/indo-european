@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Willard R. Trask

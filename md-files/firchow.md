@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Evelyn S. Firchow

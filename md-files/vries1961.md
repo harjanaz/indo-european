@@ -1,4 +1,4 @@
-> [[vries]]. *Forschungsgeschichte der mythologie*. 
+> [De Vries, Jan](vries.md). *Forschungsgeschichte der mythologie*. 
 
 #nopdf 
 

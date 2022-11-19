@@ -1,0 +1,5 @@
+[[scholars]]
+
+---
+
+# Alain Daniélou

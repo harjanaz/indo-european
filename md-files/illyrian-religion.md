@@ -1,4 +1,4 @@
-[[illyrians]], [[ie-religions]]
+[[illyrians]], [[pie-religion]]
 
 ---
 

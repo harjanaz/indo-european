@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# George Foot Moore

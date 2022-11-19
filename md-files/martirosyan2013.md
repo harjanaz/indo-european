@@ -1,0 +1,1 @@
+https://www.academia.edu/9963544/An_Armenian_theonym_of_Indo_European_origin_Ayg_Dawn_Goddess_

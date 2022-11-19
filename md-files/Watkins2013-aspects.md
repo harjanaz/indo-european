@@ -1,0 +1,1 @@
+> [[watkins]]. "Aspects of the 'Expressive Dimension' in Indo-European. Toward a Comparative Grammar of Speech Registers." Article in [[weciec24]].

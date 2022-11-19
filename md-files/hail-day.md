@@ -18,3 +18,8 @@ Mál, ok mannvit                    Give the two of us
 gefið okkr mærum tveim--           eloquent speech
 ok læknishendr, meðan lifum.       and healing hands, all our life.
 </pre>
+
+## Parallels
+### Hittite
+[[KUB-xxxv-24]]
+

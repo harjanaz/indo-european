@@ -3,3 +3,6 @@
 ## Relavance
 [[dumezil-mentioned]]
 index: indo-european
+
+## Reviews
+[[lincoln-review-of-bauschatz1982]]

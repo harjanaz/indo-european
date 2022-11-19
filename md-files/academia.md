@@ -1,1 +1,2 @@
-GATHER FROM DIDIER CALIN's ACADEMIA PAGE
+## ToDo
+Didier Calin's academia.edu page

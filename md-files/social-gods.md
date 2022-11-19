@@ -1,27 +1,26 @@
-[[divine-family]] [[[deities]]
-See also [[sky-gods]] & [[nature-gods]]
+[[gods]]
+***
 
 # Social gods
-<iframe width="100%" height="350" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://en.wikipedia.org/wiki/Proto-Indo-European-mythology#Societal-deities"></iframe>
+[Wikipedia: PIE Societal deities](https://en.wikipedia.org/wiki/Proto-Indo-European_mythology#Societal_deities)
 
-[wiki](https://en.wikipedia.org/wiki/Proto-Indo-European-mythology#Societal-deities)
+
+- These gods an often organized socially into a [[divine-family]].
 
 [[fate-goddesses]]
-[[welfare-god]]
+[[pie-aryaman]]
 [[smith-god]]
 [[war-god]]
+[[trifunctional-goddess]]
+[[pie-craftsman-god]]
+[[pie-aryaman]]
+[[smith-god]]
+[[war-god]]
+[[fire-thief]] (God? Human? Bird?)
+[[love]]
+[[blacksmiths]]
+God of [[loom]]
+[[doctor-physician-god]]
+[[god-of-country]], [[deification-of-leaders]]
+Gods as architects [[building-construction-fasioning]], [[aesir]]
 
-	- [[trifunctional-goddess]]
-	- [[pie-craftsman-god]]
-	- [[welfare-god]]
-	- [[smith-god]]
-	- [[war-god]]
-	- [[fire-thief]] (God? Human? Bird?)
-	- [[love]]
-	- [[blacksmiths]]
-	- God of [[loom]]
-	- [[doctor-physician-god]]
-	- [[god-of-country]], [[deification-of-leaders]]
-	- Gods as architects [[building-construction-fasioning]], [[aesir]]
-- Other gods
-	- [[fate-goddesses]]

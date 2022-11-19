@@ -2,10 +2,10 @@
 
 ---
 
+## Topics
+[[pii-lang]]
+[[pii-culture]]
+
 ## Sub-Branches
 [[iranians]]
 [[indo-aryans]]
-
-## Topics
-[[indo-iranian-lang]]
-[[indo-iranian-religion]]

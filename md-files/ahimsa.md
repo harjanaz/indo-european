@@ -1,11 +1,11 @@
-[[non-violence]]
+[[buck-20.14-peace]]
 
 ---
 
 # ahiṃsā
 
-[[h-tull1996]]
+[[tull1996]]
 
 ## External Links
-[[c-rolinson2019-12-13b]]
-[[c-rolinson2019-12-10]]
+[[rolinson2019-12-13b]]
+[[rolinson2019-12-10]]

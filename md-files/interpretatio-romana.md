@@ -6,7 +6,9 @@
 
 # Interpretatio Romana
 
-Hermes & Odin [[t-powers2019-11-15b]]
+Hermes & Odin [[powers-t2019-11-15-m]]
+
+Caesar's Apollo = Grannus
 
 ## Celtic
 
@@ -17,14 +19,12 @@ Main Source: (d-leeming ?) David Leeming From Olympus to Camelot
 #### "Mercury"
 
 - Many terra cotta and stone images of him in Gaul
-
 - Sometimes appears with 3 heads
-
 - Sometimes has a consort called Maia or Rosemerta 'provider'
 
 #### "Apollo"
 
-- Consort:  [Sirona](sirona.md)
+- Consort:  sirona
 
 - Composite of several deities ([Belenus](belenus.md) , [Grannus](grannus.md) , [Borvo](borvo.md))
 
@@ -76,6 +76,6 @@ Main Source: (d-leeming ?) David Leeming From Olympus to Camelot
 
 
 ## External Links
-[[c-rolinson2018-9-12]]
-[[c-rolinson2019-9-19a]]
+[[rolinson2018-9-12]]
+[[rolinson2019-9-19-einu]]
 [[rolinson2019-12-18]]

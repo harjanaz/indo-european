@@ -1,1 +1,0 @@
-> [[rolinson]]. "The “Buddhist” Coin Of Tilya Tepe – Arte-Facts #3". [blog](https://aryaakasha.com/2019/09/19/the-buddhist-coin-of-tilya-tepe-arte-facts-3/)

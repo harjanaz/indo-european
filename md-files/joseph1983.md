@@ -1,3 +1,3 @@
-> [[joseph]]. "Old English Hengest as an Indo-European Twin Hero". Article in [[mankind-quarterly]]v24, 1983.
+> [[joseph]]. "Old English Hengest as an Indo-European Twin Hero". *Mankind Quarterly* 24, 1983.
 
-> [pdf](a/joseph1983.pdf)
+> #nodoi 

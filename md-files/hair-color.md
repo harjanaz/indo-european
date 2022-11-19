@@ -1,5 +1,0 @@
-[[hair]]
-
-| [[ie-phenotypes]]
-
----

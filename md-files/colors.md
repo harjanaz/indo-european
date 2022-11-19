@@ -1,10 +1,10 @@
 [[pie-religion]]
 
 [[red]]
-[[ie-gold]]
+[[gold]]
 
 [[silver]]
 [[white-color]]
 
 [[color-brown]]
-[[black]]
+[[color-black]]

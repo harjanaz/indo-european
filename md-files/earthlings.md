@@ -1,4 +1,4 @@
-[[humans]]
+[[buck-2.1-human-being]]
 
 ---
 

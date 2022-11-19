@@ -1,0 +1,1 @@
+> [[haarmann]]. *Early Civilization and Literacy in Europe: An Inquiry into Cultural Continuity in the Mediterranean World*. De Gruyter, 1996.

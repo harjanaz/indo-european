@@ -1,7 +1,7 @@
 [[celtic-texts]]
 # The Mabinogion
 
-[[j-baudis1916]]
+[[baudis1916]]
 
 ## Trans.
 [[p-ford1977]]

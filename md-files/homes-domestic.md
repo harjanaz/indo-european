@@ -3,7 +3,7 @@
 ---
 
 ## Misc Scholarship
-[[j-moore2012]]
+[[moore-j2012]]
 
 ## Web Resources
 https://www.indo-european-connection.com/words/domus

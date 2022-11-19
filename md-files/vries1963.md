@@ -1,1 +1,1 @@
-> [[vries]].
+> [De Vries, Jan](vries.md). 

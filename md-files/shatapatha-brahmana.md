@@ -5,7 +5,7 @@
 # Śatapatha Brāhmaṇa
 
 ## Trans.
-[[j-eggeling1882-1900]]
+[[eggeling1882-1900]]
 
 ## External Links
 [Wikipedia: Shatapatha Brahmana](https://en.wikipedia.org/wiki/Shatapatha-Brahmana)

@@ -4,13 +4,13 @@
 
 ## [[dodge-commentary]]
 
-> [[states-of-mind]] are represented by [Birds](birds-flying-flight.md) flying into and out of the warrior's head.
+> [[states-of-mind]] are represented by [Birds](birds-flying-flight-wings.md) flying into and out of the warrior's head.
 
 Emotions, drugs, etc.
 
 [[altered-states-of-consciousness]]
 
-- [[rage-madnes-fury-mania]]
+- [[rage-madnes-fury-mania-berserkir]]
 - [[terror-fear]]
 - [[madness-insanity]]
 

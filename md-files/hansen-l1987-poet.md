@@ -1,0 +1,1 @@
+> [[hansen-l]]. "The Poet in a Changing Society". Paper in preparation for the Eighth International Celtic Congress, Swansea, 1987.

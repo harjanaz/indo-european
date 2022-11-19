@@ -1,2 +1,2 @@
 [[vassilkov2011]]
-[[f-giusfredi-v-pisaniello2019]]
+[[giusfredi-pisaniello2019]]

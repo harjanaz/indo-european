@@ -1,1 +1,5 @@
+[[scholars]]
+
+---
+
 # Jan N. Bremmer

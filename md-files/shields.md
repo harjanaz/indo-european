@@ -1,2 +1,2 @@
 # Shields
-Trifunction Shield of Achilles [[n-allen2007]]
+Trifunction Shield of Achilles [[allen-n2007]]

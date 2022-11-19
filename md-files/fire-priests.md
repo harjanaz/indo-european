@@ -2,4 +2,4 @@
 
 ---
 
-[[indo-iranian-fire-priests]]
+[[pii-fire-priests]]

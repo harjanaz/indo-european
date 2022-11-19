@@ -1,2 +1,0 @@
-[[indic mitra]]
-[[mithra]]

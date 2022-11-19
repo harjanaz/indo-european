@@ -1,0 +1,2 @@
+[[scholars]]
+# J. Michael Stitt

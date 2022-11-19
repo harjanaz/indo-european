@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Françoise Bader

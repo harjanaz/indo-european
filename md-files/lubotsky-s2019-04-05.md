@@ -1,0 +1,11 @@
+> [[lubotsky-s]]. "Archaeology and linguistics: The Sintashta wells and furnaces and the Indo-Iranian deity Apām Napāt". Lecture at [[seminar-ciel]]. Friday 5 April 2019, 15:15 - 16:15.
+
+> Recording
+> #donthave 
+
+> #link 
+
+
+## Abstract
+> Archaeologists who excavate the sites of the Sintashta culture (Southern Urals) have recently drawn attention to the stable combination of wells and furnaces, which are often connected by a blower channel. Although there is some – very limited – practical advantage of the “furnace-well” construction, we now have sufficient evidence that this construction must have had ideological justification. In a joint investigation with Andrey Epimakhov, an archaeologist who has been excavating the Sintashta sites for many decades, we are trying to understand what could possibly be the reason for the Sintashta people to build such constructions and even to place furnaces directly above abandoned wells. Since the Sintashta archaeological culture is commonly believed to have been inhabited by the speakers of Proto-Indo-Iranian, we must look for the clues in the archaic Indo-Iranian texts. In the first place, we’ll be concerned with the enigmatic Indo-Iranian deity Apām Napāt, literally ‘The Grandson of the Waters’.  In the Rigveda, Apām Napāt usually refers to an aspect or form of Agni. To call the god of fire the Grandson of the Waters “might seem singularly inappropriate” (as Mary Boyce once remarked), which gave rise to a plethora of interpretations in the literature: Apām Napāt was taken as the sun sinking into the ocean, as lightning, as an aquatic deity, as Soma, as Varuṇa, or even as oil flares on the Caspian shores. In spite of all these efforts, many passages still remain obscure. In my talk, I’ll argue that not only does the figure of Apām Napāt help explaining the “furnace-well” construction in Sintashta, but also, vice versa, the archaeological evidence helps to elucidate a few obscure passages in the text of the Rigveda.
+> ![[081936423.jpg]]

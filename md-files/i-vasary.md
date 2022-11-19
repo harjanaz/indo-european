@@ -1,1 +1,0 @@
-# István Vásáry

@@ -1,24 +1,26 @@
 # Health/Healing & Sickness/Illness
 
-[[doctor-physician-god]]
+[[doctor-physician-god]] | [[god-of-diseases-rodents-arrows]]
 
-[[d-gricourt-d-hollard2018]]
+[[gricourt-hollard2018]]
 
 
 Illness = Monsters in Norse & Finnic [[hall-a2009]]
 
 [[lincoln1986-themes]]
 [[psychadelics-entheogens]]
-[[watkins1995]]
+[[watkins1995-how]]
 [[healing-waters]]
 [[r-gordon2016]]
-[[c-cusack2014a]]
+[[cusack2014a]]
 [[cosmas-damian]]
 [[y-berezkin2012b]]
 
+[[vital breath]]
+
 ## "Woe"
 
-An expression of pain and suffering [[watkins2013]], [[klein-et2017-20]].
+An expression of pain and suffering [[Watkins2013-aspects]], [[klein-et2017-20]].
 - PIE uai / wáy / uwáy / u̯ai [Wiki](https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/w%C3%A1y)
 	- Eng. woe
 	- Lat. vae

@@ -1,0 +1,4 @@
+
+## Myth
+[[divine-twins]]
+[[twin]]

@@ -1,0 +1,1 @@
+> [[greppin]]; [[polome]] (eds). *Studies in honor of Jaan Puhvel*. *Part II: Mythology and Religion* (Journal of Indo-European Studies Monograph # 21). Washington, DC, The Institute for the Study of Man, 1997.

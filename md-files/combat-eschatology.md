@@ -1,6 +1,6 @@
-[[combat]] | [[eschatology]]
+[[buck-20-warfare-and-hunting]] | [[eschatology-era]]
 
 War at the end of time
 
 ## External Links
-[[rolinson-mythlingwar]]
+[[rolinson-series-mythlingwar]]

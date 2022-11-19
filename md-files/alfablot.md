@@ -1,4 +1,4 @@
-[[year-calendar]]
+[[year-calendar-holidays-festivals]]
 
 "Elven Sacrifice"
 

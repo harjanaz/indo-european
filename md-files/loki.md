@@ -1,10 +1,10 @@
 [[beings]]
-[[beings-male]]
+[[buck-2.23-male]]
 
 Indic [Tvaṣṭṛ](tvastr.md)
 # Loki
 
-[[g-oudaer2013]]
+[[oudaer2013]]
 
 ON Loki
 PN *Lukan

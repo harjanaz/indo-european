@@ -1,5 +1,0 @@
-[[journals]]
-
----
-
-# *Mankind Quarterly*

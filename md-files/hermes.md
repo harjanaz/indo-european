@@ -1,8 +1,10 @@
+[[odin]], [[gwydion]]
+***
 ## Biblio
-[[d-sick1996]]
+[[sick1996]]
 [[n-allen-r-woodard2013]]
 [[c-rolinson2019-9-19b]]
-[[t-powers2019-11-15b]] Hermes & Odin 
+[[powers-t2019-11-15-m]] Hermes & Odin 
 [[rolinson2020-02-22]]
 [[macedo2020-messenger]] formulatic epithets
 

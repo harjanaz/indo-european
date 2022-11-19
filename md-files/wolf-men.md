@@ -1,4 +1,4 @@
-[[wolf-wolves]] | [[animal-men]] | [[rage-madnes-fury-mania]]
+[[wolf-wolves]] | [[animal-men]] | [[rage-madnes-fury-mania-berserkir]]
 
 ---
 
@@ -9,8 +9,8 @@ Lat. *lupus*, Eng. *wolf*, etc. The PIE root literally means the "Dangerous One"
 - Werewolfs [Wiki](https://en.wikipedia.org/wiki/Werewolf)
 - The French "Loup-Garou", the War-wolf that supposedly still stalks the swamps in Louisiana and other heavily-French settlements in the New World! 
 
-[[h-duerr1978]]
-[[b-lincoln1975]]
+[[duerr1978]]
+[[lincoln1975]]
 
 
 [[abram2017]] beowulf

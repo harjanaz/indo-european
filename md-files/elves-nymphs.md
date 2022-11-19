@@ -3,5 +3,7 @@
 
 [wiki](https://en.wikipedia.org/wiki/Proto-Indo-European-mythology#Other-propositions-3)
 
-## External Links
-[[c-rolinson2019-12-25]]
+## Biblio
+[[rolinson2019-12-25]]
+## Branch
+[[germanic-elves-alf]]

@@ -1,0 +1,1 @@
+>[Dumézil, Georges](dumezil.md). *Mariages indo-européens*. Payot, 1979.

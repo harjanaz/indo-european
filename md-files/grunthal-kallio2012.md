@@ -1,6 +1,6 @@
 > [[grunthal]]; [[kallio]] (eds). *A Linguistic Map of Prehistoric Northern Europe*. Suomalais-Ugrilainen Seura, 2012. [pdfs](https://www.sgr.fi/en/items/show/674)
 
-#incorporate
+#link 
 
 
 ## Contains
@@ -8,7 +8,7 @@
 [[parpola2012]]
 [[t-viitso2012]]
 [[kallio2012]]
-[[g-kroonen2012b]]
+[[kroonen2012-non]]
 [[r-grunthal2012]]
 and others less interesting
 

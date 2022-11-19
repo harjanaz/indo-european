@@ -1,5 +1,5 @@
-[[culture]]
-[[night]], [[time]], [[year-calendar]]
+[[pie-culture]]
+[[night]], [[time]], [[year-calendar-holidays-festivals]]
 
 ---
 
@@ -11,16 +11,16 @@
 
 
 ## Scholarship
-[[c-hansen2002]]
-[[e-barber-p-barber2004]]
+[[hansen-c2002]]
+[[barber-e-barber-p2004]]
 [[y-berezkin2005]]
-[[f-coimbra2011]]
-[[b-pellar2012]]
-[[y-berezkin2012a]]
-[[c-anghelina2013]]
-[[c-anghelina2014]]
+[[coimbra2011]]
+[[pellar2012-2016]]
+[[berezkin2012a]]
+[[anghelina2013]]
+[[anghelina2013]]
 [[stifter2018]]
-[[j-kotyk2018]] Indo-iranian & Chinese
+[[kotyk2018]] Indo-iranian & Chinese
 [[bomhard2019]]
 [[r-iyengar2016]] vedic
 
@@ -35,12 +35,12 @@
 [[stars-indic]]
 
 ### Armenian
-[[martirosyan1964]] 
+[[martirosyan1964]]
 
 ## Non-IE
 > "...like his Central Asian ancestor [Timur], he [Akbar the Great] believed in astronomy and astrology." (Roy Choudhury, Makhan Lal (1997) [First published 1941], The Din-i-Ilahi, or, The religion of Akbar (4th ed.), New Delhi: Oriental Reprint, ISBN 978-81-215-0777-6)
 
 ## External Links
-[[c-rolinson2019-10-2]]
+[[rolinson2019-10-2]]
 [[rolinson2019-08-10]]
-[[rolinson-dead]]
+[[rolinson-series-dead]]

@@ -16,14 +16,13 @@ This pages is for the "The History of Religions". For theories and "Religious St
 2. Secondary, Trancedentalist
 
 [[syncretism-conversion-isation]]
-[[n-baumard-a-hyafil-i-morris-p-boyer2015]]
+[[n-baumard-a-hyafil-morris-i-p-boyer2015]]
 
 ### Histories of Religion
-Jan Assman
 [[strathern2019]]
-[[c-dawson1928]]
-[[m-eliade1978-1982]] history of religon
-[[b-hayden2003]] history of reliigon
+[[dawson1928]]
+[[eliade-history]] history of religon
+[[hayden2003]] history of reliigon
 
 ## By Topic
 [[gods]]
@@ -31,3 +30,6 @@ Jan Assman
 
 ## Methods
 [[comparative-religion]]
+
+## Theroies
+[[the-ontological-turn]]

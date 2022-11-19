@@ -1,3 +1,3 @@
 
 [[gods]] as architects
-[[d-panchenko2016]] walls
+[[panchenko2016]] walls

@@ -15,11 +15,11 @@
 
 ## External Links
 [Wikipedia: Navadurga](https://en.wikipedia.org/wiki/Navadurga)
-[[c-rolinson2018-2019navratri]]
-[[c-rolinson2019-9-19a]]
-[[c-rolinson2019-8-23b]]
-[[c-rolinson2019-9-13b]]
-[[rolinson-mythlingwar]]
+[[rolinson-series-navratri]]
+[[rolinson2019-9-19-einu]]
+[[rolinson2019-8-23b]]
+[[rolinson2019-9-13b]]
+[[rolinson-series-mythlingwar]]
 [[rolinson2019-12-08]]
 [[rolinson2019-07-12]]
 [[rolinson2019-07-29]]

@@ -1,2 +1,0 @@
-- [[sword-in-stone]]
-- [[grail]]

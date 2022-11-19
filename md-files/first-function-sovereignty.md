@@ -29,7 +29,7 @@
 ### --Learned Classes 
 [Druids](druids.md)
 [Celtic Bards](bards-celtic.md)
-[Celtic Seers](seers-celtic.md)
+[Celtic Seers](celtic-seers.md)
 
 
 ## Challenges to Sovereignty

@@ -1,1 +1,1 @@
-> [[k-schmidt]]. "Zur Vorgeschichte des Keltischen und Germanischen". in [[pearson1992ed]].
+> [[k-schmidt]]. "Zur Vorgeschichte des Keltischen und Germanischen". in [[pearson-r1992ed]].

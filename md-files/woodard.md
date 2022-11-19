@@ -1,3 +1,5 @@
 [[scholars]]
 
-# Roger D. Woodard
+# Woodard, Roger D.
+## Ackownledged in:
+[[vukovic2015]]

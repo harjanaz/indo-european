@@ -1,1 +1,4 @@
-> Journal. *Arethusa*. John hopkins University Press.
+[[journals]]
+***
+# *Arethusa*
+John hopkins University Press

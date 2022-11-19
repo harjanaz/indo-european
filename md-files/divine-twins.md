@@ -1,4 +1,6 @@
+[[horse-back-riding]]
 [[divine-family]]
+
 # Divine Twins
 
 [Wkipedia: Divine Twins](https://en.wikipedia.org/wiki/Divine-twins)
@@ -10,17 +12,20 @@
 - Skt. `divó nápātā`
 - Grk. `di[w]óskouroi`
 	- Grk. `kastor` & `poludeukés`
-	- They are called Grk. `sōtēre` "the two saviors", which coresponds with the Skt. `nāsatyā` "saviours".
-	- -->Lat. `castor` & `pollux`
+		- They are called Grk. `sōtēre` "the two saviors", which coresponds with the Skt. `nāsatyā` "saviours".
+		- -->Lat. `castor` & `pollux`
 - Latv. `dieva dēli` "sons of heaven" (usually twins)
 
 Celtic [[lugian-and-cernunnian]]
 
-[[g-oudaer2013]]
 
-## Other
+## Biblio
+[[ward-d1968]]
+[[oudaer2013]]
+[[larsen2022]] History of the scholarship
+[[larsen2022]] Influence on Tolkien
 [[frauenfelder1991]]
-[[d-frame2013]]
+[[frame2013]]
 ### Family
 ##### Siblings
 - Brothers of the Sun & Dawn maidens
@@ -51,7 +56,8 @@ Celtic [[lugian-and-cernunnian]]
 
 ### Journey of the Sun as Chariot Race
 - **This quote is confusing:** The atmosphere separating heaven and earth is compared to the axle keeping the two wheels apart…If the axle of the Aśvins’ chariot is the [world pillar](axis-mundi.md) keeping heaven and earth apart, the Aśvins should be driving around so that the wheels of their chariot are horizontal, parallel to level ground. This would be in accordance with the world view according to which the sun’s single wheel turns its luminous side towards heaven during the night and towards earth during the day… This fits the idea that the sun in its daily course turns around at sunrise and sunset, and accordingly the rising sun should represent the turning post in the chariot race won by the Aśvins.
-- Skt. [[ab4.7-9]]
+- Skt. {[[aitareya-brahmana]]4.7-9}:
+> "By means of a mule chariot Agni ran the race....with ruddy cows Uṣas ran the race....with a horse chariot Indra ran the race...with an ass chariot the ashvins won..."
 
 
 ## Branches

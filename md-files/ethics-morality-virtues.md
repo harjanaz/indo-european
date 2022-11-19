@@ -1,8 +1,8 @@
-[[culture]]
+[[pie-culture]]
 
 ---
 
-[[s-zimmer2017]]
+[[zimmer-s2017]]
 
 [[cosmic-order]]
 
@@ -31,4 +31,4 @@ Eng. ache
 Faithfulness to your people's gods | Udmurts ("According to the movement's leaders, peoples who have renounced their own gods have no future, because their spiritual betrayal has led to deep injury of the people's soul.") 
 
 ## External Links
-[[c-rolinson2019-12-10]]
+[[rolinson2019-12-10]]

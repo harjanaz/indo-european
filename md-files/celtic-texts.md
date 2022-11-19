@@ -2,7 +2,7 @@
 See also: [[celtic-folk]]
 # Celtic Texts
 
-[[c-guyonvarch2002]]
+[[guyonvarch2002]]
 
 [[gododdin]]
 
@@ -13,6 +13,8 @@ See also: [[celtic-folk]]
 [[llywarch-hen]]
 	
 ## Irish
+
+[[irish-texts]]
 
 - Compiled in the 12th century AD...[and] the language...suggests that the stories were produced no earlier than the eighty century."
 

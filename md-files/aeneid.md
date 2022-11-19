@@ -1,2 +1,2 @@
 ## Scholarhsip
-[[j-dyson2001]]
+[[dyson2001]]

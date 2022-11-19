@@ -1,0 +1,3 @@
+[[journals]]
+***
+# Zeitschrift fur Religionswissenschaft

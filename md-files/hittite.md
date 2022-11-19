@@ -7,11 +7,11 @@ See also [[luwian]]
 
 ## Religion
 [[collins2007]]
-[[b-sergent2016]]
+[[sergent2016]]
 
 
 ## Texts
-[[h-hoffner1998]]
+[[hoffner1998]]
 
 ## External Links
-[[c-rolinson2019-9-16]]
+[[rolinson2019-9-16]]

@@ -6,15 +6,15 @@
 ---
 
 [[p-golden2011]]
-[[e-kuzmina2008]]
-[[c-beckwith2009]]
+[[kuzmina2008]]
+[[beckwith2009]]
 [[n-kradin2018]]
-[[j-brooke-h-misa2020]]
+[[brooke-misa2020]]
 
 [[central-asian-peoples]]
 
 
-[[turk]]
+[[turks]]
 [[iranians]]
 
 https://en.unesco.org/themes/generalregionalhistories#centralasia

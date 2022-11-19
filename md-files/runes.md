@@ -1,6 +1,6 @@
 [[germanic-lang]]
 
-[[magic-witchcraft-sorcery]]
+[[buck-22.42-magic-witchcraft-sorcery]]
 
 # Runes
 

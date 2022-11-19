@@ -26,6 +26,8 @@
 
 ---
 
-# Sources
+## Biblio
+[[green-mi1990]]
 
-- (m-green 1990)
+## Other
+Like the Norse Vanir, and the Greek and Vedic Giants...the Fomorians represented the powers of both fertility and destructions that exist together in nature. ([[green-mi]] or [[leeming-d2003]] #cleanup )

@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Kistin Armstrong Oma

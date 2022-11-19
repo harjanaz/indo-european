@@ -1,4 +1,4 @@
-[[home]]
+[[~home]]
 
 ---
 
@@ -36,4 +36,4 @@ Computational
 [[celtic-folk]]
 [[indian-folk]]
 
-[[l-wimberly1928]]
+[[wimberly1928]]

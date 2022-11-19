@@ -1,4 +1,4 @@
-[[j-grimm]]
+[[grimm-j]]
 
 ## Scholarship
-[[g-murphy2000]]
+[[murphy-g2000]]

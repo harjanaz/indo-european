@@ -1,1 +1,0 @@
->  [[kuhrt]], [[h-sancisi]] (eds). Proceedings of the London 1985 Achaemenid History Workshop. Achaemenid History III, Leiden, 1988, pp. 15-31

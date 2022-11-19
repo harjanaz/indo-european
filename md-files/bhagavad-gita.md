@@ -13,5 +13,5 @@ http://bhagavadgita.org.in/Chapters/1/01#
 [[trans]]
 
 ## External Links
-[[c-rolinson2017-6-25]]
+[[rolinson2017-6-25]]
 [[rolinson2019-12-3]]

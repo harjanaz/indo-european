@@ -1,0 +1,2 @@
+[[scholars]]
+# Catherine Trümpy

@@ -1,2 +1,34 @@
-## External Links
-[[rolinson2019-12-08]]
+a [[reflex]] of the PIE [[earth-mother]]
+***
+
+## Biblio
+@[[rolinson2018-08-15]]
+@[[rolinson2019-12-08]]
+
+## Summary
+
+> The Fierce and Soveriegn Mother Mountain Goddess who is accompanied by felines
+
+EARTH -> MOUNTAIN: +protected/defensable +inaccessable +soveriegnty [[mountain-pallace-of-the-gods]]
+MOTHER -> QUEEN: +soveriegnty
+
+| Goddess                  | Mountain                                                                                                                                                                                                                  | Soveriegnty                                                                             | Motherhood                | Warlike/Fierce                                                                       | Feline                                                          |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| Indic [[durga]]          | Name means "The inaccessible one"                                                                                                                                                                                         | Called Mother of the Gods, linked to both rulership                                     | Called Mother of the Gods | Warlike/Fierce                                                                       | Durga *rides* the Tiger/Lion as a cavalryman rides a horse      |
+| Indic [[parvati]]        | Name means "of the Mountain (-kingdom of Himavat)"                                                                                                                                                                        | Called Mother of the Gods, linked to both rulership                                     | Called Mother of the Gods | Warlike/Fierce                                                                       | accompanied by the lion                                         |
+| Hittite [[pirwa-peruwa]] | Called "Queen"; term close to *Peruna* "cliff" / Called Daughter of the Mountain                                                                                                                                          | Called Mother of the Gods, linked to both rulership; a ‘patron’ and ’empowering’ figure | Called Mother of the Gods | Warlike/Fierce                                                                       | accompanied by the lion - often in plural and pulling a chariot |
+| Phrygian [[cybele]]      | Called *Matar Kubeleya* (“Mother  Mountain")                                                                                                                                                                              |                                                                                         |                           |                                                                                      |                                                                 |
+| Germanic [[freyja]]      | epithet *Haglfaldini* ("hail-hooded" like english snow-capped); Hlin/Hleina/Hlein "rock/refuge/protection/rock-projection"  Fjorgyn linked with “Furrow” or “Fell”- *Fjall* "mountain".                                   |                                                                                         |                           |                                                                                      |  Chariot is pulled by the great cats of the Nordic  wilderness  |
+| Greek [[athena]]         | (1) Her weapon, the Aegis, when invoked in the Iliad caused clouds to cover a nearby mountain. (2) Her temple, the Parthenon, was built in the citadel of Athens upon the highest point of a rock-outcrop: the acropolis. | (1) Patron of Athens.                                                                   |                           | Her epithet *Pallas* mean "Brandishing" (in reference to her weapon, the [[aegis]]). |                                                                 |
+
+
+
+## Speculation
+- The lion/tiger thing might have been a southern/middle eastern influence, perhaps the norse wild-cats were closer to the original. But this is a REFLEX not a reconstruction, meaning it has more to do with the patterns of how the branches developed the original idea than with a single oiginal idea.
+
+## Modern
+- Iceland's national personification, [The Lady of the Mountain](https://en.wikipedia.org/wiki/Lady_of_the_Mountain) *Fjallkonan*--more than Sweden's Mother Svea and Britian's Britannia--happens to resemble this Mountain Queen reflex.
+- India's Bharat Mata. Unlike the european personaifications, she is a literal deity. "wherein the ‘National Personifications’ have been hastily (re-)constructed following quite substantial periods of ‘nothing’ – ; Bharat Mata is very much a ‘continuation’ of a long tradition of Durga and Her Aspects being regarded in this role of national patrons and protectors." ([[rolinson2018-08-15]])
+
+## Mountain Queen *as* Mountain and *as* Nation
+> "One final thought, though: for the devoted man in a relationship, and more especially for the ‘family man’ at all times, anyway – these female figures can very easily become the center of our lives. Indeed, it is not at all coincidental that we can find mythic ‘inferences’ for same – in cultures where the Axis Mundi of the universe (or of the Realm) is a Mountain (such as Olympus or Meru), we see these female deities identified with, and as, Mountains. In Nordic culture, meanwhile, leaving aside the no doubt fascinating discursion I could write-up on the coterminous (arguable) origins of both Freyja/Frigg, various ‘mountainous’ terms, and also particularly *coniferous* trees [for the moment, the visual and slight phonetic similarity of the Fir Tree will have to do…], we should therefore find it absolutely unsurprising that the religion of the “World Tree” has numerous attestations for the Goddess in question *as* a “tree”. In fact, I suppose you might say – with the often (deliberately) VERY hazy distinction between (the) ‘Earth’ and ‘Earth Mother’ (seriously – it’s literally the same word, Bhumi, in Sanskrit; a similar case can be made, if I recall, for “Jord” in Old Norse) , that these women can become “our whole world” (in a rather literal sense, come to think of it, as applies those aforementioned ‘Earth Mother’ archetypes). And as relates to the Nation, a similar dynamic of course presents itself." <button>[[rolinson2018-08-15]]</button>

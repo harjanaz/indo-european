@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Edwin F. Bryant

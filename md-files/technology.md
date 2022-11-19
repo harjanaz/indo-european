@@ -4,4 +4,4 @@
 
 [wiki](https://en.wikipedia.org/wiki/Proto-Indo-European-society#Technology)
 
-[[weapons]]
+[[buck-20.21-arms-weapons]]

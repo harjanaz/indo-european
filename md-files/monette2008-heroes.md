@@ -1,0 +1,4 @@
+> [Monette, Connell](monette.md). "Heroes and Hells in *Beowulf*, the *Shahnameh*, and the *Táin Bó Cúailnge*". [*The Journal of Indo-European Studies*](jies-the-journal-of-indo-european-studies.md) Vol. 36, No. 1 &2, Spring/Summer 2008.
+
+## Abstract
+> This paper examines the Otherworld episodes from Old English *Beowulf*, the Iranian *Shahnameh*, and the Irish *Táin Bó Cúailnge*. It focuses on the parallel elements from the wrestling matches with a pair of Otherworld monsters, as well as the similarities in the descriptions of the earthly city and the Otherworld lair at which the episodes take place. This paper discusses these details and their significance in relation to the heroic biography. Finally, it concerns itself with questions of possible sources for the analogues.

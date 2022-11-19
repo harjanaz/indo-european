@@ -9,8 +9,8 @@
 ## Scholarship
 ### Overviews
 [[keith1917]]
-[[w-doniger2014]]
-[[h-zimmer1946]]
+[[doniger2014]]
+[[zimmer-h1946]]
 ### Misc.
 [[parpolaIDK-nasatyas]]
 

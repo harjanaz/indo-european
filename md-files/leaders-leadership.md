@@ -1,4 +1,4 @@
-[[humans]]
+[[buck-2.1-human-being]]
 
 ---
 
@@ -7,4 +7,4 @@
 
 
 ## External Links
-[[c-rolinson2019-7-3]]
+[[rolinson2019-7-3]]

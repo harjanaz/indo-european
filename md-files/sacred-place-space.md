@@ -1,10 +1,10 @@
-[[religion]], [[landscape-location]]
+[[religion]], [[landscape-location]], [[space]]
 # Sacred Places
 
-[[sielicki-s-2017]]
+[[sielicki2017]]
 
 ## Non-IE
 Mari (küsoto)
 
 ## External Links
-[[c-rolinson-cosmicorder]]
+[[rolinson-series-cosmicorder]]

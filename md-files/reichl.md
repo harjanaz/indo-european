@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Karl Reichl

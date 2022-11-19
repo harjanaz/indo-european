@@ -1,1 +1,0 @@
-> [[g-devoto]]. *Origini Indeuropee*. 1962. 

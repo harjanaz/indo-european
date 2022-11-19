@@ -1,1 +1,0 @@
-> [[littleton]]. *The New Comparative Mythology: An Anthropological Assessment of the Theories of Georges Dumézil (Revised Edition)*. Univeirsty of California Press, 1973.

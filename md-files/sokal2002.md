@@ -1,0 +1,1 @@
+> [[sokal]]. Review of [[day2001]]. [*The Quarterly Review of Biology*](the-quarterly-review-of-biology.md), Vol. 77, No. 4 (December 2002), pp. 487-488.

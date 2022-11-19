@@ -45,7 +45,7 @@ The Ferryman is one of the oldest characters in human history, and his purpose w
 [[mahabharata]]
 
 ## Secondary Sources
-[[eck-d1981]]
+[[eck1981]]
 [[smith-b1985]]
 [[gayton1935]]
 [[lincoln1991]]

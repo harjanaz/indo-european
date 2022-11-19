@@ -1,1 +1,0 @@
-# R. Gordon Wasson

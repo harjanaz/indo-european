@@ -12,4 +12,4 @@
 Henri Bergson Jewish-Catholic philosopher, from The Two Sources of Morality and Religion. This is certainly not an PIE idea.
 
 ## External Links
-[[c-rolinson2019-12-12]]
+[[rolinson2019-12-12]]

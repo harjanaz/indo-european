@@ -1,0 +1,1 @@
+> [[panikkar]]. *The Vedic Experience: Mantramañjarī: An Anthology of the Vedas for Modern Man and Contemporary Celebration*. [pdf](a/r-panikkar1977.pdf). 

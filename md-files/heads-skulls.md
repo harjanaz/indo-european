@@ -5,7 +5,7 @@
 ## Misc. Scholarship
 [[m-witzel1987]]
 ## By Branch
-[Celtic Heads](heads-celtic.md)
+[Celtic Heads](celtic-heads.md)
 
 ## By Topic
 ## Skull Cups

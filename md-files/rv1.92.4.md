@@ -1,0 +1,1 @@
+[vedaweb](https://vedaweb.uni-koeln.de/rigveda/view/id/1.92.4)

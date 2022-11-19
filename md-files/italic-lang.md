@@ -2,5 +2,7 @@
 
 ---
 
+[[italic-texts-poetics]]
+
 ## Sub-Branches
 [[latin-lang]]

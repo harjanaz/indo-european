@@ -1,3 +1,3 @@
-> [[childe]]. *The Aryans: a study of Indo-European origins*. Book.
+> [[childe]]. *The Aryans: a study of Indo-European origins*. Kegan Paul, Trench, Trubner & Co. Alfred A Knopf, 1926.
 
-> [pdf](a/childe1926.pdf)
+#nodoi #link 

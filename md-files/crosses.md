@@ -6,7 +6,7 @@
 The cross, whether pagan of christian, acts as an [[axis-mundi]]. It gets associated with the [[world-tree]] (in the form of the pagan [[yggdrasil]] and Christian [[christmas-tree]]).
 
 ## Scholarship
-[[g-murphy2000]] Appendix C
+[[murphy-g2000]] Appendix C
 
 
 ## Cross = World Tree (Anglo-Saxon)

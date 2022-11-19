@@ -1,0 +1,1 @@
+> [[wilhelm]]. *On the Use of the Urine of Oxen According to the Precepts of the Avesta*. 1889.

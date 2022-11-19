@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Harry E. Foundalis

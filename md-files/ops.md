@@ -1,3 +1,3 @@
 [[gods]]
 # Roman Goddess Ops
-[[d-miano2015]]
+[[miano2015]]

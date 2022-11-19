@@ -1,3 +1,3 @@
-[[cups-grail]] | [[arthurian]]
+[[cups-grail]] | [[arthur]]
 
 ---

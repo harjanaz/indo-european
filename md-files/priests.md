@@ -1,3 +1,5 @@
+[[learned-classes]] + [[ritual]]
+
 [[ritual]] [[pie-religion]]
 [1st Function](first-function-sovereignty.md)
 
@@ -18,16 +20,16 @@ Lat. [[flamines]]
 ### Patron-Client Relationship
 The well being (wealth, victory, etc) of the patron and/or community depends on them. If efficous, the patron would bestow gifts upon the priests, usually in the form of cattle.
 ### Name of Priests
-[[d-agostini-s-shaked2013]] Name of Zoroastrian Priests
+[[agostini-shaked2013]] Name of Zoroastrian Priests
 ### Lifestyle
 [[p-olivelle1993]] Lifestyle
 ### Misc.
 [[weiss2009]]
-[[c-guyonvarch2002]]
+[[guyonvarch2002]]
 [[kershaw1997-2000]]p246
 
 
 ## External Links
 [[rolinson2019-09-6]]
-[[t-powers2019-11-15c]]
+[[powers-t2019-11-15-p]]
 [Wikipedia: PIE Myth: Priesthood](https://en.wikipedia.org/wiki/Proto-Indo-European-mythology#Priesthood)

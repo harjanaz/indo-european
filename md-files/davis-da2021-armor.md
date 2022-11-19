@@ -18,5 +18,5 @@
 [[modlinger2020]]
 [[harding2007]]
 [[kritiansen-hornIDK]]
-[[kristiansen-larssonIDK]]
+[[kristiansen-larsson2005]]
 [[vandkildeIDK]]

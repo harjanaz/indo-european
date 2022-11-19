@@ -1,1 +1,0 @@
-> [[j-makkay]]. "The Linear Pottery and the Early IndoEuropeans". in [[skomal-polome1987]].

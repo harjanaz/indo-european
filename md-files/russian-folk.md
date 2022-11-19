@@ -3,4 +3,5 @@
 ---
 
 [[v-propp1984b]]
-[[w-ralston1872]]
+[[ralston1872]]
+[[ralston1873]]

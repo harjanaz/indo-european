@@ -1,1 +1,0 @@
-> [[s-luraghi]]. "The origin of the Proto-Indo-European gender system: Typological considerations". Folia Linguistica 45/2 (2011), 435-464. [pdf](a/s-luraghi2011.pdf)

@@ -1,4 +1,4 @@
-A kind of [[sacred-orality]].
+A kind of [[sacred-orality]], often utilizes [[poetics]] (i.e. meter)
 
 
 [[sacred-orality]]
@@ -25,7 +25,7 @@ we choose this refreshment of the gods today
 
 svàrvat jyótiḥ avr̥kám naśīmahi |
 tát devā́nām ávaḥ adyá vr̥ṇīmahe ||
-[[rv10.036.03c-d-wolf]]c-d
+[[rv10-036-03c-d-wolf]]c-d
 
 ## Method: arms raised
 [[mees2015]]

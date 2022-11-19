@@ -1,5 +1,5 @@
-[[priests]], [[combat]]
+[[priests]], [[buck-20-warfare-and-hunting]]
 
 ---
 
-[[indo-iranian-combat-priests]]
+[[pii-combat-priests]]

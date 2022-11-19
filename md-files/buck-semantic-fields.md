@@ -1,4 +1,4 @@
-This page is for the [[buck1949]]'s sementic fields. The Univeristy of Texas has an online [version](https://lrc.la.utexas.edu/lex/semantic) with some minor changes.
+This page is based on [[buck1949]]'s sementic fields. The Univeristy of Texas has an online [version](https://lrc.la.utexas.edu/lex/semantic) with some minor changes. Buck referrenced individual branch ters rather than reconstructed pie terms. UT referrences the later, in the form of pokorny's etyma. 
 
 
 [[buck-1-physical-world]] .

@@ -1,1 +1,0 @@
-# E. Vernon Arnold

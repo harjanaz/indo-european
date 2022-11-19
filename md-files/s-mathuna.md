@@ -1,1 +1,0 @@
-# Séamus Mac Mathúna

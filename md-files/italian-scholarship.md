@@ -1,7 +1,7 @@
-[[biblio]]
+[[~biblio]]
 
 ---
 
-[[g-devoto1962]]
-[[b-lincoln-m-baiocchi1984]]
+[[devoto1962]]
+[[lincoln-baiocchi1984]]
 [[ginevra2020-odin]]

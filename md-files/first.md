@@ -1,4 +1,4 @@
 [[first-function-sovereignty]]
 [[first-sacrifice]]
-[[first-warrior-trito]]
+[[narrative--first-warrior-trito]]
 [[manu-first-man]]

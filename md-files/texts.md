@@ -5,10 +5,11 @@ This page is for actuals texts written in [[languages]], for the idea and usage 
 [[irish-texts]]
 [[welsh-texts]]
 ### Classical
-[[latin-texts]]
+[[latin-texts-poetics]]
 [[greek-texts]]
 ### Other
 [[texts-sanskrit]]
 [[texts-celtic]]
 [[texts-iranian]]
-[[texts-germanic]]
+[[germanic-texts]]
+[[armenian-texts]]

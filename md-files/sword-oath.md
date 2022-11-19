@@ -1,4 +1,4 @@
-[[swords]] [[oath-taking-rituals]]
+[[buck-20.27-sword]] [[oath-taking-rituals]]
 # Sword Oath
 
 d | d

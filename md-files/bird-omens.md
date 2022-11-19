@@ -14,7 +14,7 @@ Greek/Universal *Ornithomancy*
 ## By Branch
 Present in Germanic, Celtic, Roman, at least
 
-Germanic and Celtic ([[h-davidson1988]]p259 "birds")
+Germanic and Celtic ([[davidson-h1988]]p259 "birds")
 Roman ([[andren1997]]p108)
 
 

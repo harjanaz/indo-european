@@ -1,1 +1,0 @@
-[pdf](j-kalik-a-uchitel2019.pdf)

@@ -3,4 +3,4 @@
 ---
 
 [[afanasevs-folktales]]
-[[w-ralston1872]]
+[[ralston1873]]

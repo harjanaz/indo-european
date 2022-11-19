@@ -1,6 +1,10 @@
 [[society-community]]
 [[social-units]]
 [[social-structure-class-caste]]
+
+See [[reciprocal-exchange]]
+
+
 # Slavery & Serfdom
 ## PIE
 Called:

@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Frank G. Bosman

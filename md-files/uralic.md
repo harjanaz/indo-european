@@ -4,7 +4,7 @@
 
 ---
 [[siikala-o-ulyashev2016]]
-[[c-carpelan-a-parpola2001]]
+[[carpelan-parpola2001]]
 ![](a/pie-and-uralic-cultures.png)
 
 ---

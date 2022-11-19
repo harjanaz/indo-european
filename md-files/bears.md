@@ -1,12 +1,12 @@
-[[animals]]
+[[buck-3-animals]]
 
 # Bears
 [Celtic Bears](bears-celtic.md)
 
-[[b-sergent2016]]
-[[l-perabo2016]]
+[[sergent2016]]
+[[perabo2016]]
 
-[[m-merisante2014]]
+[[merisante2014]]
 
 ## Anglo-Saxon
 Maxims II	

@@ -1,5 +1,5 @@
 ## Humans
-As explained on the page [[humans]], we are (among other things): 
+As explained on the page [[buck-2.1-human-being]], we are (among other things): 
 - (1) Known as "[[earthlings]]". terrestrial. 
 - (2) Endowed with life and subject to [[death-decay]]
 	- Endowed with  a [[body]]

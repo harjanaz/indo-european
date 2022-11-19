@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Tomás Ó Cathasaigh

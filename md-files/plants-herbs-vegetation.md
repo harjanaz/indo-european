@@ -7,8 +7,8 @@
 [[plant-names]]
 
 [[m-ivanishvili2007]]
-[[g-ghalekhani2015]]
-[[d-gricourt-d-hollard2018]]
+[[ghalekhani2015]]
+[[gricourt-hollard2018]]
 
 [(Celtic) Mistletoe](mistletoe.md)
 [[flowers]]

@@ -1,1 +1,0 @@
-# Lowry C. Wimberly

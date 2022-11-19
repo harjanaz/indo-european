@@ -41,20 +41,19 @@ Associated with women. Fire rituals performed by women.
 
 mari (tul)
 
-The [Kyrgyz](kyrgyz.md) “venerate fire & burn the dead”
 
 Fire as Hypostatis of The God | mari (tul, kugo jumo),
 
-[Celtic Fire](fire-celtic.md)
+[Celtic Fire](celtic-fire.md)
 
-[[n-allen2010]]
-
+[[allen-n2010]]
+[[connection--life-breath-fire]]
 
 
 ### Eternal Flame
 https://en.wikipedia.org/wiki/Eternal-flame
 
-[[gailey-g-adams1977]] Irish Bonfires
+[[gailey-adams-g1977]] Irish Bonfires
 
 
 ## Fire Rituals
@@ -63,7 +62,7 @@ Norse & Vedic [[kaliff2005]]
 ## Misc
 
 
-[[d-white2017]]
+[[white-d2017]]
 
 ## Zoroastrianism
 ### Bektashism Folk Religion

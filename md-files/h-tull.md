@@ -1,1 +1,0 @@
-# Herman W. Tull

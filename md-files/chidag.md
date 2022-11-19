@@ -1,3 +1,7 @@
+# Čīdag Andarz Ī Pōryōtkēšān
+
+> [iranicaonline.org](https://iranicaonline.org/articles/cidag-andarz-i-poryotkesan-selected-precepts-of-the-ancient-sages-a-post-sasanian-compendium-of-apothegms-intended-)
+
 <pre>
 
 It is faith that searches out causes,
@@ -8,63 +12,62 @@ and then, acting as mediator by means of reason,
 ====ORIGINS====
 
 This must one know without a doubt:
-I wasn't always on this earth.
-I've come from the unseen world,
-I wasn't made, I was thought. (Wasn't materially fashioned, but created spiritually or in the ideal)
-
-I belong to God (Ohrmazd),
-    not to Satan (Ahriman).
-I belong to the gods (Yazads),
-    not to the demons (Devs),
-to good,
-    not to evil.
-
-I'm a man,
-    not a demon,
-a creature of God (Ohrmazd),
-    not of Satan (Ahriman).
-My stock and lineage is from Gayomard. 
-My mother is Earth (Spandarmad),
-and my father is God (Ohrmazd). 
-My humanity is from Mashye and Mashyane,
-who were the first seed and offspring of Gayomard. 
+	I wasn't always on this earth.
+	I've come from the unseen world,
+	I wasn't made, I was thought.
+	I belong
+		to God (Ohrmazd), 
+			not to Satan (Ahriman).
+		I belong to the gods (Yazads),
+   	 		not to the demons (Devs),
+		to good,
+    		not to evil.
+	I'm a 
+		man,
+    		not a demon,
+		a creature of God (Ohrmazd),
+    		not of Satan (Ahriman).
+		My stock and lineage is from Gayomard. 
+		My mother is Earth (Spandarmad),
+			and my father is God (Ohrmazd). 
+		My humanity is from Mashye and Mashyane,
+			who were the first seed and offspring of Gayomard. 
 
 ===FUNCTION, DUTY, BELIEF=====
 
 To perform my function and do my duty means that:
-I should believe that God (Ohrmazd) is, was, and evermore shall be,
-that his Kingdom is undying, 
-that he is infinite and pure;
-    and that Satan (Ahriman) is not, and is destructible; 
-that I myself belong to God (Ohrmazd) and his gods? angels? (Bounteous Immortals, Amesha Spentas),
-    and that I have no connection with Satan (Ahriman), the demons, and their 
-associates.
+	I should believe 
+		that God (Ohrmazd) is, was, and evermore shall be,
+		that his Kingdom is undying, 
+	that he is infinite and pure;
+		and that Satan (Ahriman) is not, and is destructible; 
+	that I myself belong to Ohrmazd and his Amesha Spentas.
+    	and that I have no connection with Satan (Ahriman), the demons, and their associates.
 
-My first duty on earth is to confess the Religion,
-to practice it,
-and to take part in its worship and to be steadfast in it,
-to keep the Faith in the Good Religion of the worshippers of Ohrmazd
-ever in my mind,
-and to distinguish:
-profit from loss,
-sin from good works,
-good from evil,
-light from dark,
-and the worship of (God) Ohrmazd from the worship of the demons (Devs).
+My first duty on earth is 
+	to confess the Religion,
+		to practice it,
+		and to take part in its worship and to be steadfast in it,
+	to keep the Faith in the Good Religion of the worshippers of Ohrmazd ever in my mind,
+	and to distinguish:
+		profit from loss,
+		sin from good works,
+		good from evil,
+		light from dark,
+		and the worship of (God) Ohrmazd from the worship of the demons (Devs).
 
 My second duty is to take a wife
-and to procreate earthly offspring,
-and to be strenuous and steadfast in this.
+	and to procreate earthly offspring,
+	and to be strenuous and steadfast in this.
 
 My third duty is to cultivate and till the soil.
 
 My fourth duty is to treat all livestock justly.
 
 My fifth duty is
-to spend a third of my days and nights in attending the seminary and consulting the wisdom of holy men,
-to spend a third of my days and nights in tilling the soil and in making
-it fruitful,
-and to spend the remaining third of my days and nights in eating, rest, and enjoyment.
+	to spend a third of my days and nights in attending the seminary and consulting the wisdom of holy men,
+	to spend a third of my days and nights in tilling the soil and in making it fruitful,
+	and to spend the remaining third of my days and nights in eating, rest, and enjoyment.
 
 I must have no doubt: 
 that profit arises from good works,
@@ -339,3 +342,5 @@ EH
 Whosoever is in the world must perform the office a certain number of times and must know what sins he is liable to commit with hand or foot,
 — unless he be deaf or dumb: in that case he cannot be accounted guilty. Should a deaf or dumb man perform a religious office, then it should be the erpatastan, and he should know the commentary on it.
 </pre>
+
+	

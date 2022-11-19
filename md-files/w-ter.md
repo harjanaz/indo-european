@@ -4,4 +4,4 @@
 
 # *-ter
   agent suffix, "the one who..."
-  -> [*ph₂tḗr](father)
+  -> [*ph₂tḗr](father.md)

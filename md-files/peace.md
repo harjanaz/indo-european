@@ -1,6 +1,6 @@
-[[non-violence]] | [[combat]]
+[[buck-20.14-peace]] | [[buck-20-warfare-and-hunting]]
 
 ---
 
 ## External Links
-[[c-rolinson2019-12-11]]
+[[rolinson2019-12-11]]

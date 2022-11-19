@@ -1,0 +1,1 @@
+> [[vadetskaya]]. *Arkheologicheskie Pamyatniki v Stepyakh Srednego Yeniseya*. Leningrad, Nauka. 1986.

@@ -1,1 +1,0 @@
-> [[g-agamben]]. *The Sacrament of Language: An Archaeology of the Oath (Homo Sacer II, 3)*. Stanford University Press, 2011. [pdf](a/g-agamben2011.pdf)

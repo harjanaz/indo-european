@@ -1,5 +1,5 @@
 [Gods](gods.md)
-[Female Gods](goddesses.md)
+[Female Gods](female-gods.md)
 
 [IE Descent](ie-descent-founders)
 # Danu (River)

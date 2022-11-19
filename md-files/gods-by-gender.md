@@ -2,7 +2,7 @@
 
 ---
 
-Male [[male-gods]]
-Female [[goddesses]]
+`+` buck-2.24-female = [[female-gods]]
+`+` buck-2.23-male = [[male-gods]]
 
-#add What about concepts like the axis mundi which is sometimes personified?
+#lookinto What about concepts like the axis mundi which are sometimes personified?

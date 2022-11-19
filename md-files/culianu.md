@@ -1,0 +1,6 @@
+[[scholars]]
+
+---
+
+# ? Culianu
+#fix 

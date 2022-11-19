@@ -1,0 +1,3 @@
+[[scholars]]
+***
+> [Wikander, Oscar Stig].

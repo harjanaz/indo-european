@@ -2,5 +2,5 @@
 
 [[kaliff2005]]
 
-## Modern Polytheists [>](content-producers.md)
+## Modern Polytheists [>](content-producers-and-practitioners.md)
 [[serith-c-IDKa]]

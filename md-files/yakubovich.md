@@ -1,3 +1,3 @@
 # Llya Yakubovich
-## Biblio
-[[mouton-rutherford-yakubovich2013]]
+## Ackownledged in:
+[[vukovic2015]]

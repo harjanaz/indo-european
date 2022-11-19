@@ -13,15 +13,15 @@
 
 ## Scholarship
 [[lincoln1986-themes]]
-[[d-sick1996]]
+[[sick1996]]
 [[kaliff2005]]
 [[kaliff2007]]
-[[b-collins2014]]
-[[c-serith2001]]
+[[collins2014]]
+[[serith2001]]
 [[s-zimmer2009]] PIE Terms
 [[minkowski1989]]
 
-[Indian Adhikāra](adhikara.md)
+
 [Celtic Sacrifice](sacrifice-celtic.md)
 
 [[libation]]
@@ -37,7 +37,7 @@ by kind, by etc.
 to sea, to etc.
 
 ### Initiatory
-[[ahmadi2015]] Ch 12: "Initiation-based youth bands and initiatory sacrifice"
+[[ahmadi2015-th]] Ch 12: "Initiation-based youth bands and initiatory sacrifice"
 
 ### Etymology
 Sacrifice

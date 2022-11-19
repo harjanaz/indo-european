@@ -1,1 +1,1 @@
-> [[olander]]. "The Indo-European homeland: Introducing the problem". in [[olsen-olander-kristiansen2019-tracing]].
+> [[olander]]. "The Indo-European homeland: Introducing the problem". in [[olsen-olander-kristiansen2019]].

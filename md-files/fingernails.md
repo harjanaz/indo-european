@@ -1,3 +1,3 @@
 [[body]]
 # Fingernails
-[[b-lincoln1977]]
+[[lincoln1977]]

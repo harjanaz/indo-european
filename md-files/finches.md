@@ -1,3 +1,3 @@
-[[birds-flying-flight]]
+[[birds-flying-flight-wings]]
 # Finches
 - PIE `*(s)ping-`

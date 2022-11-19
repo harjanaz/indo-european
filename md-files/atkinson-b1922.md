@@ -1,0 +1,6 @@
+> [[atkinson-b]]. "Note on the Name Sabazios". Apr. 28, 1922.
+
+> [books.google.com](https://books.google.com/books?id=BNlw1neN4_QC&pg=PA1217&lpg=PA1217&dq=Sabazios+etymology&source=bl&ots=WsbItWEBMu&sig=ACfU3U09HF3EpvmFHvIDQ_S5FWOzvs4MGg&hl=en&sa=X&ved=2ahUKEwiJ9PrN89_6AhUwmmoFHTDVAIYQ6AF6BAhCEAM#v=onepage&q=Sabazios%20etymology&f=false)
+
+
+Referenced in [[cook1925]]p1217

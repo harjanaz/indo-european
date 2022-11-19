@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Ruth Cecily Katz

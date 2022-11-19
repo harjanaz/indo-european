@@ -1,0 +1,1 @@
+> [[vernant]]. Book. *Mortals and Immortals: Collected Essays*. Princeton Universisty Press, 1991. 

@@ -1,7 +1,7 @@
-> [[lincoln]]. *Death, war, and sacrifice: studies in ideology and practice*. Chicago, University of Chicago Press, 1991.
+> [[lincoln]]. *Death, war, and sacrifice: studies in ideology and practice*. [The University of Chicago Press](cup.md), 1991.
 
-> #nopdf 
 
+## Contents
 |||
 |-|-|
 Frontmatter | [[lincoln1991-fm]]
@@ -25,13 +25,13 @@ Part Two: | *War, Sacrifice, and the Science of the Body*
 14 | [[lincoln1988-1991-druids]]  
 15 | [[lincoln1987-1991-scythian]] 
 16 | [[lincoln1991-debreasting]]
-17 | [[lincoln1991-physiological]]
+17 | [[lincoln-physiological]]
 18 | [[lincoln1991-embryological]] 
 Part Three: | *Polemic Pieces*  
-19 | [[lincoln1991-shaping]]
+19 | [[Lincoln1991-shaping]]
 20 | [[lincoln1991-kings]]
 21 | [[lincoln1991-myth]] 
-Acknowledgments |  [[lincoln1991-acknowledgments]]
+Publication History |  [[lincoln1991-publication-history]]
 Indexes | [[lincoln1991-indexes]]
 
 

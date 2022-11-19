@@ -4,4 +4,4 @@ Yggdrasil "The Terrible Horse"
 [[r-rusu2008]]
 
 
-[[g-murphy2000]] Appendix C
+[[murphy-g2000]] Appendix C

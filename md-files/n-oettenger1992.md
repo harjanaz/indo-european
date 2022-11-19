@@ -1,1 +1,1 @@
-> [[n-oettenger]]. "Der Wolf im ‘Helmbrecht’". in [[pearson1992ed]].
+> [[n-oettenger]]. "Der Wolf im ‘Helmbrecht’". in [[pearson-r1992ed]].

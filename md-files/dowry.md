@@ -1,3 +1,3 @@
-[[marriage]]
+[[marriage-weddings]]
 # Dowry
 [[testart2013]]

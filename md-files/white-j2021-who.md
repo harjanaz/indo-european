@@ -11,8 +11,8 @@
 ## Sources
 [[reich2018]]
 [[lincoln1976-cattle]]
-[[pagel-atkinson-calude2013]]
-[[anthony2007-horse]]
+[[pagel-atkinson-q-calude2013]]
+[[anthony2007]]
 [[lazaridis2014]]
 [[haak2015]]
 [[quiles2019-game]]

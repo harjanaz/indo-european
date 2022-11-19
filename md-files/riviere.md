@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# J. C. Rivière

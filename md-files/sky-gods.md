@@ -5,5 +5,5 @@ See also [[nature-gods]] & [[social-gods]]
 
 [[day-sky-father]]
 [[night-sky-father]]
-[[dawn-goddess]]
+[[dawn]]
 [[dusk-goddess]]

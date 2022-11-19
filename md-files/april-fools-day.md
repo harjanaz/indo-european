@@ -1,4 +1,4 @@
-[[holidays]]
+[[year-calendar-holidays-festivals]]
 
 ---
 

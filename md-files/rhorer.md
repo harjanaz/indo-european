@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Catherine Campbell Rhorer

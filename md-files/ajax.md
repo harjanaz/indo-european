@@ -3,4 +3,4 @@
 
 
 ## Topics
-[[motif-dice-game]]
+[[motif--dice-game]]

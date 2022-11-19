@@ -1,6 +1,6 @@
 # Persephone
-[[b-lincoln1979]]
-[[g-oudaer2013]]
+[[lincoln1979]]
+[[oudaer2013]]
 [[ginevra2017-fertility]]
 
 ## External Links

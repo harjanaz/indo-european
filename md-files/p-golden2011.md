@@ -1,1 +1,1 @@
-> [[p-golden]]. Central Asian in World History. [pdf](a/p-golden2011.pdf)
+> [[golden-p]]. Central Asian in World History. [pdf](a/p-golden2011.pdf)

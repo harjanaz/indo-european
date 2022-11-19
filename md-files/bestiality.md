@@ -1,4 +1,4 @@
-[[sexuality]] | [[animals]]
+[[sexuality]] | [[buck-3-animals]]
 
 ---
 

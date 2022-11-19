@@ -1,0 +1,1 @@
+> [[dupraz]], [[t-roth]]. "Ritus im Mythos – Zur Darstellung von Ritualen in mythologischen Texten". in [[oettinger-s-schaffner-t-steer-e-tichy2018eds]]. [pdf](a/e-dupraz-t-roth2018.pdf)

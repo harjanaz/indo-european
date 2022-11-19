@@ -1,4 +1,4 @@
 
 
 
-October Equus [[d-fickett2012]], [[horses]] sacrifice
+October Equus [[fickett2012]], [[horses]] sacrifice

@@ -1,7 +1,8 @@
-> [[oguibenine]]. *Essays on Vedic and Indo-European culture*. Book.
+> [[oguibenine]]. *Essays on Vedic and Indo-European culture*.
 
-> #nopdf 
-> [ProQuest](https://www.proquest.com/docview/217129007)
+> #have #rare 
+> [ProQuest](https://www.proquest.com/docview/217129007) #nodoi #nofreepdf 
+> #link 
 
 ## Reviews
 [[klein2000]]

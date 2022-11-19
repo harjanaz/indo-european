@@ -1,1 +1,0 @@
-> [[m-staley]]. *The Indo-European pantheon*. Thesis at the Univeristy of Wisconsin. [hathitrust](https://catalog.hathitrust.org/Record/005746604), [pdf](a/m-staley1894.pdf).

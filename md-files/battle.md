@@ -1,1 +1,1 @@
-see [[combat]]
+see [[buck-20-warfare-and-hunting]]

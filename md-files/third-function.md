@@ -2,7 +2,7 @@
 
 ---
 
-[[d-seweryn2013]]
+[[seweryn2013]]
 [[n-allen-r-woodard2013]]
 
 ### Def

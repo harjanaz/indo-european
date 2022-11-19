@@ -1,3 +1,3 @@
 # Gregory Shaw
 ## Biblio
-[[deconick-g-shaw-j-turner2013eds]]
+[[deconick-shaw-g-turner2013eds]]

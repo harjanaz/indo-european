@@ -1,4 +1,4 @@
-[[cosmos]]
+[[cosmos-cosmography]]
 
 ---
 

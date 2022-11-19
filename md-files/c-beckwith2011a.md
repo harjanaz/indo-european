@@ -1,2 +1,0 @@
-# (c-beckwith2011a)
-> Beckwith, Christopher I. "The Central Eurasian Culture Complex in the Tibetan Empire: The Imperial Cult and Early buddhism". In: Erken, Ruth (ed). *1000 Jahre asiatish europäische Begegnung*. Frankfurt: Peter Lang, 221-238. 

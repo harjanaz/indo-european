@@ -1,0 +1,4 @@
+[[gods]]
+***
+
+Color (Bright)

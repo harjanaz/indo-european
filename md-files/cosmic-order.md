@@ -1,4 +1,4 @@
-[[cosmos-cosmology]] | [[order]]
+[[cosmos-cosmography]] | [[order]]
 
 ---
 
@@ -26,4 +26,4 @@ Then, there is "order" as system, and "order" as an ORDER from a godhead.
 
 
 ## External Links
-[[c-rolinson-cosmicorder]]
+[[rolinson-series-cosmicorder]]

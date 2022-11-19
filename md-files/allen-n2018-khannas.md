@@ -1,1 +1,1 @@
-> [[allen-n]]. [pdf](allen-n2018-khannas.pdf)
+> [Allen, Nicholas J](allen-n). [pdf](allen-n2018-khannas.pdf)

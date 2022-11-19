@@ -1,0 +1,5 @@
+[[scholars]]
+
+---
+
+# David Gordon White

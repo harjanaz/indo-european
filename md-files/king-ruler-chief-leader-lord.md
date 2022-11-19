@@ -1,8 +1,8 @@
 
-[[humans]]
+[[buck-2.1-human-being]]
 [[warriors-male]]
 [[society-community]]
-[[combat]]
+[[buck-20-warfare-and-hunting]]
 
 ---
 
@@ -12,9 +12,9 @@
 [[beek2014]]
 [[parpola1985]]
 [[miller-d1998]] Spartan
-[[d-wiley2005]]
+[[wiley2005]]
 [[d-knight2012]]
-[[c-rolinson2019-9-5]]
+[[rolinson2019-9-5]]
 [[nagy-g2017-01-12]] kings are "begetters/generators"
 
 warlord
@@ -23,7 +23,7 @@ Ger. *drohtin*
 
 
 - Ruled over [[tribe]]
-[[celtic-sacred-king]]
+
 
 
 ### Charateristics of both Warriors & Kings

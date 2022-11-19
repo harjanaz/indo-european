@@ -1,6 +1,6 @@
 [[soul-germanic]]
 # Norwegian Soul
-[[l-perabo2016]]
+[[perabo2016]]
 ## Norweigian
 
 Concepts of the Soul in Norwegian Tradition by Bente G. Alver in Nordic Folklore: Recent Studies

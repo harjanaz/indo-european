@@ -1,1 +1,5 @@
+[[scholars]]
+
+---
+
 # Albert Carnoy

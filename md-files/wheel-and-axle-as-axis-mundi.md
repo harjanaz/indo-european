@@ -5,5 +5,5 @@
 - See [Twins' Journey of the Sun as Chariot Race](divine-twins.md)
 
 
-## External Links
+## Biblio
 [[rolinson2019-12-2]]

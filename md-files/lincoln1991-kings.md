@@ -1,3 +1,3 @@
-> [[lincoln]]. "Kings, Rebels, and the Left Hand". Article in [[lincoln1991]].
+> [[lincoln]]. "Kings, Rebels, and the Left Hand". Article in [[lincoln1991]] & [[denning-gerow1996]].
 
-> [pdf](a/lincoln1991-kings.pdf)
+> #have

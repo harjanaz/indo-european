@@ -1,0 +1,3 @@
+[[journals]]
+***
+# *Comparative Civilizations Review*

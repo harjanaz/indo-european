@@ -1,4 +1,4 @@
 [[pie-branches]]
 # "The West"
-[[r-duchesne2011]]
+[[duchesne-r2011]]
 [[k-macdonald2017]] IE Influence

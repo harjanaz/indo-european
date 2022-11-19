@@ -1,0 +1,1 @@
+- **Indic**: The Sun in the form of a wheel appears in the Indo-Aryan Rigveda, or the Norse Edda, as well as in folklore: during the annual festivals of the Germanic peoples and Slavs, they lit a wheel which, according to medieval authors, was supposed to symbolize the sun." | [[zarubin1971]]:70-76; [Wikipedia](https://en.wikipedia.org/wiki/Zorya#Comparative_mythology)

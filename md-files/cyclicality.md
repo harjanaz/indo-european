@@ -3,7 +3,7 @@
 ---
 
 [[cycles-seasons-precession]]
-[[year-calendar]]
+[[year-calendar-holidays-festivals]]
 [[month]]
 [[days-of-the-week]]
 [[24hours]]

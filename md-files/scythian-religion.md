@@ -1,24 +1,17 @@
-[[iranian-religion]]
+[[iranian-religion]] | [[scythians]]
 # Scythian
 
-<iframe width="100%" height="350" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://en.wikipedia.org/wiki/Scythian-religion"></iframe>
+[Wikipedia](https://en.wikipedia.org/wiki/Scythian_religion)
+`+` neo-paganism [[assianism]]
 
-[wiki](https://en.wikipedia.org/wiki/Scythian-religion)
-
-
-
+## Biblio
 [[hinge2016]]
+[[lincoln1987-1991-scythian]] burials
 
-
-## Burials
-[[lincoln1987-1991-scythian]]
-
-### Neo-Paganism
-[Assianism](https://en.wikipedia.org/wiki/Assianism)
 
 ### Linguistics
-[[lubotsky2002]]
-[[mayor-j-colarusso-d-saunders2014]]
+[[lubotsky-a2002]]
+[[mayor-j-colarusso-saunders2014]]
 
 ### Archaeology
-[[b-geel-et-al2004]] climate
+[[geel-et-al2004]] climate

@@ -1,4 +1,4 @@
-[Animals](animals.md)
+[Animals](buck-3-animals.md)
 # Genus Sus 
 (Pigs, Boars, Swine)
 ## Scholarship

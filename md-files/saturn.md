@@ -1,4 +1,4 @@
-[[planets]], [[saturday]]
+[[planets]], [[days-of-the-week]]
 
 ---
 

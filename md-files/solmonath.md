@@ -1,4 +1,4 @@
-[[year-calendar]]
+[[year-calendar-holidays-festivals]]
 # Solmōnaþ (AS Feb.)
 
 Modern month: Feburary

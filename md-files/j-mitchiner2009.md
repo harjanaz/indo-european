@@ -1,1 +1,0 @@
-> [[j-mitchiner]]. *The Yuga Purāṇa*. [pdf](a/j-mitchiner2009.pdf)

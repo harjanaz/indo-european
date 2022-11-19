@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# James E. Cathey

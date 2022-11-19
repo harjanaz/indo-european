@@ -1,5 +1,1 @@
-[[universities-colleges-institutions-schools]]
-
----
-
-https://pies.ucla.edu/
+-> [[university-of-california-los-angeles]]

@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Edward S. Franchuk

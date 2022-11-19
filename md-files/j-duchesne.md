@@ -1,1 +1,0 @@
-# Jacques Duchesne-Guillemin

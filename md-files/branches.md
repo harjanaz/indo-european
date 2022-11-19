@@ -1,4 +1,4 @@
-[[home]]
+[[~home]]
 
 ---
 
@@ -8,12 +8,14 @@ A "branch" = a pattern of related [[history]], [[languages]] (grammar & texts), 
 
 
 ...[[gondwana]]
-...[[laurasians]]
-.........[[austronesians]]
+.........[[proto-bantu]]
+...[[laurasia]]
+.........[[afro-asiatic]]
+.........[[nilotic-africa]]
+.........[[proto-austronesians]]
 .........[[ancient-north-eurasians-haplogroup-p]]
 .........[[eurasian]]
-..............[[turk]]
-..............[[pie]]
-
+..............[[proto-turks]]
+..............[[proto-indo-european(s)]]
 
 When these branches interact: [[syncretism-conversion-isation]]

@@ -18,10 +18,9 @@ Not [[gods]]
 [[death from above]]
 
 ### 1. Ritual Transition
-[[burial-funeral-graves]]
-[[funeral-feast]]
+[[funerary-traditions]]
 ### 2. Soul travels to Otherworld
-All humans are fated to die, and when we do our soul moves to the [[otherworld]].
+All humans are fated to die, and when we do our soul moves to the [[otherworld]]/afterworld/afterlife
 ### 3. Persistence/Precense (i.e. restless dead, elves)
 [[war-dead]]
 [[kaliff2007]]
@@ -41,14 +40,14 @@ All humans are fated to die, and when we do our soul moves to the [[otherworld]]
 [[death-and-birds]]
 
 ## Misc Scholarship
-
+[[hansen-l1987-indo]]
 [[lincoln1986-themes]]
 [[graslund2002]]
 [[long2019]]
 [[jones1997]]
 [[zochios2019]]
-[[d-white1989]] dogs & dice
-[[rolinson-dead]]
+[[white-d1989]] dogs & dice
+[[rolinson-series-dead]]
 [[rolinson2018-09-26]]
 [[rolinson2019-8-25]]
 [[rolinson2019-07-12]]

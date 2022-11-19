@@ -1,4 +1,4 @@
-[Texts (Icelandic)](texts-germanic)
+[Texts (Icelandic)](germanic-texts.md)
 
 [Modern Icelandic Texts](texts-modern-icelandic)
 

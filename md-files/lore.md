@@ -1,3 +1,3 @@
 ## External Links
-[[c-rolinson-cosmicorder]]
-[[c-rolinson2019-12-11]]
+[[rolinson-series-cosmicorder]]
+[[rolinson2019-12-11]]

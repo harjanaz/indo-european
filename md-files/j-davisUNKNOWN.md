@@ -1,1 +1,0 @@
-> [[j-davis]] "Eurasian Warrior Women and Priestesses: Petroglyphic, Funerary, and Textual Evidence for Women of High Status". [pdf](a/j-davisUNKNOWN.pdf)

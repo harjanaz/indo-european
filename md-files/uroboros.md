@@ -1,2 +1,2 @@
 
-[[j-quellec2013]] NOT a universal symbol
+[[quellec2013]] NOT a universal symbol

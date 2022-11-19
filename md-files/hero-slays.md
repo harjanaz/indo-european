@@ -1,4 +1,4 @@
-[[formulas-SLAY]]
+
 
 ---
 
@@ -8,4 +8,7 @@
 	- [[narrative-hero-slays-giant-serpent]] ([[serpent-worm-eel-snake]])
 	- [[narrative-hero-slays-giant-lizard]] ([[lizards]])
 
-[[narrative-neareastern-hero-slays-monster]]
+[[narrative--neareastern-hero-slays-monster]]
+
+
+[[narrative--hero-slays-with-weapon]]

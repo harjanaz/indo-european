@@ -1,4 +1,4 @@
-[[eschatology]]
+negative visionary [[eschatology-era]] era 
 
 ---
 

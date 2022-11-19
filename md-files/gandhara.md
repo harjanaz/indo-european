@@ -3,6 +3,6 @@
 [[r-samad2011]]
 
 ## External Link
-[[c-rolinson2018-9-5]]
-[[c-rolinson2019-9-11]]
-[[c-rolinson2019-9-14]]
+[[rolinson2018-09-05]]
+[[rolinson2019-9-11]]
+[[rolinson2019-9-14]]

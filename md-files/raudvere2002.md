@@ -1,0 +1,1 @@
+> [[raudvere]]. 2002. "Mellan liv och text. Ordets makt som litterärt motiv och rituell praktik i norrön litteratur". In Jennbert, K., Andrén, A. & Raudvere, C. (eds) Plats och praxis – studier av nordisk förkristen ritual. Nordic Academic Press, Lund: 31–68.

@@ -3,9 +3,9 @@
 ---
 
 [[eyebrow-eyebrows]]
-[[seers-see-know]]
+[[seers]]
 
-[[j-mcdonaldUNKNOWNa]]
+[[mcdonald-jIDK-water]]
 [[kershaw1997-2000]]
 
 ## Kinds of Eyes
@@ -13,9 +13,8 @@
 [[blazing eye]]
 [[flaming eye]]
 [[third-eye]]
-
-## Color
-[[eye-color]]
+## Gods
+[[three-eyed-god]]
 
 ## Web resources
 https://www.indo-european-connection.com/words/eye

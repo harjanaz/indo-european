@@ -1,6 +1,6 @@
 [[weapons]]
-# Swords
+***
 [[sword-oath]]
-
-
-![](2938265.png)
+[[sword-dance]]
+[[sword-in-stone]]
+[[buck-20.27-sword]]

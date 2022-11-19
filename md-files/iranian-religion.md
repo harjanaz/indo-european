@@ -1,4 +1,4 @@
-[[indo-iranian-religion]]
+[[pii-religion]]
 # Iranian
 
 [Wikipedia: Ancient Iranian religion](https://en.wikipedia.org/wiki/Ancient-Iranian-religion)

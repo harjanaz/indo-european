@@ -17,7 +17,7 @@ From a domestic point of view, it was the major grain of pre-Zoroastrian Iran.
 ### Vedic
 - Barley, along with rice, often shows up in Vedic ritual.
 
-- It is used as part of the [soma](soma.md) mixture, and is what the other sacred drink [surā](sura.md) (likely the pre-soma ritual drink) was made from. In [RV8.2.3](RV8.2.3.md) barley is even identified with soma.  
+- It is used as part of the [indic-soma](indic-soma.md) mixture, and is what the other sacred drink [surā](sura.md) (likely the pre-soma ritual drink) was made from. In [RV8.2.3](RV8.2.3.md) barley is even identified with soma.  
 
 - Barley was sacred to [Varuṇa](varuna.md).
 

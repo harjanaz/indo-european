@@ -1,0 +1,1 @@
+> [Lindow, John](lindow.md). "Addressing Thor". [pdf](a/j-lindow1988.pdf) #nodoi

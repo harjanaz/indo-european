@@ -8,7 +8,7 @@
 [wiki2](https://en.wikipedia.org/wiki/Celtic-mythology)
 
 ## General Overviews
-[[j-macculloch1948]]
+[[macculloch1948]]
 [[rees-a-rees-b1961]]
 
 ---
@@ -24,25 +24,20 @@
 
 - [Geas](geas.md)
 
-- [Celtic Sacred King](celtic-sacred-king.md)
 
-- [Celtic Love Triangle](celtic-love-triangle.md)
+
 
 - [Celtic Gods](celtic-gods.md)
 
-- [Celtic Water](celtic-water.md)
+
 
 - [Celtic Fertility Cult](celtic-fertility-cult.md)
 
 - [Celtic Serpent-Dragon](celtic-serpent-dragon.md)
 
 - [Celtic Texts](celtic-texts.md)
-
 - [Celtic Groves](groves.md)
 
-- [Celtic Enclosures](celtic-enclosures.md)
-
-- [Celtic Shrines](celtic-shrines.md)
 
 ### Jupiter Columns
 
@@ -78,17 +73,7 @@ Function: A means of (a) communicating with and (b) propitiating, the chthonic v
 - Mountains: "Vosegus was the god of the Vosges in eastern Gaul; and Ladicus, the...spirit of Mount Ladicus in north-west Spain"
 - Trees: "their roots and branches evoked an image of a link between sky and Underworld; their longevity represented continuity and wisdom; the seasonal behavior of deciduous trees gave rise to cyclical symbolism, an allegory of life, death and rebirth. Trees were associated with cults of fertility and nature, partly because of this regenerative imagery: the mother-goddesses are frequently associated with trees; Rhenish altars to the mother-goddesses from Bonn bear tree-symbols; the sanctuary of the mothers at Pesch (Germany) had a sacred tree as its cult-focus. Gaulish tribal names display tree-veneration: the Eburones were the 'Yew Tribe', the Lemovices the 'People of the Elm'. In Ireland a sacred tree was called a *bile*; the older the tree, the greater its sanctity. All trees in Irish myth were sacred but the oak, yew, ash and hazel were particularly holy. In the Dinnshenchas allusion is made to trees as sources of sacred wisdom. Irish holy trees were associated with sacred kingship: the inauguration of a ruler always took place in the presence of a sacred tree, a symbol of sovereignty, tradition and wisdom. A group of trees (a grove) was equally sacred, called *fidnemed* in Ireland and *nemeton* by the Gauls and Britons.
 
-### Festivals
 
-- Associated with the farming cycle
-
-- [Imbolc](imbolc.md) (Spring Inception)
-
-- [Beltane](beltane.md) (Summer Inception)
-
-- [Lughnasad](lughnasad.md) (Fall Inception)
-
-- [Samhain](samhain.md) (Winter Inception)
 
 ### Invasions of Ireland
 
@@ -98,15 +83,9 @@ Function: A means of (a) communicating with and (b) propitiating, the chthonic v
 
 - [Misc. Sun Sky Fire Etc](celtic-misc.md)
 - [donn-cuailnge](donn-cuailnge.md)
-- [Celtic Rebirth](rebirth-celt.md)
 ---
 
 ### Other
-[Celtic Other](other-celtic.md)
 [Gorsedd Arberth](gorsedd-arberth.md)
-
-[[c-guyonvarch2002]]
-
-# Sources
-
-Celtic Myths by Miranda Jane Green
+[[guyonvarch2002]]
+[[green-mi1990]] 

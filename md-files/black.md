@@ -1,11 +1,5 @@
-[[colors]]
+[[scholars]]
 
 ---
 
-
-Skt. śyāma
-
-## External Links
-https://www.indo-european-connection.com/words/black
-[[rolinson2019-8-25]]
-[[c-rolinson2019-12-24]]
+# B. Black

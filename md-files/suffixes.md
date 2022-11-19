@@ -1,0 +1,1 @@
+https://en.wiktionary.org/wiki/Category:Proto-Indo-European_suffixes

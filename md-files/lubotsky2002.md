@@ -1,1 +1,0 @@
-> [[lubotsky]]. "Scythian elements in Old Iranian". *Proceedings of the British Academy*, 116, 189-202, 2002. [pdf](https://pdfs.semanticscholar.org/30b0/3d1da568f5af7523a5ed6404a1597adad6a9.pdf) [pdf](a/a-lubotsky2002.pdf)

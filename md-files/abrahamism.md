@@ -2,8 +2,9 @@
 
 ---
 
+## Sub-Branches
 [[judaism]]
 [[christianity]]
 [[islam]]
-
-[[ie-abrahamic]]
+## Interaction with IE Branches
+[[ie-abrahamic]] 

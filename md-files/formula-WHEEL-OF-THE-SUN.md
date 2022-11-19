@@ -1,4 +1,4 @@
-[[formulas-WHEELS]]
+[[formulas-WHEEL]]
 [[formulas-SUN]]
 
 

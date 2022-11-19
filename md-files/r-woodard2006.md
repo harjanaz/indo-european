@@ -1,3 +1,3 @@
 > ?
 
-Review [[j-linderski2008]]
+Review [[linderski2008]]

@@ -1,0 +1,1 @@
+`+` [[syncretic-eschatology-islam]] = [[islam-sikhism]]

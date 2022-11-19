@@ -1,1 +1,0 @@
-> Heesterman, J. C. *The Broken World of Sacrifice: An Essay in Ancient Indian Ritual*. The University of Chicago Press, 1993.

@@ -1,3 +1,3 @@
-> [[polome]]. "Approaches to Germanic Mythology". Article in [[larson-littleton-puhvel1974eds]].
+> [[polome]]. "Approaches to Germanic Mythology". Article in [[larson-littleton-puhvel-j1974]].
 
 > [pdf](polome1974.pdf)

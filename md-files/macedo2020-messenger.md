@@ -1,4 +1,4 @@
-> [[macedo]]. Article. "Messenger of the Gods in Greek and Vedic".  in [[journal-ies]]v48n1&2, Spring/Summer 2020.
+> [[macedo]]. Article. "Messenger of the Gods in Greek and Vedic".  in [[jies-the-journal-of-indo-european-studies]]v48n1&2, Spring/Summer 2020.
 
 > [academia.edu](https://www.academia.edu/43119363)
 > [pdf](a/macedo2020-messenger.pdf)

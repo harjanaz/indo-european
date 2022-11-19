@@ -1,3 +1,3 @@
 > goddess:food:mountain
 
-Source: [[bondarenko2019]]:108
+Source: [[bondarenko-g2019]]:108

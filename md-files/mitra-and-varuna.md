@@ -1,4 +1,4 @@
-[[indic mitra]] and [[varuna]]
+[[indic-mitra]] and [[varuna]]
 
 ---
 
@@ -14,13 +14,13 @@
 
 # Sources
 
-- Mostly ([[c-littleton1973]]p8)
+- Mostly ([[littleton1973]]p8)
 
 - Mitra as contract ([[meillet1907]])
 
 ## Slavic Parallels
-[[sielicki-s-2017]]
+[[sielicki2017]]
 
 
 ## External Links
-[[c-rolinson2019-9-16]]
+[[rolinson2019-9-16]]

@@ -1,1 +1,0 @@
-> [[n-dreifer]]. Gender in Proto-Indo-European and The Feminine Morphemes. MA Thesis at The University of Georgia, 2018. [pdf](a/n-dreifer2018.pdf)

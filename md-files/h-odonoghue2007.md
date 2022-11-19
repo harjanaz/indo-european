@@ -1,1 +1,0 @@
-> [[h-odonoghue]]. *From Asgard to Valhalla: The Remarkable History of the Norse Myths*. I. B. Tauris, 2007.

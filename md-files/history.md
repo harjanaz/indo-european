@@ -1,21 +1,15 @@
-[[home]]
+[[~home]]
 
 ---
 
-[[archaeology]]
-[[genetics]]
 
-## SubTopics
-- [[evolution-inovation-development-mutation]]
-	- [[exchange-fusion-transmission]]
-		- [[syncretism-conversion-isation]]
-
-## World History, Prehistory
+## Biblio
+[indo-european-connection.com](https://www.indo-european-connection.com/science?page=1)
 [[p-bellwood2014]]
+[[morgan-l1877]]
 
-
-## Descent By Branch
-- [[laurasians]]
+## Branchs
+- [[laurasia]]
 	- [[eurasian]]
 	- [[lithic]]
 	- [[stone-age]]
@@ -24,16 +18,15 @@
 		- [[pie-branches]]
 	- [[peri-ie]]
 	- [[uralic]]
+	- [[central-asian-peoples]]
 
 
-[[central-asian-peoples]]
-
-## Change
-[[syncretism-conversion-isation]]
-[[diffusion]]
-
-## Web Resources
-- [indo-european-connection.com](https://www.indo-european-connection.com/science?page=1)
-
-## Other
-[[maps]]
+## Topics
+- [[archaeology]]
+- [[genetics]]
+- [[evolution-inovation-development-mutation]]
+	- [[exchange-fusion-transmission]]
+		- [[syncretism-conversion-isation]]
+- [[syncretism-conversion-isation]]
+- [[diffusion]]
+- [[maps]]

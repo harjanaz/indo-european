@@ -1,0 +1,1 @@
+Germanic [Sól](https://en.wikipedia.org/wiki/S%C3%B3l_(Germanic_mythology))

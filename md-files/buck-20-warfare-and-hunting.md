@@ -38,3 +38,47 @@
 [[buck-20.47-captive-prisoner]]
 [[buck-20.48-spoils-booty]]
 [[buck-20.49-ambush-(noun)]]
+
+
+---
+
+Combat is a form of [[violence]].
+Redirect: [[battle]]
+
+---
+
+## Biblio
+[[kolligan2017]]
+[[drews2004-early]]
+[[o-symonenko2017]] Iron Age
+[[horn-kristiansen2018eds]] Bronze age
+[[rolinson-series-mythlingwar]]
+[[rolinson2019-12-08]]
+[[rodin-sorabji2006]] Just War
+[[m-meulder2013]] Strategy
+
+## Branches
+[[buck-20-warfare-and-hunting]]
+[[pii-combat-priests]]
+[Aztec Flower Wars](https://en.wikipedia.org/wiki/Flower-war)
+
+## Topics
+
+
+
+When combat is directed towards animals, it is the [[hunt]]. Hunts can also include animals on the active side, ex. using dogs.
+
+When it utilizes horses, it is[[horse-combat]].
+
+Combat is also associated with [[law]] and [[leaders-leadership]].
+
+### Warriors
+- [[warriors-individual]]
+	- [[warriors-male]]
+	- [[warriors-female]]
+- [[koryos-warband-comitatus-mannerbund]] led by a [[king-ruler-chief-leader-lord]]
+
+[[buck-20.21-arms-weapons]]
+[[war-god]]
+
+

@@ -1,6 +1,6 @@
 Different from [[giants]]
 # The Primordial & Cosmic Giant
 
-## PIE [[twin-yemo]]
+## PIE [[twin]]
 ## PIE [[bovines]]
 [[merceron2020]]

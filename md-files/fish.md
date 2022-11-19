@@ -1,9 +1,9 @@
-[Animals](animals.md)
+[Animals](buck-3-animals.md)
 # Fish
 [Celtic Salmon](salmon-celtic.md)
 [[catfish]]
 
-[[c-sterckx-g-oudaer2015]]
+[[sterckx-oudaer2015]]
 [[merceron2020]]
 
 - PIE `*dʰg̑ʰu(H)-`

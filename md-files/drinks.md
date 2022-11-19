@@ -2,7 +2,7 @@
 
 ---
 
-[[sacred-drink]]
+[[The Sacred Cup & Drink]]
 [[alcohol]]
 
 [[libation-sacrifices]]

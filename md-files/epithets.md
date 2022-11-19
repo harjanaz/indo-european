@@ -3,7 +3,7 @@
 ## Biblio
 [[ramon2013]] classics gods
 [[macedo2017-zeus]]
-[[j-gonda1959]] Rig Veda
+[[gonda1959]] Rig Veda
 
 
 ## Of Gods

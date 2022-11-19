@@ -1,3 +1,3 @@
-[[indo-iranian-religion]], [[indo-aryans]]
+[[pii-religion]], [[indo-aryans]]
 
 ---

@@ -3,7 +3,7 @@
 ---
 
 [[m-york2004]]
-[[j-paper2005]]
+[[paper-j2005]]
 
 
 [[k-ritari-bergholm2015eds]] Pre-Christian "Religion"

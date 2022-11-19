@@ -1,8 +1,6 @@
-[Beings](beings.md)
-
-[Gods](gods.md)
-
-[Sky](gods-sky.md)
+[[day-sky-father]]
+***
+[Wikipedia](https://en.wikipedia.org/wiki/Perun)
 
 [[thunder-lightning]]
 

@@ -7,7 +7,7 @@
 
 [[river-names]]
 
-[[n-allen2010]]
+[[allen-n2010]]
 
 [[martirosyan1964]] Armenian
 
@@ -21,4 +21,4 @@
 [[ifing]]
 
 ## External Links
-[[c-rolinson2019-12-28]]
+[[rolinson2019-12-28]]

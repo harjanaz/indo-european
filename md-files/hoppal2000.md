@@ -1,0 +1,1 @@
+> [[hoppal]]. *Studies on Mythology and Uralic Shamanism*. Akadémiai Kiadó, 2000.

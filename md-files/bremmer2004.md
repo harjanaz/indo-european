@@ -1,1 +1,1 @@
-> [pdf](a/c-auffarth-l-stuckenbruck2004.pdf)
+`c-auffarth-l-stuckenbruck2004.pdf`

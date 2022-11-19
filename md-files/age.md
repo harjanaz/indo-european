@@ -1,4 +1,4 @@
-Age is a characteristic of [[humans]].
+Age is a characteristic of [[buck-2.1-human-being]].
 
 ### Age (Youths & Elders)
 - PIE h2i̯u-Hen- ‘young man’ [278] (probably originally ‘having youthful vigor / life-force’)

@@ -1,0 +1,7 @@
+> [[durdevic]]. "Dead but Immortal: Mirrors, Death and Transformations in Han and Roman Empire". Article in [[iacm14]].
+
+> #nofreepdf 
+> #donthave 
+
+## Abstract
+> Mirrors in Qin – Han and Roman Empire had various roles based on the major usage as reflective surfaces. Some of the purposes included magic, social, political, religious, diplomatic and other functions. In this paper author discusses about mirrors and their relations with death and transformations that have been depicted on the decorative side of mirrors in both empires. Representations are designed from religion and mythology. As representative cases studies are chosen among others Roman mirrors with Dionysus, Venus and Chinese mirrors with immortals, Queen Mother of West and kui dragons. These decorative elements are used from Chinese myths of paradise (Mt. Kunlun where is palace of Queen Mother of West and meeting spot between gods and humans) and Greco-Roman mythology of Dionysus (re-birth or twice born) which is linked with death and transformations. Beside representations, mirrors are analyzed as metal (China, Rome) and glass (Rome) mediums which have symbolic usage of protection and longevity. Established on heterotopias (M. Foucault), synthesis (Ji Xianlin), archives (J. Derrida), actor – network theory (ANT), monumentality and double screen (Wu Hung) author analyzed Chinese and Roman mirrors as mediums with various mentioned representations in the social and functional purposes within his concept of reflection.

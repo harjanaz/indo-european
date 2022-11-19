@@ -1,3 +1,7 @@
+[[scholars]]
+
+---
+
 # Yuri Berezkin
 ## Folklore Catalogue Project
 [ruthenia.ru/foklore/berezkin](https://ruthenia.ru/folklore/berezkin)

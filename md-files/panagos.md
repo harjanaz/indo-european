@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# John E. Panagos

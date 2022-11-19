@@ -1,6 +1,6 @@
 [[priests]]
 # Magi
-[[ahmadi2015]] Ch 10 & 11
+[[ahmadi2015-th]] Ch 10 & 11
 ## Valknut Connections
 There is a possible [valknut](valknut.md) on the Franks Casket right next to the third Magi (i.e. Myrh, symbolizing death and ssacrifice)
 

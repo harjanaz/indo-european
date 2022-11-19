@@ -1,5 +1,14 @@
-[[n-smith1992]]
-[[b-reynolds-a-lange-e-meyers-r-styers2011eds]]
-[[m-quintela2018a]]
+## Biblio
+[[smith-n1992]]
+[[reynolds-lange-meyers-styers2011eds]]
+[[quintela2018a]]
+[[kehoe2012p12]]
+[[golab1991]]:104
 
-> Indo-European societies had, and still have, a strong proclivity for the magic number three. [...] Over against the magic number three, seen trivially in our frequent enu- meration of three items (every Tom, Dick, and Harry; bell, book, and candle; man, woman, and child; noun, verb, object; and so on) is the Indo-European belief in conflict and competition, which posits a duality of combatants—man against nature, men and women, master and slave, two by two. Christian theol- ogy incorporates both structures, p.12[[kehoe2012]]
+## Topics
+### Concepts
+[[concept-cyclicality-and-duality]]
+### Aetherial Gods
+- There were two kinds of Proto-Indo-Iranian aetherial gods: a violent wind one and a calm atmospheric one. See more at [[pii-wind-god]].
+### Time
+- The Coligny Calendar: Lunar and intercalary months, each divided into lucky and unlucky halves, demarcated by the abbreviations mat "good" or anm "not good"

@@ -1,4 +1,4 @@
-> [[dodge]]. "Overview of The Ontological Turn". MA Class Paper.
+> [Dodge, Erick](dodge.md). "Overview of The Ontological Turn". MA Class Paper.
 
 > [pdf](dodge2020-ontological.pdf)
 

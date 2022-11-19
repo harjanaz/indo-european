@@ -4,23 +4,21 @@
 
 # Dharmaśāstra & Dharmasūtra
 
-[[apastamba]] 600-300 BC
-[[gautama]] 600-200BC
-
-## Manu
-[[manusmriti-law-code-of-manu]]
-## Vishnu
-[[p-olivelle2009]]
-
-## Baudhayana
-[[p-olivelle1999]]
-## Vasiṣṭha
-[[p-olivelle1999]]
-
-## Misc.
-[[j-jolly1889]]
-[[l-rocher2012]]
+## Biblio
+[[ziegler2011]]
+[[jolly1889]]
+[[rocher2012]]
 [[olivelle-davis-do2018eds]]
+
+
+## Codes
+[[apastamba-dharmasutra]] 600-300 BC
+[[vishnu-dharmasutra]]
+[[manusmriti-law-code-of-manu]]
+[[apastambha-dharmasutra]]
+[[gautama-dharmasutra]]
+[[vasistha-dharmasutra]]
+[[baudhayana-dharmasutra]]
 
 ## External Links
 [Wikipedia](https://en.wikipedia.org/wiki/Dharma%C5%9B%C4%81stra)

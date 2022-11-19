@@ -5,4 +5,4 @@
 # Goði 
 
 ## External Links
-[[t-powers2019-11-15c]]
+[[powers-t2019-11-15-p]]

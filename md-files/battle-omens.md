@@ -1,4 +1,4 @@
-[[warband-koryos-comitatus-mannerbund]], [[omens]]
+[[koryos-warband-comitatus-mannerbund]], [[omens]]
 
 ---
 

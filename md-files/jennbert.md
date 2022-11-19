@@ -1,3 +1,3 @@
 # Kristina Jennbert
 ## Biblio
-[[andren-jennbert-raudvere2004eds]]
+[[andren-jennbert-raudvere2004]]

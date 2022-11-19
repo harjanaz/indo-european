@@ -1,0 +1,1 @@
+> [[mallory]]. "Speculations on the Xinjiang mummies". [*JIES*](jies-the-journal-of-indo-european-studies.md) 23, 371-384. 1995.

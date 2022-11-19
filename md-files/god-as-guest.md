@@ -11,7 +11,7 @@ Subform of [[god-in-disguise]] + [[hospitality-strangers]]
 - [Gods in Disguise](god-in-disguise) show up a lot in greek myth, but its subform of God as Beggar only shows up in a humanized for in the figure of Odysseus (who Athen disguises). His friends percieve his inner heroic attribues, despite appearing as a peasant, and extend the traditional courtesies of the honored guest to him. But the suitors fail to precieve him as a man protected by Athena.
 
 #### India
-- [[AV-9.6.3-7]]
+- {[[atharva-veda]]9.6.3-7}
 - A ***vrātya*** ("outcast, criminal" later "wild holy man") may actually be Shiva in desiguise [AV-15.11](https://www.sacred-texts.com/hin/av/av15011.htm). 
 - In the story of Vishvamitr, the legendary Harishchandra is force to sell himself into bondage of a lowly ugly man of the chandala cast named pravira, who--it is later revelaed--was actually the god Dharma is disguise.
 - Adi Shankara once gave way on the road to a chandala beggar with 4 dogs, who it turns out was actually Shiva and the 4 vedas.

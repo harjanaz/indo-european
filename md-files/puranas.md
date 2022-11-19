@@ -26,9 +26,7 @@ v=vaishna
 
 
 ## Trans.
-
-[[srimad-bhagavata-purana]]
-[[yuga-purana]]
+[[bhagavata-purana]]
 
 ## Scholarship
 [[k-bolle1963]]

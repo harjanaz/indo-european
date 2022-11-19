@@ -9,7 +9,7 @@
 [[graman]]
 [[hall-c]]
 ## Sources
-[[anthony2007-horse]]
-[[watkins1995]]
+[[anthony2007]]
+[[watkins1995-how]]
 [[woodard2013-myth]]
 [[anthony-et2016-bronze]]

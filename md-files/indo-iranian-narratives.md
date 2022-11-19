@@ -1,0 +1,3 @@
+[[narratives]]
+***
+[[narrative--bovine-lament]]

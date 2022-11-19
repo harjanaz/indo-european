@@ -1,4 +1,7 @@
 # Rice Library Service Center
+
+[MORE LSC](https://onesearch.library.rice.edu/discovery/search?query=any,contains,comparative%20religion&tab=Everything&search_scope=MyInst_and_CI&vid=01RICE_INST:RICE&offset=0)
+
 - all of CB201.J68 JIES The Journal of Indo-European studies [permalink](https://onesearch.library.rice.edu/permalink/01RICE_INST/11atd6j/alma991027356149705251)
 v.1 Barcode : 31272700740184
 v.2 Barcode : 31272010487609

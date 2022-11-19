@@ -1,4 +1,4 @@
-[[horse-sacrifice]]
+[[pie-horse-sacrifice]]
 
 ---
 

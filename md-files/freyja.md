@@ -1,6 +1,6 @@
 [[beings]]
 [[beings-norse]]
-[[beings-female]]
+[[buck-2.24-female]]
 # Freyja (f.)
 - Sister of [[freyr]]
 
@@ -25,4 +25,4 @@ Greek Aphrodite
 
 
 ## External Links
-[[c-rolinson2019-9-19a]]
+[[rolinson2019-9-19-einu]]

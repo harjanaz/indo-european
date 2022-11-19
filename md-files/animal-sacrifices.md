@@ -3,14 +3,14 @@
 sacrificed | mari
 
 
-[[j-puhvel1978]]
+[[puhvel-j1978]]
 
 ## By Animal
 [[canid-sacrifice]] wolves and dogs
 [[rabbit-bunny-hares]]
 [[bovine-sacrifice]]
-[[horse-sacrifice]]
+[[pie-horse-sacrifice]]
 [[bird-sacrifice]]
 
 ## By Branch
-[[indo-iranian-animal-sacrifice]]
+[[pii-animal-sacrifice]]

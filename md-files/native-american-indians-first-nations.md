@@ -1,4 +1,4 @@
-[[laurasians]]
+[[laurasia]]
 
 ---
 

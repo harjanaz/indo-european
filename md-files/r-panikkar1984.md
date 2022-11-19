@@ -1,1 +1,1 @@
-> [[r-panikkar]]. "Yama—A Myth of the Primordial Man". in [[e-polome1984ed]].
+> [[panikkar]]. "Yama—A Myth of the Primordial Man". in [[polome1984ed]].

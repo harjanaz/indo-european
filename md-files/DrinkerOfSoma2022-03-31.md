@@ -1,0 +1,1 @@
+> [[DrinkerOfSoma]]. "On the North Caucasian Epos from the Lens of Comparative Indo-European Mythology". Article, part of [[DrinkerOfSoma-series-north]].

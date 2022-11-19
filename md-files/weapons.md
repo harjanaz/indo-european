@@ -1,15 +1,17 @@
-[[technology]]
-[[warband-koryos-comitatus-mannerbund]]
-# Weapons
+[[metals]]
+***
 
-[[m-huld1993]]
+> Poetics and terms
+[[buck-20.21-arms-weapons]]
+
+## By Weapon
 [[swords]]
+[[archery-bows-arrows]]
 
-## Kinds
-[[spears]]
-[[archery-bows]]
 
-[[swords]]
-[[daggers]]
-[[1.5.7 Thunderbolt, Lightning Strike]]
-[[hammers]]
+## Narratives
+[[bolt]]
+[[narrative--hero-slays-with-weapon]]
+
+## Religion
+[[cult-of-weapons]]

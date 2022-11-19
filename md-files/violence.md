@@ -1,7 +1,7 @@
+The page is for all things related to violence, aggression, and assault. It's opposite is [[buck-20.14-peace]].
 
-The page is for all things related to violence, aggression, and assault. It's opposite is [[non-violence]].
+See also [[buck-19.52-foe-enemy]]
 
 ## Forms
-- [[combat]] (i.e. war, battle, etc.)
-- [[sexual-assault]]
-- Culture, and especially power structures like [[ideologies]].
+`+` weapons/animals = [[buck-20-warfare-and-hunting]]
+`+` sex = [[buck-21.44-rape-violation]]

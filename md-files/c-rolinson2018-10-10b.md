@@ -1,1 +1,0 @@
-> [[rolinson]]. "Shailaputri – First of the NavaDurga". [blog](https://aryaakasha.com/2018/10/10/518/). Part of [[c-rolinson2018-2019navratri]].

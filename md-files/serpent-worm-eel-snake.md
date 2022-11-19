@@ -1,8 +1,10 @@
-[[beings]], [[monsters]], [[narrative-hero-slays-dragon]]
+[[beings]], [[monsters]], [[narrative-hero-slays-dragon]] | [[beings-negative]]
 
 ---
 
 As you can tell by the page title, this topic gets...*tangled*. I'll do some #cleanup  in the future.
+
+They have a [negative conotation](beings-negative.md), which can range from evil dragon to disease-causing worms.
 
 ## Etymology
 
@@ -26,25 +28,27 @@ As you can tell by the page title, this topic gets...*tangled*. I'll do some #cl
 ## Narratives
 [[narrative-hero-slays-giant-serpent]]
 
+## Poetics
+[[formulas--worms]]
 
 ## Scholarship
-[[b-slade2008]]
+[[slade2008]]
 [[y-berezkin2014a]]
-[[c-sterckx-g-oudaer2015]]
+[[sterckx-oudaer2015]]
 [[dhuy2016]]
 [[merceron2018]]
-[[c-rolinson2019-9-11]]
-[[c-rolinson2019-9-11]]
+[[rolinson2019-9-11]]
+[[rolinson2019-9-11]]
 
 ## By Branch
 ### Armenian
-[[vahagn]] vs [[vishap]]
+[[armenian-vahagn]] vs [[vishap]]
 
 ### Classical
 [[ogden2013-sourcebook]]
 
 ### Norse
-[[g-grierson1922]]
+[[grierson1922]]
 - One dragon, in the story of sigurd, was originally a human, and brother to another human who could change into an otter.
 
 ### Anglo Saxon
@@ -60,7 +64,7 @@ As you can tell by the page title, this topic gets...*tangled*. I'll do some #cl
 [[central-asian-snakes]]
 
 ## In the Bible
-[[b-batto1992]]
+[[batto1992]]
 
 
 ## Web Resources

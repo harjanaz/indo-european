@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Gerd Høst-Heyerdahl

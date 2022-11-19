@@ -1,7 +1,8 @@
 [[abrahamism]]
-# Islam
 
-[[g-lechler1937]]
+---
+
+[[lechler1937]]
 [[allen-n2018-khannas]]
 
 [[iranian-islam]]

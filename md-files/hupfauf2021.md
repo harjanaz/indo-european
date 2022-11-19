@@ -1,1 +1,2 @@
-> [[hupfauf]]. "Proto-Indo-European Religion". Chapter 1 in [[hupfauf-herzog-simek-aalto2021]].
+> [[hupfauf]]. "Proto-Indo-European Religion". Article in [[hupfauf-herzog-simek-aalto2021]].
+

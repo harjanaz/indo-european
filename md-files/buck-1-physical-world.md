@@ -6,7 +6,7 @@
 
 [LRC](https://lrc.la.utexas.edu/lex/semantic/category/PW)
 
-[[buck-1.1-world]]
+[[buck-1.1-world]] #finish
 
 [[buck-1.21-earth-land]]
 [[buck-1.212-ground-soil]]
@@ -25,7 +25,7 @@
 [[buck-1.3.3-lake-pond]]
 [[buck-1.3.4-gulf-vay]]
 [[buck-1.3.5-wave-surge]]
-[[buck-1.3.6-brrok-stream-river]]
+[[buck-1.3.6-brook-stream-river]]
 [[buck-1.3.7-spring-well]]
 
 [[buck-1.4.1-woods-forest]]
@@ -39,7 +39,7 @@
 [[buck-1.5.4-star]]
 [[buck-1.5.5-flash-lightning]]
 [[buck-1.5.6-noise-thunder]]
-[[buck-1.5.7-thunderbolt-lightning-strike]]
+[[buck-1-5-7-thunderbolt-lightning-strike]]
 
 [[buck-1.6.1-light]]
 [[buck-1.6.2-darkness]]

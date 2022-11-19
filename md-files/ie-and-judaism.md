@@ -2,5 +2,5 @@
 
 ---
 
-[[iranian-judaism]]
+[[iranic-judaic]]
 [[greek-judaism]]

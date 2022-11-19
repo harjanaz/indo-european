@@ -22,6 +22,7 @@ A good standard for cladistic nomenclature:  [[olander2019]]
 [[lusitanians]]
 
 ### Other Branches / Clades
+[[arthur]] (scythi-celto-romance)
 [[graeco-aryan]]
 [[the-west]]
 [[guanches]]

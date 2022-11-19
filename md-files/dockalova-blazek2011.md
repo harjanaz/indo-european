@@ -1,0 +1,4 @@
+> [[dockalova]]; [[blazek]]. "The Indo-European Year". *The Journal of Indo-European Studies*, Vol [39](jies-39-2011.md), Number 3 & 4, Fall/Winter 2011.
+
+## Abstract
+> In the present study the designations of “year” and its seasons are summarized in all Indo-European branches, analyzed from the point of view of their word-formation, internal reconstruction and etymology. For typological comparison the external parallels from language families in the neighborhood of Indo-European are surveyed. Some of these indicate which terms could be inherited from older stages of development of the Indo-European protolanguage and which represent innovation.

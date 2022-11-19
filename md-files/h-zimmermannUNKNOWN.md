@@ -1,1 +1,0 @@
-> [[h-zimmermann]]. "Männderbund und Totenkult: Methodologische und ideologische Grundlinien der Volks- und Altertums-kunde Otto Höflers 1933-1945". [pdf](a/h-zimmermannUNKNOWN.pdf)

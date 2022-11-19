@@ -1,0 +1,1 @@
+> [White, David Gordon](white-d.md). *Dæmons Are Forever: Contacts and Exchanges in the Eurasian Pandemonium*. [The University of Chicago Press](university-of-chicago-press.md), 2021.

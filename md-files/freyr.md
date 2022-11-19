@@ -1,6 +1,6 @@
 [[beings]]
 [[beings-norse]]
-[[beings-male]]
+[[buck-2.23-male]]
 # Freyr (m.)
 
 [[-heathernranter-2013-05-06]]

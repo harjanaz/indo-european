@@ -1,3 +1,0 @@
-[[pie-history]]
-
-# Celtic History

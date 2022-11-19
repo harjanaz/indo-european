@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Pierre Vidal-Naqeut

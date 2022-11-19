@@ -9,8 +9,8 @@
 - [Harvard Page](https://medieval.fas.harvard.edu/people/joseph-nagy)
 - [UCLA Page](https://english.ucla.edu/people-faculty/nagy-joseph-f/)
 
-`jfnagy (at) fas.harvard.edu`
+> `jfnagy (at) fas.harvard.edu`
 `jfnagy (at) humnet.ucla.edu`
 
 ## Supervised:
-[[page2014]]
+[[page2011]]

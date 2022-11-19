@@ -1,6 +1,5 @@
 [[greek-texts]]
-
----
-
-## External Links
-[[c-rolinson2019-8-18]]
+***
+## Biblio
+[[rite2021]]
+[[rolinson2019-8-18]]

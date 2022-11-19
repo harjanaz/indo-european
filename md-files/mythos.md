@@ -1,3 +1,3 @@
 [[narratives]]
 # Mythos
-[[lincoln1996]]
+[[lincoln-gendered]]

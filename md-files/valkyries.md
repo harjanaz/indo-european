@@ -1,6 +1,6 @@
 [[beings]]
-[[beings-female]]
-[[birds-flying-flight]]
+[[buck-2.24-female]]
+[[birds-flying-flight-wings]]
 
 [[winged-death-goddesses]]
 

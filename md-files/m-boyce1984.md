@@ -1,0 +1,1 @@
+Boyce, Mary (ed. and tr.). Textual Sources for the Study of Zoroastrianism. Chicago: University of Chicago Press, 1984.

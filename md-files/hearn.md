@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# William Edward Hearn

@@ -1,1 +1,1 @@
-> [[dumezil]]. *Naissance d'Archanges*.
+>[Dumézil, Georges](dumezil.md). *Naissance d'Archanges*.

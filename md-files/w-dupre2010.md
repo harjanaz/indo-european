@@ -1,3 +1,3 @@
 > ?
 
-Review of: [[e-barber-p-barber2004]]
+Review of: [[barber-e-barber-p2004]]

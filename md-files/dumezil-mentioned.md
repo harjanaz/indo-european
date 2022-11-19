@@ -1,4 +1,4 @@
 # These works reference [[dumezil]]
 
 
-Good overviews of his thought: [[c-littleton1973]] & [[belier1991]]
+Good overviews of his thought: [[littleton1973]] & [[belier1991]]

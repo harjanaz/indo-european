@@ -98,4 +98,4 @@ dyrr-gja?		"door-opening in the ground" The dead are located behind the door of 
 
 
 ## External Links
-[[c-rolinson2019-12-25]]
+[[rolinson2019-12-25]]

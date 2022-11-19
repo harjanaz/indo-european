@@ -1,3 +1,4 @@
-> [[pirart]]. *Georges Dumézil face aux Démons Iraniens*. 
+> [[pirart]]. *Georges Dumézil face aux Démons Iraniens*. #fill 
 
-> #nopdf 
+> #nofreepdf #nodoi 
+> #have 

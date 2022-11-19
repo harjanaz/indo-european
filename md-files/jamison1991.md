@@ -1,1 +1,3 @@
-> [[jamison]]. The Ravenous Hyenas and the Wounded Sun: Myth and Ritual in Ancient India. Ithaca, NY: Cornell University Press, 1991. [archive.org](https://archive.org/details/ravenoushyenaswo00jami), [pdf](jamison1991.pdf)
+> [[jamison]]. *The Ravenous Hyenas and the Wounded Sun: Myth and Ritual in Ancient India*. Book. Cornell University Press, 1991. 
+
+> [archive.org](https://archive.org/details/ravenoushyenaswo00jami) #have

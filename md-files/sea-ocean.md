@@ -1,5 +1,9 @@
 [[water]]
-See also [[sailing-ships]]
+
+---
+
+`+` [[transportation]] = [[sailing-ships]]
+
 # The Sea/Ocean
 [[(m-dexter1997b)]]
 [[m-nordvig2013]]
@@ -11,3 +15,6 @@ See also [[sailing-ships]]
 	- Lat. `neptūnus`
 	- OIr. `nechtan`
 	- Skt. `apā́m nápāt` "grandson of the waters"
+
+
+[[god-of-sea]]

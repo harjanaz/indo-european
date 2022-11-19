@@ -1,7 +1,7 @@
 [[art]]
 # Rock Art
 ## Theories
-[[f-gosso-p-webster2013]]
+[[gosso-webster2013]]
 ## Era
 
 [IE](rock-art-ie.md)
@@ -9,14 +9,14 @@
 
 
 ## Scholarship
-[[j-christensen1996]]
+[[christensen1996]]
 [[r-bradley2009]]
-[[f-coimbra2011c]]
-[[f-coimbra2013]]
+[[coimbra2011c]]
+[[coimbra2013]]
 
 ## Astronomical
-[[f-coimbra2009]]
+[[coimbra2009]]
 [[f-coimbra2011b]]
-[[f-coimbra2012a]]
-[[f-coimbra2017]]
-[[f-coimbra2019]]
+[[coimbra2012a]]
+[[coimbra2017]]
+[[coimbra2019]]

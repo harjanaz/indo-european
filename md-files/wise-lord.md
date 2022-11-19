@@ -1,8 +1,7 @@
-[[indo-iranian-deities]]
- 
----
- 
- # The Magic (`*māyā`) Knowing (`*mazdʰáH` ) Lord (`*Hásuras`)
+[[pii-gods]]
+***
+
+# THE MAGIC (`*māyā`) KNOWING (`*mazdʰáH` ) LORD (`*Hásuras`)
  
  
 ## Forms
@@ -16,4 +15,4 @@ Scholars use to see him as a sky god, and mistakenly linked Váruṇa with Greek
 	- **Wise/Knowledgeable**. Ahura Mazdā means literally "Knowing Lord" and Váruṇa is characterized as Skt. *medhira-* "knowing/wise" and *pracetā* "wise". What specific kind of knowledge is meant? Magic (Skt. māyā, Av. hu-māyā) that was used to create the world. 
 	
 ## Narratives
-[[narrative-indo-iranian-creation]]
+[[narrative-pii-creation]]

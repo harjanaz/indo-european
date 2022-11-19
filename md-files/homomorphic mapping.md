@@ -1,1 +1,1 @@
-[[sielicki-s-2017]]
+[[sielicki2017]]

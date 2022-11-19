@@ -1,1 +1,5 @@
+[[scholars]]
+
+---
+
 # Vladimir I. Bazaliiskii

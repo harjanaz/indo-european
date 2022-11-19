@@ -3,8 +3,9 @@
 > Article in: [[punske-sanders-fountain2020]]
 
 > [doi](http://doi.org/10.1093/oso/9780198829874.003.0012)
-> #nopdf 
-> #connect 
+> #link 
+
+#have | #rare | #blurry
 
 ## Keywords
 historical linguistics, Indo-European studies, classical language, video game, language immersion, active learning

@@ -3,5 +3,6 @@
 ---
 
 [[beings-iranian]]
-[[beings-celtic]]
+[[celtic-beings]]
 [[beings-germanic]]
+[[pii-beings]]

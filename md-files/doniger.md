@@ -1,2 +1,6 @@
+[[scholars]]
+
+***
+
 # Wendy Doniger O'Flaherty
-Uses "Doniger" as last name
+Uses "Doniger" as her academic last name

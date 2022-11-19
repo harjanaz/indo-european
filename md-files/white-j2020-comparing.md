@@ -1,4 +1,4 @@
-> [[white-j]]. "Comparing the Rig Veda, Prose Edda, and Yasna, Finding the Creation Myth of the Proto-Indo-Europeans". [YouTube](https://youtu.be/M26xaABOh3I). [mp4](white-j2020-09-10-comparing.mp4) #syncvault
+> [[white-j]]. "Comparing the Rig Veda, Prose Edda, and Yasna, Finding the Creation Myth of the Proto-Indo-Europeans". [YouTube](https://youtu.be/M26xaABOh3I). [mp4](white-j2020-09-10-comparing.mp4) have #archived
 
 ## Description
 

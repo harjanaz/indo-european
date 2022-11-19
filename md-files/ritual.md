@@ -2,6 +2,8 @@
 
 ---
 
+Often public
+
 ## Specific Rituals
 [[ritual-establish-ritual-livestock]]
 
@@ -24,9 +26,9 @@
 ## Biblio
 [[k-patton2009]]
 [[meulder2014]]
-[[b-sergent2016]]
+[[sergent2016]]
 [[kaliff2007]]
-[[i-bonewits2001]]
+[[bonewits2001]]
 [[r-woodard2006]]
 [[v-sadovski2009]]
 [[v-sadovski2018a]]
@@ -41,7 +43,7 @@ Private Ritual: https://www.saturniatellus.com/2018/05/1661/
 [[l-patton2005]]
 ## By Animal
 ### Bovine vs Horse Rituals
-[[c-sterckx2013]]
+[[sterckx2013]]
 
 ## Narratives About Ritual
 [[narrative-establish-ritual-lievstock]]

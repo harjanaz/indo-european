@@ -1,3 +1,3 @@
 # Cybele
 
-[[j-alvar2008]] [[isis]], [[mithra]], [salvation]]
+[[alvar2008]] [[isis]], [[mithra]], [salvation]]

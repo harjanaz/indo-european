@@ -1,3 +1,5 @@
+[[content-producers-and-practitioners]]
+***
 # Derek Lambert
 ## YouTube
 [Channel](https://www.youtube.com/channel/UCWVCimOe67LOfyi9PjUeGgA)
@@ -19,4 +21,4 @@ Venmo Derek-Lambert-9
 Cashapp rewiredaddiction
 
 ## Files
-#syncvault
+have #archived

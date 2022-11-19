@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Nicole E. Dreier

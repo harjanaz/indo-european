@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# H. W. Bailey

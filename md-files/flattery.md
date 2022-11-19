@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# David Stophlet Flattery

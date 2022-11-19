@@ -1,2 +1,2 @@
-[[o-wikander]]
+[[wikander-ola]]
 https://ulster.academia.edu/MaximFomin

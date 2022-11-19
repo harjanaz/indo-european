@@ -23,4 +23,4 @@
 [43:48](https://www.youtube.com/watch?v=xKPMeIojJVk&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=9&t=2628s) Putting all the clues together
 [45:30](https://www.youtube.com/watch?v=xKPMeIojJVk&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=9&t=2730s) In summary
 
-[[anthony2007-horse]]
+[[anthony2007]]

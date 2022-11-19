@@ -8,4 +8,4 @@ Towards an American Paganism: Deities by Ceisiwr Serith
 ## Appalachia
 [Folk](http://appalachianmagazine.com/category/history/legend-and-tall-tales/)
 
-[[c-lindahl2016]]
+[[lindahl2016]]

@@ -1,3 +1,7 @@
+[[scholars]]
+
+---
+
 # Stefan Arvidsson
 1968-
 

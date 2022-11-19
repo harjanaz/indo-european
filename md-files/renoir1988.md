@@ -1,5 +1,5 @@
 
-> [[renoir]]. “Oral-Formulaic Tradition and the Affective Interpretation of Early Germanic Verse”. in [[d-calder-t-christy1988eds]].
+> [[renoir]]. “Oral-Formulaic Tradition and the Affective Interpretation of Early Germanic Verse”. in [[calder-christy1988eds]].
 
 #nopdf 
 

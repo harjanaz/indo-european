@@ -1,1 +1,0 @@
-> [[r-north]]. "*Völuspá* and the Book of Revelation". [pdf](a/r-northUNKNOWN.pdf)

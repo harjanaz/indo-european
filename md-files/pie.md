@@ -8,10 +8,10 @@ The generally accepted idea, is that all the IEs came from the PIEs. Another is 
 ## Overviews
 [r/IndoEuropean](https://www.reddit.com/r/IndoEuropean)
 [[mallory-adams-d1997]]
-[[c-beckwith2009]]
+[[beckwith2009]]
 
 ## Main Pages
 [[pie-branches]]
 [[pie-history]]
 [[pie-lang]]
-[[culture]]
+[[pie-culture]]

@@ -1,4 +1,4 @@
-[[indo-iranian-religion]]
+[[pii-religion]]
 See also: [[vedic-homa-fire-ritual]]
 # Vedic
 [wiki](https://en.wikipedia.org/wiki/Historical-Vedic-religion)
@@ -12,16 +12,16 @@ See also: [[vedic-homa-fire-ritual]]
 ### Book Overviews
 [[a-macdonell1897]]
 [[keith1925]]
-[[r-panikkar1977]]
+[[panikkar1977]]
 [[m-witzel-s-jamison1992]]
 ### Article Overviews
-[[f-kuiper1975]] basic concepts
+[[kuiper1975]] basic concepts
 ## Misc.
 
-[[l-tilak1903]]
+[[tilak1903]]
 [[pike1930]]
-[[j-gonda1962]]
+[[gonda1962]]
 [[kuiper1991]]
-[[g-thompson1997]]
+[[thompson1997]]
 [[m-witzel2004]]
-[[c-anghelina2014]]
+[[anghelina2013]]

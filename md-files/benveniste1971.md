@@ -1,0 +1,1 @@
+> [[benveniste]]. "Don et échange dans le vocabulaire indo-européen," _L'Année sociologique_, 3e série, t. II, 1951, and reprinted in his Problèmes de linguistique générale, Paris, 1966, pp. 315-326; English translation by Mary Elizabeth Meek as _Problems in general linguistics_, Coral Gables, 1971.

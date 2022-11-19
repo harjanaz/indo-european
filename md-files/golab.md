@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Zbigniew Gołąb

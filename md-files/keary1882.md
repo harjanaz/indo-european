@@ -1,3 +1,3 @@
-> [[keary]]. *Outlines of Primitive Belief Among the Indo-European Races*.  Book.
+> [Keary, Charles](keary.md). *Outlines of Primitive Belief Among the Indo-European Races*. Charles Scribner's Sons, 1882.
 
-> [pdf](a/c-keary1882.pdf)
+> #have #nodoi #link 

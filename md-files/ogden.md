@@ -1,1 +1,3 @@
+[[scholars]]
+***
 # Daniel Ogden

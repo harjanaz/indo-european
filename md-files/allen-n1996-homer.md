@@ -1,0 +1,6 @@
+> [Allen, Nicholas J](allen-n). "Homer's Simile, Vyasa's Story". *Journal of Mediterranean Studies*, Vol. 6, No. 2:206-218, 1996.
+
+> #nodoi 
+
+## Abstract
+> The paper compares a passage from Homer’s *Odyssey* with a passage from the Sanskrit epic, the *Mahâbhârata*. Both narrate a journey undertaken by the central hero—respectively [Odysseus](odysseus.md) and [Arjuna](arjuna.md), whose mutual relationship has been explored in previous papers. Odysseus is travelling to Scheria, Arjuna to heaven. In both cases the journey starts and ends happily but includes an [ordeal](ordeals.md), which is split into two halves. In the Greek the ordeal is temporarily interrupted when the hero sights land, and his joy is described in a [simile](similes.md). In the Sanskrit the interruption consists in a brief episode involving the god Shiva and some seers. The paper argues that both journey stories derive from a single ‘proto-narrative’, and that in particular the Homeric simile derives from an episode resembling that in the Sanskrit.

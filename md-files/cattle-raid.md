@@ -1,0 +1,1 @@
+[[lincoln1976-cattle]] & [[walcot1979]]

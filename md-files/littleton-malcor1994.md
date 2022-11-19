@@ -1,7 +1,6 @@
-> from sycthia to camelot
+> [[littleton]]; [[malcor]]. *From Scythia to Camelot: A Radical Reassessment of the Legends of King Arthur, the Knights of the Round Table and the Holy Grail*. Routledge, 1994.
 
-> [pdf](a/littleton-malcor1994.pdf)
+> #nodoi #link
 
-#fill 
-
-Review: [[v-mair1999]]
+## Reviewed by
+[[mair1999]]

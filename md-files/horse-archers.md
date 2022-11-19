@@ -1,6 +1,6 @@
-[[horse-riding]], [[archery-bows]]
+[[horse-back-riding]], [[archery-bows-arrows]]
 
 ---
 
 ## External Links
-[[c-rolinson2019-8-18]]
+[[rolinson2019-8-18]]

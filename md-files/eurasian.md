@@ -3,9 +3,9 @@
 ---
 
 
-[[j-didier2009]]
+[[didier2009]]
 [[y-berezkin2010]]
-[[e-hernykh2017]]
+[[hernykh2017]]
 [[sergent2018]]
 
 ## Ymir & Auðhumla

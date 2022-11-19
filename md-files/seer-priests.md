@@ -1,6 +1,6 @@
-[[poets]], [[priests]]
+[[poets-bards]], [[priests]]
 
 ---
 
 ## By Branch
-[[indo-iranian-seer-priests]]
+[[pii-seer-priests]]

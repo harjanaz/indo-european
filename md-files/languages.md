@@ -1,4 +1,4 @@
-[[home]] | [[linguistics]]
+[[~home]] | [[linguistics]]
 
 ---
 

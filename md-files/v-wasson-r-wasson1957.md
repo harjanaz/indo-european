@@ -1,1 +1,1 @@
-> [[v-wasson]]; [[r-wasson]]. *Mushrooms Russian and History*. [vol1](a/v-wasson-r-wasson1957-1.pdf), [vol2](a/v-wasson-r-wasson1957-2.pdf)
+> [[v-wasson]]; [[wasson-r]]. *Mushrooms Russian and History*. [vol1](a/v-wasson-r-wasson1957-1.pdf), [vol2](a/v-wasson-r-wasson1957-2.pdf)

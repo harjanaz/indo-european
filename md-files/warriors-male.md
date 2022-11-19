@@ -1,6 +1,6 @@
 [Beings](beings.md)
 
-[Mortals](humans.md)
+[Mortals](buck-2.1-human-being.md)
 
 [Warrior-Kings](king-ruler-chief-leader-lord.md)
 
@@ -17,7 +17,7 @@
 [[warriors-female]]
 
 
-[[d-miller2000]]
+[[miller-d2000]]
 
 
 ## By Branch
@@ -54,5 +54,5 @@
 
 
 ## In Poetry (Epics, Song, Saga, etc.)
-[[b-miles2011]] Classical & Irish
+[[miles-b2011]] Classical & Irish
 [[nagy-g2005]]

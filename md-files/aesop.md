@@ -1,4 +1,4 @@
-[[latin-texts]] & [[greek-texts]]
+[[latin-texts-poetics]] & [[greek-texts]]
 
 # Aesop's Fables
 ## Scholarship

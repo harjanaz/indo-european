@@ -1,1 +1,0 @@
-> [[h-sichtermann]]. "Kerènyi’s humanistic approach to ancient religion". in [[e-polome1984ed]].

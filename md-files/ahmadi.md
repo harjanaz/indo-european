@@ -1,5 +1,3 @@
 [[scholars]]
-
----
-
-# Amir Ahmadi
+***
+> [Ahmadi, Amir](ahmadi.md).

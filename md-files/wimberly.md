@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Lowry C. Wimberly

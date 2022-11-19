@@ -1,2 +1,2 @@
 ## External Links
-[[rolinson-mythlingwar]]
+[[rolinson-series-mythlingwar]]

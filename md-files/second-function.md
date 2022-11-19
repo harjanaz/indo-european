@@ -25,5 +25,6 @@
 > The role of king in Indo-European societies was ambiguous in that the king controlled the military and enforced laws, but was himself subject to judicial decisions and bound to regard the welfare of the populace. Almost inevitably, kings overstepped the fragile balance. Indo-European mythology describes second-function (executive branch) heroes suffering from either a lust for power or fatal indecision. [...] Indo-European myths, brilliantly compared by George Dumézil, attribute fatal lapses from moral judgment to second-function figures—kings or war- rior heroes. Carried away by lust for power, they betray other lords or fero- ciously murder rivals; unmindful of marriage commitment or respect due a host’s wife or daughter, they seduce women; bedazzled by gold, they take bribes. p13[[kehoe2012]]
 
 
-## External Links
-[[c-rolinson2019-12-24]]e
+## Biblio
+[[rolinson2019-12-24]]e
+[[allen-n1999]]

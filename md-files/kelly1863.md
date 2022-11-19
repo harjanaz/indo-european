@@ -1,0 +1,3 @@
+> [[kelly]]. *Curiosities of Indo-European tradition and folk-lore*. [hathitrust1](https://catalog.hathitrust.org/Record/001286915), [hathitrust2](https://catalog.hathitrust.org/Record/006931610), [pdf](a/w-kelly1863.pdf)
+
+> The purpose of this book is to make known some of the most remarkable discoveries which have been achieved by the successors and countrymen of [Jacob Grimm](grimm-j.md)...

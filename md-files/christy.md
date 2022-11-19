@@ -1,0 +1,5 @@
+[[scholars]]
+
+---
+
+# Thomas Craig Christy

@@ -1,4 +1,4 @@
-[[animals]] [[mamals
+[[buck-3-animals]] [[mamals
 
 ---
 

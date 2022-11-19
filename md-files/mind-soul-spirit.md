@@ -1,4 +1,4 @@
-[[wind]] [[breath]]
+[[buck-1.72-wind-breeze]] [[breath]]
 # Soul
 
 - PIE `h₂u̯eh₁-` ("blow")
@@ -14,7 +14,7 @@
 
 
 - In RV 10.90.13, when the cosmos is made from the sacrificed Puruṣa, Vāyu is created from his breath. 
-- The Vedic word for “soul,” atman, is cognate with German atmen, “to breathe.” ***Is there a connection between the PIE [Winds](wind.md),  human breath, and the human soul.***
+- The Vedic word for “soul,” atman, is cognate with German atmen, “to breathe.” ***Is there a connection between the PIE [Winds](buck-1.72-wind-breeze.md),  human breath, and the human soul.***
 
 [[reincarnation-rebirth]], [[karma]]
 
@@ -31,3 +31,7 @@ Organocentrism (life breath) but no psychophysical dualism (mind/body)?
 ### Misc
 [[r-thapar1994]]
 
+
+## Concepts
+[[concept-mind-memory-song]]
+[[motif--soul-as-horse-or-chariot-rider]]

@@ -5,4 +5,4 @@
 ## Scholarship
 [[lincoln1981-1991-lord]]
 
-[[rolinson-dead]]
+[[rolinson-series-dead]]

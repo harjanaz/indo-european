@@ -5,5 +5,5 @@
 [[indic-killing]]
 
 Kill
-`+` monster = slay
 `+` unlawful `+` human = murder
+`+` lawful = eliminate +`+` foe/monster = slay

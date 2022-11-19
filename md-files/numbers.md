@@ -1,9 +1,9 @@
-[[culture]]
+[[pie-culture]]
 
 ---
 
 ## By Number
-[[one]] [[first]]
+[[one]] | [[first]]
 [[two]]
 [[three]]
 [[four]]
@@ -13,7 +13,7 @@
 [[eight]]
 [[nine]]
 [[ten]]
-[[one hundred]]
+[[hundred]]
 
 
 

@@ -1,12 +1,31 @@
-[[culture]] | [[religion]]
+[[pie-culture]] | [[religion]]
 
 ---
+[indo-european-connection.com](https://www.indo-european-connection.com/religion)
+[Wikipedia: PIE Society: Beliefs](https://en.wikipedia.org/wiki/Proto-Indo-European-society#Beliefs)
+[Wikipedia: PIE Myth](https://en.wikipedia.org/wiki/Proto-Indo-European_mythology)
+[Wikipedia (de): Indogermanische Religion](https://de.wikipedia.org/wiki/Indogermanische_Religion)
+
 
 > For poetics --> [[buck-22-religion-and-beliefs]]
 
-Short overview-articles of PIE religion include: [[york2013]]. Longer overview-books include: [[w-kelly1863]], [[m-muller1879]], [[lindsay1891]], [[m-staley1894]], and [[c-keary1878]]ch9.
+## Biblio
+Short overview-articles of PIE religion include: 
+[[serithIDK-what]]
+[[jandaIDK-religion]]
+[[york2013]]
+[[hupfauf2021]]
+Longer overview-books include: 
+[[kelly1863]]
+[[keary1878]]ch9
+[[m-muller1879]]
+[[lindsay1891]]
+[[staley1894]]
 
 ## By Branch
+[[dacian-religion]]
+[[illyrian-religion]]
+[[thracian-religion]]
 [[germanic-religion]]
 [[celtic-religion]]
 [[balto-slavic-religion]]
@@ -16,36 +35,26 @@ Short overview-articles of PIE religion include: [[york2013]]. Longer overview-b
 [[greek-religion]]
 
 ## Topics
-### Beings
-[[gods]]
-[[heavenly-people]]
-
-### Misc Topics
+[[beings]]
 [[faith-belief-trust]]
 [[religious-terms]]
-[[cosmos]]
+[[cosmos-cosmography]]
 [[beings]]
-	- [[humans]]
+	- [[buck-2.1-human-being]]
 [[symbols]]
 [[numbers]]
-[[eschatology]]
+[[eschatology-era]]
 [[sacredness-divinity]]
-[[flood]]
+[[flood-myth]]
 [[states-of-mind]]
 [[sacrifice-offerings]]
 [[fate]]
-[[sacred-drink]]
+[[The Sacred Cup & Drink]]
 [[divination]]
 [[symbols]]
 [[philosophy]]
 
-### The Sacred Cup & Drink
-[[cups-grail]], [[soma-cup]]
-[[sacred-drink]], [[soma]]
 
 
 
 ## Web Resources
-[indo-european-connection.com](https://www.indo-european-connection.com/religion)
-[Wikipedia: PIE Society: Beliefs](https://en.wikipedia.org/wiki/Proto-Indo-European-society#Beliefs)
-[Wikipedia: PIE Myth](https://en.wikipedia.org/wiki/Proto-Indo-European-mythology)

@@ -1,0 +1,5 @@
+[[scholars]]
+
+---
+
+# Quentin D. Atkinson

@@ -16,6 +16,10 @@ Lower	Dark	Night (nocturnal)	Night Sky God
 ## Misc
 [[parpola1985]]
 
+## Kinds
+[[metal-sky]]
+[[rock-sky]]
+
 ## Cosmography, Triple Layered
 [[fourtnet2019]]
 French dude also

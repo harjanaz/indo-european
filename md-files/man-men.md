@@ -1,4 +1,4 @@
-[[beings-male]] | [[humans]]
+[[buck-2.23-male]] | [[buck-2.1-human-being]]
 # Men
 
 - [[klein-et2017-20]] PIE Terms
@@ -13,7 +13,7 @@
 
 
 
-as sacrifice [[j-puhvel1978]]
+as sacrifice [[puhvel-j1978]]
 
 ## Web Resources
 https://www.indo-european-connection.com/words/man

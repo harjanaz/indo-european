@@ -1,1 +1,1 @@
-> [[r-ambrosini]]. " On The Wanderer and The Seafarer Once Again, but from a Numerological Point of View". in [[pearson1992ed]].
+> [[r-ambrosini]]. " On The Wanderer and The Seafarer Once Again, but from a Numerological Point of View". in [[pearson-r1992ed]].

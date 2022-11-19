@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Jeannine Davis-Kimball

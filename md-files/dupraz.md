@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Emmanuel Dupraz

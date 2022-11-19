@@ -1,1 +1,3 @@
+[[scholars]]
+***
 # Dean A. Miller

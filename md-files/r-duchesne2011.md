@@ -1,1 +1,0 @@
-[pdf](r-duchesne2011.pdf)

@@ -1,0 +1,6 @@
+[[scholars]]
+
+---
+
+# ? Currie
+#fix

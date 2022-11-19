@@ -1,0 +1,5 @@
+[[scholars]]
+
+---
+
+# Daniel G. Calder

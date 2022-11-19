@@ -3,4 +3,4 @@
 ---
 
 www.perso-indica.net
-[[agz]]
+[[blog-agz]]

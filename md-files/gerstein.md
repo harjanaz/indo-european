@@ -1,1 +1,3 @@
+[[scholars]]
+***
 # Mary R. Gerstein

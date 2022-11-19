@@ -1,7 +1,8 @@
 [[gods]]
-
----
-
-[[celtic-gods]]
-[[indic-gods]]
-[[germanic-gods]]
+***
+- [[germanic-gods]]
+- [[greek-gods]]
+- [[celtic-gods]]
+- [[pii-gods]]
+	- [[iranian-gods]]
+	- [[indic-gods]]

@@ -1,2 +1,2 @@
-[[d-gershenson1992]]
-[[g-oudaer2013]]
+[[gershenson1992]]
+[[oudaer2013]]

@@ -1,4 +1,4 @@
-[[birds]], [[death-decay]], [[combat]]
+[[birds]], [[death-decay]], [[buck-20-warfare-and-hunting]]
 
 ---
 

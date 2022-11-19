@@ -1,0 +1,6 @@
+> [[larsen]]. *Seeking Double: Tolkien and the Indo-European Divine Twins*. 
+
+> [dc.swosu.edu](https://dc.swosu.edu/mythlore/vol40/iss2/10) 
+
+## Abstract
+> The archetype of the Divine/Celestial/Heavenly Twins as described in Donald Ward’s 1968 _The Divine Twins: An Indo-European Myth in Germanic Tradition_ has been used to argue for Greco-Roman literary precedents for the sons of Elrond. However, the genesis of the mythological trope of the Divine Twins in Indo-European scholarship originated a century before, for example, in the work of Max Müller. This essay briefly reviews the history of the trope of the Divine Twins that was argued by some late 19th and early 20th century authors to exist within so-called Indo-European mythology before tracing parallels between the trope and nine sets of twins found within Tolkien’s works. While it will be demonstrated that the characteristics of the sons of Elrond (as well as Elrond himself and his twin brother Elros) do align with many identifiable aspects, there are many other interesting connections among less well-known twins in the legendarium and other writings.

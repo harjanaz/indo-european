@@ -1,0 +1,16 @@
+Source: [[rolinson2019-05-13]] #LEFTOFF
+## Breakdown of the Figure
+|HE WHO IS THE...|[Odin](odin.md)| [Shiva Mahadev](shiva.md)
+|-|-|-|
+Terrifying Lord of the Worlds | Yggr | Bhairava
+Roarer | Hrjóðr | Rudra
+Wielder of the [Three]Spear | GeirTyr | ShulaPani
+Wandering [Harrower] of the Storm Wind | Voden | Vayu-Vata
+with the Flaming Eye | Baleygr | a well-known Shaivite element
+accompanied by the Two Wolves | |
+accompanied by an armed force of [undead warriors](undead-warriors.md) | Einherjar | BhutaGana 
+Husband of the Mountain-Goddess | Faðmbyggvir Friggjar | UmaPataye 
+most Mighty of Deities 
+
+## Soteriology
+It also has further societal and devotional implications for the ‘soteriology’ of each pathway. Insofar as the highest honour for the pious in both cultures can be regarded as the demonstration over the course of one’s lifetime and in the manner of one’s death that you, too, are worthy to join the most esteemed ranks of the retinue of the Lord of the (Un)Dead [Draugrdrottin/Bhutenath] and ascend to a more fundamental (indeed – Feudal ! ) unity of purpose with the primarch-primogenitor Heavenly Father of our people(s).

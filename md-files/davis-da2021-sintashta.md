@@ -12,7 +12,7 @@
 [11:30](https://www.youtube.com/watch?v=hNdLXKtWg3A&t=690s) What happened to the Sintashta culture?
 
 ## Sources
-[[anthony2007-horse]]
+[[anthony2007]]
 [[drews2004-early]]
 [[rv]]
 [[wilkin-etal2021-dairying]]

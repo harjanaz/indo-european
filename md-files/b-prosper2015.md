@@ -1,1 +1,0 @@
-> "Celtic and Non-Celtic Divinities from Ancient Hispania: Power, Daylight, Fertility, Water Spirits and What They Can Tell Us about Indo-European Morphology". [pdf](a/b-prosper2015.pdf)

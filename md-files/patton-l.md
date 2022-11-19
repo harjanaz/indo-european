@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Laurie L. Patton

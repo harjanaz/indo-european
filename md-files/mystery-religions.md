@@ -4,8 +4,8 @@
 [[freemasonry]]
 
 ## Scholarship
-[[p-bonnechere2003]]
-[[j-bremmer2014b]]
+[[bonnechere2003]]
+[[bremmer2014-initiation]]
 
 
 ## Modern

@@ -1,4 +1,4 @@
-> [[white-j]]. "Sky Gods, Thunder Gods, and Dragons". [YouTube](https://youtu.be/6F0nXBOpRHU). [mp4](white-j2020-sky.mp4) #syncvault
+> [[white-j]]. "Sky Gods, Thunder Gods, and Dragons". [YouTube](https://youtu.be/6F0nXBOpRHU). [mp4](white-j2020-sky.mp4) have #archived
 
 ## Description
 [0:00](https://www.youtube.com/watch?v=6F0nXBOpRHU&list=PLru2Z4KGjAVIOyMEKaYcgIUrdOBHhuoBe&index=3&t=0s) Introduction

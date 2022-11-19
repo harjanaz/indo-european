@@ -1,1 +1,0 @@
-# Ann C. Gunter

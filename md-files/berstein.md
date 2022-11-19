@@ -1,1 +1,5 @@
+[[scholars]]
+
+---
+
 # Alan E Bernstein

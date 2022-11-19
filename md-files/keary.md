@@ -1,3 +1,5 @@
+[[scholars]]
+***
 # Charles Francis Keary
 
 ## External Links

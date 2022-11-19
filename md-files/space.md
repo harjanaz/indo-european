@@ -1,4 +1,4 @@
-[[cosmos]]
+[[cosmos-cosmography]]
 
 
 This page is for PIE cosmography.
@@ -41,16 +41,16 @@ Some things cross from one world to another:
 
 ## Tripartite
 [[koptev2010]]
-[[i-bonewits2006]]
-[[w-sayers2013]]
+[[bonewits2006]]
+[[sayers2013]]
 
 
 ## Misc.
 [[w-sayers2015]]
-[[e-lyle1982]]
+[[lyle1982]]
 [[fourtnet2019]]
 [[z-smitek1999]] Solvene
-[[d-eck1981]] crossing zones
+[[eck1981]] crossing zones
 
 # Worlds
 - The 3 worlds of the cosmos are held together via the [Axis Mundi](axis-mundi.md). Each world has its own:
@@ -66,7 +66,7 @@ Some things cross from one world to another:
 - God(s): [Sky Father](day-sky-father.md)
 ### Middle World (Earth)
 ### Lower World ("The Hidden Place")
-[Lower World](world-lower.md)
+[Lower World](world-3.md)
 - Time: Night
 - God: Night Sky God
 - Nor. ***Hel***

@@ -22,7 +22,7 @@
 [19:45](https://www.youtube.com/watch?v=8IUWvk4MuNw&t=1185s) The Meanings Behind Horned Helmets 
 [22:34](https://www.youtube.com/watch?v=8IUWvk4MuNw&t=1354s) Interconnectivity in the Bronze Age
 ## Sources
-[[kristiansen-larssonIDK]]
+[[kristiansen-larsson2005]]
 [[modlinger2020]]
 [[vandkildeIDK]]
 [[vandkildeIDK2]]

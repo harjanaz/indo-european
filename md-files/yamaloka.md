@@ -1,7 +1,7 @@
-[[pitrloka]] | [[indic-yama]]
+[[pitrloka]] | [[yama]]
 
 
 ---
 
-## External Links
-[[rolinson-dead]]
+## Biblio
+[[rolinson-series-dead]]

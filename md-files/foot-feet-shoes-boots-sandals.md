@@ -2,7 +2,7 @@
 
 ---
 
-[[c-oharris2007]]
+[[oharris2007]]
 
 
 ## Web Resources

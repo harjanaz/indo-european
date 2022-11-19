@@ -1,7 +1,7 @@
-[[latin-texts]]
+[[latin-texts-poetics]]
 
 # Seneca
 
 ## Trans.
-[[e-wilson2010]] 6 tragedies
+[[wilson2010]] 6 tragedies
 ## Scholarship

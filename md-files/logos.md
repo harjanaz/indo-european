@@ -1,3 +1,3 @@
 [[greek-texts]]
 # Logos
-[[lincoln1996]]
+[[lincoln-gendered]]

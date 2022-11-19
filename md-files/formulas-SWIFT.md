@@ -2,4 +2,4 @@
 
 ---
 
-[[formula-SWIFT-HORSES]]
+[[formula--SWIFT-HORSES]]

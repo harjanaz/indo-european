@@ -1,1 +1,3 @@
+[[scholars]]
+***
 # Arlo Griffiths

@@ -4,4 +4,4 @@ THAT COOL CELTIC TEXT
 
 ## Skaldic
 skaldskaparmal
-[[j-quinn1994]]
+[[quinn1994]]

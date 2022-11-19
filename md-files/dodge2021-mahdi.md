@@ -1,4 +1,4 @@
-> [[dodge]]. "Eschatological Appropriation: Mahdi’s Shifting Allegiances". MA Class Paper.
+> [Dodge, Erick](dodge.md). "Eschatological Appropriation: Mahdi’s Shifting Allegiances". Paper for MA class.
 
 > [pdf](a/dodge2021-mahdi.pdf)
 

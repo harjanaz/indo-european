@@ -1,1 +1,1 @@
-> [[v-adluri]]. "The Divine Androgyne: Crossing Gender and Breaking Hegemonies in the Ambā-Upākhyāna of the Mahābhārata". [academia](https://www.academia.edu/42070217/The-Divine-Androgyne), [pdf](a/v-adluri2016.pdf)
+> [[adluri]]. "The Divine Androgyne: Crossing Gender and Breaking Hegemonies in the Ambā-Upākhyāna of the Mahābhārata". [academia](https://www.academia.edu/42070217/The-Divine-Androgyne), [pdf](a/v-adluri2016.pdf)

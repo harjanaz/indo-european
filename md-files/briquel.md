@@ -1,0 +1,5 @@
+[[scholars]]
+
+---
+
+# Dominique Briquel

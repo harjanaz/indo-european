@@ -3,5 +3,5 @@
 ---
 
 [[italic-history]]
-[[italic-lang]]
+[[italic-lang]] (and [[italic-texts-poetics]])
 [[italic-culture]]

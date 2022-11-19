@@ -1,13 +1,8 @@
-> [[linduff]]; [[rubinson]] (eds). 
-> Book, collection of articles.
-> *Are all warriors male? Gender Roles on the Ancient Eurasian Steppe*.
-> Lanham, Md. : AltaMira Press
+> [[linduff]]; [[rubinson]] (eds). Book, collection of articles. *Are all warriors male? Gender Roles on the Ancient Eurasian Steppe*. Lanham, Md. : AltaMira Press
 
-> #nodoi
-> [PARTIAL pdf](a/linduff-rubinson2008.pdf) #nopdf 
-> #ocr
-
-https://rowman.com/ISBN/9780759110748/Are-All-Warriors-Male-Gender-Roles-on-the-Ancient-Eurasian-Steppe
+> [publisher](https://rowman.com/ISBN/9780759110748/Are-All-Warriors-Male-Gender-Roles-on-the-Ancient-Eurasian-Steppe)
+> [pdf](a/linduff-rubinson2008.pdf)
+> #link #split 
 
 ## Subject
 Social archaeology -- Eurasia

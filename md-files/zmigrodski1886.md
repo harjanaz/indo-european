@@ -1,8 +1,6 @@
-[[zmigrodski]]
+[[zmigrodski]]. *Die Mutter bei den Völkern des arischen Stammes: eine anthropologisch-historische Skizze als Beitrag zur Lösung der Frauenfrage*. Ackermann, 1886.
 
 > [pdf](a/zmigrodski1886.pdf)
 
-https://onesearch.library.rice.edu/permalink/01RICE_INST/11atd6j/alma991026835069705251
-
-
-https://www.science.org/doi/10.1126/science.ns-17.428.221-a
+## Reviews
+[[zmigrodski1886-review]]

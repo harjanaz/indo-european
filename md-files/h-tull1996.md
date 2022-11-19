@@ -1,1 +1,0 @@
-> [[h-tull]]. "The Killing That is Not Killing: Men, Cattle, and the Origins of Non-Violence (*Ahiṃsā*) in the Vedic Sacrifice". [pdf](a/h-tull1996.pdf)

@@ -1,1 +1,0 @@
-> [[j-nemeskeri]]; [[l-szathmary]]. "An Anthropological Evaluation of the IE Problem". in [[skomal-polome1987]].

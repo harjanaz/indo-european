@@ -1,4 +1,4 @@
-[[birds-flying-flight]]
+[[birds-flying-flight-wings]]
 # Eagles
 - PIE `*h₂er-en-` [349]
 

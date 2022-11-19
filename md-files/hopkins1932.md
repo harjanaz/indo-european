@@ -1,0 +1,1 @@
+> [[hopkins]]. _Indo-European `*Deiwos` and Related Words_. Linguistic Society of America, 1932.

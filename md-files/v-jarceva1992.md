@@ -1,1 +1,1 @@
-> [[v-jarceva]]. "The Problem of Existence of the Literary Language in Anglo-Saxon Britain". in [[pearson1992ed]].
+> [[v-jarceva]]. "The Problem of Existence of the Literary Language in Anglo-Saxon Britain". in [[pearson-r1992ed]].

@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Jacques Duchesne-Guillemin

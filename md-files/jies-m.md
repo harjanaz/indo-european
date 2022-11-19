@@ -1,4 +1,5 @@
-# [[journal-ies]] Monographs
+[jies](jies-the-journal-of-indo-european-studies.md)
+# *Journal of Indo-European Studies* Monographs
 
 |||
 |-|-|
@@ -7,20 +8,26 @@
 1 | [[p-friedrich1975]]
 2 | [[birnbaum1977]]
 3 | [[polome1982-homage]]
-4 | [[e-polome1984ed]]
+4 | [[polome1984ed]]
 5 | [[diebold1985]]
-6 | [[e-polome1989b]]
-7 | [[r-pearson1991]]
-8 | [[d-gershenson1992]]
-9 | [[pearson1992ed]]
-10 | [[j-salmons1993]]
-11 | [[telegin-mallory1994]]
-12 | [[f-schwink1994]]
-13 | [[b-drinka1995]]
+6 | [[polome1989-essays]]
+7 | [[pearson-r1991]]
+8 | [[gershenson1992]]
+9 | [[pearson-r1992ed]]
+10 | [[salmons1993]]
+11 | [[telegin-mallory1994-jies-m11]]
+12 | [[schwink1994]]
+13 | [[drinka1995]]
 14 | [[w-schmalstieg1995a]]
 15 | [[w-schmalstieg1995b]]
 16 | [[polome1996ed]]
 KEEP ADDING THE BELOW ONES
+
+22 | [[hegedus-michalove-ramer1997]]
+
+30 | [[polome-justus1999]]
+
+
 
 https://www.jies.org/DOCS/monoseries.html
 
@@ -50,8 +57,37 @@ Festschrift for Eric P. Hamp, Volume 1. JIES Monograph No. 23 (1997), by Douglas
 The Development of Verbal Reduplication in Indo-European. JIES Monograph No. 24 (1997), by Mary Niepokuj.
 Festschrift for Eric P. Hamp, Volume 2. JIES Monograph No. 25 (1997), by Douglas Q. Adams, ed.
 The Bronze Age and Early Iron Age Peoples of Eastern Central Asia. Volume 1: Archaeology, Migration and Nomadism, Linguistics; Volume 2: Genetics and Physical Anthropology. JIES Monograph No. 26 (1998), by Victor H. Mair, ed.
-Proceedings of the Seventh UCLA Indo-European Conference, Los Angeles, 1995. JIES Monograph No. 27 (1998), by Angela Della Volpe in collaboration with Edgar C. Polomé, eds.
-Proceedings of the Ninth UCLA Indo-European Conference, Los Angeles, May 23-24, 1997. JIES Monograph No. 28 (1998), by Karlene Jones-Bley, Angela Della Volpe, Miriam Robbins Dexter, & Martin E. Huld, eds.
+
+
+27 | [[weciec7]]
+28 | [[weciec9]]
+29 | 
+30 | 
+31 | 
+32 | 
+33 | 
+34 | 
+35 | [[weciec11]]
+36 | 
+37 | 
+38 | 
+39 | 
+40 | [[weciec12]]
+41 | 
+42 | 
+43 | 
+44 | [[weciec13]]
+45 | 
+46 | 
+47 | [[weciec14]]
+48 | 
+49 | [[weciec15]]
+50 | [[weciec16]]
+51 | 
+52 | [[weciec17]]
+53 | [[weciec18]]
+54 | [[weciec19]]
+
 On the Bifurcation and Repression Theories of Germanic and German. JIES Monograph No. 29 (1998), by Christopher M. Stevens.
 Language Change and Typological Variation: In Honor of Winfred P. Lehmann on the Occasion of His 83rd Birthday, Volume 1: Language Change and Phonology. JIES Monograph No. 30 (1999), by Edgar C. Polomé & Carol F. Justus, eds.
 Language Change and Typological Variation: In Honor of Winfred P. Lehmann on the Occasion of His 83rd Birthday, Volume 2: Grammatical Universals and Typology. JIES Monograph No. 31 (1999), by Carol F. Justus & Edgar C. Polomé, eds.

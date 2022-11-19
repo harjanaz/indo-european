@@ -1,4 +1,4 @@
-> [[ginevra]]. "Hermes and Prometheus in Scandinavia: Reconstructing Indo-European Myth and Ritual". Handout for [[conference-uppsala2020]]. 
+> [[ginevra]]. "Hermes and Prometheus in Scandinavia: Reconstructing Indo-European Myth and Ritual". Handout for [[uppsala2020]]. 
 
 > [academia.edu](https://www.academia.edu/44304200)
 > [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DD__PvkAAAAJ&alert_preview_top_rm=2&citation_for_view=DD__PvkAAAAJ:_FxGoFyzp5QC)

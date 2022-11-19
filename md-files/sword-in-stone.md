@@ -1,16 +1,16 @@
-[[swords]] | [[stones-rocks]]
-[[king-ruler-chief-leader-lord]] | [[arthurian]]
+[[buck-20.27-sword]] | [[stones-rocks]]
+[[king-ruler-chief-leader-lord]] | [[arthur]]
 
 ## Arthurian
 
-[[w-wentz1911]] ch5
+[[wentz1911]] ch5
 [[littleton-malcor1994]]
 [[p-thornhill2000]]
-[[l-malkova2002]]
+[[malkova2002]]
 [[gra-anderson2004]]
-[[l-malcor2008]]
-[[c-littleton2008]]
-[[c-littleton-l-malcor2008]]
-[[c-littleton2012]]
-[[l-malcor2012]]
+[[malcor2008]]
+[[littleton2008]]
+[[littleton-malcor2008]]
+[[littleton2012]]
+[[malcor2012]]
 

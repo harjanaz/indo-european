@@ -1,4 +1,4 @@
-> [[white-j]]. YouTube Video. "The Family Tree of Religion - Finding the Creation Myth of the proto Indo Europeans". [YouTube](https://youtu.be/CKrdBW6NecE). [mp4](white-j2020-family.mp4) #syncvault
+> [[white-j]]. YouTube Video. "The Family Tree of Religion - Finding the Creation Myth of the proto Indo Europeans". [YouTube](https://youtu.be/CKrdBW6NecE). [mp4](white-j2020-family.mp4) have #archived
 
 ## Description
 There is now an updated version of this video [here](https://www.youtube.com/watch?v=jskt2Y_FEU4&t=0s) ([[white-j2021-who]]).

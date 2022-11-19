@@ -1,4 +1,4 @@
-> [[dodge]]. "The Chants of Birds and Poet-Priests in the Vedic, Indo-Iranian, and Indo-European Traditions". MA Class Paper.
+> [Dodge, Erick](dodge.md). "The Chants of Birds and Poet-Priests in the Vedic, Indo-Iranian, and Indo-European Traditions". MA Class Paper.
 
 > [pdf](a/dodge2021-birds.pdf)
 
@@ -30,9 +30,9 @@ Bibliography
 [[watkins2011]]
 ### Primary (Edition/Translation)
 [[bundahišn]] ([[agostini-thrope2020]], [[anklesaria1956]])
-? ([[campbell1989]])
+? ([[campbell-d1989]])
 [[chandogya-upanishad]] ([[ganganatha1942]])
-[[rv]] ([[griffith1890]], [[jamison-brereton2014]])
+[[rv]] ([[griffith1890]], [[jamison-brereton2014-rigveda]])
 #finish 
 ### Secondary
 

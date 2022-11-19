@@ -1,37 +1,50 @@
 [[gods-germanic]]
+[[hermes]], [[gwydion]]
 
----
+***
 
-## General
+## Biblio
+[[schjodt2018-12-01]]
 [[kershaw1997-2000]]
 [[zavaroni2006]]
-[[d-dutton2015]]
+[[dutton2015]]
 [[k-patton2009]]
 [[m-meulder2016]]
-[[w-sayers2016]]
-[[j-rood2017]]
+[[sayers2016]]
+[[rood2017]]
 [[ginevra2020-odin]]
 [[grummond2006]]:53
+[[rolinson2019-8-16b]]
+[[rolinson2019-9-19-einu]]
+[[powers-t2019-11-15-m]] Hermes & Odin 
+[[rolinson-series-mythlingwar]]
+[[rolinson-series-cosmicorder]]
+[[rolinson2019-12-18]]
+[[rolinson2019-12-12]]
+[[rolinson2019-12-24]]
 
 
+## Topics
+### Narratives
+[[narrative-war-of-the-foundation]]
 
-
+# Chaos
 https://www.youtube.com/watch?v=g5YukRvc6J0
 
-## Names
+### Names
 [PG Wōðanaz](PG-wothanaz.md)
 AS Wōden
 
-## Aspects
-[[j-mcdonaldUNKNOWNa]] Eyes
+### Aspects
+[[mcdonald-jIDK-water]] Eyes
 [[wandering]]
 Rides [[sleipnir]]
 
 
 
-## "Spellcaster"
+### "Spellcaster"
    He is called "Spellcaster" (ON *Fjolnir*) in ch 17 of the saga of the Volsungs and (quoted from) in *Reginsmál* "[It] is of uncertain exact meaning but apparently formed from a root word that has associations with magical wisdom. (Crawford, 2017: 146.)
-## Runes
+### Runes
    "Brynhild attributes magical properties to them in chapter 20 of the Saga of the Volsungs, in lines borrowed from the poem *Sigdrífumál (Sigrdrigumal)* in the Poetic Edda. (Crawford, 2017: 144.)
   
    "There were all sorts
@@ -70,17 +83,17 @@ Rides [[sleipnir]]
    https://www.voluspa.org/volsung20.htm
    
    
-### "Queer"
+#### "Queer"
 [[franks2019]]
-## Eschatology & War Dead
+### Eschatology & War Dead
 [[hultgard2011]]
-## & Mithras
+### & Mithras
 [[kaliff-sundqvist2006]]
    
 
    
    
-   ## Óthinn
+   ### Óthinn
    
 
 	Sing.	Trans.
@@ -108,15 +121,6 @@ From the noun: ódr m.
 
 Rides Sleipnir
 
-## Narratives
-[[narrative-war-of-the-foundation]]
 
-## External Links
-[[c-rolinson2019-8-16b]]
-[[c-rolinson2019-9-19a]]
-[[t-powers2019-11-15b]] Hermes & Odin 
-[[rolinson-mythlingwar]]
-[[c-rolinson-cosmicorder]]
-[[rolinson2019-12-18]]
-[[c-rolinson2019-12-12]]
-[[c-rolinson2019-12-24]]
+## IE Elements
+Accompanied by Einherjar (i.e. [[undead-warriors]])

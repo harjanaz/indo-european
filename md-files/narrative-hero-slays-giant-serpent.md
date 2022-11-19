@@ -8,10 +8,10 @@
 - `PIE *Wágrō ʔógwhim gwhent` ("With the `*wágros` he killed the serpent")
 - `*(h₁e) gʷʰent h₁ógʷʰim` "(he) slew the serpent"
 
-[[watkins1995]]
-[[b-slade2008]]
-[[c-bozzone2017]]
-[[ivanov-vi-toporovUNKNOWN]] Storm God & Serpent
+[[watkins1995-how]]
+[[slade2008]]
+[[bozzone2017]]
+[[ivanov-vi-toporovIDK]] Storm God & Serpent
 
 ### "Split Serpent"
 [[slade2009]]

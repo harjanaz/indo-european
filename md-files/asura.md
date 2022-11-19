@@ -1,7 +1,11 @@
+[[pii-lords]]
+
+---
+
 # Asura
 - Indic
 - [Demon](demons.md)
-- Fight the [Pitaraḥ](pitrs.md) [[TS-4.2.1.1-2]] 
+- Fight the [Pitaraḥ](pitrs.md) [[ts4.2.1.1-2]] 
 
-## External Links
+## Biblio
 [[rolinson2019-12-18]]

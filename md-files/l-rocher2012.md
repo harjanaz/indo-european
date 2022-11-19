@@ -1,1 +1,0 @@
-> [[l-rocher]]. *Studies in Hindu Law and Dharmaśāstra*. Anthem Press, 2012. [pdf](a/l-rocher2012.pdf)

@@ -1,4 +1,5 @@
 [[homeric-hymn-to-hermes]]
+[[homeric-hymn-to-aphrodite]]
 
 ## Trans.
 `028360.pdf` misc. notes

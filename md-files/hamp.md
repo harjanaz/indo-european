@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Eric P. Hamp

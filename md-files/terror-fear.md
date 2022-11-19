@@ -10,7 +10,7 @@
 
 A [State of Mind](states-of-mind.md), the weakening of the warrior in battle.
 
-It's opposite: [Fury](rage-madnes-fury-mania.md)
+It's opposite: [Fury](rage-madnes-fury-mania-berserkir.md)
 
 #### Celtic
 
@@ -20,4 +20,4 @@ It's opposite: [Fury](rage-madnes-fury-mania.md)
 
 
 ## External Links
-[[c-rolinson2019-12-12]]
+[[rolinson2019-12-12]]

@@ -1,5 +1,4 @@
-> [[hendy]]. *The Modern Construction
-of Myth*. Indiana University Press, 2001. 
+> [Hendy, Andrew](hendy.md). *The Modern Construction of Myth*. Indiana University Press, 2001. 
 
 > #nopdf 
 

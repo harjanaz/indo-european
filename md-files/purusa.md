@@ -1,3 +1,3 @@
-[[twin-yemo]]
+[[twin]]
 
 [[p-lajoye2013]]

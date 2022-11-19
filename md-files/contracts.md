@@ -1,10 +1,10 @@
-[[culture]]
+[[pie-culture]]
 
 ---
 
 
 ## Associated Gods
-[[mitha-mitra]]
+[[pii-mitha-mitra]]
 
 ## Types
 [[handshake]]

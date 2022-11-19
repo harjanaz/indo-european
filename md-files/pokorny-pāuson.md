@@ -1,5 +1,5 @@
 Semantic Field(s):
-[[buck-22.12-god]]
+[[gods]]
 
 ---
 

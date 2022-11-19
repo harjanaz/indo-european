@@ -3,8 +3,8 @@
 
 ## Scholarship
 [[s-torjussen2014]] In Orphic Tablets
-[[j-mcdonaldUNKNOWNa]]
+[[mcdonald-jIDK-water]]
 
 ## External Links
 https://www.indo-european-connection.com/words/milk
-[[c-rolinson2019-12-28]]
+[[rolinson2019-12-28]]

@@ -43,7 +43,7 @@
 ### Secondary Sources
 [[beowulf]]
 [[garmonsway1968]]
-[[anthony2007-horse]]
+[[anthony2007]]
 [[lauer1869]] 
 [[pritchard1950]]
 [[lincoln1975-creation]]

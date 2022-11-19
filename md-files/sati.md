@@ -8,9 +8,9 @@
 
 ## External Links
 - https://en.wikipedia.org/wiki/Sati-(practice)
-[[c-rolinson2019-7-12]]
-[[c-rolinson2018-10-10a]]
-[[c-rolinson2018-10-10b]]
+[[rolinson2019-7-12]]
+[[rolinson2018-10-10-n]]
+[[rolinson2018-10-10-s]]
 [[rolinson2020-02-22]]
 [[rolinson2019-07-12]]
 [[rolinson2019-07-29]]

@@ -15,5 +15,5 @@ o "she is always depicted in company with horses, either riding sidesaddle on a 
 o "Irish and Welsh mythology contains a great deal of horse-symbolism: Macha, an Irish horse-goddess, outran the Ulster king's team in a race; and the Welsh Rhiannon had a close affinity with horses, and may herself have been a horse-goddess."
 
 
-Source: [[m-green1990]]
+Source: [[green-mi1990]]
 

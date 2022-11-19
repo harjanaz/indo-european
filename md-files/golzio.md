@@ -1,1 +1,3 @@
+[[scholars]]
+***
 # Karl-Heinz Golzio

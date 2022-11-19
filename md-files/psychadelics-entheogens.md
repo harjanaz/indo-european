@@ -4,14 +4,14 @@
 
 ## Scholarship
 [[health-medic-sick-ill-pain-disease]]
-[[r-wasson]] (all)
+[[wasson-r]] (all)
 
 ## Plants
 [[cannabis]]
 ## Drinks
-[[soma]]
+[[indic-soma]]
 ## Rock Art
-[[f-gosso-p-webster2013]]
+[[gosso-webster2013]]
 
 ## External Links
 [Wikipedia: Entheogen](https://en.wikipedia.org/wiki/Entheogen)

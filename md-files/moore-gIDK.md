@@ -1,0 +1,1 @@
+> [[moore-g]]. "Zoroastrianism". Harvard Theological Review. [pdf](a/g-mooreUNKNOWN.pdf)

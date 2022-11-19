@@ -1,1 +1,0 @@
-# Joseph C. Salmons

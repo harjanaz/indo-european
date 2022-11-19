@@ -1,1 +1,0 @@
-# Eric P. Hamp

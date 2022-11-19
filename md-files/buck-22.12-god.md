@@ -1,6 +1,5 @@
-[[buck-22-religion-and-beliefs]]
+-> [[buck-22.12-god]]
 
----
-
-[[pokorny-dei-1]]
-[[pokorny-pāuson]]
+[[beings]] | [[pie-religion]] | [[sacredness-divinity]]
+[[buck-22-religion-and-beliefs]] `+` [[beings]]
+***

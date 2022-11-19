@@ -12,7 +12,7 @@ A kind of (PIE?) [Terror](terror-fear.md)
 
 Was loaned into Old Norse as: *gjalti*
 
-- Could have been the name of a bird (See Forbes 1905p275), hence a connection with the idea that the [states of mind](states-of-mind.md) are often [birds](birds-flying-flight).
+- Could have been the name of a bird (See Forbes 1905p275), hence a connection with the idea that the [states of mind](states-of-mind.md) are often [birds](birds-flying-flight-wings.md).
 
 ---
 

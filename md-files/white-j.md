@@ -10,10 +10,10 @@
 ## YouTube
 [Channel](https://www.youtube.com/channel/UChhMB_J0kz8eBJECy4d5uSQ)
 
-> **Description**
+> **About the channel:**
 > The history and stories of the people, places, gods, and culture from the Neolithic to the early Middle Ages. Named after a town mentioned in the Anglo-Saxon Chronicles, a place where I grew up. We'll cover Old Norse and Vikings, heathenry, the many and various pagan religions, the Abrahamic religions such as Christianity (Xtians), Judaism and Islam. And also the proto-indo Europeans, the people who provide a common link between all of these.
 
-### PIE Series
+### PIE video series description:
 > People are aware of the religions across Eurasia, and some are aware of the proto-Indo-Europeans, but how do we know if they were linked. This is the journey into how we discovered how religions evolved, and where most of the world's religions now come from. 
 
 `01` [[white-j2020-family]]
@@ -36,4 +36,4 @@ Othe videos with MythVision Podcast:
 [[lambert-white-j2021-story]]
 
 ## Files
-#syncvault 
+have #archived some

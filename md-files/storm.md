@@ -1,0 +1,5 @@
+[[weather]]
+
+---
+
+`+` god = [[storm-god]]

@@ -1,8 +1,12 @@
+[[Howdy]]  (home page)
+[[scholars]]
+***
+
+> [Dodge, Erick](dodge.md).
+
 <p style=" margin-left: 20%; margin-right: 20%;text-align:center;font-family:monaco;text-size:20px;outline: black solid 1px">indo-european.wiki (at) outlook.com</p>
 
-![](publish/239875.jpg)
-
-Erick and his father @ Yellowstone
+![](publish/2093865.jpg)
 
 
 
@@ -11,7 +15,7 @@ From 2016 to 2020 I attended The Univeristy of Houston where I earned a Double B
 
 
 ## Works
-- *The Indo-European Wiki* <indo-european.wiki>
+- *The Indo-European Wiki* <indo-european.wiki> 4yrs of work and counting
 	- I include various personal comments, notes, connections, and ideas under the headers "[[dodge-commentary]]".
 - [[dodge2020-thesis]] BA Honors Thesis: *Orpheus, Odin, and the Indo-European Underworld: A Response to Bruce Lincoln's Article “Waters of Memory, Waters of Forgetfulness"* 
 - [[dodge2020-ontological]]
@@ -24,7 +28,7 @@ From 2016 to 2020 I attended The Univeristy of Houston where I earned a Double B
 
 ## Accounts
 [academia.edu](https://utexas.academia.edu/erickjdodge)
-[researchgate.net](https://www.researchgate.net/profile/Erick-Dodge2)
+[researchgate.net](https://www.researchgate.net/profile/Erick-Dodge)
 [ORC iD](https://orcid.org/0000-0002-2277-4045)
 [Google Scholar](https://scholar.google.com/citations?user=idbLXAkAAAAJ&hl=en)
 [Linkedin](https://www.linkedin.com/in/erick-james-dodge/)

@@ -1,3 +1,3 @@
 [[saints]]
 
-[[d-gricourt-d-hollard2018]]
+[[gricourt-hollard2018]]

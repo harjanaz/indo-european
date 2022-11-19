@@ -2,4 +2,4 @@
 # Grottasongr
 
 ## Trans.
-[[c-tolley2008]] + extensive intro notes and commentary
+[[tolley2008]] + extensive intro notes and commentary

@@ -16,29 +16,24 @@ Often this hero slays serpents (or dragons). Other times demons.
 
 [[hero-slays-demon]]
 
-## Scholarship
-[[l-willmsUNKNOWN]]
-[[j-fontenrose1959]]
-[[watkins1995]]
-[[c-anghelina2013]]
-[[d-seweryn2013]]
+## Biblio
+[[willms2018]]
+[[fontenrose1959]]
+[[watkins1995-how]]
+[[anghelina2013]]
+[[seweryn2013]]
 [[petrosyan2017]]
-[[o-wikander2017a]]
-[[o-wikander2017b]]
-
-
-
-
-## Other
+[[wikander-ola2017-from]]
+[[wikander-ola2017-unburning]]
+[[campbell1911]]
+[[rolinson-series-mythlingwar]]
+[[rolinson2019-12-18]]
+[[rolinson2019-07-29]]
+[[vaz2000]] Cinderella
 
 
 
 ## Non-IE Parallels (Bible, etc.)
 
-The Near East had its [own](narrative-neareastern-hero-slays-monster) hero-slays monster myth. It interacted with the IE one with the coming of Christianity. See [[st-george]]
+The Near East had its [own](narrative--neareastern-hero-slays-monster.md) hero-slays monster myth. It interacted with the IE world during the development Christianity. See [[st-george]]
 
-
-## External Links
-[[rolinson-mythlingwar]]
-[[rolinson2019-12-18]]
-[[rolinson2019-07-29]]

@@ -13,7 +13,7 @@
 [[dardic-branch]]
 
 ## Scholarship
-[[m-witzel2001]]
+[[witzel2001-autochthonous]]
 [[chatterji1968]]
 
 

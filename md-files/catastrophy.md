@@ -3,4 +3,4 @@
 [[laoupi2006]]
 
 ## By Type
-- [[flood]]
+- [[flood-myth]]

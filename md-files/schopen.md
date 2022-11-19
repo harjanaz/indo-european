@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Gregory Schopen

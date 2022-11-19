@@ -3,4 +3,4 @@
 ---
 
 ## Trans.
-[[j-darmesteter1880]]
+[[darmesteter1880]]

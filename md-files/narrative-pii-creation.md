@@ -1,0 +1,3 @@
+[[pii-religion]]
+
+> `*`The [Wise Lord](wise-lord.md) used [Magic](magic.md) to create the world. He did so in stages (6-7). The most important stage was when he created [cattle](bovines.md). He only created the essence of things, the actual formation is left up to another deity, [The Shaper](the-shaper.md). The Shaper forms all things, especially domestic animals, and especially cattle. Even the Shaper's efforts are only part of the process of creation, its fulfillment required the first two men and ox. The Wise Lord creates spiritually, The Shaper physically, and The first men/ox complete it: [[narrative--first-sacrifice]] (this last part is found in all of the PIE tradition, not just Indo-Iranian)

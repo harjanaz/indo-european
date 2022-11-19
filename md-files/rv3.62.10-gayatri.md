@@ -1,17 +1,11 @@
 [[rv]]
 
 ---
-
-tat savitur vareṇyaṃ
+(oṃ bhūr bhuvaḥ svaḥ)
+tat savitur vareṇiyaṃ
 bhargo devasya dhīmahi
 dhiyo yo naḥ pracodayāt
 
-
-## Gayatri Mantra
-oṃ bhūr bhuvaḥ svaḥ
-tat savitur vareṇyaṃ
-bhargo devasya dhīmahi
-dhiyo yo naḥ pracodayāt
 
 ## External Links
 [Wikipedia](https://en.wikipedia.org/wiki/Gayatri-Mantra)

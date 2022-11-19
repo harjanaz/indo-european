@@ -3,13 +3,16 @@ See also [[evolution-inovation-development-mutation]]
 borders, mixed-gods, liminalityy, etc.
 
 
+[[interpretatio]]
+
+
 [[syncretism-conversion-isation]]
 
 
 [[pinchard2011]]
 [[y-berezkin2015]]
-[[e-hernykh2017]]
+[[hernykh2017]]
 
 
 ## External Links
-[[c-rolinson2019-9-19a]]
+[[rolinson2019-9-19-einu]]

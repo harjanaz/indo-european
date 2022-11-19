@@ -6,4 +6,4 @@
 
 [[hiltebeitel1980]] Cows
 
-[[d-knipe1967]]
+[[knipe1967]]

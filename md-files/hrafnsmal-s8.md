@@ -2,7 +2,7 @@
 
 [Texts](languages)
 
-[Icelandic](texts-germanic)
+[Icelandic](germanic-texts.md)
 
 [Old Norse](texts-icelandic-old-norse)
 

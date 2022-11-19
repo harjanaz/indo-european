@@ -1,1 +1,5 @@
+[[scholars]]
+
+---
+
 # V. R. Curtis

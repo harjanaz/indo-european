@@ -2,8 +2,8 @@
 
 ---
 
-[[j-davisUNKNOWN]]
+[[davis-jIDK]]
 
 
 ## External Links
-[[c-rolinson2019-8-18]]
+[[rolinson2019-8-18]]

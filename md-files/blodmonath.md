@@ -1,4 +1,4 @@
-[[year-calendar]]
+[[year-calendar-holidays-festivals]]
 # Blodmonath (AS Nov.)
 Modern month: November
 

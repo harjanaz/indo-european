@@ -1,7 +1,7 @@
 # Algirdas Julien Greimas
 
 [wikipedia](https://en.wikipedia.org/wiki/Algirdas-Julien-Greimas)
-
+#cool 
 ## External Links
 [Wikipedia](https://en.wikipedia.org/wiki/Algirdas-Julien-Greimas)
 https://www.lituanus.org/1990-3/90-3-02.htm

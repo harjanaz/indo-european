@@ -1,4 +1,4 @@
 [[trifunctional-sacrifice-threefold-death]]
 # Hanging
 
-[[d-dutton2015]]
+[[dutton2015]]

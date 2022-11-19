@@ -1,1 +1,3 @@
+[[scholars]]
+***
 # William Reginald Halliday

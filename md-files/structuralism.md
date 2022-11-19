@@ -1,24 +1,24 @@
 ## Structuralists
 [[v-propp]]
-[[f-saussure]]
+[[saussure]]
 [[dumezil]]
-[[c-levi-strauss]]
+[[levi-strauss]]
 [[greimas]]
 [[n-frye]]
 
 
 ## Misc.
 [[burkert1979]]
-[[h-yamada2019]]
+[[yamada2019]]
 
 ## In IE Studies
-Via [[f-saussure]] and [[dumezil]] IE studies got sociological "structuralism". But the discipline also has explicit [[c-levi-strauss]]-influenced structuralism:
+Via [[saussure]] and [[dumezil]] IE studies got sociological "structuralism". But the discipline also has explicit [[levi-strauss]]-influenced structuralism:
 
 [[littleton1969]]
-[[e-haugen1972]]  
+[[haugen1972]]  
 [[oosten1985]]
 [[lyle]] 
-[[allen-nUNKNOWNc]]
+[[allen-n-idk-hinduism]]
 
 
 

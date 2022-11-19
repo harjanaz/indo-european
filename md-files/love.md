@@ -15,3 +15,6 @@
 - **Kama**, hindu god of desire, a handsome youth who makes people fall in love by shooting flowery arrows at them.
 
 - **Cupid**
+
+
+[[god-of-love]]

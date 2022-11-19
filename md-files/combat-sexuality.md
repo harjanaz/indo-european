@@ -1,0 +1,1 @@
+- ...the Horned Gods of the Brigantes of northern Britain, who appear as ithyphallic warrior-gods, thus linking sexual vigor with military aggression. [[green-mi1990]]

@@ -1,4 +1,4 @@
-[[dacians]], [[ie-religions]]
+[[dacians]], [[pie-religion]]
 
 ---
 

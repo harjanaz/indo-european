@@ -1,0 +1,5 @@
+[[scholars]]
+
+---
+
+# David A. Utz

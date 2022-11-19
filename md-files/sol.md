@@ -1,5 +1,4 @@
 [[sun]]
-# Lat. Sol
-<iframe width="100%" height="350" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://en.wikipedia.org/wiki/Sol-(Roman-mythology)"></iframe>
-
-[wiki](https://en.wikipedia.org/wiki/Sol-(Roman-mythology))
+***
+# Roman Sol
+[Wikipedia](https://en.wikipedia.org/wiki/Sol_(Roman_mythology))

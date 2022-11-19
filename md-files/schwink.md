@@ -1,0 +1,3 @@
+[[scholars]]
+***
+# Frederick W. Schwink

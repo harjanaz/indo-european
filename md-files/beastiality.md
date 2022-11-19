@@ -1,6 +1,11 @@
-Celtic white horse with King
-Horse phallus in Veda with Queen
+[[sexuality]] + [[buck-3-animals]]
 
-Both royal rituals
+---
+
+
+- Celtic white horse with King
+- Horse phallus in Veda with Queen
+
+Both royal rituals (of consecration?)
 
 #finish 

@@ -1,4 +1,4 @@
-[[animals]], [[shepherd-guardian]]
+[[buck-3-animals]], [[shepherd-god]]
 
 ---
 
@@ -10,7 +10,7 @@
 [[buck-3.29-lamb]]
 
 
-[[j-puhvel1978]]
+[[puhvel-j1978]]
 
 ## Web Resources
 

@@ -1,9 +1,16 @@
 [[indic-deities]]
 
-## Scholarship
-[[w-doniger1973]]
-[[w-doniger1980b]]
+## Biblio
+[[doniger1973]]
+[[doniger1980b]]
 [[kershaw1997-2000]]p351
+[[danielou1979]]
+
+## Ritual
+[[phallic-idols]]
+
+## Characteristics
+- Three eyes, [[three-eyed-god]]
 
 
 ## Festivals
@@ -17,9 +24,13 @@
 - [The Bringer Of Shocking Enlightenment](https://aryaakasha.com/2019/08/07/the-bringer-of-shocking-enlightenment/)
 [[rolinson2020-02-22]]
 [[rolinson2019-8-25]]
-[[c-rolinson2019-9-19a]]
+[[rolinson2019-9-19-einu]]
 [[c-rolinson2019-9-19b]]
 [[rolinson2019-11-30]]
 [[rolinson2019-12-2]]
-[[c-rolinson2019-08-07]]
-[[c-rolinson-cosmicorder]]
+[[rolinson2019-08-07]]
+[[rolinson-series-cosmicorder]]
+
+
+## IE Elements
+Accompanied by BhutaGana (i.e. [[undead-warriors]])

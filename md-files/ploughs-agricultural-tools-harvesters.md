@@ -1,4 +1,4 @@
-[[technology]] | [[ie-earth-mother]]
+[[technology]] | [[earth-mother]]
 
 ---
 

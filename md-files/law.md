@@ -10,17 +10,16 @@
 - PIE `*i̯eu̯-s` ("law, what is (up)right" Lat. *iūs*)
 - It was handed down orally from generation to generation.
 
-
-[[oath-taking-rituals]]
-
-[[ritual-law]]
-
-### By Branch
+## By Branch
 [[italic-law]]
 [[celtic-law]]
 [[indic-law]]
 [[anatolian-law]]
 [[iranic-law]]
+## By Topic
+[[oath-taking-rituals]]
+[[ritual-law]]
+[[abortion]]
 
-## External Links
-[[c-rolinson-cosmicorder]]
+## Biblio
+[[rolinson-series-cosmicorder]]

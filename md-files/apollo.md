@@ -1,5 +1,5 @@
 ## Biblio
-[[d-gershenson1992]]
+[[gershenson1992]]
 [[merceron2018]] Apollo & Lugh
 [[muscianisi2020-06-11]] poetics
 

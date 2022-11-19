@@ -1,11 +1,8 @@
-> [[fortunato]]; [[jordan]]. 
-> "Your place or mine? A phylogenetic comparative analysis of marital residence in Indo-European and Austronesian societies". 
-> Article in [[journal-ptrsb]]v365i1559.
+> [[fortunato]]; [[jordan]]. "Your place or mine? A phylogenetic comparative analysis of marital residence in Indo-European and Austronesian societies". Article in [[journal-ptrsb]]v365i1559.
 
 > [doi](https://doi.org/10.1098/rstb.2010.0017)
-> [pdf](a/ #nopdf 
 
-#idk
+#donthave
 
 
 ## Abstract

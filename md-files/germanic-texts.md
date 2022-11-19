@@ -1,20 +1,13 @@
 
 [[germanic-lang]]
 # Germanic Texts
-[Icelandic](texts-germanic)  
-[Nibelungenlied](nibelungenlied.md)
-
+[[germanic-texts]]
+[[nibelungenlied]]
 [[rune-poems]]
-
-
-
-
 [[oera-linda-book]]
 
 ## By Branch
-- [[norse-texts]]
+[[norse-texts]]
 	- [[texts-modern-icelandic]]
 [[old-english-texts]]
 [[early-english-texts]]
-
-AS [[old-english-texts]]

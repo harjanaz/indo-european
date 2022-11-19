@@ -1,2 +1,2 @@
-[[hammer-hammers]]
-[[Thunder Weapon]]
+[[hammers]]
+[[bolt]]

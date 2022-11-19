@@ -1,7 +1,10 @@
+[[mountains]]
+***
 # Axis Mundi
 It:
 -  Vertically connects the [[space]].
--  Marks the horizontal center, the "navel" from which the [Cardinal Directions](cardinal-directions-maps) extend. This is also where the [watery nexus](nexus.md) lies.
+-  Marks the horizontal center, the "navel" from which the [Cardinal Directions](cardinal-directions.md) extend. This is also where the [watery nexus](nexus.md) lies.
+-  Links [[worlds]] together
 
 ## Forms
 [[fire-as-axis-mundi]]

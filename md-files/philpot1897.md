@@ -1,0 +1,1 @@
+> [[philpot]]. *The Sacred Tree: or The Tree in Religion and Myth*. Macmillan and Co, 1897.

@@ -7,6 +7,9 @@
 [[liburnian-personal-names]]
 
 
+## Biblio
+[[taylor-c2014-naming]]
+
 #### Greek
 - Old Greek Hēródotos (Herodot) ("Given by Hera")
 

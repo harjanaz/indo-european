@@ -11,7 +11,7 @@
 [[p-skjaervo2011]] misc.
 
 ## Bundahišn
-[[d-agostini2017a]] trans 34
+[[agostini2017a]] trans 34
 [[agostini2017-apocalypse]] comments on 33:17-28
 [[agostini-thrope2020]]
 
@@ -22,7 +22,7 @@
 [[p-skjaervo2007]] trans.
 
 ## Khordeh Avestā
-[[e-kanga2013]] trans. parsed
+[[kanga2013]] trans. parsed
 
 ## Vendidad
 [[darmesteter1898]] trans.
@@ -34,7 +34,7 @@
 [[jong1997]] trans.
 ## Middle Persian
 ## Forgein Influences
-[[d-agostini2016b]] Greek vocab in Pahlavi texts
+[[agostini2016b]] Greek vocab in Pahlavi texts
 ## ?
 "https://www.onelittleangel.com/sacred/books/avesta.asp?id-category=0&id-courant=0&id-author=0&id-livre=8&id-page=0&the-event=sacred-books&id-quote=&font=12
 

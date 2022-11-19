@@ -1,1 +1,0 @@
-> [[r-wasson]]; [[s-kramrisch]]; [[j-ott]]; [[c-ruck]]. *Persephone's Quest: Entheogens and the Origins of Religion*. [pdf](a/r-wasson-s-kramrisch-j-ott-c-ruck1986.pdf)

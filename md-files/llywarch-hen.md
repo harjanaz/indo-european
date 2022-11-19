@@ -1,5 +1,5 @@
 [[celtic-texts]]
-
-# Poetry of LLywarch Hen
+***
+# (poet) LLywarch Hen
 ## Trans.
 [[ford1974-poetry]]

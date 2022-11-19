@@ -1,1 +1,0 @@
-> [[j-brooke]]; [[h-misa]]. "Earth, Water, Air, and Fire: Toward an Ecological History of Premodern Inner Eurasia". *Oxford Research Encylopedia of Asian History*. [doi](https://doi-org.ezproxy.lib.utexas.edu/10.1093/acrefore/9780190277727.013.285), [pdf](a/j-brooke-h-misa2020.pdf).

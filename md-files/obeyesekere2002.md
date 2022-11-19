@@ -1,0 +1,1 @@
+> [[obeyesekere]]. *Imagining Karma: Ethical Transformation in Amerindian, Buddhist, and Greek Rebirth*. University of California Press, 2002. [pdf](a/g-obeyesekere2002.pdf)

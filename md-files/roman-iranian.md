@@ -2,4 +2,4 @@
 
 ---
 
-[[b-dignas-e-winter2007]] Rome & Persia
+[[dignas-winter-e2007]] Rome & Persia

@@ -1,12 +1,13 @@
+[[pii-indra]]
+
+[Wikipedia](https://en.wikipedia.org/wiki/Indra)
+
 ## Scholarship
-[[c-anghelina2013]]
+[[anghelina2013]]
 [[n-allenUNKNOWNb]]
 
 
 
-## IE Parallel Figures
-PIE [[thunder-lightning]]
-Ger. [[thor]]
 
 ## Narratives
 [[narrative-establish-ritual-lievstock]] ([[ginevra2020-hermes]])
@@ -44,7 +45,7 @@ Ger. [[thor]]
 - Soma is the "Work of Men" 53.10, 54.8, 55.5
 
 #### Soma
-- He is extremely fond of drinking [Soma](soma.md). Indeed, [RV 8.2.4](RV-8.2.4.md) suggests that he was the only drinker of soma among gods and mortals.
+- He is extremely fond of drinking [Soma](indic-soma.md). Indeed, [RV 8.2.4](RV-8.2.4.md) suggests that he was the only drinker of soma among gods and mortals.
 - He rode a chariot drawn by bay horses [RV 3.35](RV-3.35.md)
 
 #### War
@@ -62,13 +63,13 @@ Ger. [[thor]]
 - He is know as 帝釈天 in Japan via Buddhism
 
 ### Other
-[[n-allen2010]]
+[[allen-n2010]]
 [[p-vasudeo2014]]
 [[burkert1979]]
 
 ## External Links
-[[c-rolinson2019-9-16]]
-[[c-rolinson2019-9-19a]]
+[[rolinson2019-9-16]]
+[[rolinson2019-9-19-einu]]
 [[rolinson2019-11-14]]
-[[rolinson-mythlingwar]]
+[[rolinson-series-mythlingwar]]
 [[rolinson2019-12-18]]

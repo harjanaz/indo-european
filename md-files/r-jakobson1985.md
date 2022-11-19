@@ -1,1 +1,0 @@
-> Jakobson, Roman. Slavic Gods and Demons. In Roman Jakobson: Selected Writings. Vol. VII: Contributions to Comparative Mythology. Studies in Linguistics and Philology. (1972). ed. Stephen Rudy. New York: Mouton Publishers, 1985, 3-11.

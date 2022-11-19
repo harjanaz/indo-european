@@ -1,0 +1,1 @@
+Along with [sheep](pii-sheep-sacrifice.md), could be substitutes for cattle (the Iranians called them Pahl. *gōspand* "beneficent cattle").

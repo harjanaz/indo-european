@@ -5,7 +5,7 @@
 [LRC](https://lrc.la.utexas.edu/lex/semantic/category/RB)
 
 [[buck-22.11-religion]] .
-[[buck-22.12-god]] .
+[[gods]] . (`+` [[beings]])
 [[buck-22.13-temple]]
 [[buck-22.14-altar]]
 [[buck-22.15-sacrifice-offering]]

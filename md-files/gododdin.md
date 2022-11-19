@@ -6,18 +6,17 @@ My Translation
 
 I
 Man's mettle, 
-	youth's years.
+	youth's years,
 	fearless in the fray;
 Swift steed,
-	thick mane.
+	thick mane,
 	under bright lad's legs;
 Blue blade,
 	broad shield,
 	strapped along side;
-Shining spurs. 
-	fine furs.
+Shining spurs,
+	fine furs,
 	the twink doth ride.
-
 
 
 http://www.maryjones.us/ctexts/a01b.html

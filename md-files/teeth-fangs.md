@@ -1,3 +1,3 @@
-[[g-grierson1922]]
+[[grierson1922]]
 [[human-teeth]]
 [[serpent-fangs]]

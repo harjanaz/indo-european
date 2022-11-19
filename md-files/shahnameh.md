@@ -1,6 +1,9 @@
 [[iranic-texts]]
 
 # *Shāhnāmeh*
+
+## Biblio
+[[lewis-f2015]]: 328n24
 ## Translations
 [[a-warner-e-warner1905-1]]
 [h-zimmern](http://www.iranchamber.com/literature/shahnameh/shahnameh.php)

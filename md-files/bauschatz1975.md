@@ -1,0 +1,1 @@
+Bauschatz, Paul C. Urth's Well. Journal of Indo-European Studies 3:1 (Spring, 1975), pp. 53-86.

@@ -1,5 +1,9 @@
-[[c-anghelina2013]]
+[[pii-aryaman]]
 
-## External Links
-[[c-rolinson2019-12-28]]
+---
+
 [Wikipedia: Aryaman](https://en.wikipedia.org/wiki/Aryaman)
+
+## Biblio
+[[anghelina2013]]
+[[rolinson2019-12-28]]

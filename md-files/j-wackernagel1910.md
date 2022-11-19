@@ -1,1 +1,0 @@
-> [[j-wackernagel]]. "Indoiranica: Zum Dualdvandva". *Zeitschrift für vergleichende Sprachforschung* 43 (1910):295-98.

@@ -1,1 +1,1 @@
-errata of [[mallory-adams-d1997]]?
+> [[witczak]]. Errata for [[mallory-adams-d1997]].

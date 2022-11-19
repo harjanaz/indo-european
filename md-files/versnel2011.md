@@ -1,0 +1,1 @@
+> [[versnel]]. *Coping with the Gods: Wayward Readings in Greek Theology*. [pdf](a/h-versnel2011.pdf)
